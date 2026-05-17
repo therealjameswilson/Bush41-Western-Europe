@@ -15,6 +15,13 @@
       "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
       "foiaNumber": "2000-0429-F"
     },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": ["German unification", "NATO", "Western Europe"],
     "topics": ["German unification", "NATO", "Bilateral diplomacy"]
   },
   {
@@ -33,6 +40,13 @@
       "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
       "foiaNumber": "2000-0429-F"
     },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": ["German unification", "European security", "Western Europe"],
     "topics": ["German unification", "European security", "Bilateral diplomacy"]
   },
   {
@@ -51,6 +65,13 @@
       "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
       "foiaNumber": "2000-0429-F"
     },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": ["German unification", "Eastern Europe", "Western Europe"],
     "topics": ["German unification", "Eastern Europe", "Bilateral diplomacy"]
   }
 ]

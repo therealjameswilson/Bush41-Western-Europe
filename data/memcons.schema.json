@@ -12,6 +12,8 @@
     "releaseStatus",
     "naid",
     "catalogUrl",
+    "frusVolume",
+    "frusTopics",
     "source"
   ],
   "properties": {
@@ -71,6 +73,31 @@
         "foiaNumber": {
           "type": "string"
         }
+      }
+    },
+    "frusVolume": {
+      "type": "object",
+      "required": ["id", "title", "url", "status"],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "status": {
+          "type": "string"
+        }
+      }
+    },
+    "frusTopics": {
+      "type": "array",
+      "items": {
+        "type": "string"
       }
     },
     "topics": {
