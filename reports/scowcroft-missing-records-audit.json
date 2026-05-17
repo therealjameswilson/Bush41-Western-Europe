@@ -70,22 +70,6 @@
       ]
     },
     {
-      "id": "1992-03-21-366551682-33",
-      "date": "1992-03-21",
-      "type": "Memcon",
-      "title": "Meeting: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 17,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1992-03-21-bush-helmut-kohl-memcon-scowcroft.pdf",
-      "naid": "366551682",
-      "sourceFile": "41-bpr-scow-pcor-memcon-91109-007.pdf",
-      "sourcePages": [
-        33,
-        49
-      ]
-    },
-    {
       "id": "1992-04-02-366551682-57",
       "date": "1992-04-02",
       "type": "Memcon",
@@ -246,22 +230,6 @@
       ]
     },
     {
-      "id": "1989-01-23-366551686-7",
-      "date": "1989-01-23",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 2,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-01-23-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551686",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
-      "sourcePages": [
-        7,
-        8
-      ]
-    },
-    {
       "id": "1989-01-23-366551686-18",
       "date": "1989-01-23",
       "type": "Telcon",
@@ -342,22 +310,6 @@
       ]
     },
     {
-      "id": "1989-04-12-366551686-69",
-      "date": "1989-04-12",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 2,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-04-12-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551686",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
-      "sourcePages": [
-        69,
-        70
-      ]
-    },
-    {
       "id": "1989-04-17-366551686-78",
       "date": "1989-04-17",
       "type": "Telcon",
@@ -374,22 +326,6 @@
       ]
     },
     {
-      "id": "1989-04-21-366551686-81",
-      "date": "1989-04-21",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-04-21-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551686",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
-      "sourcePages": [
-        81,
-        83
-      ]
-    },
-    {
       "id": "1989-04-22-366551686-88",
       "date": "1989-04-22",
       "type": "Telcon",
@@ -403,22 +339,6 @@
       "sourcePages": [
         88,
         92
-      ]
-    },
-    {
-      "id": "1989-05-05-366551686-97",
-      "date": "1989-05-05",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-05-05-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551686",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
-      "sourcePages": [
-        97,
-        100
       ]
     },
     {
@@ -502,22 +422,6 @@
       ]
     },
     {
-      "id": "1989-06-07-366551687-49",
-      "date": "1989-06-07",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 2,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-06-07-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551687",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
-      "sourcePages": [
-        49,
-        50
-      ]
-    },
-    {
       "id": "1989-06-11-366551687-59",
       "date": "1989-06-11",
       "type": "Telcon",
@@ -534,22 +438,6 @@
       ]
     },
     {
-      "id": "1989-06-15-366551687-67",
-      "date": "1989-06-15",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 6,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-06-15-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551687",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
-      "sourcePages": [
-        67,
-        72
-      ]
-    },
-    {
       "id": "1989-08-02-366551688-15",
       "date": "1989-08-02",
       "type": "Telcon",
@@ -563,38 +451,6 @@
       "sourcePages": [
         15,
         17
-      ]
-    },
-    {
-      "id": "1989-08-03-366551688-29",
-      "date": "1989-08-03",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 2,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-08-03-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551688",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
-      "sourcePages": [
-        29,
-        30
-      ]
-    },
-    {
-      "id": "1989-09-05-366551688-59",
-      "date": "1989-09-05",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 2,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-09-05-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551688",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
-      "sourcePages": [
-        59,
-        60
       ]
     },
     {
@@ -659,38 +515,6 @@
       "sourcePages": [
         95,
         96
-      ]
-    },
-    {
-      "id": "1989-11-10-366551689-17",
-      "date": "1989-11-10",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-11-10-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551689",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
-      "sourcePages": [
-        17,
-        19
-      ]
-    },
-    {
-      "id": "1989-11-17-366551689-24",
-      "date": "1989-11-17",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-11-17-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551689",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
-      "sourcePages": [
-        24,
-        27
       ]
     },
     {
@@ -822,22 +646,6 @@
       ]
     },
     {
-      "id": "1989-11-29-366551689-77",
-      "date": "1989-11-29",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 5,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-11-29-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551689",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
-      "sourcePages": [
-        77,
-        81
-      ]
-    },
-    {
       "id": "1989-11-30-366551689-84",
       "date": "1989-11-30",
       "type": "Telcon",
@@ -886,22 +694,6 @@
       ]
     },
     {
-      "id": "1989-12-20-366551689-120",
-      "date": "1989-12-20",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1989-12-20-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551689",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
-      "sourcePages": [
-        120,
-        122
-      ]
-    },
-    {
       "id": "1990-01-04-366551690-9",
       "date": "1990-01-04",
       "type": "Telcon",
@@ -915,22 +707,6 @@
       "sourcePages": [
         9,
         10
-      ]
-    },
-    {
-      "id": "1990-01-26-366551690-19",
-      "date": "1990-01-26",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 5,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-01-26-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551690",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
-      "sourcePages": [
-        19,
-        23
       ]
     },
     {
@@ -1030,102 +806,6 @@
       ]
     },
     {
-      "id": "1990-03-15-366551690-102",
-      "date": "1990-03-15",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-03-15-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551690",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
-      "sourcePages": [
-        102,
-        105
-      ]
-    },
-    {
-      "id": "1990-03-20-366551691-13",
-      "date": "1990-03-20",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-03-20-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551691",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
-      "sourcePages": [
-        13,
-        16
-      ]
-    },
-    {
-      "id": "1990-03-23-366551691-21",
-      "date": "1990-03-23",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-03-23-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551691",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
-      "sourcePages": [
-        21,
-        24
-      ]
-    },
-    {
-      "id": "1990-05-30-366551691-71",
-      "date": "1990-05-30",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 5,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-05-30-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551691",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
-      "sourcePages": [
-        71,
-        75
-      ]
-    },
-    {
-      "id": "1990-06-01-366551691-77",
-      "date": "1990-06-01",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-06-01-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551691",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
-      "sourcePages": [
-        77,
-        80
-      ]
-    },
-    {
-      "id": "1990-06-03-366551691-81",
-      "date": "1990-06-03",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 2,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-06-03-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551691",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
-      "sourcePages": [
-        81,
-        82
-      ]
-    },
-    {
       "id": "1990-06-03-366551691-83",
       "date": "1990-06-03",
       "type": "Telcon",
@@ -1171,22 +851,6 @@
       "sourcePages": [
         26,
         27
-      ]
-    },
-    {
-      "id": "1990-07-17-366551692-30",
-      "date": "1990-07-17",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 5,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-07-17-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551692",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-007.pdf",
-      "sourcePages": [
-        30,
-        34
       ]
     },
     {
@@ -1318,22 +982,6 @@
       ]
     },
     {
-      "id": "1990-09-11-366551694-95",
-      "date": "1990-09-11",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 2,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-09-11-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551694",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-002.pdf",
-      "sourcePages": [
-        95,
-        96
-      ]
-    },
-    {
       "id": "1990-09-14-366551694-100",
       "date": "1990-09-14",
       "type": "Telcon",
@@ -1363,38 +1011,6 @@
       "sourcePages": [
         10,
         12
-      ]
-    },
-    {
-      "id": "1990-10-17-366551695-15",
-      "date": "1990-10-17",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-10-17-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551695",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
-      "sourcePages": [
-        15,
-        17
-      ]
-    },
-    {
-      "id": "1990-10-26-366551695-28",
-      "date": "1990-10-26",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-10-26-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551695",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
-      "sourcePages": [
-        28,
-        30
       ]
     },
     {
@@ -1430,22 +1046,6 @@
       ]
     },
     {
-      "id": "1990-11-11-366551695-47",
-      "date": "1990-11-11",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 1,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-11-11-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551695",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
-      "sourcePages": [
-        47,
-        47
-      ]
-    },
-    {
       "id": "1990-11-30-366551695-76",
       "date": "1990-11-30",
       "type": "Telcon",
@@ -1459,22 +1059,6 @@
       "sourcePages": [
         76,
         78
-      ]
-    },
-    {
-      "id": "1990-12-02-366551695-85",
-      "date": "1990-12-02",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1990-12-02-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551695",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
-      "sourcePages": [
-        85,
-        87
       ]
     },
     {
@@ -1574,22 +1158,6 @@
       ]
     },
     {
-      "id": "1991-01-16-366551696-52",
-      "date": "1991-01-16",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 2,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-01-16-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551696",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
-      "sourcePages": [
-        52,
-        53
-      ]
-    },
-    {
       "id": "1991-01-20-366551696-77",
       "date": "1991-01-20",
       "type": "Telcon",
@@ -1619,38 +1187,6 @@
       "sourcePages": [
         86,
         88
-      ]
-    },
-    {
-      "id": "1991-01-24-366551696-99",
-      "date": "1991-01-24",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-01-24-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551696",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
-      "sourcePages": [
-        99,
-        101
-      ]
-    },
-    {
-      "id": "1991-01-28-366551696-106",
-      "date": "1991-01-28",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-01-28-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551696",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
-      "sourcePages": [
-        106,
-        109
       ]
     },
     {
@@ -1686,38 +1222,6 @@
       ]
     },
     {
-      "id": "1991-02-18-366551697-97",
-      "date": "1991-02-18",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-02-18-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551697",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-005.pdf",
-      "sourcePages": [
-        97,
-        100
-      ]
-    },
-    {
-      "id": "1991-02-23-366551698-24",
-      "date": "1991-02-23",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-02-23-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551698",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-006.pdf",
-      "sourcePages": [
-        24,
-        26
-      ]
-    },
-    {
       "id": "1991-03-05-366551698-79",
       "date": "1991-03-05",
       "type": "Telcon",
@@ -1731,38 +1235,6 @@
       "sourcePages": [
         79,
         79
-      ]
-    },
-    {
-      "id": "1991-03-07-366551699-4",
-      "date": "1991-03-07",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-03-07-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551699",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
-      "sourcePages": [
-        4,
-        7
-      ]
-    },
-    {
-      "id": "1991-03-21-366551699-8",
-      "date": "1991-03-21",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 5,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551699",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
-      "sourcePages": [
-        8,
-        12
       ]
     },
     {
@@ -1814,54 +1286,6 @@
       ]
     },
     {
-      "id": "1991-04-25-366551699-70",
-      "date": "1991-04-25",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-04-25-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551699",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
-      "sourcePages": [
-        70,
-        72
-      ]
-    },
-    {
-      "id": "1991-06-24-366551700-80",
-      "date": "1991-06-24",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-06-24-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551700",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-008.pdf",
-      "sourcePages": [
-        80,
-        83
-      ]
-    },
-    {
-      "id": "1991-07-08-366551700-84",
-      "date": "1991-07-08",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 2,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-07-08-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551700",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91112-008.pdf",
-      "sourcePages": [
-        84,
-        85
-      ]
-    },
-    {
       "id": "1991-08-19-366551701-9",
       "date": "1991-08-19",
       "type": "Telcon",
@@ -1875,22 +1299,6 @@
       "sourcePages": [
         9,
         9
-      ]
-    },
-    {
-      "id": "1991-08-19-366551701-11",
-      "date": "1991-08-19",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 1,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-08-19-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551701",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
-      "sourcePages": [
-        11,
-        11
       ]
     },
     {
@@ -1942,38 +1350,6 @@
       ]
     },
     {
-      "id": "1991-08-26-366551701-63",
-      "date": "1991-08-26",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 4,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-08-26-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551701",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
-      "sourcePages": [
-        63,
-        66
-      ]
-    },
-    {
-      "id": "1991-08-27-366551701-74",
-      "date": "1991-08-27",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-08-27-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551701",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
-      "sourcePages": [
-        74,
-        76
-      ]
-    },
-    {
       "id": "1991-09-27-366551702-8",
       "date": "1991-09-27",
       "type": "Telcon",
@@ -2019,22 +1395,6 @@
       "sourcePages": [
         16,
         17
-      ]
-    },
-    {
-      "id": "1991-09-27-366551702-20",
-      "date": "1991-09-27",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 1,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-09-27-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551702",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
-      "sourcePages": [
-        20,
-        20
       ]
     },
     {
@@ -2099,22 +1459,6 @@
       "sourcePages": [
         112,
         117
-      ]
-    },
-    {
-      "id": "1991-12-14-366551702-122",
-      "date": "1991-12-14",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1991-12-14-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551702",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
-      "sourcePages": [
-        122,
-        124
       ]
     },
     {
@@ -2278,22 +1622,6 @@
       ]
     },
     {
-      "id": "1992-06-28-366551704-83",
-      "date": "1992-06-28",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1992-06-28-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551704",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
-      "sourcePages": [
-        83,
-        85
-      ]
-    },
-    {
       "id": "1992-06-28-366551704-86",
       "date": "1992-06-28",
       "type": "Telcon",
@@ -2342,22 +1670,6 @@
       ]
     },
     {
-      "id": "1992-10-14-366551705-56",
-      "date": "1992-10-14",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 3,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1992-10-14-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551705",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
-      "sourcePages": [
-        56,
-        58
-      ]
-    },
-    {
       "id": "1992-10-14-366551705-59",
       "date": "1992-10-14",
       "type": "Telcon",
@@ -2387,22 +1699,6 @@
       "sourcePages": [
         74,
         75
-      ]
-    },
-    {
-      "id": "1992-11-04-366551705-76",
-      "date": "1992-11-04",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Helmut Kohl",
-      "chapter": "Regional",
-      "pageCount": 1,
-      "provenancePages": 1,
-      "pdfUrl": "documents/regional/1992-11-04-bush-helmut-kohl-telcon-scowcroft.pdf",
-      "naid": "366551705",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
-      "sourcePages": [
-        76,
-        76
       ]
     },
     {
@@ -3133,6 +2429,625 @@
       "startPage": 58,
       "endPage": 60,
       "reason": "already-in-current-collection"
+    }
+  ],
+  "note": "German-leader Regional records were later excluded from this Western Europe volume because they belong in a separate FRUS Germany volume; additions below reflect records still active in the site data.",
+  "excludedByLaterGermanyRule": [
+    {
+      "date": "1992-03-21",
+      "type": "Memcon",
+      "title": "Meeting: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 17,
+      "pdfUrl": "documents/regional/1992-03-21-bush-helmut-kohl-memcon-scowcroft.pdf",
+      "naid": "366551682",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "sourcePages": [
+        33,
+        49
+      ]
+    },
+    {
+      "date": "1989-01-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-01-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        7,
+        8
+      ]
+    },
+    {
+      "date": "1989-04-12",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-04-12-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        69,
+        70
+      ]
+    },
+    {
+      "date": "1989-04-21",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1989-04-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        81,
+        83
+      ]
+    },
+    {
+      "date": "1989-05-05",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1989-05-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        97,
+        100
+      ]
+    },
+    {
+      "date": "1989-06-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-06-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551687",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "sourcePages": [
+        49,
+        50
+      ]
+    },
+    {
+      "date": "1989-06-15",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 6,
+      "pdfUrl": "documents/regional/1989-06-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551687",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "sourcePages": [
+        67,
+        72
+      ]
+    },
+    {
+      "date": "1989-08-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-08-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551688",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "sourcePages": [
+        29,
+        30
+      ]
+    },
+    {
+      "date": "1989-09-05",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-09-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551688",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "sourcePages": [
+        59,
+        60
+      ]
+    },
+    {
+      "date": "1989-11-10",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1989-11-10-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        17,
+        19
+      ]
+    },
+    {
+      "date": "1989-11-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1989-11-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        24,
+        27
+      ]
+    },
+    {
+      "date": "1989-11-29",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1989-11-29-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        77,
+        81
+      ]
+    },
+    {
+      "date": "1989-12-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1989-12-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        120,
+        122
+      ]
+    },
+    {
+      "date": "1990-01-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1990-01-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        19,
+        23
+      ]
+    },
+    {
+      "date": "1990-03-15",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1990-03-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        102,
+        105
+      ]
+    },
+    {
+      "date": "1990-03-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1990-03-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        13,
+        16
+      ]
+    },
+    {
+      "date": "1990-03-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1990-03-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        21,
+        24
+      ]
+    },
+    {
+      "date": "1990-05-30",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1990-05-30-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        71,
+        75
+      ]
+    },
+    {
+      "date": "1990-06-01",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1990-06-01-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        77,
+        80
+      ]
+    },
+    {
+      "date": "1990-06-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-06-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        81,
+        82
+      ]
+    },
+    {
+      "date": "1990-07-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1990-07-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551692",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "sourcePages": [
+        30,
+        34
+      ]
+    },
+    {
+      "date": "1990-09-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-09-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551694",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "sourcePages": [
+        95,
+        96
+      ]
+    },
+    {
+      "date": "1990-10-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1990-10-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        15,
+        17
+      ]
+    },
+    {
+      "date": "1990-10-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1990-10-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        28,
+        30
+      ]
+    },
+    {
+      "date": "1990-11-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "pdfUrl": "documents/regional/1990-11-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        47,
+        47
+      ]
+    },
+    {
+      "date": "1990-12-02",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1990-12-02-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        85,
+        87
+      ]
+    },
+    {
+      "date": "1991-01-16",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1991-01-16-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        52,
+        53
+      ]
+    },
+    {
+      "date": "1991-01-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-01-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        99,
+        101
+      ]
+    },
+    {
+      "date": "1991-01-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-01-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        106,
+        109
+      ]
+    },
+    {
+      "date": "1991-02-18",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-02-18-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551697",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "sourcePages": [
+        97,
+        100
+      ]
+    },
+    {
+      "date": "1991-02-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-02-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551698",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "sourcePages": [
+        24,
+        26
+      ]
+    },
+    {
+      "date": "1991-03-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-03-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551699",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "sourcePages": [
+        4,
+        7
+      ]
+    },
+    {
+      "date": "1991-03-21",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551699",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "sourcePages": [
+        8,
+        12
+      ]
+    },
+    {
+      "date": "1991-04-25",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-04-25-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551699",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "sourcePages": [
+        70,
+        72
+      ]
+    },
+    {
+      "date": "1991-06-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-06-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551700",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "sourcePages": [
+        80,
+        83
+      ]
+    },
+    {
+      "date": "1991-07-08",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1991-07-08-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551700",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "sourcePages": [
+        84,
+        85
+      ]
+    },
+    {
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "pdfUrl": "documents/regional/1991-08-19-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        11,
+        11
+      ]
+    },
+    {
+      "date": "1991-08-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-08-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        63,
+        66
+      ]
+    },
+    {
+      "date": "1991-08-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-08-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        74,
+        76
+      ]
+    },
+    {
+      "date": "1991-09-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "pdfUrl": "documents/regional/1991-09-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        20,
+        20
+      ]
+    },
+    {
+      "date": "1991-12-14",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-12-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        122,
+        124
+      ]
+    },
+    {
+      "date": "1992-06-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1992-06-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551704",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "sourcePages": [
+        83,
+        85
+      ]
+    },
+    {
+      "date": "1992-10-14",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1992-10-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551705",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "sourcePages": [
+        56,
+        58
+      ]
+    },
+    {
+      "date": "1992-11-04",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "pdfUrl": "documents/regional/1992-11-04-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551705",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "sourcePages": [
+        76,
+        76
+      ]
     }
   ]
 }

@@ -1,0 +1,991 @@
+{
+  "generatedAt": "2026-05-17T23:26:05.290Z",
+  "rationale": "Excluded Germany-specific Regional chapter memcons/telcons because Bush conversations with German leaders belong in a separate FRUS volume.",
+  "removedTotals": {
+    "records": 98,
+    "pages": 369,
+    "byChapter": {
+      "Regional": {
+        "records": 98,
+        "pages": 369
+      }
+    }
+  },
+  "resultingTotals": {
+    "records": 251,
+    "pages": 986,
+    "byChapter": {
+      "United Kingdom": {
+        "records": 50,
+        "pages": 199
+      },
+      "France": {
+        "records": 63,
+        "pages": 226
+      },
+      "Regional": {
+        "records": 114,
+        "pages": 458
+      },
+      "Italy": {
+        "records": 24,
+        "pages": 103
+      }
+    }
+  },
+  "localPdfsToRemove": [
+    "documents/regional/1989-01-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-04-12-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-04-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-05-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-06-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-06-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-08-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-09-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-10-23-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1989-10-25-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1989-11-10-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-11-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-11-29-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1989-12-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-01-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-02-13-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-03-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-03-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-03-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-04-05-bush-hans-dietrich-genscher-memcon.pdf",
+    "documents/regional/1990-05-30-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-06-01-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-06-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-06-12-bush-helmut-kohl-memcon.pdf",
+    "documents/regional/1990-07-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-08-22-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-08-23-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-08-30-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-09-06-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-09-10-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-09-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-09-12-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-09-13-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-10-03-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-10-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-10-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-11-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-12-02-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1990-12-17-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1990-12-31-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1991-01-16-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-01-22-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1991-01-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-01-26-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1991-01-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-02-18-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-02-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-03-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-03-21-bush-helmut-kohl-memcon.pdf",
+    "documents/regional/1991-03-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-04-16-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1991-04-18-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1991-04-25-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-06-24-bush-helmut-kohl-memcon.pdf",
+    "documents/regional/1991-06-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-07-08-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-08-19-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-08-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-08-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-09-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1991-11-26-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1991-12-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1992-03-21-bush-helmut-kohl-memcon-scowcroft.pdf",
+    "documents/regional/1992-03-31-bush-helmut-kohl-memcon.pdf",
+    "documents/regional/1992-05-06-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1992-06-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1992-09-28-bush-helmut-kohl-telcon.pdf",
+    "documents/regional/1992-10-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "documents/regional/1992-11-04-bush-helmut-kohl-telcon-scowcroft.pdf"
+  ],
+  "excludedRecords": [
+    {
+      "id": "1989-01-23-366551686-7",
+      "date": "1989-01-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-01-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-02-24-428079867",
+      "date": "1989-02-24",
+      "type": "Memcon",
+      "title": "President's Meeting with President Richard von Weizsaecker of the Federal Republic of Germany, February 24, 1989",
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-24--von-Weizsaecker.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1989-04-12-366551686-69",
+      "date": "1989-04-12",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-04-12-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-04-21-366551686-81",
+      "date": "1989-04-21",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1989-04-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-05-05-366551686-97",
+      "date": "1989-05-05",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1989-05-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-05-31-428080025",
+      "date": "1989-05-31",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany",
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-31--Kohl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1989-06-06-428080033",
+      "date": "1989-06-06",
+      "type": "Memcon",
+      "title": "The President's Meeting with Richard von Weizsaecker, President of the Federal Republic of Germany",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-06--von-Weizsaecker.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1989-06-07-366551687-49",
+      "date": "1989-06-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-06-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-06-15-366551687-67",
+      "date": "1989-06-15",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 6,
+      "pdfUrl": "documents/regional/1989-06-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-06-21-428080047",
+      "date": "1989-06-21",
+      "type": "Memcon",
+      "title": "The President's Meeting with Foreign Minister Hans-Dietrich Genscher of West Germany, June 21, 1989",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-21--Genscher.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1989-08-03-366551688-29",
+      "date": "1989-08-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-08-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-09-05-366551688-59",
+      "date": "1989-09-05",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-09-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-09-26-428080235",
+      "date": "1989-09-26",
+      "type": "Memcon",
+      "title": "Meeting with Theo Waigel, Chairman of the Christian Social Union of the Federal Republic of Germany",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-26--Waigel.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "local-1989-10-23-helmut-kohl-telcon",
+      "date": "1989-10-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1989-10-23-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "local-1989-10-25-helmut-kohl-telcon",
+      "date": "1989-10-25",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-10-25-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1989-11-10-366551689-17",
+      "date": "1989-11-10",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1989-11-10-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-11-17-366551689-24",
+      "date": "1989-11-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1989-11-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-11-21-428080327",
+      "date": "1989-11-21",
+      "type": "Memcon",
+      "title": "Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, November 21, 1989",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-11-21--Genscher.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1989-11-29-366551689-77",
+      "date": "1989-11-29",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1989-11-29-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1989-12-03-428080385",
+      "date": "1989-12-03",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany",
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-03--Kohl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1989-12-20-366551689-120",
+      "date": "1989-12-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1989-12-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-01-26-366551690-19",
+      "date": "1990-01-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1990-01-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "local-1990-02-13-helmut-kohl-telcon",
+      "date": "1990-02-13",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-02-13-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1990-02-24-428080541",
+      "date": "1990-02-24",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany",
+      "pageCount": 14,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-24--Kohl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1990-02-25-428080545",
+      "date": "1990-02-25",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany",
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-25--Kohl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1990-03-15-366551690-102",
+      "date": "1990-03-15",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1990-03-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-03-20-366551691-13",
+      "date": "1990-03-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1990-03-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-03-23-366551691-21",
+      "date": "1990-03-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1990-03-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-04-04-428080625",
+      "date": "1990-04-04",
+      "type": "Memcon",
+      "title": "Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, April 4, 1990",
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-04--Genscher.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "local-1990-04-05-hans-dietrich-genscher-memcon",
+      "date": "1990-04-05",
+      "type": "Memcon",
+      "title": "Meeting memorandum: President Bush and Hans-Dietrich Genscher",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-04-05-bush-hans-dietrich-genscher-memcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1990-05-17-428080695",
+      "date": "1990-05-17",
+      "type": "Memcon",
+      "title": "Meeting with Chancellor Kohl, Federal Republic of Germany (1 of 3)",
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-1.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1990-05-17-428080699",
+      "date": "1990-05-17",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-3.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1990-05-17-428080697",
+      "date": "1990-05-17",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990 (2 of 3)",
+      "pageCount": 9,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-2.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1990-05-24-428080703",
+      "date": "1990-05-24",
+      "type": "Memcon",
+      "title": "Meeting with Otto Graf Lambsdorff, Chairman of the Free Democratic Party of the Federal Republic of Germany (",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-24--Lambsdorff.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1990-05-30-366551691-71",
+      "date": "1990-05-30",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1990-05-30-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-06-01-366551691-77",
+      "date": "1990-06-01",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1990-06-01-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-06-03-366551691-81",
+      "date": "1990-06-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-06-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-06-08-428080743",
+      "date": "1990-06-08",
+      "type": "Memcon",
+      "title": "Meeting with Chancellor Helmut Kohl of the Federal Republic of Germany, June 8, 1990",
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-08--Kohl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1990-06-11-428080747",
+      "date": "1990-06-11",
+      "type": "Memcon",
+      "title": "Luncheon Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (2 of 2)",
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-2.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1990-06-11-428080745",
+      "date": "1990-06-11",
+      "type": "Memcon",
+      "title": "Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (1 of 2)",
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-1.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "local-1990-06-12-helmut-kohl-memcon",
+      "date": "1990-06-12",
+      "type": "Memcon",
+      "title": "Meeting memorandum: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-06-12-bush-helmut-kohl-memcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1990-07-09-428080825",
+      "date": "1990-07-09",
+      "type": "Memcon",
+      "title": "Bilateral Meeting with German Chancellor Helmut Kohl, July 9, 1990",
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Kohl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1990-07-17-366551692-30",
+      "date": "1990-07-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1990-07-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "local-1990-08-22-helmut-kohl-telcon",
+      "date": "1990-08-22",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1990-08-22-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "local-1990-08-23-helmut-kohl-telcon",
+      "date": "1990-08-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-08-23-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "local-1990-08-30-helmut-kohl-telcon",
+      "date": "1990-08-30",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-08-30-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "local-1990-09-06-helmut-kohl-telcon",
+      "date": "1990-09-06",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-09-06-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1990-09-07-428080977",
+      "date": "1990-09-07",
+      "type": "Memcon",
+      "title": "Meeting with Oskar Lafontaine, Chancellor-Candidate of the Social Democratic Party of Germany",
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-07--Lafontaine.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "local-1990-09-10-helmut-kohl-telcon",
+      "date": "1990-09-10",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-09-10-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1990-09-11-366551694-95",
+      "date": "1990-09-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-09-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "local-1990-09-12-helmut-kohl-telcon",
+      "date": "1990-09-12",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-09-12-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "local-1990-09-13-helmut-kohl-telcon",
+      "date": "1990-09-13",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-09-13-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "local-1990-10-03-helmut-kohl-telcon",
+      "date": "1990-10-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-10-03-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1990-10-17-366551695-15",
+      "date": "1990-10-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1990-10-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-10-26-366551695-28",
+      "date": "1990-10-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1990-10-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-11-11-366551695-47",
+      "date": "1990-11-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 1,
+      "pdfUrl": "documents/regional/1990-11-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1990-12-02-366551695-85",
+      "date": "1990-12-02",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1990-12-02-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "local-1990-12-17-helmut-kohl-telcon",
+      "date": "1990-12-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 8,
+      "pdfUrl": "documents/regional/1990-12-17-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "local-1990-12-31-helmut-kohl-telcon",
+      "date": "1990-12-31",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-12-31-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1991-01-16-366551696-52",
+      "date": "1991-01-16",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1991-01-16-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "local-1991-01-22-helmut-kohl-telcon",
+      "date": "1991-01-22",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1991-01-22-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1991-01-24-366551696-99",
+      "date": "1991-01-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-01-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "local-1991-01-26-helmut-kohl-telcon",
+      "date": "1991-01-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1991-01-26-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1991-01-28-366551696-106",
+      "date": "1991-01-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-01-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-02-18-366551697-97",
+      "date": "1991-02-18",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-02-18-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-02-23-366551698-24",
+      "date": "1991-02-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-02-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-03-01-428081523",
+      "date": "1991-03-01",
+      "type": "Memcon",
+      "title": "Meeting with Hans-Dietrich Genscher, Foreign Minister of Germany, March 1, 1991",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-01--Genscher.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1991-03-07-366551699-4",
+      "date": "1991-03-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-03-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-03-19-428081537",
+      "date": "1991-03-19",
+      "type": "Memcon",
+      "title": "Meeting with Governing Mayor Eberhard Diepgen of Berlin, Germany, March 19, 1991",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-19--Diepgen.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "local-1991-03-21-helmut-kohl-memcon",
+      "date": "1991-03-21",
+      "type": "Memcon",
+      "title": "Meeting memorandum: President Bush and Helmut Kohl",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-memcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1991-03-21-366551699-8",
+      "date": "1991-03-21",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 5,
+      "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-04-12-428081581",
+      "date": "1991-04-12",
+      "type": "Memcon",
+      "title": "Meeting with Defense Minister Gerhard Stoltenberg of Germany, April 12, 1991",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-04-12--Stoltenberg.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "local-1991-04-16-helmut-kohl-telcon",
+      "date": "1991-04-16",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-04-16-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "local-1991-04-18-helmut-kohl-telcon",
+      "date": "1991-04-18",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1991-04-18-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1991-04-25-366551699-70",
+      "date": "1991-04-25",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-04-25-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-05-20-428081647",
+      "date": "1991-05-20",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of Germany, May 20, 1991",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-20--Kohl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1991-05-21-428081673",
+      "date": "1991-05-21",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of Germany, May 21, 1991",
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-21--Kohl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "local-1991-06-24-helmut-kohl-memcon",
+      "date": "1991-06-24",
+      "type": "Memcon",
+      "title": "Meeting memorandum: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1991-06-24-bush-helmut-kohl-memcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1991-06-24-366551700-80",
+      "date": "1991-06-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-06-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-06-28-428081733",
+      "date": "1991-06-28",
+      "type": "Memcon",
+      "title": "Meeting with Bavarian Minister-President Max Streibl of Germany on June 28, 1991",
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-28--Streibl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1991-07-08-366551700-84",
+      "date": "1991-07-08",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1991-07-08-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-07-15-428081741",
+      "date": "1991-07-15",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of Germany on July 15, 1991",
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-15--Kohl.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1991-08-19-366551701-11",
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 1,
+      "pdfUrl": "documents/regional/1991-08-19-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-08-26-366551701-63",
+      "date": "1991-08-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 4,
+      "pdfUrl": "documents/regional/1991-08-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-08-27-366551701-74",
+      "date": "1991-08-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-08-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-09-16-428081883",
+      "date": "1991-09-16",
+      "type": "Memcon",
+      "title": "Expanded Meeting with Helmut Kohl, Chancellor of Germany, September 16, 1991 (2 of 2)",
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-16--Kohl-2.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1991-09-16-428081881",
+      "date": "1991-09-16",
+      "type": "Memcon",
+      "title": "Meeting with Helmut Kohl, Chancellor of Germany, September 16, 1991 (1 of 2)",
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-16--Kohl-1.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "1991-09-27-366551702-20",
+      "date": "1991-09-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 1,
+      "pdfUrl": "documents/regional/1991-09-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1991-10-03-428081933",
+      "date": "1991-10-03",
+      "type": "Memcon",
+      "title": "Meeting with Foreign Minister Hans-Dietrich Genscher of Germany, October 3, 1991",
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-03--Genscher.pdf",
+      "source": "FOIA 2000-0429-F finding aid"
+    },
+    {
+      "id": "local-1991-11-26-helmut-kohl-telcon",
+      "date": "1991-11-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1991-11-26-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1991-12-14-366551702-122",
+      "date": "1991-12-14",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1991-12-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1992-03-21-366551682-33",
+      "date": "1992-03-21",
+      "type": "Memcon",
+      "title": "Meeting: President Bush and Helmut Kohl",
+      "pageCount": 17,
+      "pdfUrl": "documents/regional/1992-03-21-bush-helmut-kohl-memcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "local-1992-03-31-helmut-kohl-memcon",
+      "date": "1992-03-31",
+      "type": "Memcon",
+      "title": "Meeting memorandum: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1992-03-31-bush-helmut-kohl-memcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "local-1992-05-06-helmut-kohl-telcon",
+      "date": "1992-05-06",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1992-05-06-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1992-06-28-366551704-83",
+      "date": "1992-06-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1992-06-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "local-1992-09-28-helmut-kohl-telcon",
+      "date": "1992-09-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1992-09-28-bush-helmut-kohl-telcon.pdf",
+      "source": "Local Bush memcons extractor output"
+    },
+    {
+      "id": "1992-10-14-366551705-56",
+      "date": "1992-10-14",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 3,
+      "pdfUrl": "documents/regional/1992-10-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    },
+    {
+      "id": "1992-11-04-366551705-76",
+      "date": "1992-11-04",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pageCount": 1,
+      "pdfUrl": "documents/regional/1992-11-04-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers"
+    }
+  ]
+}
