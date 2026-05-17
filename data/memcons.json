@@ -5623,6 +5623,51 @@
     "pageCount": 1
   },
   {
+    "id": "local-1990-02-13-helmut-kohl-telcon",
+    "date": "1990-02-13",
+    "sortDate": "1990-02-13",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "900213_BushANDKohl_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900213_BushANDKohl_Telcon",
+    "pdfUrl": "documents/regional/1990-02-13-bush-helmut-kohl-telcon.pdf",
+    "catalogUrl": "documents/regional/1990-02-13-bush-helmut-kohl-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Germany and German unification"
+    ],
+    "topics": [
+      "Western Europe",
+      "Germany and German unification"
+    ],
+    "pageCount": 164,
+    "localOriginalFile": "900213_BushANDKohl_Telcon.pdf",
+    "notes": "Manually reviewed oversized local packet and confirmed as a February 13, 1990 telephone conversation with Chancellor Helmut Kohl."
+  },
+  {
     "id": "1990-02-20-428080533",
     "date": "1990-02-20",
     "sortDate": "1990-02-20",
@@ -7523,6 +7568,51 @@
     "pageCount": 2,
     "localOriginalFile": "901231_BushANDKohl_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1991-01-11-felipe-gonzalez-telcon",
+    "date": "1991-01-11",
+    "sortDate": "1991-01-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "910116_BushANDGonzalez_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910116_BushANDGonzalez_Telcon",
+    "pdfUrl": "documents/regional/1991-01-11-bush-felipe-gonzalez-telcon.pdf",
+    "catalogUrl": "documents/regional/1991-01-11-bush-felipe-gonzalez-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Spain bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Spain bilateral relations"
+    ],
+    "pageCount": 101,
+    "localOriginalFile": "910116_BushANDGonzalez_Telcon.pdf",
+    "notes": "Manually reviewed oversized local packet. The extractor filename uses 910116, but the document title identifies the call as January 11, 1991."
   },
   {
     "id": "local-1991-01-21-felipe-gonzalez-telcon",

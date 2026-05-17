@@ -34,5 +34,33 @@
       "size": 46555773,
       "reason": "Held out because the local PDF is more than 75 pages and should be manually checked before publishing."
     }
-  ]
+  ],
+  "manuallyReviewedAfterPlanUpgrade": {
+    "added": [
+      {
+        "fileName": "900213_BushANDKohl_Telcon.pdf",
+        "date": "1990-02-13",
+        "type": "Telcon",
+        "person": "Helmut Kohl",
+        "pageCount": 164,
+        "output": "documents/regional/1990-02-13-bush-helmut-kohl-telcon.pdf"
+      },
+      {
+        "fileName": "910116_BushANDGonzalez_Telcon.pdf",
+        "date": "1991-01-11",
+        "type": "Telcon",
+        "person": "Felipe Gonzalez",
+        "pageCount": 101,
+        "output": "documents/regional/1991-01-11-bush-felipe-gonzalez-telcon.pdf"
+      }
+    ],
+    "excluded": [
+      {
+        "fileName": "900907_BushANDMajor_Memcon.pdf",
+        "reason": "Extractor filename is misleading. First page identifies the document as the September 7, 1990 Oskar Lafontaine meeting, already represented by official NAID 428080977 in the Regional chapter."
+      }
+    ]
+  },
+  "addedRecordsAfterManualReview": 2,
+  "totalAddedRecords": 88
 }
