@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bush 41 Declassified Memcon",
+  "type": "object",
+  "required": [
+    "id",
+    "date",
+    "type",
+    "title",
+    "participants",
+    "countries",
+    "releaseStatus",
+    "naid",
+    "catalogUrl",
+    "source"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable local identifier, preferably date plus participant slug."
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["Memcon"]
+    },
+    "title": {
+      "type": "string"
+    },
+    "participants": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "countries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "releaseStatus": {
+      "type": "string",
+      "enum": ["Full", "Partial", "Denied", "Unknown"]
+    },
+    "naid": {
+      "type": "string"
+    },
+    "pdfUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "catalogUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "source": {
+      "type": "object",
+      "required": ["name", "url"],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "foiaNumber": {
+          "type": "string"
+        }
+      }
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

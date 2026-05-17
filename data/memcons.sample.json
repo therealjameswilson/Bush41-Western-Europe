@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1990-07-09-kohl",
+    "date": "1990-07-09",
+    "type": "Memcon",
+    "title": "Bilateral Meeting with German Chancellor Helmut Kohl",
+    "participants": ["George H. W. Bush", "Helmut Kohl"],
+    "countries": ["United States", "Germany"],
+    "releaseStatus": "Full",
+    "naid": "428080825",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Kohl.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080825",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "topics": ["German unification", "NATO", "Bilateral diplomacy"]
+  },
+  {
+    "id": "1990-07-09-mitterrand",
+    "date": "1990-07-09",
+    "type": "Memcon",
+    "title": "Meeting with President Mitterrand of France",
+    "participants": ["George H. W. Bush", "Francois Mitterrand"],
+    "countries": ["United States", "France"],
+    "releaseStatus": "Full",
+    "naid": "428080827",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Mitterrand-1.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080827",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "topics": ["German unification", "European security", "Bilateral diplomacy"]
+  },
+  {
+    "id": "1990-06-11-de-maiziere",
+    "date": "1990-06-11",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic",
+    "participants": ["George H. W. Bush", "Lothar de Maiziere"],
+    "countries": ["United States", "German Democratic Republic"],
+    "releaseStatus": "Full",
+    "naid": "428080745",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-1.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080745",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "topics": ["German unification", "Eastern Europe", "Bilateral diplomacy"]
+  }
+]
