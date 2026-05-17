@@ -12,6 +12,15 @@ Presidential Library and the National Archives Catalog: date, type, participants
 country, release status, NAID, official PDF link, catalog link, FRUS volume, and
 FRUS topic tags.
 
+## Chapter Arrangement
+
+1. United Kingdom
+2. France
+3. Italy
+4. Regional, for all other Western Europe countries
+
+Records inside each chapter are arranged chronologically by `sortDate`.
+
 The starter data shape lives in `data/memcons.schema.json`, with official-source
 examples in `data/memcons.sample.json`.
 

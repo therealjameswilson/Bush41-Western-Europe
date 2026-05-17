@@ -6,6 +6,11 @@
     "title": "Bilateral Meeting with German Chancellor Helmut Kohl",
     "participants": ["George H. W. Bush", "Helmut Kohl"],
     "countries": ["United States", "Germany"],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "sortDate": "1990-07-09",
     "releaseStatus": "Full",
     "naid": "428080825",
     "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Kohl.pdf",
@@ -31,6 +36,11 @@
     "title": "Meeting with President Mitterrand of France",
     "participants": ["George H. W. Bush", "Francois Mitterrand"],
     "countries": ["United States", "France"],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "sortDate": "1990-07-09",
     "releaseStatus": "Full",
     "naid": "428080827",
     "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Mitterrand-1.pdf",
@@ -56,6 +66,11 @@
     "title": "Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic",
     "participants": ["George H. W. Bush", "Lothar de Maiziere"],
     "countries": ["United States", "German Democratic Republic"],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "sortDate": "1990-06-11",
     "releaseStatus": "Full",
     "naid": "428080745",
     "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-1.pdf",

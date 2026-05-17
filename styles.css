@@ -235,7 +235,8 @@ h2 {
   line-height: 1;
 }
 
-.feature-grid {
+.feature-grid,
+.chapter-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 14px;
@@ -258,6 +259,15 @@ h3 {
   margin-bottom: 12px;
   color: var(--navy);
   font-size: 1.25rem;
+}
+
+.chapter-number {
+  margin-bottom: 14px;
+  color: var(--red);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
 }
 
 article p,
@@ -401,6 +411,7 @@ footer a {
 
 @media (max-width: 980px) {
   .feature-grid,
+  .chapter-grid,
   .record-preview,
   .source-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -443,6 +454,7 @@ footer a {
   }
 
   .feature-grid,
+  .chapter-grid,
   .record-preview,
   .source-list,
   .timeline li {

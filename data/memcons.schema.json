@@ -9,6 +9,7 @@
     "title",
     "participants",
     "countries",
+    "chapter",
     "releaseStatus",
     "naid",
     "catalogUrl",
@@ -43,6 +44,26 @@
       "items": {
         "type": "string"
       }
+    },
+    "chapter": {
+      "type": "object",
+      "required": ["number", "name"],
+      "properties": {
+        "number": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 4
+        },
+        "name": {
+          "type": "string",
+          "enum": ["United Kingdom", "France", "Italy", "Regional"]
+        }
+      }
+    },
+    "sortDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date used for chronological ordering within the assigned chapter."
     },
     "releaseStatus": {
       "type": "string",
