@@ -1,0 +1,194 @@
+{
+  "generatedAt": "2026-05-17T18:00:43.216Z",
+  "total": {
+    "records": 198,
+    "pages": 881
+  },
+  "chapterTotals": {
+    "United Kingdom": {
+      "records": 21,
+      "pages": 104
+    },
+    "France": {
+      "records": 43,
+      "pages": 171
+    },
+    "Italy": {
+      "records": 16,
+      "pages": 78
+    },
+    "Regional": {
+      "records": 118,
+      "pages": 528
+    }
+  },
+  "corrections": [
+    {
+      "action": "trimmed",
+      "id": "local-1992-10-02-john-major-telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "pdfUrl": "documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf",
+      "pageCount": 4,
+      "reason": "Source-folder audit: trimmed oversized packet to the four pages of John Major telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1989-08-26-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 3,
+      "reason": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text."
+    },
+    {
+      "action": "relabeled",
+      "id": "local-1989-10-24-pope-john-paul-ii-telcon",
+      "title": "Telephone conversation: President Bush and Pope John Paul II",
+      "oldPdfUrl": "documents/france/1989-10-24-bush-francois-mitterrand-telcon.pdf",
+      "pdfUrl": "documents/regional/1989-10-24-bush-pope-john-paul-ii-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Relabeled mislabeled Mitterrand source as Pope John Paul II and moved it to Regional."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1990-10-11-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Source-folder audit: trimmed oversized packet to the two pages of Mitterrand telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1991-02-21-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 3,
+      "reason": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1991-02-22-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 5,
+      "reason": "Source-folder audit: trimmed oversized packet to the five pages of Mitterrand telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1991-02-27-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 4,
+      "reason": "Source-folder audit: trimmed oversized packet to the four pages of Mitterrand telcon text."
+    },
+    {
+      "action": "replaced",
+      "id": "local-1991-01-11-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1991-01-11-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Source-folder audit: replaced 101-page wrong packet with the clean January 11 Gonzalez telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1990-02-13-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-02-13-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Source-folder audit: trimmed 164-page packet to the two pages of Kohl telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1992-09-28-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1992-09-28-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Source-folder audit: trimmed oversized packet to the two pages of Kohl telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1992-06-30-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 3,
+      "reason": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1992-12-03-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 3,
+      "reason": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1990-01-08-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1990-01-08-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Source-folder audit: trimmed oversized packet to the two pages of Gonzalez telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1989-12-23-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1989-12-23-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 4,
+      "reason": "Source-folder audit: trimmed oversized packet to the four pages of Gonzalez telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1989-10-23-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1989-10-23-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 4,
+      "reason": "Source-folder audit: trimmed oversized packet to the four pages of Kohl telcon text."
+    },
+    {
+      "action": "trimmed",
+      "id": "local-1991-03-21-helmut-kohl-memcon",
+      "title": "Meeting memorandum: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-memcon.pdf",
+      "pageCount": 5,
+      "reason": "Source-folder audit: trimmed oversized packet to the five pages of Kohl memcon text."
+    },
+    {
+      "action": "removed",
+      "id": "local-1992-06-29-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1992-06-29-bush-helmut-kohl-telcon.pdf",
+      "reason": "Source-folder audit found cover/redaction sheets but no declassified Kohl telcon text."
+    },
+    {
+      "action": "removed",
+      "id": "local-1990-05-03-margaret-thatcher-memcon",
+      "title": "Meeting memorandum: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1990-05-03-bush-margaret-thatcher-memcon.pdf",
+      "reason": "Source-folder audit found cover/redaction sheets and briefing material but no declassified Thatcher memcon text."
+    },
+    {
+      "action": "removed",
+      "id": "local-1990-11-21-giulio-andreotti-memcon",
+      "title": "Meeting memorandum: President Bush and Giulio Andreotti",
+      "pdfUrl": "documents/italy/1990-11-21-bush-giulio-andreotti-memcon.pdf",
+      "reason": "Source-folder audit found transmittal/briefing material but no declassified Andreotti memcon text."
+    },
+    {
+      "action": "replaced",
+      "id": "local-1991-02-05-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 3,
+      "reason": "Source-folder audit: replaced cover-packet PDF with the three pages of Mitterrand telcon text."
+    },
+    {
+      "action": "replaced",
+      "id": "local-1991-01-21-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1991-01-21-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 3,
+      "reason": "Source-folder audit: replaced cover-packet PDF with the three pages of Gonzalez telcon text."
+    }
+  ],
+  "updatedAt": "2026-05-17T18:03:53.010Z"
+}

@@ -398,51 +398,6 @@
     "pageCount": 19
   },
   {
-    "id": "local-1990-05-03-margaret-thatcher-memcon",
-    "date": "1990-05-03",
-    "sortDate": "1990-05-03",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Margaret Thatcher",
-    "sourceTitle": "900503_BushANDThatcher_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Margaret Thatcher"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900503_BushANDThatcher_Memcon",
-    "pdfUrl": "documents/united-kingdom/1990-05-03-bush-margaret-thatcher-memcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1990-05-03-bush-margaret-thatcher-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 21,
-    "localOriginalFile": "900503_BushANDThatcher_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
     "id": "local-1990-08-21-margaret-thatcher-telcon",
     "date": "1990-08-21",
     "sortDate": "1990-08-21",
@@ -928,9 +883,9 @@
       "Western Europe",
       "United Kingdom bilateral relations"
     ],
-    "pageCount": 16,
+    "pageCount": 4,
     "localOriginalFile": "921002_BushANDMajor_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the four pages of John Major telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "local-1992-12-03-john-major-telcon",
@@ -1150,9 +1105,9 @@
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 33,
+    "pageCount": 3,
     "localOriginalFile": "890826_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "local-1989-09-01-francois-mitterrand-telcon",
@@ -1242,51 +1197,6 @@
     ],
     "pageCount": 2,
     "localOriginalFile": "890916_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1989-10-24-francois-mitterrand-telcon",
-    "date": "1989-10-24",
-    "sortDate": "1989-10-24",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "891024_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-891024_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1989-10-24-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1989-10-24-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 53,
-    "localOriginalFile": "891024_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
@@ -2001,9 +1911,9 @@
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 12,
+    "pageCount": 2,
     "localOriginalFile": "901011_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the two pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1990-11-18-428081191",
@@ -2100,7 +2010,7 @@
     "sortDate": "1991-02-05",
     "type": "Telcon",
     "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910205_BushANDMitterrand_Telcon.pdf",
+    "sourceTitle": "910205_BushANDMitterrand_Telcon_01.pdf",
     "participants": [
       "George H. W. Bush",
       "Francois Mitterrand"
@@ -2135,9 +2045,9 @@
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 5,
-    "localOriginalFile": "910205_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "pageCount": 3,
+    "localOriginalFile": "910205_BushANDMitterrand_Telcon_01.pdf",
+    "notes": "Source-folder audit: replaced cover-packet PDF with the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1991-02-12-428081429",
@@ -2269,9 +2179,9 @@
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 21,
+    "pageCount": 3,
     "localOriginalFile": "910221_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "local-1991-02-22-francois-mitterrand-telcon",
@@ -2314,9 +2224,9 @@
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 6,
+    "pageCount": 5,
     "localOriginalFile": "910222_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the five pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "local-1991-02-27-francois-mitterrand-telcon",
@@ -2359,9 +2269,9 @@
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 28,
+    "pageCount": 4,
     "localOriginalFile": "910227_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the four pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1991-02-28-428081475",
@@ -2805,9 +2715,9 @@
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 10,
+    "pageCount": 3,
     "localOriginalFile": "920630_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "local-1992-07-05-francois-mitterrand-memcon",
@@ -2940,9 +2850,9 @@
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 18,
+    "pageCount": 3,
     "localOriginalFile": "921203_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1989-02-24-428079861",
@@ -3384,51 +3294,6 @@
       "Italy bilateral relations"
     ],
     "pageCount": 8
-  },
-  {
-    "id": "local-1990-11-21-giulio-andreotti-memcon",
-    "date": "1990-11-21",
-    "sortDate": "1990-11-21",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Giulio Andreotti",
-    "sourceTitle": "901121_BushANDAndreotti_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Giulio Andreotti"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-901121_BushANDAndreotti_Memcon",
-    "pdfUrl": "documents/italy/1990-11-21-bush-giulio-andreotti-memcon.pdf",
-    "catalogUrl": "documents/italy/1990-11-21-bush-giulio-andreotti-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 44,
-    "localOriginalFile": "901121_BushANDAndreotti_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1991-03-24-428081541",
@@ -4638,9 +4503,9 @@
       "Western Europe",
       "Germany and German unification"
     ],
-    "pageCount": 14,
+    "pageCount": 4,
     "localOriginalFile": "891023_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the four pages of Kohl telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1989-10-24-428080281",
@@ -4683,6 +4548,51 @@
       "Western Europe"
     ],
     "pageCount": 3
+  },
+  {
+    "id": "local-1989-10-24-pope-john-paul-ii-telcon",
+    "date": "1989-10-24",
+    "sortDate": "1989-10-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Pope John Paul II",
+    "sourceTitle": "891024_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Pope John Paul II"
+    ],
+    "countries": [
+      "United States",
+      "Holy See"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-891024_BushANDMitterrand_Telcon-corrected-pope-john-paul-ii",
+    "pdfUrl": "documents/regional/1989-10-24-bush-pope-john-paul-ii-telcon.pdf",
+    "catalogUrl": "documents/regional/1989-10-24-bush-pope-john-paul-ii-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Holy See relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Holy See relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "891024_BushANDMitterrand_Telcon.pdf",
+    "notes": "Corrected after source-folder audit: the PDF text is a telephone call with Pope John Paul II, not Francois Mitterrand; trimmed to the two conversation pages. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "local-1989-10-25-helmut-kohl-telcon",
@@ -4994,9 +4904,9 @@
       "Western Europe",
       "Spain bilateral relations"
     ],
-    "pageCount": 14,
+    "pageCount": 4,
     "localOriginalFile": "891223_BushANDGonzalez_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the four pages of Gonzalez telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "local-1989-12-26-felipe-gonzalez-telcon",
@@ -5129,9 +5039,9 @@
       "Western Europe",
       "Spain bilateral relations"
     ],
-    "pageCount": 41,
+    "pageCount": 2,
     "localOriginalFile": "900108_BushANDGonzalez_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the two pages of Gonzalez telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1990-01-11-428080429",
@@ -5258,9 +5168,9 @@
       "Western Europe",
       "Germany and German unification"
     ],
-    "pageCount": 164,
+    "pageCount": 2,
     "localOriginalFile": "900213_BushANDKohl_Telcon.pdf",
-    "notes": "Manually reviewed oversized local packet and confirmed as a February 13, 1990 telephone conversation with Chancellor Helmut Kohl."
+    "notes": "Source-folder audit: trimmed 164-page packet to the two pages of Kohl telcon text. Manually reviewed oversized local packet and confirmed as a February 13, 1990 telephone conversation with Chancellor Helmut Kohl."
   },
   {
     "id": "1990-02-20-428080533",
@@ -7260,7 +7170,7 @@
     "sortDate": "1991-01-11",
     "type": "Telcon",
     "title": "Telephone conversation: President Bush and Felipe Gonzalez",
-    "sourceTitle": "910116_BushANDGonzalez_Telcon.pdf",
+    "sourceTitle": "910111_BushANDGonzalez_Telcon_01.pdf",
     "participants": [
       "George H. W. Bush",
       "Felipe Gonzalez"
@@ -7295,9 +7205,9 @@
       "Western Europe",
       "Spain bilateral relations"
     ],
-    "pageCount": 101,
-    "localOriginalFile": "910116_BushANDGonzalez_Telcon.pdf",
-    "notes": "Manually reviewed oversized local packet. The extractor filename uses 910116, but the document title identifies the call as January 11, 1991."
+    "pageCount": 2,
+    "localOriginalFile": "910111_BushANDGonzalez_Telcon_01.pdf",
+    "notes": "Source-folder audit: replaced 101-page wrong packet with the clean January 11 Gonzalez telcon text. Manually reviewed oversized local packet. The extractor filename uses 910116, but the document title identifies the call as January 11, 1991."
   },
   {
     "id": "local-1991-01-21-felipe-gonzalez-telcon",
@@ -7305,7 +7215,7 @@
     "sortDate": "1991-01-21",
     "type": "Telcon",
     "title": "Telephone conversation: President Bush and Felipe Gonzalez",
-    "sourceTitle": "910121_BushANDGonzalez_Telcon.pdf",
+    "sourceTitle": "910121_BushANDGonzalez_Telcon_01.pdf",
     "participants": [
       "George H. W. Bush",
       "Felipe Gonzalez"
@@ -7341,8 +7251,8 @@
       "Spain bilateral relations"
     ],
     "pageCount": 3,
-    "localOriginalFile": "910121_BushANDGonzalez_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "localOriginalFile": "910121_BushANDGonzalez_Telcon_01.pdf",
+    "notes": "Source-folder audit: replaced cover-packet PDF with the three pages of Gonzalez telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "local-1991-01-22-helmut-kohl-telcon",
@@ -7605,9 +7515,9 @@
       "Western Europe",
       "Germany and German unification"
     ],
-    "pageCount": 30,
+    "pageCount": 5,
     "localOriginalFile": "910321_BushANDKohl_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the five pages of Kohl memcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1991-04-11-428081579",
@@ -8799,51 +8709,6 @@
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
-    "id": "local-1992-06-29-helmut-kohl-telcon",
-    "date": "1992-06-29",
-    "sortDate": "1992-06-29",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "920629_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
-    ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 4,
-      "name": "Regional"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-920629_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1992-06-29-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1992-06-29-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification"
-    ],
-    "pageCount": 15,
-    "localOriginalFile": "920629_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
     "id": "local-1992-09-28-helmut-kohl-telcon",
     "date": "1992-09-28",
     "sortDate": "1992-09-28",
@@ -8884,8 +8749,8 @@
       "Western Europe",
       "Germany and German unification"
     ],
-    "pageCount": 71,
+    "pageCount": 2,
     "localOriginalFile": "920928_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "notes": "Source-folder audit: trimmed oversized packet to the two pages of Kohl telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   }
 ]
