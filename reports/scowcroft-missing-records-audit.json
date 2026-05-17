@@ -774,22 +774,6 @@
       ]
     },
     {
-      "id": "1990-03-07-366551690-69",
-      "date": "1990-03-07",
-      "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Francois Mitterrand",
-      "chapter": "France",
-      "pageCount": 1,
-      "provenancePages": 1,
-      "pdfUrl": "documents/france/1990-03-07-bush-francois-mitterrand-telcon-scowcroft.pdf",
-      "naid": "366551690",
-      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
-      "sourcePages": [
-        69,
-        69
-      ]
-    },
-    {
       "id": "1990-02-26-366551690-70",
       "date": "1990-02-26",
       "type": "Telcon",
@@ -2431,7 +2415,7 @@
       "reason": "already-in-current-collection"
     }
   ],
-  "note": "German-leader Regional records were later excluded from this Western Europe volume because they belong in a separate FRUS Germany volume; additions below reflect records still active in the site data.",
+  "note": "German-leader Regional records were later excluded from this Western Europe volume because they belong in a separate FRUS Germany volume; additions below reflect records still active in the site data. Cover-only records were later excluded when PDFs proved to contain only NSC cover/transmittal memoranda or administrative markers, not conversation text.",
   "excludedByLaterGermanyRule": [
     {
       "date": "1992-03-21",
@@ -3047,6 +3031,22 @@
       "sourcePages": [
         76,
         76
+      ]
+    }
+  ],
+  "excludedByLaterCoverMemoRule": [
+    {
+      "date": "1990-03-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 1,
+      "pdfUrl": "documents/france/1990-03-07-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        69,
+        69
       ]
     }
   ]

@@ -1,0 +1,645 @@
+{
+  "generatedAt": "2026-05-17T23:40:29.622Z",
+  "rationale": "Removed active records whose local PDFs contained only an NSC cover/transmittal memorandum and/or a Bush Library administrative marker, with no memorandum of conversation or telephone conversation text to print or count.",
+  "removedTotals": {
+    "records": 22,
+    "pages": 43,
+    "byChapter": {
+      "France": {
+        "records": 9,
+        "pages": 17
+      },
+      "United Kingdom": {
+        "records": 6,
+        "pages": 12
+      },
+      "Regional": {
+        "records": 3,
+        "pages": 6
+      },
+      "Italy": {
+        "records": 4,
+        "pages": 8
+      }
+    }
+  },
+  "resultingTotals": {
+    "records": 229,
+    "pages": 943,
+    "byChapter": {
+      "United Kingdom": {
+        "records": 44,
+        "pages": 187
+      },
+      "France": {
+        "records": 54,
+        "pages": 209
+      },
+      "Regional": {
+        "records": 111,
+        "pages": 452
+      },
+      "Italy": {
+        "records": 20,
+        "pages": 95
+      }
+    }
+  },
+  "removedRecords": [
+    {
+      "id": "local-1989-09-01-francois-mitterrand-telcon",
+      "date": "1989-09-01",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "pdfUrl": "documents/france/1989-09-01-bush-francois-mitterrand-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "a SEGRETF ; NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 Fil September 1, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: ADRIAN A. sasora HB en SUBJECT: Memorandum of Telephone Conversation with President Francois Mitterrand of France Attached at Tab I is a memorandum from you to the Department of State transmitting the Tab A Memorandum of Telephone - Conversation. Y Concurrence by: Robert Boece RECOMMENDATIONS That the Tab A Memorandum of Telephone Conversation be filed for the record. A"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: | George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30501 Folder ID Number: 30501-001 Folder Title: September 1989 [6] Stack: Row: Section: Shelf: "
+        }
+      ]
+    },
+    {
+      "id": "local-1989-09-16-francois-mitterrand-telcon",
+      "date": "1989-09-16",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "pdfUrl": "documents/france/1989-09-16-bush-francois-mitterrand-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "cutboneneeseseeeeneesehoseeeeeane : | GONEIDENTIAL WITH ECRET ATTACHMENT 10386 if i NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 . MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Telephone Call from the President to Francois Mitterrand, President of France, September 16, 1989 (U) Distribution of the attached Memorandum of Telephone Conversation must be handled via NODIS channels and at the Deputy Assistant Secretary (DAS) level. If the item is to be sent to E"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "a eee ee ee =. | Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F | This is not a textual record. This is used as an administrative marker by the George Bush Presidential | Library Staff. Record Group/Collection: | George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30503 Folder ID Number: 30503-001 Folder Title: December 1989 [1] Stack: R"
+        }
+      ]
+    },
+    {
+      "id": "local-1989-09-21-john-major-memcon",
+      "date": "1989-09-21",
+      "type": "Memcon",
+      "title": "Meeting memorandum: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "pdfUrl": "documents/united-kingdom/1989-09-21-bush-john-major-memcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "| Sener SECRET 7018 add-on NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 September 21, 1989 , / MEMORANDUM FOR G. PHILIP eer), LE FROM: ROBERT BLACKWILL SUBJECT: Memorandum of Conversation with John Major, UK Foreign Secretary a : A memorandum of conversation for the subject meeting, on September | 11, is attached at Tab I. fA RECOMMENDATION That the attached Memorandum of Conversation be filed for the record. Approve Disapprove Attachments Tab I Memorandum of Conversation | | DECLASSIFIED Wh"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: | George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30500 Folder ID Number: 30500-003 Folder Title: September 1989 [3] Stack: Row: Section: Shelf: "
+        }
+      ]
+    },
+    {
+      "id": "local-1989-11-04-felipe-gonzalez-memcon",
+      "date": "1989-11-04",
+      "type": "Memcon",
+      "title": "Meeting memorandum: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-11-04-bush-felipe-gonzalez-memcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "CONFISENTI AS 8443 thse NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 November 4, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES | FROM: ADRIAN A. BASORA #7415 SUBJECT: Memorandum of Conversation with Felipe Gonzalez, Prime Minister of Spain The Transmittal Memorandum to State is at Tab I and the subject Memorandum of Conversation is attached at Tab A. Robert erafkvi concurs. RECOMMENDATION 1. That you sign the memo at Tab I transmitting the Memorandum of Conversation at Tab A. 2. That the attac"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": ", 4 toe = Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: | George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30502 Folder ID Number: 30502-005 Folder Title: November 1989 [5] Stack: Row: Section"
+        }
+      ]
+    },
+    {
+      "id": "local-1989-11-18-giulio-andreotti-telcon",
+      "date": "1989-11-18",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 2,
+      "pdfUrl": "documents/italy/1989-11-18-bush-giulio-andreotti-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "NATIONAL SECURITY COUNCIL, | WASHINGTON, D.C. 20508 GONFIDENTT AS 9274 Add-On #1 MEMORANDUM FOR J. STAPLETON ROY : Executive Secretary at Department of State SUBJECT: Telephone Call from the President to Prime Minister Giulio Andreotti of Italy, November 18, 1989 Distribution of the attached Memorandum of Telephone Conversation must be handled via NODIS channels and at the Deputy Assistant Secretary (DAS) level. If the item is to be sent to Embassy Rome, it should be sent to the Ambassador and D"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: | George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30502 Folder ID Number: 30502-002 Folder Title: November 1989 [2] Stack: Row: Section: Shelf: P"
+        }
+      ]
+    },
+    {
+      "id": "local-1989-12-26-felipe-gonzalez-telcon",
+      "date": "1989-12-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1989-12-26-bush-felipe-gonzalez-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "' ' ‘SECRET 10362 i , NATIONAL SECURITY COUNCIL | WASHINGTON. D.C. 20506 k& December 26, 1989 Z i» Poe ACTION : MEMORANDUM FOR G. PHILIP HUGHES FROM: ADRIAN BASORA 47443 SUBJECT: Memorandum of Telephone Conversation with Felipe Gonzalez, Prime Minister of Spain, December 23, 1989 At Tab A is the Memorandum of Telephone Conversation for the President’s telephone call to Prime Minister Felipe Gonzalez of | Spain on December 23. The memorandum at Tab I transmits the MEMCON to State. RECOMMENDATION "
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "a eee ee ee =. | Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F | This is not a textual record. This is used as an administrative marker by the George Bush Presidential | Library Staff. Record Group/Collection: | George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30503 Folder ID Number: 30503-001 Folder Title: December 1989 [1] Stack: R"
+        }
+      ]
+    },
+    {
+      "id": "local-1989-12-27-francois-mitterrand-telcon",
+      "date": "1989-12-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "pdfUrl": "documents/france/1989-12-27-bush-francois-mitterrand-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "\"SECRET. 10386 ‘ , NATIONAL SECURITY COUNCIL 4 WASHINGTON. D.C. 20506 (| qi (0 ax& q yl t Y December 27, 1989 y/ } ACTION } © MEMORANDUM FOR G. PHILIP HUGHES FROM: ADRIAN BASORA (ACTING) An SUBJECT: Memorandum of Telephone Conversation with President Mitterrand of France Attached at Tab I is the subject memorandum. RECOMMENDATION That the Tab A Memorandum of Telephone Conversation be filed for the record. Approve Disapprove That you sign the memo at Tab I transmitting the Memorandum of Telephone"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "a eee ee ee =. | Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F | This is not a textual record. This is used as an administrative marker by the George Bush Presidential | Library Staff. Record Group/Collection: | George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30503 Folder ID Number: 30503-001 Folder Title: December 1989 [1] Stack: R"
+        }
+      ]
+    },
+    {
+      "id": "local-1990-01-04-felipe-gonzalez-telcon",
+      "date": "1990-01-04",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "pdfUrl": "documents/regional/1990-01-04-bush-felipe-gonzalez-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "Pee Tet | ne ee] BS) eT NATIONAL SECURITY COUNCIL : WASHINGTON, D.C. 20506 0128 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: The President’s Telephone Call to Felipe Gonzalez, Prime Minister of Spain, January 4, 1990 (U) Distribution of the attached Memorandum of Telephone Conversation must be handled via NODIS channels and at the Deputy Assistant Secretary (DAS) level. (sf Attachment Tab A Memorandum of Telephone Conversation DECLASSIFIED White House Guid"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: _ George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30503 Folder ID Number: 30503-004 Folder Title: January 1990 [1] Stack: Row: Section: Shelf: Po"
+        }
+      ]
+    },
+    {
+      "id": "1990-03-07-366551690-69",
+      "date": "1990-03-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 1,
+      "pdfUrl": "documents/france/1990-03-07-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "source": "Brent Scowcroft Papers",
+      "coverPagesDetected": [
+        2
+      ],
+      "scannedPages": [
+        {
+          "page": 2,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "7 NATIONAL SECURITY COUNCIL SEERES WASHINGTON, D.C. 20506 1782 March 7, 1990 MEMORANDUM FOR G. PHILIP HUGHES FROM: ADRIAN A. BASORA [tHe SUBJECT: Telephone Conversation with French President Mitterrand, February 26, 1990 At Tab A is a Memorandum of Telephone Conversation for the President’s telephone call to French President Mitterrand on February 26. The memorandum at Tab I transmits the Telcon to State. RECOMMENDATION That you sign the memo at Tab I which transmits the Memorandum of Telephone "
+        }
+      ]
+    },
+    {
+      "id": "local-1990-08-21-margaret-thatcher-telcon",
+      "date": "1990-08-21",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "pdfUrl": "documents/united-kingdom/1990-08-21-bush-margaret-thatcher-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": ". ' SS : 6671- ? NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 August 21, 1990 fx, ' ACTION & | MEMORANDUM FOR WILLIAM F. SITTMANN I 4 | FROM: ROBERT L. HUTCHINGS kK Ie SUBJECT: Telephone Call to Prime Minister Thatcher of the United Kingdom Attached at Tab I is the Memorandum of Conversation between the President and Prime Minister Thatcher on August 20, 1990. Adrian Basora concurs. AEB RECCiWIENDATION That the attached Memorandum of Conversation be filed for the record. Approve Disapprove A"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. | Record Group/Collection: | George H.W. Bush Presidential Records | Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate ! Subseries: Central Chronological Files = 7 | OA/ID Number: 30508 Folder ID Number: 30508-006 Folder Title: August 1990 [2] Stack: Row: Section"
+        }
+      ]
+    },
+    {
+      "id": "local-1990-08-31-margaret-thatcher-telcon",
+      "date": "1990-08-31",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "pdfUrl": "documents/united-kingdom/1990-08-31-bush-margaret-thatcher-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "| SREREP 6934 ta NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 August 31, 1990 ACTION ! MEMORANDUM FOR WILLIAM F. SITTMANN THROUGH: ADRIAN A. BASORA /ECHES FROM: STEPHEN E. BENKO ' SUBJECT: Telephone Call to Prime Minister Thatcher of the | United Kingdom ! Attached at Tab A is the Memorandum of Conversation between the President and Prime Minister Thatcher on August 31, 1990. | Concurrence by: Richard Haass RECOMMENDATIONS That the attached Memorandum of Conversation be filed for the | recor"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. | Record Group/Collection: | George H.W. Bush Presidential Records | Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate ! Subseries: Central Chronological Files = 7 | OA/ID Number: 30508 Folder ID Number: 30508-006 Folder Title: August 1990 [2] Stack: Row: Section"
+        }
+      ]
+    },
+    {
+      "id": "local-1990-09-10-margaret-thatcher-telcon",
+      "date": "1990-09-10",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "pdfUrl": "documents/united-kingdom/1990-09-10-bush-margaret-thatcher-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "/ SEGRE oe ; NATIONAL SECURITY COUNCIL + WASHINGTON, D.C. 20506 September 10, 1990 ACTION | MEMORANDUM FOR WILLIAM F. SITTMANN | FROM: ADRIAN BASORA AXE | SUBJECT: Telephone Conversation with Prime Minister Thatcher of the United Kingdom Attached at Tab A is the Memorandum of Telephone Conversation between the President and Prime Minister Thatcher on September 7, 1990. RECOMMENDATIONS That the attached Memorandum of Conversation be filed for the recora. Approve Disapprove That you sign the memor"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30510 Folder ID Number: 30510-003 Folder Title: September 1990 [5] Stack: Row: Section: Shelf: Po"
+        }
+      ]
+    },
+    {
+      "id": "local-1990-09-12-margaret-thatcher-telcon",
+      "date": "1990-09-12",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "pdfUrl": "documents/united-kingdom/1990-09-12-bush-margaret-thatcher-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "mo ‘ . seenee rea 7129 NATIONAL SECURITY COUNCIL | WASHINGTON, D.C. 20506 September 12, 1990 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Presidential Telcon with Prime Minister Thatcher of the United Kingdom (U) Distribution of the attached Memorandum of Telephone Conversation must be handled on an \"Eyes Only\" basis for Under Secretary Robert Kimmitt. jaf I ff Ve | William F. Sittmann Executive Secretary Attachment Tab A Memorandum of Telep"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30510 Folder ID Number: 30510-003 Folder Title: September 1990 [5] Stack: Row: Section: Shelf: Po"
+        }
+      ]
+    },
+    {
+      "id": "local-1990-09-15-francois-mitterrand-telcon",
+      "date": "1990-09-15",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "pdfUrl": "documents/france/1990-09-15-bush-francois-mitterrand-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "SEGRET- : : = SECRET 7063 é NATIONAL SECURITY COUNCIL, WASHINGTON, D.C. 20506 September 15, 1990 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Presidential Telcon with President Francois Mitterrand of France (U) Distribution of the attached Memorandum of Telephone Conversation must be handled on an \"Eyes Only\" basis for Under Secretary Robert Kimmitt. (8) Kinet J BK William F. Sittmann Executive Secretary Attachment Tab A Memorandum of Teleph"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F | This is not a textual record. This is used as an | administrative marker by the George Bush Presidential | | Library Staff. | Record Group/Collection: George H.W. Bush Presidential Records | Collection/Office of Origin: National Security Council | Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30510 Folder ID Number: 30510-001 Folder Title: September 1990 [3] Stack: Row: Sect"
+        }
+      ]
+    },
+    {
+      "id": "local-1990-09-17-francois-mitterrand-telcon",
+      "date": "1990-09-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "pdfUrl": "documents/france/1990-09-17-bush-francois-mitterrand-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 17, 1990 Le ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ROBERT L. HUTCHINGS ZH SUBJECT: Telephone Calls from President Mitterrand of France At Tabs A and B are the Memoranda of Telephone Conversations between the President and President Mitterrand of France on September 14 and September 16, 1990. Adrian ee RECOMMENDATION That the attached Memoranda of Telephone Conversations be filed for the record. Approve Disapprove Attachments Tab"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an | administrative marker by the George Bush Presidential | | Library Staff. | | | Record Group/Collection: | George H.W. Bush Presidential Records | Collection/Office of Origin: National Security Council | Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30510 Folder ID Number: 30510-001 Folder Title: September 1990 [3] Stack: Row: "
+        }
+      ]
+    },
+    {
+      "id": "local-1990-09-18-margaret-thatcher-telcon",
+      "date": "1990-09-18",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "pdfUrl": "documents/united-kingdom/1990-09-18-bush-margaret-thatcher-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "d | ee eow . SBGRET/ SENSITIVE cs eee js NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 aa September 18, 1990 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: PHILIP D. zeLikow A- SUBJECT: Telcon with Prime Minister Margaret Thatcher of the United Kingdom on September 14, 1990 The Memorandum of Telephone Conversation between the President and Prime Minister Margaret Thatcher which took place on September 14, 1990, is at Tab I. RECOMMENDATIONS That the attached Memorandum of Telephone Conversati"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F | This is not a textual record. This is used as an | administrative marker by the George Bush Presidential | | Library Staff. | Record Group/Collection: George H.W. Bush Presidential Records | Collection/Office of Origin: National Security Council | Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30510 Folder ID Number: 30510-001 Folder Title: September 1990 [3] Stack: Row: Sect"
+        }
+      ]
+    },
+    {
+      "id": "local-1990-09-18-francois-mitterrand-telcon",
+      "date": "1990-09-18",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "pdfUrl": "documents/france/1990-09-18-bush-francois-mitterrand-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "\\ , Senne 7410 NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 : September 18, 1990 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ADRIAN BASORA Aue SUBJECT: Telephone Conversation with President Francois Mitterrand of France Attached at Tab A is the Memorandum of Telephone Conversation between the President and President Mitterrand on September 11, 1990. RECOMMENDATIONS That the attached Mewvsandum of Conversation be filed for <:.s record. Approve Disapprove That you sign the memorandum at Ta"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an | administrative marker by the George Bush Presidential | | Library Staff. | | | Record Group/Collection: | George H.W. Bush Presidential Records | Collection/Office of Origin: National Security Council | Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30510 Folder ID Number: 30510-001 Folder Title: September 1990 [3] Stack: Row: "
+        }
+      ]
+    },
+    {
+      "id": "local-1990-09-20-francois-mitterrand-telcon",
+      "date": "1990-09-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "pdfUrl": "documents/france/1990-09-20-bush-francois-mitterrand-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "| SECRET al | Portas NATIONAL SECURITY COUNCIL 7 WASHINGTON. 0.C. 20506 ? September 20, 1990 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Presidential Telcon with President Mitterrand of France (U) Distribution of the attached Memorandum of Telephone Conversation must be handled on an \"Eyes Only\" basis for Under Secretary Robert Kimmitt. (8) William F. Sittmann Executive Secretary Attachment TabaA Memorandum for Telephone Conversation DECLAS"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F | This is not a textual record. This is used as an | administrative marker by the George Bush Presidential | | Library Staff. | Record Group/Collection: George H.W. Bush Presidential Records | Collection/Office of Origin: National Security Council | Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30510 Folder ID Number: 30510-001 Folder Title: September 1990 [3] Stack: Row: Sect"
+        }
+      ]
+    },
+    {
+      "id": "local-1991-06-03-giulio-andreotti-telcon",
+      "date": "1991-06-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 2,
+      "pdfUrl": "documents/italy/1991-06-03-bush-giulio-andreotti-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "eee Cowie ate : ‘SEcanT Nil nm 4143 | NATIONAL SECURITY COUNCIL, WASHINGTON. D.C. 20506 June 3, 1991 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: EARL ANTHONY WAYNEf(«) SUBJECT: Telcon with Prime Minister Giulio Andreotti of Italy on June 3, 1991 Attached at Tab A is a Memorandum of Telephone Conversation between the President and Prime Minister Andreotti of Italy. RECOMMENDATION That the attached morandum of Telephone Conversation be filed for the record. | Approve Disapprove Attachment Tab "
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "; | Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: — George H.W. BushrPresidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30517 Folder ID Number: 30517-006 Folder Title: June 1991 [4] Stack: Row: Section: Shelf: P"
+        }
+      ]
+    },
+    {
+      "id": "local-1991-08-01-giulio-andreotti-memcon",
+      "date": "1991-08-01",
+      "type": "Memcon",
+      "title": "Meeting memorandum: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 2,
+      "pdfUrl": "documents/italy/1991-08-01-bush-giulio-andreotti-memcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "te Bee SECRET . xu 5505 NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 August 1, 1991 MEMORANDUM FOR MR. W. ROBERT PEARSON Executive Secretary Department of State SUBJECT: Transmittal of Presidential Memcon with Prime Minister Andreotti of Italy on July 15, 1991 (U) Distribution of the attached Memorandum of Conversation must be handled via NODIS channels and at the Deputy Assistant Secretary (DAS) level. If the item is to be sent to Embassy Rome, it should be sent to the Ambassador and Deputy"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "ee ee ee ee ee \" Originally Processed With FOTA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: _ George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30519 Folder ID Number: 30519-001 Folder Title: August 1991 [2] Stack: Row: Se"
+        }
+      ]
+    },
+    {
+      "id": "local-1991-08-19-giulio-andreotti-telcon",
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 2,
+      "pdfUrl": "documents/italy/1991-08-19-bush-giulio-andreotti-telcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "it CONBTDENTEAL 6119 NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 August 19, 1991 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ROBERT L. civeranes Ga SUBJECT: Telephone Conversation with Prime Minister Giulio Andreotti of Italy Attached at Tab A is a Memorandum of Telephone Conversation between the President and Prime Minister Giulio Andreotti on August 19, 1991. RECOMMENDATION That the attached Memorandum of Conversation be filed for the record, Approve Disapprove Attachment Tab A Memora"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "ee ee eT eS se. eee me oe a Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential Library Staff. Record Group/Collection: | George H.W. Bush Presidential Records Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30519 Folder ID Number: 30519-003 Folder Title: August 1991 [4] Sta"
+        }
+      ]
+    },
+    {
+      "id": "local-1992-08-04-francois-mitterrand-memcon",
+      "date": "1992-08-04",
+      "type": "Memcon",
+      "title": "Meeting memorandum: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "pdfUrl": "documents/france/1992-08-04-bush-francois-mitterrand-memcon.pdf",
+      "source": "Local Bush memcons extractor output",
+      "coverPagesDetected": [
+        1
+      ],
+      "scannedPages": [
+        {
+          "page": 1,
+          "isCover": true,
+          "isActualConversation": false,
+          "sample": "; Ecker” 6046 NATIONAL SECURITY COUNCIL WASHINGTON. 0 C 20506 August 4, 1992 ACTION MEMORANDUM FOR WILLIAM F. SITTMA THROUGH: DAVID C. GOMPERT FROM: TONY wavndy SUBJECT: Memorandum of Conversation with French President Francois Mitterrand Attached at Tab I is the Memorandum of Conversation between the President and President Mitterrand, which took place on July 5 in Munich, Germany. RECOMMENDATION That the attached Memorandum of Conversation be filed for the record. Approve Disapprove Attachment"
+        },
+        {
+          "page": 2,
+          "isCover": false,
+          "isActualConversation": false,
+          "sample": "Originally Processed With FOIA(s): FOIA Number: 2011-0002-F 2011-0002-F This is not a textual record. This is used as an administrative marker by the George Bush Presidential | Library Staff. | Record Group/Collection: — George H.W. Bush Presidential Records | Collection/Office of Origin: National Security Council Series: European and Eurasian Directorate Subseries: Central Chronological Files OA/ID Number: 30528 Folder ID Number: 30528-005 Folder Title: August 1992 [3] Stack: Row: Section: Shel"
+        }
+      ]
+    }
+  ],
+  "postCleanupVerification": {
+    "localRecordsScanned": 139,
+    "localLeadingCoverFindings": 0,
+    "remoteRecordsScanned": 90,
+    "remoteFirstPageCoverFindings": 0,
+    "note": "Local PDFs were scanned after intentional provenance sheets, where present. Remote NARA PDFs were checked for first-page NSC cover/transmittal memo patterns using cached copies."
+  }
+}
