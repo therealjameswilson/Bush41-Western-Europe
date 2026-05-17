@@ -1,0 +1,3138 @@
+{
+  "generatedAt": "2026-05-17T22:49:46.459Z",
+  "sourceFindingAid": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+  "sourceFolderPdfCount": 47,
+  "ocrPageCount": 5044,
+  "candidatesReviewed": 362,
+  "additions": [
+    {
+      "id": "1992-01-13-366551680-25",
+      "date": "1992-01-13",
+      "type": "Memcon",
+      "title": "Meeting with Mario Soares, President of Portugal",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-01-13-bush-mario-soares-memcon-scowcroft.pdf",
+      "naid": "366551680",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "sourcePages": [
+        25,
+        29
+      ]
+    },
+    {
+      "id": "1992-01-31-366551680-57",
+      "date": "1992-01-31",
+      "type": "Memcon",
+      "title": "Meeting with Franz Vranitzky of Austria",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-01-31-bush-franz-vranitzky-memcon-scowcroft.pdf",
+      "naid": "366551680",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "sourcePages": [
+        57,
+        59
+      ]
+    },
+    {
+      "id": "1992-01-31-366551680-61",
+      "date": "1992-01-31",
+      "type": "Memcon",
+      "title": "Meeting with Wilfried Martens, the Prime Minister of Belgium",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-01-31-bush-wilfried-martens-memcon-scowcroft.pdf",
+      "naid": "366551680",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "sourcePages": [
+        61,
+        63
+      ]
+    },
+    {
+      "id": "1992-02-20-366551681-40",
+      "date": "1992-02-20",
+      "type": "Memcon",
+      "title": "Meeting with Prime Minister Bildt of Sweden",
+      "chapter": "Regional",
+      "pageCount": 6,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-02-20-bush-carl-bildt-memcon-scowcroft.pdf",
+      "naid": "366551681",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-006.pdf",
+      "sourcePages": [
+        40,
+        45
+      ]
+    },
+    {
+      "id": "1992-03-21-366551682-33",
+      "date": "1992-03-21",
+      "type": "Memcon",
+      "title": "Meeting: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 17,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-03-21-bush-helmut-kohl-memcon-scowcroft.pdf",
+      "naid": "366551682",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "sourcePages": [
+        33,
+        49
+      ]
+    },
+    {
+      "id": "1992-04-02-366551682-57",
+      "date": "1992-04-02",
+      "type": "Memcon",
+      "title": "Meeting with President Felipe Gonzalez of Spain",
+      "chapter": "Regional",
+      "pageCount": 8,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-04-02-bush-felipe-gonzalez-memcon-scowcroft.pdf",
+      "naid": "366551682",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "sourcePages": [
+        57,
+        64
+      ]
+    },
+    {
+      "id": "1992-04-07-366551682-66",
+      "date": "1992-04-07",
+      "type": "Memcon",
+      "title": "Meeting with President Francesco Cossiga of Italy",
+      "chapter": "Italy",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/italy/1992-04-07-bush-francesco-cossiga-memcon-scowcroft.pdf",
+      "naid": "366551682",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "sourcePages": [
+        66,
+        70
+      ]
+    },
+    {
+      "id": "1992-05-11-366551683-35",
+      "date": "1992-05-11",
+      "type": "Memcon",
+      "title": "Meeting with Foreign Minister Roland Dumas of France",
+      "chapter": "France",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1992-05-11-bush-roland-dumas-memcon-scowcroft.pdf",
+      "naid": "366551683",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "sourcePages": [
+        35,
+        37
+      ]
+    },
+    {
+      "id": "1992-05-28-366551683-66",
+      "date": "1992-05-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-05-28-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551683",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "sourcePages": [
+        66,
+        68
+      ]
+    },
+    {
+      "id": "1992-06-07-366551683-75",
+      "date": "1992-06-07",
+      "type": "Memcon",
+      "title": "Meeting with Prime Minister Brundtland of Norway",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-06-07-bush-gro-harlem-brundtland-memcon-scowcroft.pdf",
+      "naid": "366551683",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "sourcePages": [
+        75,
+        79
+      ]
+    },
+    {
+      "id": "1992-07-06-366551684-25",
+      "date": "1992-07-06",
+      "type": "Memcon",
+      "title": "Meeting with Prime Minister Giuliano Amato of Italy",
+      "chapter": "Italy",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/italy/1992-07-06-bush-giuliano-amato-memcon-scowcroft.pdf",
+      "naid": "366551684",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "sourcePages": [
+        25,
+        27
+      ]
+    },
+    {
+      "id": "1992-07-07-366551684-45",
+      "date": "1992-07-07",
+      "type": "Memcon",
+      "title": "President Bushs July 7 Meeting with EC Commission President Delors",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-07-07-bush-jacques-delors-memcon-scowcroft.pdf",
+      "naid": "366551684",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "sourcePages": [
+        45,
+        49
+      ]
+    },
+    {
+      "id": "1992-07-09-366551684-76",
+      "date": "1992-07-09",
+      "type": "Memcon",
+      "title": "Meeting with Prime Minister Constantine Mitsotakis of Greece",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-07-09-bush-constantine-mitsotakis-memcon-scowcroft.pdf",
+      "naid": "366551684",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "sourcePages": [
+        76,
+        79
+      ]
+    },
+    {
+      "id": "1992-07-09-366551684-85",
+      "date": "1992-07-09",
+      "type": "Memcon",
+      "title": "Meeting with Manfred Woerner NATO Secretary General",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-07-09-bush-manfred-woerner-memcon-scowcroft.pdf",
+      "naid": "366551684",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "sourcePages": [
+        85,
+        87
+      ]
+    },
+    {
+      "id": "1992-11-17-366551685-58",
+      "date": "1992-11-17",
+      "type": "Memcon",
+      "title": "Meeting with Prime Minister Mitsotakis of Greece f",
+      "chapter": "Regional",
+      "pageCount": 6,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-11-17-bush-constantine-mitsotakis-memcon-scowcroft.pdf",
+      "naid": "366551685",
+      "sourceFile": "41-bpr-scow-pcor-memcon-91110-002.pdf",
+      "sourcePages": [
+        58,
+        63
+      ]
+    },
+    {
+      "id": "1989-01-23-366551686-7",
+      "date": "1989-01-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-01-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "1989-01-23-366551686-18",
+      "date": "1989-01-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1989-01-23-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        18,
+        20
+      ]
+    },
+    {
+      "id": "1989-01-24-366551686-21",
+      "date": "1989-01-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1989-01-24-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "1989-01-24-366551686-23",
+      "date": "1989-01-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-01-24-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "1989-01-24-366551686-27",
+      "date": "1989-01-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Poul Schlueter",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-01-24-bush-poul-schlueter-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "1989-01-26-366551686-42",
+      "date": "1989-01-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Pope John Paul II",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-01-26-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        42,
+        42
+      ]
+    },
+    {
+      "id": "1989-04-12-366551686-69",
+      "date": "1989-04-12",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-04-12-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "1989-04-17-366551686-78",
+      "date": "1989-04-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1989-04-17-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        78,
+        80
+      ]
+    },
+    {
+      "id": "1989-04-21-366551686-81",
+      "date": "1989-04-21",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-04-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        81,
+        83
+      ]
+    },
+    {
+      "id": "1989-04-22-366551686-88",
+      "date": "1989-04-22",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1989-04-22-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        88,
+        92
+      ]
+    },
+    {
+      "id": "1989-05-05-366551686-97",
+      "date": "1989-05-05",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-05-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        97,
+        100
+      ]
+    },
+    {
+      "id": "1989-05-08-366551686-101",
+      "date": "1989-05-08",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-05-08-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        101,
+        104
+      ]
+    },
+    {
+      "id": "1989-05-10-366551686-105",
+      "date": "1989-05-10",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-05-10-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "naid": "366551686",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "sourcePages": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "1989-05-11-366551687-12",
+      "date": "1989-05-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-05-11-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "naid": "366551687",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "sourcePages": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "1989-05-23-366551687-44",
+      "date": "1989-05-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-05-23-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "naid": "366551687",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "sourcePages": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "1989-06-05-366551687-46",
+      "date": "1989-06-05",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1989-06-05-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551687",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "sourcePages": [
+        46,
+        48
+      ]
+    },
+    {
+      "id": "1989-06-07-366551687-49",
+      "date": "1989-06-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-06-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551687",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "sourcePages": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "1989-06-11-366551687-59",
+      "date": "1989-06-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1989-06-11-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551687",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "sourcePages": [
+        59,
+        63
+      ]
+    },
+    {
+      "id": "1989-06-15-366551687-67",
+      "date": "1989-06-15",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 6,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-06-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551687",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "sourcePages": [
+        67,
+        72
+      ]
+    },
+    {
+      "id": "1989-08-02-366551688-15",
+      "date": "1989-08-02",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1989-08-02-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551688",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "sourcePages": [
+        15,
+        17
+      ]
+    },
+    {
+      "id": "1989-08-03-366551688-29",
+      "date": "1989-08-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-08-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551688",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "sourcePages": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "1989-09-05-366551688-59",
+      "date": "1989-09-05",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-09-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551688",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "sourcePages": [
+        59,
+        60
+      ]
+    },
+    {
+      "id": "1989-09-05-366551688-61",
+      "date": "1989-09-05",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1989-09-05-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551688",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "sourcePages": [
+        61,
+        64
+      ]
+    },
+    {
+      "id": "1989-09-09-366551688-65",
+      "date": "1989-09-09",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-09-09-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551688",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "sourcePages": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "1989-09-16-366551688-67",
+      "date": "1989-09-16",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Pope John Paul II",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-09-16-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "naid": "366551688",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "sourcePages": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "1989-10-23-366551688-95",
+      "date": "1989-10-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1989-10-23-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551688",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "sourcePages": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "1989-11-10-366551689-17",
+      "date": "1989-11-10",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-11-10-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        17,
+        19
+      ]
+    },
+    {
+      "id": "1989-11-17-366551689-24",
+      "date": "1989-11-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-11-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        24,
+        27
+      ]
+    },
+    {
+      "id": "1989-11-17-366551689-28",
+      "date": "1989-11-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1989-11-17-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "1989-11-17-366551689-37",
+      "date": "1989-11-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1989-11-17-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        37,
+        39
+      ]
+    },
+    {
+      "id": "1989-11-25-366551689-45",
+      "date": "1989-11-25",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Wilfried Martens",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-11-25-bush-wilfried-martens-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        45,
+        45
+      ]
+    },
+    {
+      "id": "1989-11-25-366551689-46",
+      "date": "1989-11-25",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-11-25-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "1989-11-25-366551689-48",
+      "date": "1989-11-25",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-11-25-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "1989-11-27-366551689-60",
+      "date": "1989-11-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Anibal Cavaco Silva",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-11-27-bush-anibal-cavaco-silva-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "1989-11-27-366551689-65",
+      "date": "1989-11-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Steingrimur Hermannsson",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-11-27-bush-steingrimur-hermannsson-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "1989-11-27-366551689-67",
+      "date": "1989-11-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Jacques Santer",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-11-27-bush-jacques-santer-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "1989-11-29-366551689-77",
+      "date": "1989-11-29",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-11-29-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        77,
+        81
+      ]
+    },
+    {
+      "id": "1989-11-30-366551689-84",
+      "date": "1989-11-30",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/italy/1989-11-30-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        84,
+        86
+      ]
+    },
+    {
+      "id": "1989-11-30-366551689-87",
+      "date": "1989-11-30",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1989-11-30-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        87,
+        89
+      ]
+    },
+    {
+      "id": "1989-12-20-366551689-114",
+      "date": "1989-12-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1989-12-20-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        114,
+        116
+      ]
+    },
+    {
+      "id": "1989-12-20-366551689-120",
+      "date": "1989-12-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1989-12-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551689",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "sourcePages": [
+        120,
+        122
+      ]
+    },
+    {
+      "id": "1990-01-04-366551690-9",
+      "date": "1990-01-04",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Pope John Paul II",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-01-04-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "1990-01-26-366551690-19",
+      "date": "1990-01-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-01-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        19,
+        23
+      ]
+    },
+    {
+      "id": "1990-01-26-366551690-24",
+      "date": "1990-01-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/italy/1990-01-26-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        24,
+        26
+      ]
+    },
+    {
+      "id": "1990-01-27-366551690-27",
+      "date": "1990-01-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1990-01-27-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        27,
+        29
+      ]
+    },
+    {
+      "id": "1990-01-27-366551690-30",
+      "date": "1990-01-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-01-27-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        30,
+        33
+      ]
+    },
+    {
+      "id": "1990-02-24-366551690-57",
+      "date": "1990-02-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 8,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-02-24-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        57,
+        64
+      ]
+    },
+    {
+      "id": "1990-03-07-366551690-69",
+      "date": "1990-03-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1990-03-07-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        69,
+        69
+      ]
+    },
+    {
+      "id": "1990-02-26-366551690-70",
+      "date": "1990-02-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1990-02-26-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        70,
+        72
+      ]
+    },
+    {
+      "id": "1990-03-15-366551690-102",
+      "date": "1990-03-15",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-03-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551690",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "sourcePages": [
+        102,
+        105
+      ]
+    },
+    {
+      "id": "1990-03-20-366551691-13",
+      "date": "1990-03-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-03-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        13,
+        16
+      ]
+    },
+    {
+      "id": "1990-03-23-366551691-21",
+      "date": "1990-03-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-03-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        21,
+        24
+      ]
+    },
+    {
+      "id": "1990-05-30-366551691-71",
+      "date": "1990-05-30",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-05-30-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        71,
+        75
+      ]
+    },
+    {
+      "id": "1990-06-01-366551691-77",
+      "date": "1990-06-01",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-06-01-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        77,
+        80
+      ]
+    },
+    {
+      "id": "1990-06-03-366551691-81",
+      "date": "1990-06-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-06-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "1990-06-03-366551691-83",
+      "date": "1990-06-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-06-03-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551691",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "sourcePages": [
+        83,
+        85
+      ]
+    },
+    {
+      "id": "1990-07-03-366551692-24",
+      "date": "1990-07-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Wilfried Martens",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-07-03-bush-wilfried-martens-telcon-scowcroft.pdf",
+      "naid": "366551692",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "sourcePages": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "1990-07-03-366551692-26",
+      "date": "1990-07-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Poul Schlueter",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-07-03-bush-poul-schlueter-telcon-scowcroft.pdf",
+      "naid": "366551692",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "sourcePages": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "1990-07-17-366551692-30",
+      "date": "1990-07-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-07-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551692",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "sourcePages": [
+        30,
+        34
+      ]
+    },
+    {
+      "id": "1990-08-03-366551693-17",
+      "date": "1990-08-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-08-03-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551693",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "sourcePages": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "1990-08-03-366551693-19",
+      "date": "1990-08-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1990-08-03-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551693",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "sourcePages": [
+        19,
+        22
+      ]
+    },
+    {
+      "id": "1990-08-06-366551693-48",
+      "date": "1990-08-06",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/italy/1990-08-06-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "naid": "366551693",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "sourcePages": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "1990-08-09-366551693-64",
+      "date": "1990-08-09",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-08-09-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551693",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "sourcePages": [
+        64,
+        66
+      ]
+    },
+    {
+      "id": "1990-08-20-366551693-102",
+      "date": "1990-08-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-08-20-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551693",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "sourcePages": [
+        102,
+        104
+      ]
+    },
+    {
+      "id": "1990-08-22-366551694-10",
+      "date": "1990-08-22",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Constantine Mitsotakis",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-08-22-bush-constantine-mitsotakis-telcon-scowcroft.pdf",
+      "naid": "366551694",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "sourcePages": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "1990-09-07-366551694-79",
+      "date": "1990-09-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-09-07-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551694",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "sourcePages": [
+        79,
+        81
+      ]
+    },
+    {
+      "id": "1990-09-19-366551694-88",
+      "date": "1990-09-19",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1990-09-19-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551694",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "sourcePages": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "1990-09-11-366551694-95",
+      "date": "1990-09-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-09-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551694",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "sourcePages": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "1990-09-14-366551694-100",
+      "date": "1990-09-14",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-09-14-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551694",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "sourcePages": [
+        100,
+        103
+      ]
+    },
+    {
+      "id": "1990-10-12-366551695-10",
+      "date": "1990-10-12",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-10-12-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "1990-10-17-366551695-15",
+      "date": "1990-10-17",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-10-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        15,
+        17
+      ]
+    },
+    {
+      "id": "1990-10-26-366551695-28",
+      "date": "1990-10-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-10-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        28,
+        30
+      ]
+    },
+    {
+      "id": "1990-10-26-366551695-31",
+      "date": "1990-10-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-10-26-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        31,
+        33
+      ]
+    },
+    {
+      "id": "1990-10-26-366551695-34",
+      "date": "1990-10-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/italy/1990-10-26-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        34,
+        36
+      ]
+    },
+    {
+      "id": "1990-11-11-366551695-47",
+      "date": "1990-11-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-11-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        47,
+        47
+      ]
+    },
+    {
+      "id": "1990-11-30-366551695-76",
+      "date": "1990-11-30",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-11-30-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        76,
+        78
+      ]
+    },
+    {
+      "id": "1990-12-02-366551695-85",
+      "date": "1990-12-02",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1990-12-02-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        85,
+        87
+      ]
+    },
+    {
+      "id": "1990-12-24-366551695-93",
+      "date": "1990-12-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1990-12-24-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "1990-12-24-366551695-97",
+      "date": "1990-12-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Michel Rocard",
+      "chapter": "France",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1990-12-24-bush-michel-rocard-telcon-scowcroft.pdf",
+      "naid": "366551695",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "sourcePages": [
+        97,
+        97
+      ]
+    },
+    {
+      "id": "1991-01-03-366551696-9",
+      "date": "1991-01-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1991-01-03-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "1991-01-03-366551696-11",
+      "date": "1991-01-03",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1991-01-03-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "1991-01-09-366551696-18",
+      "date": "1991-01-09",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1991-01-09-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "1991-01-14-366551696-47",
+      "date": "1991-01-14",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Constantine Mitsotakis",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-01-14-bush-constantine-mitsotakis-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        47,
+        47
+      ]
+    },
+    {
+      "id": "1991-01-16-366551696-52",
+      "date": "1991-01-16",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-01-16-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "1991-01-20-366551696-77",
+      "date": "1991-01-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 6,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1991-01-20-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        77,
+        82
+      ]
+    },
+    {
+      "id": "1991-01-21-366551696-86",
+      "date": "1991-01-21",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/italy/1991-01-21-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        86,
+        88
+      ]
+    },
+    {
+      "id": "1991-01-24-366551696-99",
+      "date": "1991-01-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-01-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        99,
+        101
+      ]
+    },
+    {
+      "id": "1991-01-28-366551696-106",
+      "date": "1991-01-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-01-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551696",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "sourcePages": [
+        106,
+        109
+      ]
+    },
+    {
+      "id": "1991-02-09-366551697-66",
+      "date": "1991-02-09",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-02-09-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551697",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "sourcePages": [
+        66,
+        68
+      ]
+    },
+    {
+      "id": "1991-02-16-366551697-94",
+      "date": "1991-02-16",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1991-02-16-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551697",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "sourcePages": [
+        94,
+        96
+      ]
+    },
+    {
+      "id": "1991-02-18-366551697-97",
+      "date": "1991-02-18",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-02-18-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551697",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "sourcePages": [
+        97,
+        100
+      ]
+    },
+    {
+      "id": "1991-02-23-366551698-24",
+      "date": "1991-02-23",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-02-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551698",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "sourcePages": [
+        24,
+        26
+      ]
+    },
+    {
+      "id": "1991-03-05-366551698-79",
+      "date": "1991-03-05",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Pope John Paul II",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-03-05-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "naid": "366551698",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "sourcePages": [
+        79,
+        79
+      ]
+    },
+    {
+      "id": "1991-03-07-366551699-4",
+      "date": "1991-03-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-03-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551699",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "sourcePages": [
+        4,
+        7
+      ]
+    },
+    {
+      "id": "1991-03-21-366551699-8",
+      "date": "1991-03-21",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 5,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551699",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "sourcePages": [
+        8,
+        12
+      ]
+    },
+    {
+      "id": "1991-04-11-366551699-26",
+      "date": "1991-04-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1991-04-11-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551699",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "sourcePages": [
+        26,
+        29
+      ]
+    },
+    {
+      "id": "1991-04-16-366551699-48",
+      "date": "1991-04-16",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1991-04-16-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551699",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "sourcePages": [
+        48,
+        51
+      ]
+    },
+    {
+      "id": "1991-04-20-366551699-65",
+      "date": "1991-04-20",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-04-20-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "naid": "366551699",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "sourcePages": [
+        65,
+        67
+      ]
+    },
+    {
+      "id": "1991-04-25-366551699-70",
+      "date": "1991-04-25",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-04-25-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551699",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "sourcePages": [
+        70,
+        72
+      ]
+    },
+    {
+      "id": "1991-06-24-366551700-80",
+      "date": "1991-06-24",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-06-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551700",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "sourcePages": [
+        80,
+        83
+      ]
+    },
+    {
+      "id": "1991-07-08-366551700-84",
+      "date": "1991-07-08",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-07-08-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551700",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "sourcePages": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "1991-08-19-366551701-9",
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1991-08-19-bush-john-major-telcon-scowcroft-p9.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        9,
+        9
+      ]
+    },
+    {
+      "id": "1991-08-19-366551701-11",
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-08-19-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        11,
+        11
+      ]
+    },
+    {
+      "id": "1991-08-19-366551701-20",
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1991-08-19-bush-john-major-telcon-scowcroft-p20.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "1991-08-19-366551701-22",
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-08-19-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        22,
+        24
+      ]
+    },
+    {
+      "id": "1991-08-19-366551701-25",
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-08-19-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        25,
+        27
+      ]
+    },
+    {
+      "id": "1991-08-26-366551701-63",
+      "date": "1991-08-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-08-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        63,
+        66
+      ]
+    },
+    {
+      "id": "1991-08-27-366551701-74",
+      "date": "1991-08-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-08-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551701",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "sourcePages": [
+        74,
+        76
+      ]
+    },
+    {
+      "id": "1991-09-27-366551702-8",
+      "date": "1991-09-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1991-09-27-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "1991-09-27-366551702-10",
+      "date": "1991-09-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1991-09-27-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "1991-09-27-366551702-16",
+      "date": "1991-09-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Manfred Woerner",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-09-27-bush-manfred-woerner-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "1991-09-27-366551702-20",
+      "date": "1991-09-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-09-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        20,
+        20
+      ]
+    },
+    {
+      "id": "1991-10-11-366551702-39",
+      "date": "1991-10-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Manfred Woerner",
+      "chapter": "Regional",
+      "pageCount": 7,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-10-11-bush-manfred-woerner-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        39,
+        45
+      ]
+    },
+    {
+      "id": "1991-10-11-366551702-46",
+      "date": "1991-10-11",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Anibal Cavaco Silva",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-10-11-bush-anibal-cavaco-silva-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "1991-11-26-366551702-76",
+      "date": "1991-11-26",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-11-26-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        76,
+        78
+      ]
+    },
+    {
+      "id": "1991-12-13-366551702-112",
+      "date": "1991-12-13",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 6,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-12-13-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        112,
+        117
+      ]
+    },
+    {
+      "id": "1991-12-14-366551702-122",
+      "date": "1991-12-14",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-12-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        122,
+        124
+      ]
+    },
+    {
+      "id": "1991-12-15-366551702-126",
+      "date": "1991-12-15",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "chapter": "France",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/france/1991-12-15-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        126,
+        129
+      ]
+    },
+    {
+      "id": "1991-12-16-366551702-133",
+      "date": "1991-12-16",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1991-12-16-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551702",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "sourcePages": [
+        133,
+        136
+      ]
+    },
+    {
+      "id": "1992-03-06-366551703-25",
+      "date": "1992-03-06",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1992-03-06-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551703",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-003.pdf",
+      "sourcePages": [
+        25,
+        28
+      ]
+    },
+    {
+      "id": "1992-03-29-366551703-48",
+      "date": "1992-03-29",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1992-03-29-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551703",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-003.pdf",
+      "sourcePages": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "1992-05-01-366551704-15",
+      "date": "1992-05-01",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Jacques Delors",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-05-01-bush-jacques-delors-telcon-scowcroft.pdf",
+      "naid": "366551704",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "sourcePages": [
+        15,
+        17
+      ]
+    },
+    {
+      "id": "1992-05-01-366551704-18",
+      "date": "1992-05-01",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-05-01-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551704",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "sourcePages": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "1992-06-10-366551704-39",
+      "date": "1992-06-10",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Constantine Mitsotakis",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-06-10-bush-constantine-mitsotakis-telcon-scowcroft.pdf",
+      "naid": "366551704",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "sourcePages": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "1992-06-27-366551704-73",
+      "date": "1992-06-27",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1992-06-27-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551704",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "sourcePages": [
+        73,
+        76
+      ]
+    },
+    {
+      "id": "1992-06-28-366551704-77",
+      "date": "1992-06-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-06-28-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551704",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "sourcePages": [
+        77,
+        79
+      ]
+    },
+    {
+      "id": "1992-06-28-366551704-80",
+      "date": "1992-06-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "chapter": "Italy",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/italy/1992-06-28-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "naid": "366551704",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "sourcePages": [
+        80,
+        82
+      ]
+    },
+    {
+      "id": "1992-06-28-366551704-83",
+      "date": "1992-06-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-06-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551704",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "sourcePages": [
+        83,
+        85
+      ]
+    },
+    {
+      "id": "1992-06-28-366551704-86",
+      "date": "1992-06-28",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Anibal Cavaco Silva",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-06-28-bush-anibal-cavaco-silva-telcon-scowcroft.pdf",
+      "naid": "366551704",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "sourcePages": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "1992-08-07-366551705-25",
+      "date": "1992-08-07",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1992-08-07-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551705",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "sourcePages": [
+        25,
+        27
+      ]
+    },
+    {
+      "id": "1992-08-13-366551705-32",
+      "date": "1992-08-13",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Pope John Paul II",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-08-13-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "naid": "366551705",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "sourcePages": [
+        32,
+        33
+      ]
+    },
+    {
+      "id": "1992-10-14-366551705-56",
+      "date": "1992-10-14",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 3,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-10-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551705",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "sourcePages": [
+        56,
+        58
+      ]
+    },
+    {
+      "id": "1992-10-14-366551705-59",
+      "date": "1992-10-14",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 4,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1992-10-14-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551705",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "sourcePages": [
+        59,
+        62
+      ]
+    },
+    {
+      "id": "1992-11-01-366551705-74",
+      "date": "1992-11-01",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "chapter": "United Kingdom",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/united-kingdom/1992-11-01-bush-john-major-telcon-scowcroft.pdf",
+      "naid": "366551705",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "sourcePages": [
+        74,
+        75
+      ]
+    },
+    {
+      "id": "1992-11-04-366551705-76",
+      "date": "1992-11-04",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "chapter": "Regional",
+      "pageCount": 1,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-11-04-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "naid": "366551705",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "sourcePages": [
+        76,
+        76
+      ]
+    },
+    {
+      "id": "1992-12-21-366551706-94",
+      "date": "1992-12-21",
+      "type": "Telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "chapter": "Regional",
+      "pageCount": 2,
+      "provenancePages": 1,
+      "pdfUrl": "documents/regional/1992-12-21-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "naid": "366551706",
+      "sourceFile": "41-bpr-scow-pcor-telcon-91113-006.pdf",
+      "sourcePages": [
+        94,
+        95
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "date": "1991-07-18",
+      "type": "Memcon",
+      "subject": "President’s Expanded Meeting with Prime Minister Mitsotakis of Greece (U",
+      "file": "41-bpr-scow-pcor-memcon-91109-001.pdf",
+      "startPage": 90,
+      "endPage": 94,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-09-23",
+      "type": "Memcon",
+      "subject": "Memoranda of Conversations of the President with Chancellor Helmut Kohl of Germany on September 16, 1991 Attached at Tab A and B are Memoranda of Conversations between the President and Chancellor Helmut Kohl of Germany on September 16, 199",
+      "file": "41-bpr-scow-pcor-memcon-91109-002.pdf",
+      "startPage": 62,
+      "endPage": 62,
+      "reason": "cover-or-transmittal-page"
+    },
+    {
+      "date": "1991-09-16",
+      "type": "Memcon",
+      "subject": "Expanded Meeting with Helmut Kohl, Chancellor of Germany |",
+      "file": "41-bpr-scow-pcor-memcon-91109-002.pdf",
+      "startPage": 63,
+      "endPage": 66,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-09-16",
+      "type": "Memcon",
+      "subject": "Meeting with Helmut Kohl, Chancellor of Germany",
+      "file": "41-bpr-scow-pcor-memcon-91109-002.pdf",
+      "startPage": 67,
+      "endPage": 70,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-09-24",
+      "type": "Memcon",
+      "subject": "Meeting with Prime Minister Gro Harlem Brundtland of Norway",
+      "file": "41-bpr-scow-pcor-memcon-91109-003.pdf",
+      "startPage": 11,
+      "endPage": 14,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-10-03",
+      "type": "Memcon",
+      "subject": "Meeting with Foreign Minister Hans-Dietrich Genscher of Germany",
+      "file": "41-bpr-scow-pcor-memcon-91109-003.pdf",
+      "startPage": 49,
+      "endPage": 51,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-10-10",
+      "type": "Memcon",
+      "subject": "Meeting with Franz Vranitzky, Chancellor of Austria",
+      "file": "41-bpr-scow-pcor-memcon-91109-003.pdf",
+      "startPage": 89,
+      "endPage": 92,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-10-16",
+      "type": "Memcon",
+      "subject": "Meeting with Prime Minister Poul Schlueter of Denmark",
+      "file": "41-bpr-scow-pcor-memcon-91109-004.pdf",
+      "startPage": 5,
+      "endPage": 9,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-11-07",
+      "type": "Memcon",
+      "subject": "NATO Summit",
+      "file": "41-bpr-scow-pcor-memcon-91109-004.pdf",
+      "startPage": 54,
+      "endPage": 57,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-11-22",
+      "type": "Memcon",
+      "subject": "Meeting with Michel Rocard, Former Prime Minister of France",
+      "file": "41-bpr-scow-pcor-memcon-91109-004.pdf",
+      "startPage": 85,
+      "endPage": 86,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-12-12",
+      "type": "Memcon",
+      "subject": "Meeting with Prime Minister Constantine Mitsotakis of Greece (U)",
+      "file": "41-bpr-scow-pcor-memcon-91109-004.pdf",
+      "startPage": 99,
+      "endPage": 100,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-12-12",
+      "type": "Memcon",
+      "subject": "Meeting with Prime Minister Constantine Mitsotakis of Greece (U)",
+      "file": "41-bpr-scow-pcor-memcon-91109-004.pdf",
+      "startPage": 102,
+      "endPage": 104,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-12-12",
+      "type": "Memcon",
+      "subject": "Meeting with Prime Minister Constantine Mitsotakis of Greece (U)",
+      "file": "41-bpr-scow-pcor-memcon-91109-004.pdf",
+      "startPage": 108,
+      "endPage": 111,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1992-01-13",
+      "type": "Memcon",
+      "subject": "Memorandum of Conversation with President Mario Soares of Portugal Attached at Tab A is a Memorandum of Conversation between the President and President Soares on January 13, 1992. RECOMMENDATIONS That the attached Memorandum of Conversatio",
+      "file": "41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "startPage": 24,
+      "endPage": 24,
+      "reason": "cover-or-transmittal-page"
+    },
+    {
+      "date": "1992-01-31",
+      "type": "Memcon",
+      "subject": "Meeting with President Mitterrand of France (U)",
+      "file": "41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "startPage": 53,
+      "endPage": 55,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1992-02-06",
+      "type": "Memcon",
+      "subject": "Memorandum of Conversation with Austrian Chancellor Franz Vranitzky Attached at Tab A is a Memorandum of Conversation between the President and Chancellor Vranitzky on January 31, 1992. Concurrence by: Robert HutchingsRZd RECOMMENDATIONS Th",
+      "file": "41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "startPage": 56,
+      "endPage": 56,
+      "reason": "cover-or-transmittal-page"
+    },
+    {
+      "date": "1992-02-06",
+      "type": "Memcon",
+      "subject": "Presidential Meeting with Wilfried Martens, Prime Minister of Belgium, on January 31, 1992 Attached at Tab A is a Memorandum of Conversation between the President and Prime Minister Wilfried Martens, Prime Minister of Belgium, on January 31",
+      "file": "41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "startPage": 60,
+      "endPage": 60,
+      "reason": "cover-or-transmittal-page"
+    },
+    {
+      "date": null,
+      "type": "Memcon",
+      "subject": "Meeting with President Richard von 22008- mos HR ‘$ Weizsaecker of Germany (U) Gy, HSOH S cee ee j “tan",
+      "file": "41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "startPage": 92,
+      "endPage": 96,
+      "reason": "missing-date-after-ocr-and-folder-check"
+    },
+    {
+      "date": "1992-07-05",
+      "type": "Memcon",
+      "subject": "Meeting between POTUS and President Mitterrand",
+      "file": "41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "startPage": 13,
+      "endPage": 21,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1992-07-09",
+      "type": "Memcon",
+      "subject": "Meeting with Prime Minister Constantine Mitsotakis of Greece",
+      "file": "41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "startPage": 105,
+      "endPage": 108,
+      "reason": "duplicate-within-scowcroft-source"
+    },
+    {
+      "date": "1992-07-09",
+      "type": "Memcon",
+      "subject": "Meeting with Manfred Woerner NATO Secretary General",
+      "file": "41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "startPage": 110,
+      "endPage": 112,
+      "reason": "duplicate-within-scowcroft-source"
+    },
+    {
+      "date": "1992-11-23",
+      "type": "Memcon",
+      "subject": "Memorandum of Conversation with Prime Minister Mitsotakis of Greece on November 17, 1992 Attached at Tab I is the Memorandum of Conversation between the President and Prime Minister Mitsotakis of Greece on November 17, 1992. RECOMMENDATION ",
+      "file": "41-bpr-scow-pcor-memcon-91110-002.pdf",
+      "startPage": 57,
+      "endPage": 57,
+      "reason": "cover-or-transmittal-page"
+    },
+    {
+      "date": "1989-04-12",
+      "type": "Telcon",
+      "subject": "The President’s Telephone Call to West German Chancellor Helmut Kohl",
+      "file": "41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "startPage": 71,
+      "endPage": 72,
+      "reason": "duplicate-within-scowcroft-source"
+    },
+    {
+      "date": "1989-08-26",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with President Francois Mitterrand of France (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "startPage": 52,
+      "endPage": 57,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1989-09-16",
+      "type": "Telcon",
+      "subject": "Telephone Call to Francois Mitterrand, President of France",
+      "file": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "startPage": 69,
+      "endPage": 71,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1989-10-23",
+      "type": "Telcon",
+      "subject": "Telephone Call from Chancellor Helmut Kohl of the Federal Republic of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "startPage": 89,
+      "endPage": 92,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1989-10-24",
+      "type": "Telcon",
+      "subject": "Telephone Call to Pope John Paul II (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "startPage": 8,
+      "endPage": 9,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1989-11-18",
+      "type": "Telcon",
+      "subject": "Telephone Call to Giulio Andreotti, Prime Minister of Italy (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "startPage": 43,
+      "endPage": 44,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1989-11-26",
+      "type": "Telcon",
+      "subject": "The President’s Telephone Call to Prime Minister Poul Schlueter of Denmark! (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "startPage": 50,
+      "endPage": 51,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1989-12-23",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with Prime Minister Felipe Gonzalez of Spain (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "startPage": 132,
+      "endPage": 135,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-01-08",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with Prime Minister Felipe Gonzalez of Spain, January 4, 1990 At Tab A is the Memorandum of Telephone Conversation for the President’s telephone call to Prime Minister Felipe Gonzalez of Spain on January 4. The memora",
+      "file": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "startPage": 11,
+      "endPage": 11,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-01-08",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with Prime Minister Felipe Gonzalez of Spain (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "startPage": 12,
+      "endPage": 18,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-02-13",
+      "type": "Telcon",
+      "subject": "Telephone Call from Chancellor Helmut Kohl of the Federal Republic of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "startPage": 45,
+      "endPage": 46,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-02-13",
+      "type": "Telcon",
+      "subject": "Telephone Call to Chancellor Helmut Kohl of the Federal Republic of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "startPage": 47,
+      "endPage": 48,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-02-13",
+      "type": "Telcon",
+      "subject": "Telephone Call to Chancellor Helmut Kohl of the Federal Republic of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "startPage": 49,
+      "endPage": 50,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-04-17",
+      "type": "Telcon",
+      "subject": "Telephone Call to Prime Minister Ruud Lubbers of the Netherlands (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "startPage": 40,
+      "endPage": 47,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-07-03",
+      "type": "Telcon",
+      "subject": "Telephone Call to Prime Minister Ruud Lubbers of the Netherlands (U)",
+      "file": "41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "startPage": 28,
+      "endPage": 29,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-08-20",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with President Francois Mitterrand of France",
+      "file": "41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "startPage": 105,
+      "endPage": 108,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-08-22",
+      "type": "Telcon",
+      "subject": "Telcon with Helmut Kohl, Chancellor of the Federal Republic of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "startPage": 7,
+      "endPage": 9,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-08-23",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with Chancellor Helmut Kohl of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "startPage": 12,
+      "endPage": 13,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-08-30",
+      "type": "Telcon",
+      "subject": "Telephone Call to Helmut Kohl, Chancellor of the Federal Republic of Germany (U",
+      "file": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "startPage": 35,
+      "endPage": 36,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-08-31",
+      "type": "Telcon",
+      "subject": "Telephone Call to Margaret Thatcher, Prime Minister of the United Kingdom",
+      "file": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "startPage": 50,
+      "endPage": 53,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-08-31",
+      "type": "Telcon",
+      "subject": "Telephone Call to Francois Mitterrand, President of France (U",
+      "file": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "startPage": 54,
+      "endPage": 57,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-09-06",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with President Francois Mitterrand of France",
+      "file": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "startPage": 67,
+      "endPage": 70,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-09-06",
+      "type": "Telcon",
+      "subject": "Telephone Call from Chancellor Helmut Kohl of the Federal Republic of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "startPage": 71,
+      "endPage": 73,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-09-14",
+      "type": "Telcon",
+      "subject": "Telephone Call to President Mitterrand of France (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "startPage": 104,
+      "endPage": 105,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-09-16",
+      "type": "Telcon",
+      "subject": "Telephone Call from President Mitterrand of France (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "startPage": 106,
+      "endPage": 107,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-10-11",
+      "type": "Telcon",
+      "subject": "Telcon to President Francois Mitterrand of France (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "startPage": 6,
+      "endPage": 7,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-10-11",
+      "type": "Telcon",
+      "subject": "Telcon to President Francois Mitterrand of France (0)",
+      "file": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "startPage": 8,
+      "endPage": 9,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-11-11",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with Chancellor Helmut Kohl of Germany",
+      "file": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "startPage": 48,
+      "endPage": 52,
+      "reason": "duplicate-within-scowcroft-source"
+    },
+    {
+      "date": "1990-12-17",
+      "type": "Telcon",
+      "subject": "Telcon with Chancellor Helmut Kohl of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "startPage": 88,
+      "endPage": 90,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1990-12-24",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with President Francois Mitterrand of France",
+      "file": "41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "startPage": 95,
+      "endPage": 96,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-01-09",
+      "type": "Telcon",
+      "subject": "Telcon with President Francois Mitterrand of France (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "startPage": 20,
+      "endPage": 21,
+      "reason": "duplicate-within-scowcroft-source"
+    },
+    {
+      "date": "1991-01-11",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with Prime Minister Felipe Gonzalez of Spain",
+      "file": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "startPage": 41,
+      "endPage": 42,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-01-21",
+      "type": "Telcon",
+      "subject": "Telcon with Prime Minister Felipe Gonzalez of Spain (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "startPage": 91,
+      "endPage": 93,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-01-22",
+      "type": "Telcon",
+      "subject": "Telcon with Chancellor Kohl of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "startPage": 94,
+      "endPage": 98,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-01-28",
+      "type": "Telcon",
+      "subject": "Telcon with Chancellor Kohl of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "startPage": 110,
+      "endPage": 111,
+      "reason": "duplicate-within-scowcroft-source"
+    },
+    {
+      "date": "1991-02-05",
+      "type": "Telcon",
+      "subject": "Telephone Call with President Francois Mitterrand of France",
+      "file": "41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "startPage": 38,
+      "endPage": 44,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-02-19",
+      "type": "Telcon",
+      "subject": "Telcon with Francois Mitterrand, President of France on February 19, 1991",
+      "file": "41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "startPage": 104,
+      "endPage": 107,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-02-27",
+      "type": "Telcon",
+      "subject": "Telcon with Francois Mitterrand, President of France",
+      "file": "41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "startPage": 46,
+      "endPage": 49,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-03-05",
+      "type": "Telcon",
+      "subject": "Telcon to Pope John Paul II (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "startPage": 80,
+      "endPage": 82,
+      "reason": "duplicate-within-scowcroft-source"
+    },
+    {
+      "date": "1991-04-16",
+      "type": "Telcon",
+      "subject": "Telcon with President Francois Mitterrand of France on April 16, 1991",
+      "file": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "startPage": 42,
+      "endPage": 47,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-04-16",
+      "type": "Telcon",
+      "subject": "Telcon with Chancellor Kohl of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "startPage": 52,
+      "endPage": 55,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-06-03",
+      "type": "Telcon",
+      "subject": "Telcon with Giulio Andreotti, President of Italy on June 3, 1991",
+      "file": "41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "startPage": 48,
+      "endPage": 50,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-07-11",
+      "type": "Telcon",
+      "subject": "Telcon with Francois Mitterrand President of France on July 11, 1991",
+      "file": "41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "startPage": 97,
+      "endPage": 98,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "subject": "Telcon with Francois Mitterrand, President of France on August 19, 1991",
+      "file": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "startPage": 10,
+      "endPage": 10,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-08-19",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with Prime Minister of Italy Giulio Andreotti",
+      "file": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "startPage": 18,
+      "endPage": 19,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": null,
+      "type": "Telcon",
+      "subject": "President’s Telephone Conversation with Prime Minister Major of the United Kingdom",
+      "file": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "startPage": 51,
+      "endPage": 53,
+      "reason": "missing-date-after-ocr-and-folder-check"
+    },
+    {
+      "date": "1991-09-24",
+      "type": "Telcon",
+      "subject": "Telcon with President Mitterrand of France",
+      "file": "41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "startPage": 106,
+      "endPage": 109,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-11-27",
+      "type": "Telcon",
+      "subject": "Telcon with Helmut Kohl, Chancellor of Germany Attached at Tab A is a Memorandum of Telephone Conversation between the President and Chance]llor Kohl on November 26, 1991. Concurrence by: David Gompert RECOMMENDATIONS That the attached Memo",
+      "file": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "startPage": 73,
+      "endPage": 73,
+      "reason": "cover-or-transmittal-page"
+    },
+    {
+      "date": "1991-11-26",
+      "type": "Telcon",
+      "subject": "Telcon with Helmut Kohl, Chancellor of Germany",
+      "file": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "startPage": 74,
+      "endPage": 75,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1991-12-16",
+      "type": "Telcon",
+      "subject": "Telcon with French President Francois Mitterrand Attached at Tab A is a Memorandum of Telephone Conversation between the President and President Mitterrand on December 15, 1991. RECOMMENDATIONS That the attached Memorandum of Conversation b",
+      "file": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "startPage": 130,
+      "endPage": 130,
+      "reason": "cover-or-transmittal-page"
+    },
+    {
+      "date": "1991-12-16",
+      "type": "Telcon",
+      "subject": "Telephone Conversation with Prime Minister Ruud Lubbers of the Netherlands Attached at Tab A is a Memorandum of Telephone Conversation between the President and Prime Minister Lubbers on December 16, 1992 .. RECOMMENDATIONS That the attache",
+      "file": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "startPage": 131,
+      "endPage": 131,
+      "reason": "cover-or-transmittal-page"
+    },
+    {
+      "date": "1992-01-23",
+      "type": "Telcon",
+      "subject": "Telcon with Helmut Kohl, Chancellor of Germany Attached at Tab A is a Memorandum of Telephone Conversation between the President and Chancellor Kohl on January 23, 1992. RECOMMENDATIONS : That the attached Memorandym/of Telephone Conversati",
+      "file": "41-bpr-scow-pcor-telcon-91113-003.pdf",
+      "startPage": 12,
+      "endPage": 12,
+      "reason": "cover-or-transmittal-page"
+    },
+    {
+      "date": "1992-05-06",
+      "type": "Telcon",
+      "subject": "Telcon with Chancellor Kohl of Germany (U)",
+      "file": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "startPage": 23,
+      "endPage": 24,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1992-06-30",
+      "type": "Telcon",
+      "subject": "Telecon with Francois Mitterrand, President of France",
+      "file": "41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "startPage": 99,
+      "endPage": 101,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1992-09-28",
+      "type": "Telcon",
+      "subject": "Telcon with Helmut Kohl, Chancellor of Germany on September 28, 1992",
+      "file": "41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "startPage": 52,
+      "endPage": 53,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1992-12-03",
+      "type": "Telcon",
+      "subject": "Telecon with President Francois Mitterrand of France on December 3, 1992",
+      "file": "41-bpr-scow-pcor-telcon-91113-006.pdf",
+      "startPage": 51,
+      "endPage": 53,
+      "reason": "already-in-current-collection"
+    },
+    {
+      "date": "1992-12-03",
+      "type": "Telcon",
+      "subject": "Telcon with John Major, Prime Minister of United Kingdom on December 3, 1992",
+      "file": "41-bpr-scow-pcor-telcon-91113-006.pdf",
+      "startPage": 58,
+      "endPage": 60,
+      "reason": "already-in-current-collection"
+    }
+  ]
+}

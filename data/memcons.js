@@ -1,409 +1,11 @@
-window.MEMCON_RECORDS = [
+window.MEMCONS = [
   {
-    "id": "1989-06-01-428080027",
-    "date": "1989-06-01",
-    "sortDate": "1989-06-01",
-    "type": "Memcon",
-    "title": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (1 of 2)",
-    "sourceTitle": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (1 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "Margaret Thatcher, Prime Minister of the United Kingdom"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080027",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-01--Thatcher-1.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080027",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 7
-  },
-  {
-    "id": "1989-06-01-428080029",
-    "date": "1989-06-01",
-    "sortDate": "1989-06-01",
-    "type": "Memcon",
-    "title": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (2 of 2)",
-    "sourceTitle": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (2 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "Margaret Thatcher, Prime Minister of the United Kingdom"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080029",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-01--Thatcher-2.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080029",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 4
-  },
-  {
-    "id": "1989-07-14-428080097",
-    "date": "1989-07-14",
-    "sortDate": "1989-07-14",
-    "type": "Memcon",
-    "title": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
-    "sourceTitle": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
-    "participants": [
-      "George H. W. Bush",
-      "Margaret Thatcher, Prime Minister of Great Britain"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080097",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-14--Thatcher.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080097",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 4
-  },
-  {
-    "id": "local-1989-09-11-john-major-memcon",
-    "date": "1989-09-11",
-    "sortDate": "1989-09-11",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and John Major",
-    "sourceTitle": "890911_BushANDThatcher_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "John Major"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-890911_BushANDThatcher_Memcon-corrected-john-major",
-    "pdfUrl": "documents/united-kingdom/1989-09-11-bush-john-major-memcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1989-09-11-bush-john-major-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 4,
-    "localOriginalFile": "890911_BushANDThatcher_Memcon.pdf",
-    "notes": "Corrected after OCR audit: the declassified conversation text is with John Major, not Margaret Thatcher; PDF trimmed to the four conversation pages. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1989-09-11-428080179",
-    "date": "1989-09-11",
-    "sortDate": "1989-09-11",
-    "type": "Memcon",
-    "title": "Meeting with John Major of the United Kingdom, September 11, 1989",
-    "sourceTitle": "Meeting with John Major of the United Kingdom, September 11, 1989",
-    "participants": [
-      "George H. W. Bush",
-      "John Major of the United Kingdom"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080179",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-11--Major.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080179",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 5
-  },
-  {
-    "id": "local-1989-09-21-john-major-memcon",
-    "date": "1989-09-21",
-    "sortDate": "1989-09-21",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and John Major",
-    "sourceTitle": "890921_BushANDMajor_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "John Major"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-890921_BushANDMajor_Memcon",
-    "pdfUrl": "documents/united-kingdom/1989-09-21-bush-john-major-memcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1989-09-21-bush-john-major-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "890921_BushANDMajor_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1989-11-24-428080329",
-    "date": "1989-11-24",
-    "sortDate": "1989-11-24",
-    "type": "Memcon",
-    "title": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
-    "sourceTitle": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
-    "participants": [
-      "George H. W. Bush",
-      "Margaret Thatcher, Prime Minister of Great Britain"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080329",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-11-24--Thatcher.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080329",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 10
-  },
-  {
-    "id": "1990-01-29-428080479",
-    "date": "1990-01-29",
-    "sortDate": "1990-01-29",
-    "type": "Memcon",
-    "title": "Meeting with Douglas Hurd, Foreign Secretary of the United Kingdom",
-    "sourceTitle": "Meeting with Douglas Hurd, Foreign Secretary of the United Kingdom",
-    "participants": [
-      "George H. W. Bush",
-      "Douglas Hurd, Foreign Secretary of the United Kingdom"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080479",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-29--Hurd.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080479",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 5
-  },
-  {
-    "id": "1990-04-13-428080633",
-    "date": "1990-04-13",
-    "sortDate": "1990-04-13",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister Margaret Thatcher of Great Britain, April 13, 1990",
-    "sourceTitle": "Meeting with prime Minister Maraaret Thatcher of Great Britain, April 13, 1990",
-    "participants": [
-      "George H. W. Bush",
-      "Prime Minister Margaret Thatcher of Great Britain"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080633",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-13--Thatcher.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080633",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 19
-  },
-  {
-    "id": "local-1990-08-21-margaret-thatcher-telcon",
-    "date": "1990-08-21",
-    "sortDate": "1990-08-21",
+    "id": "1989-01-23-366551686-18",
+    "date": "1989-01-23",
+    "sortDate": "1989-01-23",
     "type": "Telcon",
     "title": "Telephone conversation: President Bush and Margaret Thatcher",
-    "sourceTitle": "900821_BushANDThatcher_Telcon.pdf",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 18-20",
     "participants": [
       "George H. W. Bush",
       "Margaret Thatcher"
@@ -416,521 +18,256 @@ window.MEMCON_RECORDS = [
       "number": 1,
       "name": "United Kingdom"
     },
-    "releaseStatus": "Unknown",
-    "naid": "local-900821_BushANDThatcher_Telcon",
-    "pdfUrl": "documents/united-kingdom/1990-08-21-bush-margaret-thatcher-telcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1990-08-21-bush-margaret-thatcher-telcon.pdf",
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/united-kingdom/1989-01-23-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
     "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
     },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
     "frusTopics": [
       "Western Europe",
-      "United Kingdom bilateral relations"
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
     ],
     "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900821_BushANDThatcher_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-08-31-margaret-thatcher-telcon",
-    "date": "1990-08-31",
-    "sortDate": "1990-08-31",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Margaret Thatcher",
-    "sourceTitle": "900831_BushANDThatcher_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Margaret Thatcher"
-    ],
-    "countries": [
-      "United States",
+      "United Kingdom",
+      "Telcon",
       "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900831_BushANDThatcher_Telcon",
-    "pdfUrl": "documents/united-kingdom/1990-08-31-bush-margaret-thatcher-telcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1990-08-31-bush-margaret-thatcher-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900831_BushANDThatcher_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-10-margaret-thatcher-telcon",
-    "date": "1990-09-10",
-    "sortDate": "1990-09-10",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Margaret Thatcher",
-    "sourceTitle": "900910_BushANDThatcher_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Margaret Thatcher"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900910_BushANDThatcher_Telcon",
-    "pdfUrl": "documents/united-kingdom/1990-09-10-bush-margaret-thatcher-telcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1990-09-10-bush-margaret-thatcher-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900910_BushANDThatcher_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-12-margaret-thatcher-telcon",
-    "date": "1990-09-12",
-    "sortDate": "1990-09-12",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Margaret Thatcher",
-    "sourceTitle": "900912_BushANDThatcher_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Margaret Thatcher"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900912_BushANDThatcher_Telcon",
-    "pdfUrl": "documents/united-kingdom/1990-09-12-bush-margaret-thatcher-telcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1990-09-12-bush-margaret-thatcher-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900912_BushANDThatcher_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-18-margaret-thatcher-telcon",
-    "date": "1990-09-18",
-    "sortDate": "1990-09-18",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Margaret Thatcher",
-    "sourceTitle": "900918_BushANDThatcher_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Margaret Thatcher"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900918_BushANDThatcher_Telcon",
-    "pdfUrl": "documents/united-kingdom/1990-09-18-bush-margaret-thatcher-telcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1990-09-18-bush-margaret-thatcher-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900918_BushANDThatcher_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1990-11-19-428081193",
-    "date": "1990-11-19",
-    "sortDate": "1990-11-19",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister Margaret Thatcher of Great Britain, November 19, 1990",
-    "sourceTitle": "Meeting with Prime Minister Maragaret Thatcher of Great Britain, November 19, 1990",
-    "participants": [
-      "George H. W. Bush",
-      "Prime Minister Margaret Thatcher of Great Britain"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081193",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-19--Thatcher.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081193",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 4
-  },
-  {
-    "id": "1990-12-21-428081243",
-    "date": "1990-12-21",
-    "sortDate": "1990-12-21",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister John Major of the United Kingdom, December 21, 1990 (2 of 2)",
-    "sourceTitle": "Meeting with Prime Minister John Major of the United Kingdom, December 21, 1990 (2 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "Prime Minister John Major of the United Kingdom"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081243",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-21--Major-2.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081243",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 7
-  },
-  {
-    "id": "1990-12-21-428081247",
-    "date": "1990-12-21",
-    "sortDate": "1990-12-21",
-    "type": "Memcon",
-    "title": "Telephone Conversation with Prime Minister John Major of the United Kingdom, December 21, 1990 (1 of 2)",
-    "sourceTitle": "Telephone Conversation with Prime Minister John Major of the United Kingdom, December 21, 1990 (1 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "Prime Minister John Major of the United Kingdom"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081247",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-21--Major-1.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081247",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 4
-  },
-  {
-    "id": "1991-02-12-428081431",
-    "date": "1991-02-12",
-    "sortDate": "1991-02-12",
-    "type": "Memcon",
-    "title": "Meeting with Thomas King, Secretary of State for Defense, United Kingdom, February 12, 1991",
-    "sourceTitle": "Meeting with Thomas King, Secretary of State for Defense, United Kingdom, February 12, 1991",
-    "participants": [
-      "George H. W. Bush",
-      "Thomas King, Secretary of State for Defense, United Kingdom"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081431",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-12--King.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081431",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 4
-  },
-  {
-    "id": "1991-03-16-428081535",
-    "date": "1991-03-16",
-    "sortDate": "1991-03-16",
-    "type": "Memcon",
-    "title": "Meeting with John Major, Prime Minister of the United Kingdom, March 16, 1991",
-    "sourceTitle": "Meeting with John Major, Prime Minister of the United Kingdom, March 16, 1991",
-    "participants": [
-      "George H. W. Bush",
-      "John Major, Prime Minister of the United Kingdom"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081535",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-16--Major.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081535",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 8
-  },
-  {
-    "id": "local-1992-10-02-john-major-telcon",
-    "date": "1992-10-02",
-    "sortDate": "1992-10-02",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and John Major",
-    "sourceTitle": "921002_BushANDMajor_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "John Major"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-921002_BushANDMajor_Telcon",
-    "pdfUrl": "documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 4,
-    "localOriginalFile": "921002_BushANDMajor_Telcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the four pages of John Major telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1992-12-03-john-major-telcon",
-    "date": "1992-12-03",
-    "sortDate": "1992-12-03",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and John Major",
-    "sourceTitle": "921203_BushANDMajor_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "John Major"
-    ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-921203_BushANDMajor_Telcon",
-    "pdfUrl": "documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
     ],
     "pageCount": 3,
-    "localOriginalFile": "921203_BushANDMajor_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 18-20; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1989-01-23-366551686-7",
+    "date": "1989-01-23",
+    "sortDate": "1989-01-23",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 7-8",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/regional/1989-01-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 7-8; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-01-24-366551686-21",
+    "date": "1989-01-24",
+    "sortDate": "1989-01-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 21-22",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/france/1989-01-24-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 21-22; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-01-24-366551686-23",
+    "date": "1989-01-24",
+    "sortDate": "1989-01-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 23-24",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/regional/1989-01-24-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Spain"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 23-24; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-01-24-366551686-27",
+    "date": "1989-01-24",
+    "sortDate": "1989-01-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Poul Schlueter",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 27-28",
+    "participants": [
+      "George H. W. Bush",
+      "Poul Schlueter"
+    ],
+    "countries": [
+      "United States",
+      "Denmark"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/regional/1989-01-24-bush-poul-schlueter-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Denmark"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 27-28; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-01-26-366551686-42",
+    "date": "1989-01-26",
+    "sortDate": "1989-01-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Pope John Paul II",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 42-42",
+    "participants": [
+      "George H. W. Bush",
+      "Pope John Paul II"
+    ],
+    "countries": [
+      "United States",
+      "Holy See"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/regional/1989-01-26-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Holy See"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 42-42; pageCount counts only the 1 pages of conversation text."
   },
   {
     "id": "1989-02-23-428079895",
@@ -975,2592 +312,6 @@ window.MEMCON_RECORDS = [
       "France bilateral relations"
     ],
     "pageCount": 2
-  },
-  {
-    "id": "1989-04-11-428079947",
-    "date": "1989-04-11",
-    "sortDate": "1989-04-11",
-    "type": "Memcon",
-    "title": "Meeting with Foreign Minister Roland Dumas of France, April 11, 1989",
-    "sourceTitle": "Meeting with Foreign Minister Roland Dumas of France, April 11, 1989",
-    "participants": [
-      "George H. W. Bush",
-      "Foreign Minister Roland Dumas of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428079947",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-11--Dumas.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428079947",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 6
-  },
-  {
-    "id": "1989-07-13-428080095",
-    "date": "1989-07-13",
-    "sortDate": "1989-07-13",
-    "type": "Memcon",
-    "title": "Meeting with Francois Mitterrand, President of France",
-    "sourceTitle": "Meeting with Francois Mitterrand, President of France",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand, President of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080095",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-13--Mitterrand.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080095",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 4
-  },
-  {
-    "id": "local-1989-08-26-francois-mitterrand-telcon",
-    "date": "1989-08-26",
-    "sortDate": "1989-08-26",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "890826_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-890826_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 3,
-    "localOriginalFile": "890826_BushANDMitterrand_Telcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1989-09-01-francois-mitterrand-telcon",
-    "date": "1989-09-01",
-    "sortDate": "1989-09-01",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "890901_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-890901_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1989-09-01-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1989-09-01-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "890901_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1989-09-16-francois-mitterrand-telcon",
-    "date": "1989-09-16",
-    "sortDate": "1989-09-16",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "890916_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-890916_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1989-09-16-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1989-09-16-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "890916_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1989-12-16-428080395",
-    "date": "1989-12-16",
-    "sortDate": "1989-12-16",
-    "type": "Memcon",
-    "title": "Meeting with President Francois Mitterrand of France, December 16, 1989",
-    "sourceTitle": "Meeting with President Francois Mitterrand of France, December 16, 1989",
-    "participants": [
-      "George H. W. Bush",
-      "President Francois Mitterrand of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080395",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-16--Mitterrand.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080395",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 11
-  },
-  {
-    "id": "local-1989-12-27-francois-mitterrand-telcon",
-    "date": "1989-12-27",
-    "sortDate": "1989-12-27",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "891227_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-891227_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1989-12-27-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1989-12-27-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "891227_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1990-04-19-428080645",
-    "date": "1990-04-19",
-    "sortDate": "1990-04-19",
-    "type": "Memcon",
-    "title": "Meeting With President Mitterrand of France, April 19, 1990 (1 of 2)",
-    "sourceTitle": "Meeting With President Mitterrand of France, April 19, 1990 (1 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "President Mitterrand of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080645",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-19--Mitterrand-1.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080645",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 6
-  },
-  {
-    "id": "1990-04-19-428080647",
-    "date": "1990-04-19",
-    "sortDate": "1990-04-19",
-    "type": "Memcon",
-    "title": "Meeting with President Mitterrand of France, April 19, 1990 (2 of 2)",
-    "sourceTitle": "Meeting with President Mitterrand of France, April 19, 1990 (2 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "President Mitterrand of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080647",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-19--Mitterrand-2.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080647",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 8
-  },
-  {
-    "id": "1990-07-09-428080827",
-    "date": "1990-07-09",
-    "sortDate": "1990-07-09",
-    "type": "Memcon",
-    "title": "Meeting with President Mitterrand of France, July 9, 1990 (1 of 2)",
-    "sourceTitle": "Meeting with President Mitterrand of France, July 9, 1990 (1 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "President Mitterrand of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080827",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Mitterrand-1.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080827",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 6
-  },
-  {
-    "id": "local-1990-08-20-francois-mitterrand-telcon",
-    "date": "1990-08-20",
-    "sortDate": "1990-08-20",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900820_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900820_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 5,
-    "localOriginalFile": "900820_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-08-31-francois-mitterrand-telcon",
-    "date": "1990-08-31",
-    "sortDate": "1990-08-31",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900831_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900831_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 4,
-    "localOriginalFile": "900831_BushANDMitterrand_Telcon.pdf",
-    "notes": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-06-francois-mitterrand-telcon",
-    "date": "1990-09-06",
-    "sortDate": "1990-09-06",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900906_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900906_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 4,
-    "localOriginalFile": "900906_BushANDMitterrand_Telcon.pdf",
-    "notes": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-11-francois-mitterrand-telcon",
-    "date": "1990-09-11",
-    "sortDate": "1990-09-11",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900911_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900911_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900911_BushANDMitterrand_Telcon.pdf",
-    "notes": "PDF trimmed to the two pages of Mitterrand telcon text; unrelated Portugal briefing packet removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-14-francois-mitterrand-telcon",
-    "date": "1990-09-14",
-    "sortDate": "1990-09-14",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900914_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900914_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 3,
-    "localOriginalFile": "900914_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-15-francois-mitterrand-telcon",
-    "date": "1990-09-15",
-    "sortDate": "1990-09-15",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900915_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900915_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-09-15-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-09-15-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900915_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-16-francois-mitterrand-telcon",
-    "date": "1990-09-16",
-    "sortDate": "1990-09-16",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900916_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900916_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 3,
-    "localOriginalFile": "900916_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-17-francois-mitterrand-telcon",
-    "date": "1990-09-17",
-    "sortDate": "1990-09-17",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900917_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900917_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-09-17-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-09-17-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900917_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-18-francois-mitterrand-telcon",
-    "date": "1990-09-18",
-    "sortDate": "1990-09-18",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900918_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900918_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-09-18-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-09-18-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900918_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-20-francois-mitterrand-telcon",
-    "date": "1990-09-20",
-    "sortDate": "1990-09-20",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "900920_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900920_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-09-20-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-09-20-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900920_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1990-10-11-francois-mitterrand-telcon",
-    "date": "1990-10-11",
-    "sortDate": "1990-10-11",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "901011_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-901011_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "901011_BushANDMitterrand_Telcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the two pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1990-11-18-428081191",
-    "date": "1990-11-18",
-    "sortDate": "1990-11-18",
-    "type": "Memcon",
-    "title": "Meeting with President Mitterrand of France, November 18, 1990",
-    "sourceTitle": "Meeting with President Mitterrand of France, November 18, 1990",
-    "participants": [
-      "George H. W. Bush",
-      "President Mitterrand of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081191",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-18--Mitterrand.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081191",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 7
-  },
-  {
-    "id": "local-1990-12-24-francois-mitterrand-telcon",
-    "date": "1990-12-24",
-    "sortDate": "1990-12-24",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "901224_BushANDMitterrand_Telcon_01.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-901224_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "901224_BushANDMitterrand_Telcon_01.pdf",
-    "notes": "Replaced wrong Rocard-first packet with the clean Mitterrand variant and trimmed to conversation text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1991-02-05-francois-mitterrand-telcon",
-    "date": "1991-02-05",
-    "sortDate": "1991-02-05",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910205_BushANDMitterrand_Telcon_01.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910205_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 3,
-    "localOriginalFile": "910205_BushANDMitterrand_Telcon_01.pdf",
-    "notes": "Source-folder audit: replaced cover-packet PDF with the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1991-02-12-428081429",
-    "date": "1991-02-12",
-    "sortDate": "1991-02-12",
-    "type": "Memcon",
-    "title": "Meeting with Pierre Joxe, Minister of Defense of France, February 12, 1991",
-    "sourceTitle": "Meeting with Pierre Joxe, Minister of Defense of France, February 12, 1991",
-    "participants": [
-      "George H. W. Bush",
-      "Pierre Joxe, Minister of Defense of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081429",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-12--Joxe.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081429",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 5
-  },
-  {
-    "id": "local-1991-02-19-francois-mitterrand-telcon",
-    "date": "1991-02-19",
-    "sortDate": "1991-02-19",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910219_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910219_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 4,
-    "localOriginalFile": "910219_BushANDMitterrand_Telcon.pdf",
-    "notes": "PDF trimmed to the four pages of Mitterrand telcon text; unrelated Denmark/Ozal packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1991-02-21-francois-mitterrand-telcon",
-    "date": "1991-02-21",
-    "sortDate": "1991-02-21",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910221_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910221_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 3,
-    "localOriginalFile": "910221_BushANDMitterrand_Telcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1991-02-22-francois-mitterrand-telcon",
-    "date": "1991-02-22",
-    "sortDate": "1991-02-22",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910222_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910222_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 5,
-    "localOriginalFile": "910222_BushANDMitterrand_Telcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the five pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1991-02-27-francois-mitterrand-telcon",
-    "date": "1991-02-27",
-    "sortDate": "1991-02-27",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910227_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910227_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 4,
-    "localOriginalFile": "910227_BushANDMitterrand_Telcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the four pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1991-02-28-428081475",
-    "date": "1991-02-28",
-    "sortDate": "1991-02-28",
-    "type": "Memcon",
-    "title": "Meeting with Roland Dumas, Foreign Minister of France, February 28, 1991",
-    "sourceTitle": "Meeting with Roland Dumas, Foreign Minister of France, February 28, 1991",
-    "participants": [
-      "George H. W. Bush",
-      "Roland Dumas, Foreign Minister of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081475",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-28--Dumas.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081475",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 4
-  },
-  {
-    "id": "1991-03-11-428081529",
-    "date": "1991-03-11",
-    "sortDate": "1991-03-11",
-    "type": "Memcon",
-    "title": "Meeting with Michel Rocard, Prime Minister of France, March 11, 1991",
-    "sourceTitle": "Meeting with Michel Rocard, Prime Minister of France, March 11, 1991",
-    "participants": [
-      "George H. W. Bush",
-      "Michel Rocard, Prime Minister of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081529",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-11--Rocard.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081529",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 9
-  },
-  {
-    "id": "1991-03-14-428081533",
-    "date": "1991-03-14",
-    "sortDate": "1991-03-14",
-    "type": "Memcon",
-    "title": "Meeting with Francois Mitterrand, President of France, March 14, 1991",
-    "sourceTitle": "Meeting with Francois Mitterrand, President of France, tv1arch 14, 1991",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand, President of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081533",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-14--Mitterrand.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081533",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 7
-  },
-  {
-    "id": "local-1991-04-16-francois-mitterrand-telcon",
-    "date": "1991-04-16",
-    "sortDate": "1991-04-16",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910416_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910416_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 4,
-    "localOriginalFile": "910416_BushANDMitterrand_Telcon.pdf",
-    "notes": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1991-07-11-francois-mitterrand-telcon",
-    "date": "1991-07-11",
-    "sortDate": "1991-07-11",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910711_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910711_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "910711_BushANDMitterrand_Telcon.pdf",
-    "notes": "PDF trimmed to the two pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1991-08-19-francois-mitterrand-telcon",
-    "date": "1991-08-19",
-    "sortDate": "1991-08-19",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910819_BushANDMitterrand_Telcon_02.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910819_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 1,
-    "localOriginalFile": "910819_BushANDMitterrand_Telcon_02.pdf",
-    "notes": "Replaced wrong Lubbers-first packet with the clean Mitterrand variant and counted the single text page. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1991-09-24-francois-mitterrand-telcon",
-    "date": "1991-09-24",
-    "sortDate": "1991-09-24",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "910924_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910924_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 5,
-    "localOriginalFile": "910924_BushANDMitterrand_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1991-11-22-428082029",
-    "date": "1991-11-22",
-    "sortDate": "1991-11-22",
-    "type": "Memcon",
-    "title": "Meeting with Michel Rocard, Former Prime Minister of France",
-    "sourceTitle": "Meeting with Michel Rocard, Former Prime Minister of France",
-    "participants": [
-      "George H. W. Bush",
-      "Michel Rocard, Former Prime Minister of France"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Full",
-    "naid": "428082029",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-11-22--Rocard.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428082029",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 3
-  },
-  {
-    "id": "local-1992-01-31-francois-mitterrand-memcon",
-    "date": "1992-01-31",
-    "sortDate": "1992-01-31",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Francois Mitterrand",
-    "sourceTitle": "920131_BushANDMitterrand_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-920131_BushANDMitterrand_Memcon",
-    "pdfUrl": "documents/france/1992-01-31-bush-francois-mitterrand-memcon.pdf",
-    "catalogUrl": "documents/france/1992-01-31-bush-francois-mitterrand-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 3,
-    "localOriginalFile": "920131_BushANDMitterrand_Memcon.pdf",
-    "notes": "PDF trimmed to the three pages of Mitterrand memcon text; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1992-06-30-francois-mitterrand-telcon",
-    "date": "1992-06-30",
-    "sortDate": "1992-06-30",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "920630_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-920630_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 3,
-    "localOriginalFile": "920630_BushANDMitterrand_Telcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1992-07-05-francois-mitterrand-memcon",
-    "date": "1992-07-05",
-    "sortDate": "1992-07-05",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Francois Mitterrand",
-    "sourceTitle": "920705_BushANDMitterrand_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-920705_BushANDMitterrand_Memcon",
-    "pdfUrl": "documents/france/1992-07-05-bush-francois-mitterrand-memcon.pdf",
-    "catalogUrl": "documents/france/1992-07-05-bush-francois-mitterrand-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 9,
-    "localOriginalFile": "920705_BushANDMitterrand_Memcon.pdf",
-    "notes": "PDF trimmed to the nine pages of Mitterrand memcon text; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1992-08-04-francois-mitterrand-memcon",
-    "date": "1992-08-04",
-    "sortDate": "1992-08-04",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Francois Mitterrand",
-    "sourceTitle": "920804_BushANDMitterrand_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-920804_BushANDMitterrand_Memcon",
-    "pdfUrl": "documents/france/1992-08-04-bush-francois-mitterrand-memcon.pdf",
-    "catalogUrl": "documents/france/1992-08-04-bush-francois-mitterrand-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "920804_BushANDMitterrand_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1992-12-03-francois-mitterrand-telcon",
-    "date": "1992-12-03",
-    "sortDate": "1992-12-03",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Francois Mitterrand",
-    "sourceTitle": "921203_BushANDMitterrand_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Francois Mitterrand"
-    ],
-    "countries": [
-      "United States",
-      "France"
-    ],
-    "chapter": {
-      "number": 2,
-      "name": "France"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-921203_BushANDMitterrand_Telcon",
-    "pdfUrl": "documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf",
-    "catalogUrl": "documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "France bilateral relations"
-    ],
-    "pageCount": 3,
-    "localOriginalFile": "921203_BushANDMitterrand_Telcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1989-02-24-428079861",
-    "date": "1989-02-24",
-    "sortDate": "1989-02-24",
-    "type": "Memcon",
-    "title": "Meeting with President Francesco Cossiga of Italy, February 24, 1989",
-    "sourceTitle": "Meeting with President Francesco Cossiga of Italy, February 24, 1989",
-    "participants": [
-      "George H. W. Bush",
-      "President Francesco Cossiga of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428079861",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-24--Cossiga.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428079861",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 5
-  },
-  {
-    "id": "1989-10-11-428080255",
-    "date": "1989-10-11",
-    "sortDate": "1989-10-11",
-    "type": "Memcon",
-    "title": "Expanded Meeting with President Francesco Cossiga of Italy, October 11, 1989 (2 of 2)",
-    "sourceTitle": "Expanded Meeting with President Francesco Cossiga of Italy, October 11, 1989 (2 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "President Francesco Cossiga of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080255",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-11--Cossiga-2.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080255",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 5
-  },
-  {
-    "id": "1989-10-11-428080253",
-    "date": "1989-10-11",
-    "sortDate": "1989-10-11",
-    "type": "Memcon",
-    "title": "Meeting with President Francesco Cossiga of Italy, October 11, 1989 (1 of 2)",
-    "sourceTitle": "Meeting with President Francesco Cossiga of Italy, October 11, 1989 (1 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "President Francesco Cossiga of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080253",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-11--Cossiga-1.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080253",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 3
-  },
-  {
-    "id": "local-1989-11-18-giulio-andreotti-telcon",
-    "date": "1989-11-18",
-    "sortDate": "1989-11-18",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Giulio Andreotti",
-    "sourceTitle": "891118_BushANDAndreotti_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Giulio Andreotti"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-891118_BushANDAndreotti_Telcon",
-    "pdfUrl": "documents/italy/1989-11-18-bush-giulio-andreotti-telcon.pdf",
-    "catalogUrl": "documents/italy/1989-11-18-bush-giulio-andreotti-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "891118_BushANDAndreotti_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1989-12-06-428080393",
-    "date": "1989-12-06",
-    "sortDate": "1989-12-06",
-    "type": "Memcon",
-    "title": "Meeting with Bettino Craxi, Secretary of the Socialist Party of Italy",
-    "sourceTitle": "Meeting with Bettino Craxi, Secretary of the Socialist Party of Italy",
-    "participants": [
-      "George H. W. Bush",
-      "Bettino Craxi, Secretary of the Socialist Party of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080393",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-06--Craxi.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080393",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 6
-  },
-  {
-    "id": "1990-03-06-428080575",
-    "date": "1990-03-06",
-    "sortDate": "1990-03-06",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (1 of 2)",
-    "sourceTitle": "Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (1 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "Prime Minister Giulio Andreotti of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080575",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-06--Andreotti-1.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080575",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 3
-  },
-  {
-    "id": "1990-03-06-428080577",
-    "date": "1990-03-06",
-    "sortDate": "1990-03-06",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (2 of 2)",
-    "sourceTitle": "Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "Prime Minister Giulio Andreotti of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428080577",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-06--Andreotti-2.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428080577",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 7
-  },
-  {
-    "id": "1990-10-01-428081093",
-    "date": "1990-10-01",
-    "sortDate": "1990-10-01",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister Giulio Andreotti of Italy, October 1, 1990",
-    "sourceTitle": "Meeting with Prime Minister Giulio Andreotti of Italy, October 1, 1990",
-    "participants": [
-      "George H. W. Bush",
-      "Prime Minister Giulio Andreotti of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081093",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Andreotti.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081093",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 6
-  },
-  {
-    "id": "1990-11-13-428081133",
-    "date": "1990-11-13",
-    "sortDate": "1990-11-13",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2)",
-    "sourceTitle": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "Prime Minister Andreotti of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081133",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-1.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081133",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 5
-  },
-  {
-    "id": "1990-11-13-428081135",
-    "date": "1990-11-13",
-    "sortDate": "1990-11-13",
-    "type": "Memcon",
-    "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
-    "sourceTitle": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
-    "participants": [
-      "George H. W. Bush",
-      "Prime Minister Andreotti of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081135",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-2.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081135",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 8
-  },
-  {
-    "id": "1991-03-24-428081541",
-    "date": "1991-03-24",
-    "sortDate": "1991-03-24",
-    "type": "Memcon",
-    "title": "Meeting and Dinner with Italian Prime Minister Andreotti, March 24, 1991",
-    "sourceTitle": "Meeting and Dinner with Italian Prime Minister Andreotti, March 24, 1991",
-    "participants": [
-      "George H. W. Bush",
-      "Italian Prime Minister Andreotti"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081541",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-24--Andreotti.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081541",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 10
-  },
-  {
-    "id": "1991-05-07-428081633",
-    "date": "1991-05-07",
-    "sortDate": "1991-05-07",
-    "type": "Memcon",
-    "title": "Meeting with President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy, May 7, 1991",
-    "sourceTitle": "Meeting with President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy, May 7, 1991",
-    "participants": [
-      "George H. W. Bush",
-      "President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081633",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-07--Cossiga.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081633",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 6
-  },
-  {
-    "id": "local-1991-06-03-giulio-andreotti-telcon",
-    "date": "1991-06-03",
-    "sortDate": "1991-06-03",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Giulio Andreotti",
-    "sourceTitle": "910603_BushANDAndreotti_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Giulio Andreotti"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910603_BushANDAndreotti_Telcon",
-    "pdfUrl": "documents/italy/1991-06-03-bush-giulio-andreotti-telcon.pdf",
-    "catalogUrl": "documents/italy/1991-06-03-bush-giulio-andreotti-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "910603_BushANDAndreotti_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "1991-07-15-428081739",
-    "date": "1991-07-15",
-    "sortDate": "1991-07-15",
-    "type": "Memcon",
-    "title": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
-    "sourceTitle": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
-    "participants": [
-      "George H. W. Bush",
-      "Giulio Andreotti, Prime Minister of Italy on"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Full",
-    "naid": "428081739",
-    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-15--Andreotti.pdf",
-    "catalogUrl": "https://catalog.archives.gov/id/428081739",
-    "source": {
-      "name": "FOIA 2000-0429-F finding aid",
-      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
-      "foiaNumber": "2000-0429-F"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 6
-  },
-  {
-    "id": "local-1991-08-01-giulio-andreotti-memcon",
-    "date": "1991-08-01",
-    "sortDate": "1991-08-01",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Giulio Andreotti",
-    "sourceTitle": "910801_BushANDAndreotti_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Giulio Andreotti"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910801_BushANDAndreotti_Memcon",
-    "pdfUrl": "documents/italy/1991-08-01-bush-giulio-andreotti-memcon.pdf",
-    "catalogUrl": "documents/italy/1991-08-01-bush-giulio-andreotti-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "910801_BushANDAndreotti_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
-  },
-  {
-    "id": "local-1991-08-19-giulio-andreotti-telcon",
-    "date": "1991-08-19",
-    "sortDate": "1991-08-19",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Giulio Andreotti",
-    "sourceTitle": "910819_BushANDAndreotti_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Giulio Andreotti"
-    ],
-    "countries": [
-      "United States",
-      "Italy"
-    ],
-    "chapter": {
-      "number": 3,
-      "name": "Italy"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910819_BushANDAndreotti_Telcon",
-    "pdfUrl": "documents/italy/1991-08-19-bush-giulio-andreotti-telcon.pdf",
-    "catalogUrl": "documents/italy/1991-08-19-bush-giulio-andreotti-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Italy bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "910819_BushANDAndreotti_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1989-02-23-428079891",
@@ -3643,6 +394,50 @@ window.MEMCON_RECORDS = [
     ],
     "topics": [
       "Western Europe"
+    ],
+    "pageCount": 5
+  },
+  {
+    "id": "1989-02-24-428079861",
+    "date": "1989-02-24",
+    "sortDate": "1989-02-24",
+    "type": "Memcon",
+    "title": "Meeting with President Francesco Cossiga of Italy, February 24, 1989",
+    "sourceTitle": "Meeting with President Francesco Cossiga of Italy, February 24, 1989",
+    "participants": [
+      "George H. W. Bush",
+      "President Francesco Cossiga of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428079861",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-24--Cossiga.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428079861",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
     ],
     "pageCount": 5
   },
@@ -3733,6 +528,50 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "1989-04-11-428079947",
+    "date": "1989-04-11",
+    "sortDate": "1989-04-11",
+    "type": "Memcon",
+    "title": "Meeting with Foreign Minister Roland Dumas of France, April 11, 1989",
+    "sourceTitle": "Meeting with Foreign Minister Roland Dumas of France, April 11, 1989",
+    "participants": [
+      "George H. W. Bush",
+      "Foreign Minister Roland Dumas of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428079947",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-11--Dumas.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428079947",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 6
+  },
+  {
     "id": "1989-04-12-428079959",
     "date": "1989-04-12",
     "sortDate": "1989-04-12",
@@ -3777,6 +616,186 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "1989-04-12-366551686-69",
+    "date": "1989-04-12",
+    "sortDate": "1989-04-12",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 69-70",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/regional/1989-04-12-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 69-70; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-04-17-366551686-78",
+    "date": "1989-04-17",
+    "sortDate": "1989-04-17",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 78-80",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/france/1989-04-17-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 78-80; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1989-04-21-366551686-81",
+    "date": "1989-04-21",
+    "sortDate": "1989-04-21",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 81-83",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/regional/1989-04-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 81-83; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1989-04-22-366551686-88",
+    "date": "1989-04-22",
+    "sortDate": "1989-04-22",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 88-92",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/united-kingdom/1989-04-22-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 88-92; pageCount counts only the 5 pages of conversation text."
+  },
+  {
     "id": "1989-05-03-428079985",
     "date": "1989-05-03",
     "sortDate": "1989-05-03",
@@ -3817,6 +836,51 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 6
+  },
+  {
+    "id": "1989-05-05-366551686-97",
+    "date": "1989-05-05",
+    "sortDate": "1989-05-05",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 97-100",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/regional/1989-05-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 97-100; pageCount counts only the 4 pages of conversation text."
   },
   {
     "id": "1989-05-05-428079991",
@@ -3861,6 +925,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "1989-05-08-366551686-101",
+    "date": "1989-05-08",
+    "sortDate": "1989-05-08",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 101-104",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/regional/1989-05-08-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Spain"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 101-104; pageCount counts only the 4 pages of conversation text."
+  },
+  {
     "id": "1989-05-09-428079997",
     "date": "1989-05-09",
     "sortDate": "1989-05-09",
@@ -3901,6 +1010,141 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 6
+  },
+  {
+    "id": "1989-05-10-366551686-105",
+    "date": "1989-05-10",
+    "sortDate": "1989-05-10",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89; 41-bpr-scow-pcor-telcon-91111-001.pdf; source pages 105-106",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551686",
+    "pdfUrl": "documents/regional/1989-05-10-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551686",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Spain"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 105-106; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-05-11-366551687-12",
+    "date": "1989-05-11",
+    "sortDate": "1989-05-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89; 41-bpr-scow-pcor-telcon-91111-002.pdf; source pages 12-13",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551687",
+    "pdfUrl": "documents/regional/1989-05-11-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551687",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Spain"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 12-13; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-05-23-366551687-44",
+    "date": "1989-05-23",
+    "sortDate": "1989-05-23",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89; 41-bpr-scow-pcor-telcon-91111-002.pdf; source pages 44-45",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551687",
+    "pdfUrl": "documents/regional/1989-05-23-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551687",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Spain"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 44-45; pageCount counts only the 2 pages of conversation text."
   },
   {
     "id": "1989-05-31-428080025",
@@ -3949,6 +1193,139 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "1989-06-01-428080027",
+    "date": "1989-06-01",
+    "sortDate": "1989-06-01",
+    "type": "Memcon",
+    "title": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (1 of 2)",
+    "sourceTitle": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (1 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher, Prime Minister of the United Kingdom"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080027",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-01--Thatcher-1.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080027",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 7
+  },
+  {
+    "id": "1989-06-01-428080029",
+    "date": "1989-06-01",
+    "sortDate": "1989-06-01",
+    "type": "Memcon",
+    "title": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (2 of 2)",
+    "sourceTitle": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (2 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher, Prime Minister of the United Kingdom"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080029",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-01--Thatcher-2.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080029",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 4
+  },
+  {
+    "id": "1989-06-05-366551687-46",
+    "date": "1989-06-05",
+    "sortDate": "1989-06-05",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89; 41-bpr-scow-pcor-telcon-91111-002.pdf; source pages 46-48",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551687",
+    "pdfUrl": "documents/united-kingdom/1989-06-05-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551687",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 46-48; pageCount counts only the 3 pages of conversation text."
+  },
+  {
     "id": "1989-06-06-428080033",
     "date": "1989-06-06",
     "sortDate": "1989-06-06",
@@ -3993,6 +1370,96 @@ window.MEMCON_RECORDS = [
     "pageCount": 4
   },
   {
+    "id": "1989-06-07-366551687-49",
+    "date": "1989-06-07",
+    "sortDate": "1989-06-07",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89; 41-bpr-scow-pcor-telcon-91111-002.pdf; source pages 49-50",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551687",
+    "pdfUrl": "documents/regional/1989-06-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551687",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 49-50; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-06-11-366551687-59",
+    "date": "1989-06-11",
+    "sortDate": "1989-06-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89; 41-bpr-scow-pcor-telcon-91111-002.pdf; source pages 59-63",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551687",
+    "pdfUrl": "documents/united-kingdom/1989-06-11-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551687",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 59-63; pageCount counts only the 5 pages of conversation text."
+  },
+  {
     "id": "1989-06-14-428080043",
     "date": "1989-06-14",
     "sortDate": "1989-06-14",
@@ -4035,6 +1502,51 @@ window.MEMCON_RECORDS = [
       "European integration"
     ],
     "pageCount": 5
+  },
+  {
+    "id": "1989-06-15-366551687-67",
+    "date": "1989-06-15",
+    "sortDate": "1989-06-15",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89; 41-bpr-scow-pcor-telcon-91111-002.pdf; source pages 67-72",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551687",
+    "pdfUrl": "documents/regional/1989-06-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551687",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 6,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 67-72; pageCount counts only the 6 pages of conversation text."
   },
   {
     "id": "1989-06-21-428080047",
@@ -4119,6 +1631,94 @@ window.MEMCON_RECORDS = [
     ],
     "topics": [
       "Western Europe"
+    ],
+    "pageCount": 4
+  },
+  {
+    "id": "1989-07-13-428080095",
+    "date": "1989-07-13",
+    "sortDate": "1989-07-13",
+    "type": "Memcon",
+    "title": "Meeting with Francois Mitterrand, President of France",
+    "sourceTitle": "Meeting with Francois Mitterrand, President of France",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand, President of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080095",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-13--Mitterrand.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080095",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 4
+  },
+  {
+    "id": "1989-07-14-428080097",
+    "date": "1989-07-14",
+    "sortDate": "1989-07-14",
+    "type": "Memcon",
+    "title": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
+    "sourceTitle": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher, Prime Minister of Great Britain"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080097",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-14--Thatcher.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080097",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
     ],
     "pageCount": 4
   },
@@ -4249,6 +1849,96 @@ window.MEMCON_RECORDS = [
     "pageCount": 3
   },
   {
+    "id": "1989-08-02-366551688-15",
+    "date": "1989-08-02",
+    "sortDate": "1989-08-02",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89; 41-bpr-scow-pcor-telcon-91111-003.pdf; source pages 15-17",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551688",
+    "pdfUrl": "documents/united-kingdom/1989-08-02-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551688",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 15-17; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1989-08-03-366551688-29",
+    "date": "1989-08-03",
+    "sortDate": "1989-08-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89; 41-bpr-scow-pcor-telcon-91111-003.pdf; source pages 29-30",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551688",
+    "pdfUrl": "documents/regional/1989-08-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551688",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 29-30; pageCount counts only the 2 pages of conversation text."
+  },
+  {
     "id": "1989-08-24-428080197",
     "date": "1989-08-24",
     "sortDate": "1989-08-24",
@@ -4289,6 +1979,365 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 2
+  },
+  {
+    "id": "local-1989-08-26-francois-mitterrand-telcon",
+    "date": "1989-08-26",
+    "sortDate": "1989-08-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "890826_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-890826_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 3,
+    "localOriginalFile": "890826_BushANDMitterrand_Telcon.pdf",
+    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1989-09-01-francois-mitterrand-telcon",
+    "date": "1989-09-01",
+    "sortDate": "1989-09-01",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "890901_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-890901_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1989-09-01-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1989-09-01-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "890901_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1989-09-05-366551688-61",
+    "date": "1989-09-05",
+    "sortDate": "1989-09-05",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89; 41-bpr-scow-pcor-telcon-91111-003.pdf; source pages 61-64",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551688",
+    "pdfUrl": "documents/united-kingdom/1989-09-05-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551688",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 61-64; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1989-09-05-366551688-59",
+    "date": "1989-09-05",
+    "sortDate": "1989-09-05",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89; 41-bpr-scow-pcor-telcon-91111-003.pdf; source pages 59-60",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551688",
+    "pdfUrl": "documents/regional/1989-09-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551688",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 59-60; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-09-09-366551688-65",
+    "date": "1989-09-09",
+    "sortDate": "1989-09-09",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89; 41-bpr-scow-pcor-telcon-91111-003.pdf; source pages 65-66",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551688",
+    "pdfUrl": "documents/regional/1989-09-09-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551688",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 65-66; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "local-1989-09-11-john-major-memcon",
+    "date": "1989-09-11",
+    "sortDate": "1989-09-11",
+    "type": "Memcon",
+    "title": "Meeting memorandum: President Bush and John Major",
+    "sourceTitle": "890911_BushANDThatcher_Memcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-890911_BushANDThatcher_Memcon-corrected-john-major",
+    "pdfUrl": "documents/united-kingdom/1989-09-11-bush-john-major-memcon.pdf",
+    "catalogUrl": "documents/united-kingdom/1989-09-11-bush-john-major-memcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 4,
+    "localOriginalFile": "890911_BushANDThatcher_Memcon.pdf",
+    "notes": "Corrected after OCR audit: the declassified conversation text is with John Major, not Margaret Thatcher; PDF trimmed to the four conversation pages. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1989-09-11-428080179",
+    "date": "1989-09-11",
+    "sortDate": "1989-09-11",
+    "type": "Memcon",
+    "title": "Meeting with John Major of the United Kingdom, September 11, 1989",
+    "sourceTitle": "Meeting with John Major of the United Kingdom, September 11, 1989",
+    "participants": [
+      "George H. W. Bush",
+      "John Major of the United Kingdom"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080179",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-11--Major.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080179",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 5
+  },
+  {
+    "id": "local-1989-09-16-francois-mitterrand-telcon",
+    "date": "1989-09-16",
+    "sortDate": "1989-09-16",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "890916_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-890916_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1989-09-16-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1989-09-16-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "890916_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "1989-09-16-428080183",
@@ -4333,6 +2382,96 @@ window.MEMCON_RECORDS = [
     "pageCount": 2
   },
   {
+    "id": "1989-09-16-366551688-67",
+    "date": "1989-09-16",
+    "sortDate": "1989-09-16",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Pope John Paul II",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89; 41-bpr-scow-pcor-telcon-91111-003.pdf; source pages 67-68",
+    "participants": [
+      "George H. W. Bush",
+      "Pope John Paul II"
+    ],
+    "countries": [
+      "United States",
+      "Holy See"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551688",
+    "pdfUrl": "documents/regional/1989-09-16-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551688",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Holy See"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 67-68; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "local-1989-09-21-john-major-memcon",
+    "date": "1989-09-21",
+    "sortDate": "1989-09-21",
+    "type": "Memcon",
+    "title": "Meeting memorandum: President Bush and John Major",
+    "sourceTitle": "890921_BushANDMajor_Memcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-890921_BushANDMajor_Memcon",
+    "pdfUrl": "documents/united-kingdom/1989-09-21-bush-john-major-memcon.pdf",
+    "catalogUrl": "documents/united-kingdom/1989-09-21-bush-john-major-memcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "890921_BushANDMajor_Memcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
     "id": "1989-09-26-428080235",
     "date": "1989-09-26",
     "sortDate": "1989-09-26",
@@ -4375,6 +2514,94 @@ window.MEMCON_RECORDS = [
       "Germany"
     ],
     "pageCount": 4
+  },
+  {
+    "id": "1989-10-11-428080255",
+    "date": "1989-10-11",
+    "sortDate": "1989-10-11",
+    "type": "Memcon",
+    "title": "Expanded Meeting with President Francesco Cossiga of Italy, October 11, 1989 (2 of 2)",
+    "sourceTitle": "Expanded Meeting with President Francesco Cossiga of Italy, October 11, 1989 (2 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "President Francesco Cossiga of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080255",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-11--Cossiga-2.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080255",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 5
+  },
+  {
+    "id": "1989-10-11-428080253",
+    "date": "1989-10-11",
+    "sortDate": "1989-10-11",
+    "type": "Memcon",
+    "title": "Meeting with President Francesco Cossiga of Italy, October 11, 1989 (1 of 2)",
+    "sourceTitle": "Meeting with President Francesco Cossiga of Italy, October 11, 1989 (1 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "President Francesco Cossiga of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080253",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-11--Cossiga-1.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080253",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 3
   },
   {
     "id": "1989-10-11-428080257",
@@ -4461,6 +2688,51 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 7
+  },
+  {
+    "id": "1989-10-23-366551688-95",
+    "date": "1989-10-23",
+    "sortDate": "1989-10-23",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89; 41-bpr-scow-pcor-telcon-91111-003.pdf; source pages 95-96",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551688",
+    "pdfUrl": "documents/france/1989-10-23-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551688",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 95-96; pageCount counts only the 2 pages of conversation text."
   },
   {
     "id": "local-1989-10-23-helmut-kohl-telcon",
@@ -4685,6 +2957,231 @@ window.MEMCON_RECORDS = [
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "1989-11-10-366551689-17",
+    "date": "1989-11-10",
+    "sortDate": "1989-11-10",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 17-19",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-11-10-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 17-19; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1989-11-17-366551689-37",
+    "date": "1989-11-17",
+    "sortDate": "1989-11-17",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 37-39",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/united-kingdom/1989-11-17-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 37-39; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1989-11-17-366551689-28",
+    "date": "1989-11-17",
+    "sortDate": "1989-11-17",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 28-29",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/france/1989-11-17-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 28-29; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-11-17-366551689-24",
+    "date": "1989-11-17",
+    "sortDate": "1989-11-17",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 24-27",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-11-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 24-27; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "local-1989-11-18-giulio-andreotti-telcon",
+    "date": "1989-11-18",
+    "sortDate": "1989-11-18",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Giulio Andreotti",
+    "sourceTitle": "891118_BushANDAndreotti_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-891118_BushANDAndreotti_Telcon",
+    "pdfUrl": "documents/italy/1989-11-18-bush-giulio-andreotti-telcon.pdf",
+    "catalogUrl": "documents/italy/1989-11-18-bush-giulio-andreotti-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "891118_BushANDAndreotti_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
     "id": "1989-11-21-428080327",
     "date": "1989-11-21",
     "sortDate": "1989-11-21",
@@ -4727,6 +3224,185 @@ window.MEMCON_RECORDS = [
       "Germany"
     ],
     "pageCount": 4
+  },
+  {
+    "id": "1989-11-24-428080329",
+    "date": "1989-11-24",
+    "sortDate": "1989-11-24",
+    "type": "Memcon",
+    "title": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
+    "sourceTitle": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher, Prime Minister of Great Britain"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080329",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-11-24--Thatcher.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080329",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 10
+  },
+  {
+    "id": "1989-11-25-366551689-48",
+    "date": "1989-11-25",
+    "sortDate": "1989-11-25",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 48-49",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-11-25-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Spain"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 48-49; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-11-25-366551689-46",
+    "date": "1989-11-25",
+    "sortDate": "1989-11-25",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 46-47",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-11-25-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 46-47; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-11-25-366551689-45",
+    "date": "1989-11-25",
+    "sortDate": "1989-11-25",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Wilfried Martens",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 45-45",
+    "participants": [
+      "George H. W. Bush",
+      "Wilfried Martens"
+    ],
+    "countries": [
+      "United States",
+      "Belgium"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-11-25-bush-wilfried-martens-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Belgium"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 45-45; pageCount counts only the 1 pages of conversation text."
   },
   {
     "id": "local-1989-11-26-poul-schlueter-telcon",
@@ -4772,6 +3448,276 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "891126_BushANDMitterrand_Telcon.pdf",
     "notes": "Corrected after OCR audit: the conversation text is with Danish Prime Minister Poul Schlueter, not Francois Mitterrand. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1989-11-27-366551689-60",
+    "date": "1989-11-27",
+    "sortDate": "1989-11-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Anibal Cavaco Silva",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 60-61",
+    "participants": [
+      "George H. W. Bush",
+      "Anibal Cavaco Silva"
+    ],
+    "countries": [
+      "United States",
+      "Portugal"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-11-27-bush-anibal-cavaco-silva-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Portugal"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 60-61; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-11-27-366551689-67",
+    "date": "1989-11-27",
+    "sortDate": "1989-11-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Jacques Santer",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 67-68",
+    "participants": [
+      "George H. W. Bush",
+      "Jacques Santer"
+    ],
+    "countries": [
+      "United States",
+      "Luxembourg"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-11-27-bush-jacques-santer-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Luxembourg"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 67-68; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-11-27-366551689-65",
+    "date": "1989-11-27",
+    "sortDate": "1989-11-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Steingrimur Hermannsson",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 65-66",
+    "participants": [
+      "George H. W. Bush",
+      "Steingrimur Hermannsson"
+    ],
+    "countries": [
+      "United States",
+      "Iceland"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-11-27-bush-steingrimur-hermannsson-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Iceland"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 65-66; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1989-11-29-366551689-77",
+    "date": "1989-11-29",
+    "sortDate": "1989-11-29",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 77-81",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-11-29-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 77-81; pageCount counts only the 5 pages of conversation text."
+  },
+  {
+    "id": "1989-11-30-366551689-87",
+    "date": "1989-11-30",
+    "sortDate": "1989-11-30",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 87-89",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/france/1989-11-30-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 87-89; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1989-11-30-366551689-84",
+    "date": "1989-11-30",
+    "sortDate": "1989-11-30",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Giulio Andreotti",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 84-86",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/italy/1989-11-30-bush-giulio-andreotti-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Italy",
+      "Telcon",
+      "Italy"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 84-86; pageCount counts only the 3 pages of conversation text."
   },
   {
     "id": "1989-12-03-428080385",
@@ -4864,6 +3810,184 @@ window.MEMCON_RECORDS = [
     "pageCount": 3
   },
   {
+    "id": "1989-12-06-428080393",
+    "date": "1989-12-06",
+    "sortDate": "1989-12-06",
+    "type": "Memcon",
+    "title": "Meeting with Bettino Craxi, Secretary of the Socialist Party of Italy",
+    "sourceTitle": "Meeting with Bettino Craxi, Secretary of the Socialist Party of Italy",
+    "participants": [
+      "George H. W. Bush",
+      "Bettino Craxi, Secretary of the Socialist Party of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080393",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-06--Craxi.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080393",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 6
+  },
+  {
+    "id": "1989-12-16-428080395",
+    "date": "1989-12-16",
+    "sortDate": "1989-12-16",
+    "type": "Memcon",
+    "title": "Meeting with President Francois Mitterrand of France, December 16, 1989",
+    "sourceTitle": "Meeting with President Francois Mitterrand of France, December 16, 1989",
+    "participants": [
+      "George H. W. Bush",
+      "President Francois Mitterrand of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080395",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-16--Mitterrand.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080395",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 11
+  },
+  {
+    "id": "1989-12-20-366551689-114",
+    "date": "1989-12-20",
+    "sortDate": "1989-12-20",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 114-116",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/france/1989-12-20-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 114-116; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1989-12-20-366551689-120",
+    "date": "1989-12-20",
+    "sortDate": "1989-12-20",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89; 41-bpr-scow-pcor-telcon-91111-004.pdf; source pages 120-122",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551689",
+    "pdfUrl": "documents/regional/1989-12-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551689",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 120-122; pageCount counts only the 3 pages of conversation text."
+  },
+  {
     "id": "local-1989-12-23-felipe-gonzalez-telcon",
     "date": "1989-12-23",
     "sortDate": "1989-12-23",
@@ -4954,6 +4078,51 @@ window.MEMCON_RECORDS = [
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "local-1989-12-27-francois-mitterrand-telcon",
+    "date": "1989-12-27",
+    "sortDate": "1989-12-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "891227_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-891227_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1989-12-27-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1989-12-27-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "891227_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
     "id": "local-1990-01-04-felipe-gonzalez-telcon",
     "date": "1990-01-04",
     "sortDate": "1990-01-04",
@@ -4997,6 +4166,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "900104_BushANDGonzalez_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-01-04-366551690-9",
+    "date": "1990-01-04",
+    "sortDate": "1990-01-04",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Pope John Paul II",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 9-10",
+    "participants": [
+      "George H. W. Bush",
+      "Pope John Paul II"
+    ],
+    "countries": [
+      "United States",
+      "Holy See"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551690",
+    "pdfUrl": "documents/regional/1990-01-04-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551690",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Holy See"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 9-10; pageCount counts only the 2 pages of conversation text."
   },
   {
     "id": "local-1990-01-08-felipe-gonzalez-telcon",
@@ -5128,6 +4342,230 @@ window.MEMCON_RECORDS = [
     "pageCount": 1
   },
   {
+    "id": "1990-01-26-366551690-24",
+    "date": "1990-01-26",
+    "sortDate": "1990-01-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Giulio Andreotti",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 24-26",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551690",
+    "pdfUrl": "documents/italy/1990-01-26-bush-giulio-andreotti-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551690",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Italy",
+      "Telcon",
+      "Italy"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 24-26; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-01-26-366551690-19",
+    "date": "1990-01-26",
+    "sortDate": "1990-01-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 19-23",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551690",
+    "pdfUrl": "documents/regional/1990-01-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551690",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 19-23; pageCount counts only the 5 pages of conversation text."
+  },
+  {
+    "id": "1990-01-27-366551690-30",
+    "date": "1990-01-27",
+    "sortDate": "1990-01-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 30-33",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551690",
+    "pdfUrl": "documents/united-kingdom/1990-01-27-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551690",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 30-33; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1990-01-27-366551690-27",
+    "date": "1990-01-27",
+    "sortDate": "1990-01-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 27-29",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551690",
+    "pdfUrl": "documents/france/1990-01-27-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551690",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 27-29; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-01-29-428080479",
+    "date": "1990-01-29",
+    "sortDate": "1990-01-29",
+    "type": "Memcon",
+    "title": "Meeting with Douglas Hurd, Foreign Secretary of the United Kingdom",
+    "sourceTitle": "Meeting with Douglas Hurd, Foreign Secretary of the United Kingdom",
+    "participants": [
+      "George H. W. Bush",
+      "Douglas Hurd, Foreign Secretary of the United Kingdom"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080479",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-29--Hurd.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080479",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 5
+  },
+  {
     "id": "local-1990-02-13-helmut-kohl-telcon",
     "date": "1990-02-13",
     "sortDate": "1990-02-13",
@@ -5255,6 +4693,51 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 5
+  },
+  {
+    "id": "1990-02-24-366551690-57",
+    "date": "1990-02-24",
+    "sortDate": "1990-02-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 57-64",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551690",
+    "pdfUrl": "documents/united-kingdom/1990-02-24-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551690",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 8,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 57-64; pageCount counts only the 8 pages of conversation text."
   },
   {
     "id": "1990-02-24-428080541",
@@ -5393,6 +4876,319 @@ window.MEMCON_RECORDS = [
     "pageCount": 7
   },
   {
+    "id": "1990-02-26-366551690-70",
+    "date": "1990-02-26",
+    "sortDate": "1990-02-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 70-72",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551690",
+    "pdfUrl": "documents/france/1990-02-26-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551690",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 70-72; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-03-06-428080575",
+    "date": "1990-03-06",
+    "sortDate": "1990-03-06",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (1 of 2)",
+    "sourceTitle": "Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (1 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "Prime Minister Giulio Andreotti of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080575",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-06--Andreotti-1.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080575",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 3
+  },
+  {
+    "id": "1990-03-06-428080577",
+    "date": "1990-03-06",
+    "sortDate": "1990-03-06",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (2 of 2)",
+    "sourceTitle": "Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "Prime Minister Giulio Andreotti of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080577",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-06--Andreotti-2.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080577",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 7
+  },
+  {
+    "id": "1990-03-07-366551690-69",
+    "date": "1990-03-07",
+    "sortDate": "1990-03-07",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 69-69",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551690",
+    "pdfUrl": "documents/france/1990-03-07-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551690",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 69-69; pageCount counts only the 1 pages of conversation text."
+  },
+  {
+    "id": "1990-03-15-366551690-102",
+    "date": "1990-03-15",
+    "sortDate": "1990-03-15",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 102-105",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551690",
+    "pdfUrl": "documents/regional/1990-03-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551690",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 102-105; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1990-03-20-366551691-13",
+    "date": "1990-03-20",
+    "sortDate": "1990-03-20",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90; 41-bpr-scow-pcor-telcon-91111-006.pdf; source pages 13-16",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551691",
+    "pdfUrl": "documents/regional/1990-03-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551691",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 13-16; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1990-03-23-366551691-21",
+    "date": "1990-03-23",
+    "sortDate": "1990-03-23",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90; 41-bpr-scow-pcor-telcon-91111-006.pdf; source pages 21-24",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551691",
+    "pdfUrl": "documents/regional/1990-03-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551691",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 21-24; pageCount counts only the 4 pages of conversation text."
+  },
+  {
     "id": "1990-04-04-428080625",
     "date": "1990-04-04",
     "sortDate": "1990-04-04",
@@ -5482,6 +5278,50 @@ window.MEMCON_RECORDS = [
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "1990-04-13-428080633",
+    "date": "1990-04-13",
+    "sortDate": "1990-04-13",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Margaret Thatcher of Great Britain, April 13, 1990",
+    "sourceTitle": "Meeting with prime Minister Maraaret Thatcher of Great Britain, April 13, 1990",
+    "participants": [
+      "George H. W. Bush",
+      "Prime Minister Margaret Thatcher of Great Britain"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080633",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-13--Thatcher.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080633",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 19
+  },
+  {
     "id": "1990-04-17-428080643",
     "date": "1990-04-17",
     "sortDate": "1990-04-17",
@@ -5567,6 +5407,94 @@ window.MEMCON_RECORDS = [
     "pageCount": 3,
     "localOriginalFile": "900417_BushANDMitterrand_Telcon.pdf",
     "notes": "Corrected after OCR audit: the conversation text is with Dutch Prime Minister Ruud Lubbers, not Francois Mitterrand; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-04-19-428080645",
+    "date": "1990-04-19",
+    "sortDate": "1990-04-19",
+    "type": "Memcon",
+    "title": "Meeting With President Mitterrand of France, April 19, 1990 (1 of 2)",
+    "sourceTitle": "Meeting With President Mitterrand of France, April 19, 1990 (1 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "President Mitterrand of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080645",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-19--Mitterrand-1.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080645",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 6
+  },
+  {
+    "id": "1990-04-19-428080647",
+    "date": "1990-04-19",
+    "sortDate": "1990-04-19",
+    "type": "Memcon",
+    "title": "Meeting with President Mitterrand of France, April 19, 1990 (2 of 2)",
+    "sourceTitle": "Meeting with President Mitterrand of France, April 19, 1990 (2 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "President Mitterrand of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080647",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-19--Mitterrand-2.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080647",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 8
   },
   {
     "id": "1990-04-24-428080649",
@@ -5839,6 +5767,186 @@ window.MEMCON_RECORDS = [
     "pageCount": 4
   },
   {
+    "id": "1990-05-30-366551691-71",
+    "date": "1990-05-30",
+    "sortDate": "1990-05-30",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90; 41-bpr-scow-pcor-telcon-91111-006.pdf; source pages 71-75",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551691",
+    "pdfUrl": "documents/regional/1990-05-30-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551691",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 71-75; pageCount counts only the 5 pages of conversation text."
+  },
+  {
+    "id": "1990-06-01-366551691-77",
+    "date": "1990-06-01",
+    "sortDate": "1990-06-01",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90; 41-bpr-scow-pcor-telcon-91111-006.pdf; source pages 77-80",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551691",
+    "pdfUrl": "documents/regional/1990-06-01-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551691",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 77-80; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1990-06-03-366551691-83",
+    "date": "1990-06-03",
+    "sortDate": "1990-06-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90; 41-bpr-scow-pcor-telcon-91111-006.pdf; source pages 83-85",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551691",
+    "pdfUrl": "documents/united-kingdom/1990-06-03-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551691",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 83-85; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-06-03-366551691-81",
+    "date": "1990-06-03",
+    "sortDate": "1990-06-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90; 41-bpr-scow-pcor-telcon-91111-006.pdf; source pages 81-82",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551691",
+    "pdfUrl": "documents/regional/1990-06-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551691",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 81-82; pageCount counts only the 2 pages of conversation text."
+  },
+  {
     "id": "1990-06-06-428080735",
     "date": "1990-06-06",
     "sortDate": "1990-06-06",
@@ -6064,6 +6172,51 @@ window.MEMCON_RECORDS = [
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "1990-07-03-366551692-26",
+    "date": "1990-07-03",
+    "sortDate": "1990-07-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Poul Schlueter",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90; 41-bpr-scow-pcor-telcon-91111-007.pdf; source pages 26-27",
+    "participants": [
+      "George H. W. Bush",
+      "Poul Schlueter"
+    ],
+    "countries": [
+      "United States",
+      "Denmark"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551692",
+    "pdfUrl": "documents/regional/1990-07-03-bush-poul-schlueter-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551692",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Denmark"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-007.pdf as a provenance sheet, followed by source pages 26-27; pageCount counts only the 2 pages of conversation text."
+  },
+  {
     "id": "local-1990-07-03-ruud-lubbers-telcon",
     "date": "1990-07-03",
     "sortDate": "1990-07-03",
@@ -6107,6 +6260,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "900703_BushANDMitterrand_Telcon.pdf",
     "notes": "Corrected after OCR audit: the conversation text is with Dutch Prime Minister Ruud Lubbers, not Francois Mitterrand. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-07-03-366551692-24",
+    "date": "1990-07-03",
+    "sortDate": "1990-07-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Wilfried Martens",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90; 41-bpr-scow-pcor-telcon-91111-007.pdf; source pages 24-25",
+    "participants": [
+      "George H. W. Bush",
+      "Wilfried Martens"
+    ],
+    "countries": [
+      "United States",
+      "Belgium"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551692",
+    "pdfUrl": "documents/regional/1990-07-03-bush-wilfried-martens-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551692",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Belgium"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-007.pdf as a provenance sheet, followed by source pages 24-25; pageCount counts only the 2 pages of conversation text."
   },
   {
     "id": "1990-07-05-428080785",
@@ -6193,6 +6391,50 @@ window.MEMCON_RECORDS = [
     "topics": [
       "Western Europe",
       "European integration"
+    ],
+    "pageCount": 6
+  },
+  {
+    "id": "1990-07-09-428080827",
+    "date": "1990-07-09",
+    "sortDate": "1990-07-09",
+    "type": "Memcon",
+    "title": "Meeting with President Mitterrand of France, July 9, 1990 (1 of 2)",
+    "sourceTitle": "Meeting with President Mitterrand of France, July 9, 1990 (1 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "President Mitterrand of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080827",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Mitterrand-1.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080827",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
     ],
     "pageCount": 6
   },
@@ -6419,6 +6661,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "1990-07-17-366551692-30",
+    "date": "1990-07-17",
+    "sortDate": "1990-07-17",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90; 41-bpr-scow-pcor-telcon-91111-007.pdf; source pages 30-34",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551692",
+    "pdfUrl": "documents/regional/1990-07-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551692",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91111-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-007.pdf as a provenance sheet, followed by source pages 30-34; pageCount counts only the 5 pages of conversation text."
+  },
+  {
     "id": "1990-07-26-428080843",
     "date": "1990-07-26",
     "sortDate": "1990-07-26",
@@ -6459,6 +6746,366 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 5
+  },
+  {
+    "id": "1990-08-03-366551693-17",
+    "date": "1990-08-03",
+    "sortDate": "1990-08-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90; 41-bpr-scow-pcor-telcon-91112-001.pdf; source pages 17-18",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551693",
+    "pdfUrl": "documents/united-kingdom/1990-08-03-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551693",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 17-18; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1990-08-03-366551693-19",
+    "date": "1990-08-03",
+    "sortDate": "1990-08-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90; 41-bpr-scow-pcor-telcon-91112-001.pdf; source pages 19-22",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551693",
+    "pdfUrl": "documents/france/1990-08-03-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551693",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 19-22; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1990-08-06-366551693-48",
+    "date": "1990-08-06",
+    "sortDate": "1990-08-06",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Giulio Andreotti",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90; 41-bpr-scow-pcor-telcon-91112-001.pdf; source pages 48-49",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551693",
+    "pdfUrl": "documents/italy/1990-08-06-bush-giulio-andreotti-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551693",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Italy",
+      "Telcon",
+      "Italy"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 48-49; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1990-08-09-366551693-64",
+    "date": "1990-08-09",
+    "sortDate": "1990-08-09",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90; 41-bpr-scow-pcor-telcon-91112-001.pdf; source pages 64-66",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551693",
+    "pdfUrl": "documents/united-kingdom/1990-08-09-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551693",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 64-66; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-08-20-366551693-102",
+    "date": "1990-08-20",
+    "sortDate": "1990-08-20",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90; 41-bpr-scow-pcor-telcon-91112-001.pdf; source pages 102-104",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551693",
+    "pdfUrl": "documents/united-kingdom/1990-08-20-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551693",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 102-104; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "local-1990-08-20-francois-mitterrand-telcon",
+    "date": "1990-08-20",
+    "sortDate": "1990-08-20",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900820_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900820_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 5,
+    "localOriginalFile": "900820_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1990-08-21-margaret-thatcher-telcon",
+    "date": "1990-08-21",
+    "sortDate": "1990-08-21",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "900821_BushANDThatcher_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900821_BushANDThatcher_Telcon",
+    "pdfUrl": "documents/united-kingdom/1990-08-21-bush-margaret-thatcher-telcon.pdf",
+    "catalogUrl": "documents/united-kingdom/1990-08-21-bush-margaret-thatcher-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900821_BushANDThatcher_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-08-22-366551694-10",
+    "date": "1990-08-22",
+    "sortDate": "1990-08-22",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Constantine Mitsotakis",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90; 41-bpr-scow-pcor-telcon-91112-002.pdf; source pages 10-11",
+    "participants": [
+      "George H. W. Bush",
+      "Constantine Mitsotakis"
+    ],
+    "countries": [
+      "United States",
+      "Greece"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551694",
+    "pdfUrl": "documents/regional/1990-08-22-bush-constantine-mitsotakis-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551694",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Greece"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 10-11; pageCount counts only the 2 pages of conversation text."
   },
   {
     "id": "local-1990-08-22-helmut-kohl-telcon",
@@ -6596,6 +7243,141 @@ window.MEMCON_RECORDS = [
     "notes": "Corrected after OCR audit: the text misfiled under Andreotti is the substantive August 30 Kohl telcon; cover-only Kohl packet replaced. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "local-1990-08-31-margaret-thatcher-telcon",
+    "date": "1990-08-31",
+    "sortDate": "1990-08-31",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "900831_BushANDThatcher_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900831_BushANDThatcher_Telcon",
+    "pdfUrl": "documents/united-kingdom/1990-08-31-bush-margaret-thatcher-telcon.pdf",
+    "catalogUrl": "documents/united-kingdom/1990-08-31-bush-margaret-thatcher-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900831_BushANDThatcher_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1990-08-31-francois-mitterrand-telcon",
+    "date": "1990-08-31",
+    "sortDate": "1990-08-31",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900831_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900831_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 4,
+    "localOriginalFile": "900831_BushANDMitterrand_Telcon.pdf",
+    "notes": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1990-09-06-francois-mitterrand-telcon",
+    "date": "1990-09-06",
+    "sortDate": "1990-09-06",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900906_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900906_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 4,
+    "localOriginalFile": "900906_BushANDMitterrand_Telcon.pdf",
+    "notes": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
     "id": "local-1990-09-06-helmut-kohl-telcon",
     "date": "1990-09-06",
     "sortDate": "1990-09-06",
@@ -6639,6 +7421,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "900906_BushANDKohl_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-09-07-366551694-79",
+    "date": "1990-09-07",
+    "sortDate": "1990-09-07",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90; 41-bpr-scow-pcor-telcon-91112-002.pdf; source pages 79-81",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551694",
+    "pdfUrl": "documents/united-kingdom/1990-09-07-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551694",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 79-81; pageCount counts only the 3 pages of conversation text."
   },
   {
     "id": "1990-09-07-428080977",
@@ -6727,6 +7554,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "local-1990-09-10-margaret-thatcher-telcon",
+    "date": "1990-09-10",
+    "sortDate": "1990-09-10",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "900910_BushANDThatcher_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900910_BushANDThatcher_Telcon",
+    "pdfUrl": "documents/united-kingdom/1990-09-10-bush-margaret-thatcher-telcon.pdf",
+    "catalogUrl": "documents/united-kingdom/1990-09-10-bush-margaret-thatcher-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900910_BushANDThatcher_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
     "id": "local-1990-09-10-helmut-kohl-telcon",
     "date": "1990-09-10",
     "sortDate": "1990-09-10",
@@ -6769,6 +7641,141 @@ window.MEMCON_RECORDS = [
     ],
     "pageCount": 2,
     "localOriginalFile": "900910_BushANDKohl_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1990-09-11-francois-mitterrand-telcon",
+    "date": "1990-09-11",
+    "sortDate": "1990-09-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900911_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900911_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900911_BushANDMitterrand_Telcon.pdf",
+    "notes": "PDF trimmed to the two pages of Mitterrand telcon text; unrelated Portugal briefing packet removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-09-11-366551694-95",
+    "date": "1990-09-11",
+    "sortDate": "1990-09-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90; 41-bpr-scow-pcor-telcon-91112-002.pdf; source pages 95-96",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551694",
+    "pdfUrl": "documents/regional/1990-09-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551694",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 95-96; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "local-1990-09-12-margaret-thatcher-telcon",
+    "date": "1990-09-12",
+    "sortDate": "1990-09-12",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "900912_BushANDThatcher_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900912_BushANDThatcher_Telcon",
+    "pdfUrl": "documents/united-kingdom/1990-09-12-bush-margaret-thatcher-telcon.pdf",
+    "catalogUrl": "documents/united-kingdom/1990-09-12-bush-margaret-thatcher-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900912_BushANDThatcher_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
@@ -6859,6 +7866,411 @@ window.MEMCON_RECORDS = [
     ],
     "pageCount": 2,
     "localOriginalFile": "900913_BushANDKohl_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-09-14-366551694-100",
+    "date": "1990-09-14",
+    "sortDate": "1990-09-14",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90; 41-bpr-scow-pcor-telcon-91112-002.pdf; source pages 100-103",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551694",
+    "pdfUrl": "documents/united-kingdom/1990-09-14-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551694",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 100-103; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "local-1990-09-14-francois-mitterrand-telcon",
+    "date": "1990-09-14",
+    "sortDate": "1990-09-14",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900914_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900914_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 3,
+    "localOriginalFile": "900914_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1990-09-15-francois-mitterrand-telcon",
+    "date": "1990-09-15",
+    "sortDate": "1990-09-15",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900915_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900915_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-09-15-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-09-15-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900915_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1990-09-16-francois-mitterrand-telcon",
+    "date": "1990-09-16",
+    "sortDate": "1990-09-16",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900916_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900916_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 3,
+    "localOriginalFile": "900916_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1990-09-17-francois-mitterrand-telcon",
+    "date": "1990-09-17",
+    "sortDate": "1990-09-17",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900917_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900917_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-09-17-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-09-17-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900917_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1990-09-18-margaret-thatcher-telcon",
+    "date": "1990-09-18",
+    "sortDate": "1990-09-18",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "900918_BushANDThatcher_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900918_BushANDThatcher_Telcon",
+    "pdfUrl": "documents/united-kingdom/1990-09-18-bush-margaret-thatcher-telcon.pdf",
+    "catalogUrl": "documents/united-kingdom/1990-09-18-bush-margaret-thatcher-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900918_BushANDThatcher_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1990-09-18-francois-mitterrand-telcon",
+    "date": "1990-09-18",
+    "sortDate": "1990-09-18",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900918_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900918_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-09-18-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-09-18-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900918_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-09-19-366551694-88",
+    "date": "1990-09-19",
+    "sortDate": "1990-09-19",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90; 41-bpr-scow-pcor-telcon-91112-002.pdf; source pages 88-89",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551694",
+    "pdfUrl": "documents/france/1990-09-19-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551694",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 88-89; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "local-1990-09-20-francois-mitterrand-telcon",
+    "date": "1990-09-20",
+    "sortDate": "1990-09-20",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "900920_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900920_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-09-20-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-09-20-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900920_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
@@ -6988,6 +8400,50 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "1990-10-01-428081093",
+    "date": "1990-10-01",
+    "sortDate": "1990-10-01",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Giulio Andreotti of Italy, October 1, 1990",
+    "sourceTitle": "Meeting with Prime Minister Giulio Andreotti of Italy, October 1, 1990",
+    "participants": [
+      "George H. W. Bush",
+      "Prime Minister Giulio Andreotti of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081093",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Andreotti.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081093",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 6
+  },
+  {
     "id": "local-1990-10-03-helmut-kohl-telcon",
     "date": "1990-10-03",
     "sortDate": "1990-10-03",
@@ -7033,6 +8489,497 @@ window.MEMCON_RECORDS = [
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "local-1990-10-11-francois-mitterrand-telcon",
+    "date": "1990-10-11",
+    "sortDate": "1990-10-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "901011_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-901011_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "901011_BushANDMitterrand_Telcon.pdf",
+    "notes": "Source-folder audit: trimmed oversized packet to the two pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-10-12-366551695-10",
+    "date": "1990-10-12",
+    "sortDate": "1990-10-12",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 10-12",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/united-kingdom/1990-10-12-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 10-12; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-10-17-366551695-15",
+    "date": "1990-10-17",
+    "sortDate": "1990-10-17",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 15-17",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/regional/1990-10-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 15-17; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-10-26-366551695-34",
+    "date": "1990-10-26",
+    "sortDate": "1990-10-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Giulio Andreotti",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 34-36",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/italy/1990-10-26-bush-giulio-andreotti-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Italy",
+      "Telcon",
+      "Italy"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 34-36; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-10-26-366551695-28",
+    "date": "1990-10-26",
+    "sortDate": "1990-10-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 28-30",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/regional/1990-10-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 28-30; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-10-26-366551695-31",
+    "date": "1990-10-26",
+    "sortDate": "1990-10-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 31-33",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/regional/1990-10-26-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 31-33; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-11-11-366551695-47",
+    "date": "1990-11-11",
+    "sortDate": "1990-11-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 47-47",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/regional/1990-11-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 47-47; pageCount counts only the 1 pages of conversation text."
+  },
+  {
+    "id": "1990-11-13-428081133",
+    "date": "1990-11-13",
+    "sortDate": "1990-11-13",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2)",
+    "sourceTitle": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "Prime Minister Andreotti of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081133",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-1.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081133",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 5
+  },
+  {
+    "id": "1990-11-13-428081135",
+    "date": "1990-11-13",
+    "sortDate": "1990-11-13",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+    "sourceTitle": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "Prime Minister Andreotti of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081135",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-2.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081135",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 8
+  },
+  {
+    "id": "1990-11-18-428081191",
+    "date": "1990-11-18",
+    "sortDate": "1990-11-18",
+    "type": "Memcon",
+    "title": "Meeting with President Mitterrand of France, November 18, 1990",
+    "sourceTitle": "Meeting with President Mitterrand of France, November 18, 1990",
+    "participants": [
+      "George H. W. Bush",
+      "President Mitterrand of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081191",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-18--Mitterrand.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081191",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 7
+  },
+  {
+    "id": "1990-11-19-428081193",
+    "date": "1990-11-19",
+    "sortDate": "1990-11-19",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Margaret Thatcher of Great Britain, November 19, 1990",
+    "sourceTitle": "Meeting with Prime Minister Maragaret Thatcher of Great Britain, November 19, 1990",
+    "participants": [
+      "George H. W. Bush",
+      "Prime Minister Margaret Thatcher of Great Britain"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081193",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-19--Thatcher.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081193",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 4
+  },
+  {
     "id": "1990-11-21-428081201",
     "date": "1990-11-21",
     "sortDate": "1990-11-21",
@@ -7073,6 +9020,96 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 4
+  },
+  {
+    "id": "1990-11-30-366551695-76",
+    "date": "1990-11-30",
+    "sortDate": "1990-11-30",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 76-78",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/united-kingdom/1990-11-30-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 76-78; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1990-12-02-366551695-85",
+    "date": "1990-12-02",
+    "sortDate": "1990-12-02",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 85-87",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/regional/1990-12-02-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 85-87; pageCount counts only the 3 pages of conversation text."
   },
   {
     "id": "local-1990-12-17-helmut-kohl-telcon",
@@ -7120,6 +9157,229 @@ window.MEMCON_RECORDS = [
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "1990-12-21-428081243",
+    "date": "1990-12-21",
+    "sortDate": "1990-12-21",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister John Major of the United Kingdom, December 21, 1990 (2 of 2)",
+    "sourceTitle": "Meeting with Prime Minister John Major of the United Kingdom, December 21, 1990 (2 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "Prime Minister John Major of the United Kingdom"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081243",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-21--Major-2.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081243",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 7
+  },
+  {
+    "id": "1990-12-21-428081247",
+    "date": "1990-12-21",
+    "sortDate": "1990-12-21",
+    "type": "Memcon",
+    "title": "Telephone Conversation with Prime Minister John Major of the United Kingdom, December 21, 1990 (1 of 2)",
+    "sourceTitle": "Telephone Conversation with Prime Minister John Major of the United Kingdom, December 21, 1990 (1 of 2)",
+    "participants": [
+      "George H. W. Bush",
+      "Prime Minister John Major of the United Kingdom"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081247",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-21--Major-1.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081247",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 4
+  },
+  {
+    "id": "1990-12-24-366551695-93",
+    "date": "1990-12-24",
+    "sortDate": "1990-12-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Margaret Thatcher",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 93-94",
+    "participants": [
+      "George H. W. Bush",
+      "Margaret Thatcher"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/united-kingdom/1990-12-24-bush-margaret-thatcher-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 93-94; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "local-1990-12-24-francois-mitterrand-telcon",
+    "date": "1990-12-24",
+    "sortDate": "1990-12-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "901224_BushANDMitterrand_Telcon_01.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-901224_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "901224_BushANDMitterrand_Telcon_01.pdf",
+    "notes": "Replaced wrong Rocard-first packet with the clean Mitterrand variant and trimmed to conversation text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1990-12-24-366551695-97",
+    "date": "1990-12-24",
+    "sortDate": "1990-12-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Michel Rocard",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 97-97",
+    "participants": [
+      "George H. W. Bush",
+      "Michel Rocard"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551695",
+    "pdfUrl": "documents/france/1990-12-24-bush-michel-rocard-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551695",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 97-97; pageCount counts only the 1 pages of conversation text."
+  },
+  {
     "id": "local-1990-12-31-helmut-kohl-telcon",
     "date": "1990-12-31",
     "sortDate": "1990-12-31",
@@ -7165,6 +9425,141 @@ window.MEMCON_RECORDS = [
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "1991-01-03-366551696-11",
+    "date": "1991-01-03",
+    "sortDate": "1991-01-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 11-12",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551696",
+    "pdfUrl": "documents/united-kingdom/1991-01-03-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551696",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 11-12; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1991-01-03-366551696-9",
+    "date": "1991-01-03",
+    "sortDate": "1991-01-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 9-10",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551696",
+    "pdfUrl": "documents/france/1991-01-03-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551696",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 9-10; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1991-01-09-366551696-18",
+    "date": "1991-01-09",
+    "sortDate": "1991-01-09",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 18-19",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551696",
+    "pdfUrl": "documents/france/1991-01-09-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551696",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 18-19; pageCount counts only the 2 pages of conversation text."
+  },
+  {
     "id": "local-1991-01-11-felipe-gonzalez-telcon",
     "date": "1991-01-11",
     "sortDate": "1991-01-11",
@@ -7208,6 +9603,186 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "910111_BushANDGonzalez_Telcon_01.pdf",
     "notes": "Source-folder audit: replaced 101-page wrong packet with the clean January 11 Gonzalez telcon text. Manually reviewed oversized local packet. The extractor filename uses 910116, but the document title identifies the call as January 11, 1991."
+  },
+  {
+    "id": "1991-01-14-366551696-47",
+    "date": "1991-01-14",
+    "sortDate": "1991-01-14",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Constantine Mitsotakis",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 47-47",
+    "participants": [
+      "George H. W. Bush",
+      "Constantine Mitsotakis"
+    ],
+    "countries": [
+      "United States",
+      "Greece"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551696",
+    "pdfUrl": "documents/regional/1991-01-14-bush-constantine-mitsotakis-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551696",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Greece"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 47-47; pageCount counts only the 1 pages of conversation text."
+  },
+  {
+    "id": "1991-01-16-366551696-52",
+    "date": "1991-01-16",
+    "sortDate": "1991-01-16",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 52-53",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551696",
+    "pdfUrl": "documents/regional/1991-01-16-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551696",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 52-53; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1991-01-20-366551696-77",
+    "date": "1991-01-20",
+    "sortDate": "1991-01-20",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 77-82",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551696",
+    "pdfUrl": "documents/france/1991-01-20-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551696",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 6,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 77-82; pageCount counts only the 6 pages of conversation text."
+  },
+  {
+    "id": "1991-01-21-366551696-86",
+    "date": "1991-01-21",
+    "sortDate": "1991-01-21",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Giulio Andreotti",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 86-88",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551696",
+    "pdfUrl": "documents/italy/1991-01-21-bush-giulio-andreotti-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551696",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Italy",
+      "Telcon",
+      "Italy"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 86-88; pageCount counts only the 3 pages of conversation text."
   },
   {
     "id": "local-1991-01-21-felipe-gonzalez-telcon",
@@ -7300,6 +9875,51 @@ window.MEMCON_RECORDS = [
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "1991-01-24-366551696-99",
+    "date": "1991-01-24",
+    "sortDate": "1991-01-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 99-101",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551696",
+    "pdfUrl": "documents/regional/1991-01-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551696",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 99-101; pageCount counts only the 3 pages of conversation text."
+  },
+  {
     "id": "local-1991-01-26-helmut-kohl-telcon",
     "date": "1991-01-26",
     "sortDate": "1991-01-26",
@@ -7343,6 +9963,588 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "910126_BushANDKohl_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-01-28-366551696-106",
+    "date": "1991-01-28",
+    "sortDate": "1991-01-28",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 106-109",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551696",
+    "pdfUrl": "documents/regional/1991-01-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551696",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 106-109; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "local-1991-02-05-francois-mitterrand-telcon",
+    "date": "1991-02-05",
+    "sortDate": "1991-02-05",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "910205_BushANDMitterrand_Telcon_01.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910205_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 3,
+    "localOriginalFile": "910205_BushANDMitterrand_Telcon_01.pdf",
+    "notes": "Source-folder audit: replaced cover-packet PDF with the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-02-09-366551697-66",
+    "date": "1991-02-09",
+    "sortDate": "1991-02-09",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91; 41-bpr-scow-pcor-telcon-91112-005.pdf; source pages 66-68",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551697",
+    "pdfUrl": "documents/regional/1991-02-09-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551697",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-005.pdf as a provenance sheet, followed by source pages 66-68; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1991-02-12-428081431",
+    "date": "1991-02-12",
+    "sortDate": "1991-02-12",
+    "type": "Memcon",
+    "title": "Meeting with Thomas King, Secretary of State for Defense, United Kingdom, February 12, 1991",
+    "sourceTitle": "Meeting with Thomas King, Secretary of State for Defense, United Kingdom, February 12, 1991",
+    "participants": [
+      "George H. W. Bush",
+      "Thomas King, Secretary of State for Defense, United Kingdom"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081431",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-12--King.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081431",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 4
+  },
+  {
+    "id": "1991-02-12-428081429",
+    "date": "1991-02-12",
+    "sortDate": "1991-02-12",
+    "type": "Memcon",
+    "title": "Meeting with Pierre Joxe, Minister of Defense of France, February 12, 1991",
+    "sourceTitle": "Meeting with Pierre Joxe, Minister of Defense of France, February 12, 1991",
+    "participants": [
+      "George H. W. Bush",
+      "Pierre Joxe, Minister of Defense of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081429",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-12--Joxe.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081429",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 5
+  },
+  {
+    "id": "1991-02-16-366551697-94",
+    "date": "1991-02-16",
+    "sortDate": "1991-02-16",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91; 41-bpr-scow-pcor-telcon-91112-005.pdf; source pages 94-96",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551697",
+    "pdfUrl": "documents/france/1991-02-16-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551697",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-005.pdf as a provenance sheet, followed by source pages 94-96; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1991-02-18-366551697-97",
+    "date": "1991-02-18",
+    "sortDate": "1991-02-18",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91; 41-bpr-scow-pcor-telcon-91112-005.pdf; source pages 97-100",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551697",
+    "pdfUrl": "documents/regional/1991-02-18-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551697",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-005.pdf as a provenance sheet, followed by source pages 97-100; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "local-1991-02-19-francois-mitterrand-telcon",
+    "date": "1991-02-19",
+    "sortDate": "1991-02-19",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "910219_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910219_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 4,
+    "localOriginalFile": "910219_BushANDMitterrand_Telcon.pdf",
+    "notes": "PDF trimmed to the four pages of Mitterrand telcon text; unrelated Denmark/Ozal packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1991-02-21-francois-mitterrand-telcon",
+    "date": "1991-02-21",
+    "sortDate": "1991-02-21",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "910221_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910221_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 3,
+    "localOriginalFile": "910221_BushANDMitterrand_Telcon.pdf",
+    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1991-02-22-francois-mitterrand-telcon",
+    "date": "1991-02-22",
+    "sortDate": "1991-02-22",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "910222_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910222_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 5,
+    "localOriginalFile": "910222_BushANDMitterrand_Telcon.pdf",
+    "notes": "Source-folder audit: trimmed oversized packet to the five pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-02-23-366551698-24",
+    "date": "1991-02-23",
+    "sortDate": "1991-02-23",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 2/22/91-3/6/91; 41-bpr-scow-pcor-telcon-91112-006.pdf; source pages 24-26",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551698",
+    "pdfUrl": "documents/regional/1991-02-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551698",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-006.pdf as a provenance sheet, followed by source pages 24-26; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "local-1991-02-27-francois-mitterrand-telcon",
+    "date": "1991-02-27",
+    "sortDate": "1991-02-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "910227_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910227_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 4,
+    "localOriginalFile": "910227_BushANDMitterrand_Telcon.pdf",
+    "notes": "Source-folder audit: trimmed oversized packet to the four pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-02-28-428081475",
+    "date": "1991-02-28",
+    "sortDate": "1991-02-28",
+    "type": "Memcon",
+    "title": "Meeting with Roland Dumas, Foreign Minister of France, February 28, 1991",
+    "sourceTitle": "Meeting with Roland Dumas, Foreign Minister of France, February 28, 1991",
+    "participants": [
+      "George H. W. Bush",
+      "Roland Dumas, Foreign Minister of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081475",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-28--Dumas.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081475",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 4
   },
   {
     "id": "1991-03-01-428081523",
@@ -7429,6 +10631,228 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 4
+  },
+  {
+    "id": "1991-03-05-366551698-79",
+    "date": "1991-03-05",
+    "sortDate": "1991-03-05",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Pope John Paul II",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 2/22/91-3/6/91; 41-bpr-scow-pcor-telcon-91112-006.pdf; source pages 79-79",
+    "participants": [
+      "George H. W. Bush",
+      "Pope John Paul II"
+    ],
+    "countries": [
+      "United States",
+      "Holy See"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551698",
+    "pdfUrl": "documents/regional/1991-03-05-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551698",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Holy See"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-006.pdf as a provenance sheet, followed by source pages 79-79; pageCount counts only the 1 pages of conversation text."
+  },
+  {
+    "id": "1991-03-07-366551699-4",
+    "date": "1991-03-07",
+    "sortDate": "1991-03-07",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91; 41-bpr-scow-pcor-telcon-91112-007.pdf; source pages 4-7",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551699",
+    "pdfUrl": "documents/regional/1991-03-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551699",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 4-7; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1991-03-11-428081529",
+    "date": "1991-03-11",
+    "sortDate": "1991-03-11",
+    "type": "Memcon",
+    "title": "Meeting with Michel Rocard, Prime Minister of France, March 11, 1991",
+    "sourceTitle": "Meeting with Michel Rocard, Prime Minister of France, March 11, 1991",
+    "participants": [
+      "George H. W. Bush",
+      "Michel Rocard, Prime Minister of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081529",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-11--Rocard.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081529",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 9
+  },
+  {
+    "id": "1991-03-14-428081533",
+    "date": "1991-03-14",
+    "sortDate": "1991-03-14",
+    "type": "Memcon",
+    "title": "Meeting with Francois Mitterrand, President of France, March 14, 1991",
+    "sourceTitle": "Meeting with Francois Mitterrand, President of France, tv1arch 14, 1991",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand, President of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081533",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-14--Mitterrand.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081533",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 7
+  },
+  {
+    "id": "1991-03-16-428081535",
+    "date": "1991-03-16",
+    "sortDate": "1991-03-16",
+    "type": "Memcon",
+    "title": "Meeting with John Major, Prime Minister of the United Kingdom, March 16, 1991",
+    "sourceTitle": "Meeting with John Major, Prime Minister of the United Kingdom, March 16, 1991",
+    "participants": [
+      "George H. W. Bush",
+      "John Major, Prime Minister of the United Kingdom"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081535",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-16--Major.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081535",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 8
   },
   {
     "id": "1991-03-19-428081537",
@@ -7520,6 +10944,140 @@ window.MEMCON_RECORDS = [
     "notes": "Source-folder audit: trimmed oversized packet to the five pages of Kohl memcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "1991-03-21-366551699-8",
+    "date": "1991-03-21",
+    "sortDate": "1991-03-21",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91; 41-bpr-scow-pcor-telcon-91112-007.pdf; source pages 8-12",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551699",
+    "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551699",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 8-12; pageCount counts only the 5 pages of conversation text."
+  },
+  {
+    "id": "1991-03-24-428081541",
+    "date": "1991-03-24",
+    "sortDate": "1991-03-24",
+    "type": "Memcon",
+    "title": "Meeting and Dinner with Italian Prime Minister Andreotti, March 24, 1991",
+    "sourceTitle": "Meeting and Dinner with Italian Prime Minister Andreotti, March 24, 1991",
+    "participants": [
+      "George H. W. Bush",
+      "Italian Prime Minister Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081541",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-24--Andreotti.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081541",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 10
+  },
+  {
+    "id": "1991-04-11-366551699-26",
+    "date": "1991-04-11",
+    "sortDate": "1991-04-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91; 41-bpr-scow-pcor-telcon-91112-007.pdf; source pages 26-29",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551699",
+    "pdfUrl": "documents/france/1991-04-11-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551699",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 26-29; pageCount counts only the 4 pages of conversation text."
+  },
+  {
     "id": "1991-04-11-428081579",
     "date": "1991-04-11",
     "sortDate": "1991-04-11",
@@ -7606,6 +11164,96 @@ window.MEMCON_RECORDS = [
       "Germany"
     ],
     "pageCount": 4
+  },
+  {
+    "id": "1991-04-16-366551699-48",
+    "date": "1991-04-16",
+    "sortDate": "1991-04-16",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91; 41-bpr-scow-pcor-telcon-91112-007.pdf; source pages 48-51",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551699",
+    "pdfUrl": "documents/united-kingdom/1991-04-16-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551699",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 48-51; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "local-1991-04-16-francois-mitterrand-telcon",
+    "date": "1991-04-16",
+    "sortDate": "1991-04-16",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "910416_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910416_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 4,
+    "localOriginalFile": "910416_BushANDMitterrand_Telcon.pdf",
+    "notes": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
     "id": "local-1991-04-16-helmut-kohl-telcon",
@@ -7696,6 +11344,140 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "910418_BushANDKohl_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-04-20-366551699-65",
+    "date": "1991-04-20",
+    "sortDate": "1991-04-20",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91; 41-bpr-scow-pcor-telcon-91112-007.pdf; source pages 65-67",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551699",
+    "pdfUrl": "documents/regional/1991-04-20-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551699",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Spain"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 65-67; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1991-04-25-366551699-70",
+    "date": "1991-04-25",
+    "sortDate": "1991-04-25",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91; 41-bpr-scow-pcor-telcon-91112-007.pdf; source pages 70-72",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551699",
+    "pdfUrl": "documents/regional/1991-04-25-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551699",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 70-72; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1991-05-07-428081633",
+    "date": "1991-05-07",
+    "sortDate": "1991-05-07",
+    "type": "Memcon",
+    "title": "Meeting with President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy, May 7, 1991",
+    "sourceTitle": "Meeting with President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy, May 7, 1991",
+    "participants": [
+      "George H. W. Bush",
+      "President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081633",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-07--Cossiga.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081633",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 6
   },
   {
     "id": "1991-05-20-428081647",
@@ -7790,6 +11572,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 6
   },
   {
+    "id": "local-1991-06-03-giulio-andreotti-telcon",
+    "date": "1991-06-03",
+    "sortDate": "1991-06-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Giulio Andreotti",
+    "sourceTitle": "910603_BushANDAndreotti_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910603_BushANDAndreotti_Telcon",
+    "pdfUrl": "documents/italy/1991-06-03-bush-giulio-andreotti-telcon.pdf",
+    "catalogUrl": "documents/italy/1991-06-03-bush-giulio-andreotti-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "910603_BushANDAndreotti_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
     "id": "local-1991-06-24-helmut-kohl-memcon",
     "date": "1991-06-24",
     "sortDate": "1991-06-24",
@@ -7833,6 +11660,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "910624_BushANDKohl_Memcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-06-24-366551700-80",
+    "date": "1991-06-24",
+    "sortDate": "1991-06-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91; 41-bpr-scow-pcor-telcon-91112-008.pdf; source pages 80-83",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551700",
+    "pdfUrl": "documents/regional/1991-06-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551700",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-008.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-008.pdf as a provenance sheet, followed by source pages 80-83; pageCount counts only the 4 pages of conversation text."
   },
   {
     "id": "1991-06-25-428081731",
@@ -7921,6 +11793,140 @@ window.MEMCON_RECORDS = [
       "Germany"
     ],
     "pageCount": 3
+  },
+  {
+    "id": "1991-07-08-366551700-84",
+    "date": "1991-07-08",
+    "sortDate": "1991-07-08",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91; 41-bpr-scow-pcor-telcon-91112-008.pdf; source pages 84-85",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551700",
+    "pdfUrl": "documents/regional/1991-07-08-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551700",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91112-008.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-008.pdf as a provenance sheet, followed by source pages 84-85; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "local-1991-07-11-francois-mitterrand-telcon",
+    "date": "1991-07-11",
+    "sortDate": "1991-07-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "910711_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910711_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "910711_BushANDMitterrand_Telcon.pdf",
+    "notes": "PDF trimmed to the two pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-07-15-428081739",
+    "date": "1991-07-15",
+    "sortDate": "1991-07-15",
+    "type": "Memcon",
+    "title": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
+    "sourceTitle": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti, Prime Minister of Italy on"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Full",
+    "naid": "428081739",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-15--Andreotti.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428081739",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 6
   },
   {
     "id": "1991-07-15-428081741",
@@ -8056,6 +12062,456 @@ window.MEMCON_RECORDS = [
     "pageCount": 6
   },
   {
+    "id": "local-1991-08-01-giulio-andreotti-memcon",
+    "date": "1991-08-01",
+    "sortDate": "1991-08-01",
+    "type": "Memcon",
+    "title": "Meeting memorandum: President Bush and Giulio Andreotti",
+    "sourceTitle": "910801_BushANDAndreotti_Memcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910801_BushANDAndreotti_Memcon",
+    "pdfUrl": "documents/italy/1991-08-01-bush-giulio-andreotti-memcon.pdf",
+    "catalogUrl": "documents/italy/1991-08-01-bush-giulio-andreotti-memcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "910801_BushANDAndreotti_Memcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-08-19-366551701-9",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91; 41-bpr-scow-pcor-telcon-91113-001.pdf; source pages 9-9",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551701",
+    "pdfUrl": "documents/united-kingdom/1991-08-19-bush-john-major-telcon-scowcroft-p9.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551701",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 9-9; pageCount counts only the 1 pages of conversation text."
+  },
+  {
+    "id": "1991-08-19-366551701-20",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91; 41-bpr-scow-pcor-telcon-91113-001.pdf; source pages 20-21",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551701",
+    "pdfUrl": "documents/united-kingdom/1991-08-19-bush-john-major-telcon-scowcroft-p20.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551701",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 20-21; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "local-1991-08-19-francois-mitterrand-telcon",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "910819_BushANDMitterrand_Telcon_02.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910819_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 1,
+    "localOriginalFile": "910819_BushANDMitterrand_Telcon_02.pdf",
+    "notes": "Replaced wrong Lubbers-first packet with the clean Mitterrand variant and counted the single text page. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1991-08-19-giulio-andreotti-telcon",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Giulio Andreotti",
+    "sourceTitle": "910819_BushANDAndreotti_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910819_BushANDAndreotti_Telcon",
+    "pdfUrl": "documents/italy/1991-08-19-bush-giulio-andreotti-telcon.pdf",
+    "catalogUrl": "documents/italy/1991-08-19-bush-giulio-andreotti-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Italy bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "910819_BushANDAndreotti_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-08-19-366551701-22",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91; 41-bpr-scow-pcor-telcon-91113-001.pdf; source pages 22-24",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551701",
+    "pdfUrl": "documents/regional/1991-08-19-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551701",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Spain"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 22-24; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1991-08-19-366551701-11",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91; 41-bpr-scow-pcor-telcon-91113-001.pdf; source pages 11-11",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551701",
+    "pdfUrl": "documents/regional/1991-08-19-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551701",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 11-11; pageCount counts only the 1 pages of conversation text."
+  },
+  {
+    "id": "1991-08-19-366551701-25",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91; 41-bpr-scow-pcor-telcon-91113-001.pdf; source pages 25-27",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551701",
+    "pdfUrl": "documents/regional/1991-08-19-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551701",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 25-27; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1991-08-26-366551701-63",
+    "date": "1991-08-26",
+    "sortDate": "1991-08-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91; 41-bpr-scow-pcor-telcon-91113-001.pdf; source pages 63-66",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551701",
+    "pdfUrl": "documents/regional/1991-08-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551701",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 63-66; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1991-08-27-366551701-74",
+    "date": "1991-08-27",
+    "sortDate": "1991-08-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91; 41-bpr-scow-pcor-telcon-91113-001.pdf; source pages 74-76",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551701",
+    "pdfUrl": "documents/regional/1991-08-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551701",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 74-76; pageCount counts only the 3 pages of conversation text."
+  },
+  {
     "id": "1991-09-16-428081883",
     "date": "1991-09-16",
     "sortDate": "1991-09-16",
@@ -8148,6 +12604,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "local-1991-09-24-francois-mitterrand-telcon",
+    "date": "1991-09-24",
+    "sortDate": "1991-09-24",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "910924_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-910924_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 5,
+    "localOriginalFile": "910924_BushANDMitterrand_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
     "id": "1991-09-24-428081895",
     "date": "1991-09-24",
     "sortDate": "1991-09-24",
@@ -8230,6 +12731,186 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 4
+  },
+  {
+    "id": "1991-09-27-366551702-10",
+    "date": "1991-09-27",
+    "sortDate": "1991-09-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 10-12",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/united-kingdom/1991-09-27-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 10-12; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1991-09-27-366551702-8",
+    "date": "1991-09-27",
+    "sortDate": "1991-09-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 8-9",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/france/1991-09-27-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 8-9; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1991-09-27-366551702-20",
+    "date": "1991-09-27",
+    "sortDate": "1991-09-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 20-20",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/regional/1991-09-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 20-20; pageCount counts only the 1 pages of conversation text."
+  },
+  {
+    "id": "1991-09-27-366551702-16",
+    "date": "1991-09-27",
+    "sortDate": "1991-09-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Manfred Woerner",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 16-17",
+    "participants": [
+      "George H. W. Bush",
+      "Manfred Woerner"
+    ],
+    "countries": [
+      "United States",
+      "NATO"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/regional/1991-09-27-bush-manfred-woerner-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "NATO"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 16-17; pageCount counts only the 2 pages of conversation text."
   },
   {
     "id": "1991-10-03-428081933",
@@ -8316,6 +12997,96 @@ window.MEMCON_RECORDS = [
       "Western Europe"
     ],
     "pageCount": 5
+  },
+  {
+    "id": "1991-10-11-366551702-46",
+    "date": "1991-10-11",
+    "sortDate": "1991-10-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Anibal Cavaco Silva",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 46-47",
+    "participants": [
+      "George H. W. Bush",
+      "Anibal Cavaco Silva"
+    ],
+    "countries": [
+      "United States",
+      "Portugal"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/regional/1991-10-11-bush-anibal-cavaco-silva-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Portugal"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 46-47; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1991-10-11-366551702-39",
+    "date": "1991-10-11",
+    "sortDate": "1991-10-11",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Manfred Woerner",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 39-45",
+    "participants": [
+      "George H. W. Bush",
+      "Manfred Woerner"
+    ],
+    "countries": [
+      "United States",
+      "NATO"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/regional/1991-10-11-bush-manfred-woerner-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "NATO"
+    ],
+    "pageCount": 7,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 39-45; pageCount counts only the 7 pages of conversation text."
   },
   {
     "id": "1991-10-11-428082011",
@@ -8448,6 +13219,50 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "1991-11-22-428082029",
+    "date": "1991-11-22",
+    "sortDate": "1991-11-22",
+    "type": "Memcon",
+    "title": "Meeting with Michel Rocard, Former Prime Minister of France",
+    "sourceTitle": "Meeting with Michel Rocard, Former Prime Minister of France",
+    "participants": [
+      "George H. W. Bush",
+      "Michel Rocard, Former Prime Minister of France"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Full",
+    "naid": "428082029",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-11-22--Rocard.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428082029",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 3
+  },
+  {
     "id": "local-1991-11-26-helmut-kohl-telcon",
     "date": "1991-11-26",
     "sortDate": "1991-11-26",
@@ -8491,6 +13306,51 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "911126_BushANDKohl_Telcon_01.pdf",
     "notes": "Replaced wrong Lubbers-first packet with the clean Kohl variant and trimmed to conversation text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1991-11-26-366551702-76",
+    "date": "1991-11-26",
+    "sortDate": "1991-11-26",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 76-78",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/regional/1991-11-26-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 76-78; pageCount counts only the 3 pages of conversation text."
   },
   {
     "id": "1991-12-12-428082071",
@@ -8619,6 +13479,546 @@ window.MEMCON_RECORDS = [
     "pageCount": 5
   },
   {
+    "id": "1991-12-13-366551702-112",
+    "date": "1991-12-13",
+    "sortDate": "1991-12-13",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 112-117",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/regional/1991-12-13-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 6,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 112-117; pageCount counts only the 6 pages of conversation text."
+  },
+  {
+    "id": "1991-12-14-366551702-122",
+    "date": "1991-12-14",
+    "sortDate": "1991-12-14",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 122-124",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/regional/1991-12-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 122-124; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1991-12-15-366551702-126",
+    "date": "1991-12-15",
+    "sortDate": "1991-12-15",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 126-129",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/france/1991-12-15-bush-francois-mitterrand-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Telcon",
+      "France"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 126-129; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1991-12-16-366551702-133",
+    "date": "1991-12-16",
+    "sortDate": "1991-12-16",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91; 41-bpr-scow-pcor-telcon-91113-002.pdf; source pages 133-136",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551702",
+    "pdfUrl": "documents/regional/1991-12-16-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551702",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 133-136; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1992-01-13-366551680-25",
+    "date": "1992-01-13",
+    "sortDate": "1992-01-13",
+    "type": "Memcon",
+    "title": "Meeting with Mario Soares, President of Portugal",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 1/1/92-1/31/92; 41-bpr-scow-pcor-memcon-91109-005.pdf; source pages 25-29",
+    "participants": [
+      "George H. W. Bush",
+      "Mario Soares"
+    ],
+    "countries": [
+      "United States",
+      "Portugal"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551680",
+    "pdfUrl": "documents/regional/1992-01-13-bush-mario-soares-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551680",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "Portugal"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-005.pdf as a provenance sheet, followed by source pages 25-29; pageCount counts only the 5 pages of conversation text."
+  },
+  {
+    "id": "local-1992-01-31-francois-mitterrand-memcon",
+    "date": "1992-01-31",
+    "sortDate": "1992-01-31",
+    "type": "Memcon",
+    "title": "Meeting memorandum: President Bush and Francois Mitterrand",
+    "sourceTitle": "920131_BushANDMitterrand_Memcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-920131_BushANDMitterrand_Memcon",
+    "pdfUrl": "documents/france/1992-01-31-bush-francois-mitterrand-memcon.pdf",
+    "catalogUrl": "documents/france/1992-01-31-bush-francois-mitterrand-memcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 3,
+    "localOriginalFile": "920131_BushANDMitterrand_Memcon.pdf",
+    "notes": "PDF trimmed to the three pages of Mitterrand memcon text; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1992-01-31-366551680-57",
+    "date": "1992-01-31",
+    "sortDate": "1992-01-31",
+    "type": "Memcon",
+    "title": "Meeting with Franz Vranitzky of Austria",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 1/1/92-1/31/92; 41-bpr-scow-pcor-memcon-91109-005.pdf; source pages 57-59",
+    "participants": [
+      "George H. W. Bush",
+      "Franz Vranitzky"
+    ],
+    "countries": [
+      "United States",
+      "Austria"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551680",
+    "pdfUrl": "documents/regional/1992-01-31-bush-franz-vranitzky-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551680",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "Austria"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-005.pdf as a provenance sheet, followed by source pages 57-59; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-01-31-366551680-61",
+    "date": "1992-01-31",
+    "sortDate": "1992-01-31",
+    "type": "Memcon",
+    "title": "Meeting with Wilfried Martens, the Prime Minister of Belgium",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 1/1/92-1/31/92; 41-bpr-scow-pcor-memcon-91109-005.pdf; source pages 61-63",
+    "participants": [
+      "George H. W. Bush",
+      "Wilfried Martens"
+    ],
+    "countries": [
+      "United States",
+      "Belgium"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551680",
+    "pdfUrl": "documents/regional/1992-01-31-bush-wilfried-martens-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551680",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "Belgium"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-005.pdf as a provenance sheet, followed by source pages 61-63; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-02-20-366551681-40",
+    "date": "1992-02-20",
+    "sortDate": "1992-02-20",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Bildt of Sweden",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 2/1/92-2/27/92; 41-bpr-scow-pcor-memcon-91109-006.pdf; source pages 40-45",
+    "participants": [
+      "George H. W. Bush",
+      "Carl Bildt"
+    ],
+    "countries": [
+      "United States",
+      "Sweden"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551681",
+    "pdfUrl": "documents/regional/1992-02-20-bush-carl-bildt-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551681",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "Sweden"
+    ],
+    "pageCount": 6,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-006.pdf as a provenance sheet, followed by source pages 40-45; pageCount counts only the 6 pages of conversation text."
+  },
+  {
+    "id": "1992-03-06-366551703-25",
+    "date": "1992-03-06",
+    "sortDate": "1992-03-06",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92; 41-bpr-scow-pcor-telcon-91113-003.pdf; source pages 25-28",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551703",
+    "pdfUrl": "documents/united-kingdom/1992-03-06-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551703",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-003.pdf as a provenance sheet, followed by source pages 25-28; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1992-03-21-366551682-33",
+    "date": "1992-03-21",
+    "sortDate": "1992-03-21",
+    "type": "Memcon",
+    "title": "Meeting: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 3/3/92-4/28/92; 41-bpr-scow-pcor-memcon-91109-007.pdf; source pages 33-49",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551682",
+    "pdfUrl": "documents/regional/1992-03-21-bush-helmut-kohl-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551682",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "Germany"
+    ],
+    "pageCount": 17,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-007.pdf as a provenance sheet, followed by source pages 33-49; pageCount counts only the 17 pages of conversation text."
+  },
+  {
+    "id": "1992-03-29-366551703-48",
+    "date": "1992-03-29",
+    "sortDate": "1992-03-29",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92; 41-bpr-scow-pcor-telcon-91113-003.pdf; source pages 48-49",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551703",
+    "pdfUrl": "documents/united-kingdom/1992-03-29-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551703",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-003.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-003.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-003.pdf as a provenance sheet, followed by source pages 48-49; pageCount counts only the 2 pages of conversation text."
+  },
+  {
     "id": "local-1992-03-31-helmut-kohl-memcon",
     "date": "1992-03-31",
     "sortDate": "1992-03-31",
@@ -8662,6 +14062,186 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "920331_BushANDKohl_Memcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1992-04-02-366551682-57",
+    "date": "1992-04-02",
+    "sortDate": "1992-04-02",
+    "type": "Memcon",
+    "title": "Meeting with President Felipe Gonzalez of Spain",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 3/3/92-4/28/92; 41-bpr-scow-pcor-memcon-91109-007.pdf; source pages 57-64",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551682",
+    "pdfUrl": "documents/regional/1992-04-02-bush-felipe-gonzalez-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551682",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "Spain"
+    ],
+    "pageCount": 8,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-007.pdf as a provenance sheet, followed by source pages 57-64; pageCount counts only the 8 pages of conversation text."
+  },
+  {
+    "id": "1992-04-07-366551682-66",
+    "date": "1992-04-07",
+    "sortDate": "1992-04-07",
+    "type": "Memcon",
+    "title": "Meeting with President Francesco Cossiga of Italy",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 3/3/92-4/28/92; 41-bpr-scow-pcor-memcon-91109-007.pdf; source pages 66-70",
+    "participants": [
+      "George H. W. Bush",
+      "Francesco Cossiga"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551682",
+    "pdfUrl": "documents/italy/1992-04-07-bush-francesco-cossiga-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551682",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-007.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Italy",
+      "Memcon",
+      "Italy"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-007.pdf as a provenance sheet, followed by source pages 66-70; pageCount counts only the 5 pages of conversation text."
+  },
+  {
+    "id": "1992-05-01-366551704-15",
+    "date": "1992-05-01",
+    "sortDate": "1992-05-01",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Jacques Delors",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92; 41-bpr-scow-pcor-telcon-91113-004.pdf; source pages 15-17",
+    "participants": [
+      "George H. W. Bush",
+      "Jacques Delors"
+    ],
+    "countries": [
+      "United States",
+      "European Community"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551704",
+    "pdfUrl": "documents/regional/1992-05-01-bush-jacques-delors-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551704",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "European Community"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 15-17; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-05-01-366551704-18",
+    "date": "1992-05-01",
+    "sortDate": "1992-05-01",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92; 41-bpr-scow-pcor-telcon-91113-004.pdf; source pages 18-19",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551704",
+    "pdfUrl": "documents/regional/1992-05-01-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551704",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 18-19; pageCount counts only the 2 pages of conversation text."
   },
   {
     "id": "local-1992-05-06-helmut-kohl-telcon",
@@ -8709,6 +14289,816 @@ window.MEMCON_RECORDS = [
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
   },
   {
+    "id": "1992-05-11-366551683-35",
+    "date": "1992-05-11",
+    "sortDate": "1992-05-11",
+    "type": "Memcon",
+    "title": "Meeting with Foreign Minister Roland Dumas of France",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 5/1/92-6/17/92; 41-bpr-scow-pcor-memcon-91109-008.pdf; source pages 35-37",
+    "participants": [
+      "George H. W. Bush",
+      "Roland Dumas"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551683",
+    "pdfUrl": "documents/france/1992-05-11-bush-roland-dumas-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551683",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-008.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "France",
+      "Memcon",
+      "France"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-008.pdf as a provenance sheet, followed by source pages 35-37; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-05-28-366551683-66",
+    "date": "1992-05-28",
+    "sortDate": "1992-05-28",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 5/1/92-6/17/92; 41-bpr-scow-pcor-memcon-91109-008.pdf; source pages 66-68",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551683",
+    "pdfUrl": "documents/regional/1992-05-28-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551683",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-008.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-008.pdf as a provenance sheet, followed by source pages 66-68; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-06-07-366551683-75",
+    "date": "1992-06-07",
+    "sortDate": "1992-06-07",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Brundtland of Norway",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 5/1/92-6/17/92; 41-bpr-scow-pcor-memcon-91109-008.pdf; source pages 75-79",
+    "participants": [
+      "George H. W. Bush",
+      "Gro Harlem Brundtland"
+    ],
+    "countries": [
+      "United States",
+      "Norway"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551683",
+    "pdfUrl": "documents/regional/1992-06-07-bush-gro-harlem-brundtland-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551683",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91109-008.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "Norway"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-008.pdf as a provenance sheet, followed by source pages 75-79; pageCount counts only the 5 pages of conversation text."
+  },
+  {
+    "id": "1992-06-10-366551704-39",
+    "date": "1992-06-10",
+    "sortDate": "1992-06-10",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Constantine Mitsotakis",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92; 41-bpr-scow-pcor-telcon-91113-004.pdf; source pages 39-40",
+    "participants": [
+      "George H. W. Bush",
+      "Constantine Mitsotakis"
+    ],
+    "countries": [
+      "United States",
+      "Greece"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551704",
+    "pdfUrl": "documents/regional/1992-06-10-bush-constantine-mitsotakis-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551704",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Greece"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 39-40; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1992-06-27-366551704-73",
+    "date": "1992-06-27",
+    "sortDate": "1992-06-27",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92; 41-bpr-scow-pcor-telcon-91113-004.pdf; source pages 73-76",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551704",
+    "pdfUrl": "documents/united-kingdom/1992-06-27-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551704",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 73-76; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1992-06-28-366551704-80",
+    "date": "1992-06-28",
+    "sortDate": "1992-06-28",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Giulio Andreotti",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92; 41-bpr-scow-pcor-telcon-91113-004.pdf; source pages 80-82",
+    "participants": [
+      "George H. W. Bush",
+      "Giulio Andreotti"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551704",
+    "pdfUrl": "documents/italy/1992-06-28-bush-giulio-andreotti-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551704",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Italy",
+      "Telcon",
+      "Italy"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 80-82; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-06-28-366551704-86",
+    "date": "1992-06-28",
+    "sortDate": "1992-06-28",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Anibal Cavaco Silva",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92; 41-bpr-scow-pcor-telcon-91113-004.pdf; source pages 86-87",
+    "participants": [
+      "George H. W. Bush",
+      "Anibal Cavaco Silva"
+    ],
+    "countries": [
+      "United States",
+      "Portugal"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551704",
+    "pdfUrl": "documents/regional/1992-06-28-bush-anibal-cavaco-silva-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551704",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Portugal"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 86-87; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1992-06-28-366551704-83",
+    "date": "1992-06-28",
+    "sortDate": "1992-06-28",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92; 41-bpr-scow-pcor-telcon-91113-004.pdf; source pages 83-85",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551704",
+    "pdfUrl": "documents/regional/1992-06-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551704",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 83-85; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-06-28-366551704-77",
+    "date": "1992-06-28",
+    "sortDate": "1992-06-28",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92; 41-bpr-scow-pcor-telcon-91113-004.pdf; source pages 77-79",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551704",
+    "pdfUrl": "documents/regional/1992-06-28-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551704",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-004.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 77-79; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "local-1992-06-30-francois-mitterrand-telcon",
+    "date": "1992-06-30",
+    "sortDate": "1992-06-30",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "920630_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-920630_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 3,
+    "localOriginalFile": "920630_BushANDMitterrand_Telcon.pdf",
+    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1992-07-05-francois-mitterrand-memcon",
+    "date": "1992-07-05",
+    "sortDate": "1992-07-05",
+    "type": "Memcon",
+    "title": "Meeting memorandum: President Bush and Francois Mitterrand",
+    "sourceTitle": "920705_BushANDMitterrand_Memcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-920705_BushANDMitterrand_Memcon",
+    "pdfUrl": "documents/france/1992-07-05-bush-francois-mitterrand-memcon.pdf",
+    "catalogUrl": "documents/france/1992-07-05-bush-francois-mitterrand-memcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 9,
+    "localOriginalFile": "920705_BushANDMitterrand_Memcon.pdf",
+    "notes": "PDF trimmed to the nine pages of Mitterrand memcon text; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1992-07-06-366551684-25",
+    "date": "1992-07-06",
+    "sortDate": "1992-07-06",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Giuliano Amato of Italy",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 7/1/92-7/9/92; 41-bpr-scow-pcor-memcon-91110-001.pdf; source pages 25-27",
+    "participants": [
+      "George H. W. Bush",
+      "Giuliano Amato"
+    ],
+    "countries": [
+      "United States",
+      "Italy"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Italy"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551684",
+    "pdfUrl": "documents/italy/1992-07-06-bush-giuliano-amato-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551684",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91110-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Italy",
+      "Memcon",
+      "Italy"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91110-001.pdf as a provenance sheet, followed by source pages 25-27; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-07-07-366551684-45",
+    "date": "1992-07-07",
+    "sortDate": "1992-07-07",
+    "type": "Memcon",
+    "title": "President Bushs July 7 Meeting with EC Commission President Delors",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 7/1/92-7/9/92; 41-bpr-scow-pcor-memcon-91110-001.pdf; source pages 45-49",
+    "participants": [
+      "George H. W. Bush",
+      "Jacques Delors"
+    ],
+    "countries": [
+      "United States",
+      "European Community"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551684",
+    "pdfUrl": "documents/regional/1992-07-07-bush-jacques-delors-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551684",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91110-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "European Community"
+    ],
+    "pageCount": 5,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91110-001.pdf as a provenance sheet, followed by source pages 45-49; pageCount counts only the 5 pages of conversation text."
+  },
+  {
+    "id": "1992-07-09-366551684-85",
+    "date": "1992-07-09",
+    "sortDate": "1992-07-09",
+    "type": "Memcon",
+    "title": "Meeting with Manfred Woerner NATO Secretary General",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 7/1/92-7/9/92; 41-bpr-scow-pcor-memcon-91110-001.pdf; source pages 85-87",
+    "participants": [
+      "George H. W. Bush",
+      "Manfred Woerner"
+    ],
+    "countries": [
+      "United States",
+      "NATO"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551684",
+    "pdfUrl": "documents/regional/1992-07-09-bush-manfred-woerner-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551684",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91110-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "NATO"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91110-001.pdf as a provenance sheet, followed by source pages 85-87; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-07-09-366551684-76",
+    "date": "1992-07-09",
+    "sortDate": "1992-07-09",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Constantine Mitsotakis of Greece",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 7/1/92-7/9/92; 41-bpr-scow-pcor-memcon-91110-001.pdf; source pages 76-79",
+    "participants": [
+      "George H. W. Bush",
+      "Constantine Mitsotakis"
+    ],
+    "countries": [
+      "United States",
+      "Greece"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551684",
+    "pdfUrl": "documents/regional/1992-07-09-bush-constantine-mitsotakis-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551684",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91110-001.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "Greece"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91110-001.pdf as a provenance sheet, followed by source pages 76-79; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "local-1992-08-04-francois-mitterrand-memcon",
+    "date": "1992-08-04",
+    "sortDate": "1992-08-04",
+    "type": "Memcon",
+    "title": "Meeting memorandum: President Bush and Francois Mitterrand",
+    "sourceTitle": "920804_BushANDMitterrand_Memcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-920804_BushANDMitterrand_Memcon",
+    "pdfUrl": "documents/france/1992-08-04-bush-francois-mitterrand-memcon.pdf",
+    "catalogUrl": "documents/france/1992-08-04-bush-francois-mitterrand-memcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "920804_BushANDMitterrand_Memcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1992-08-07-366551705-25",
+    "date": "1992-08-07",
+    "sortDate": "1992-08-07",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92; 41-bpr-scow-pcor-telcon-91113-005.pdf; source pages 25-27",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551705",
+    "pdfUrl": "documents/united-kingdom/1992-08-07-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551705",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 25-27; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-08-13-366551705-32",
+    "date": "1992-08-13",
+    "sortDate": "1992-08-13",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Pope John Paul II",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92; 41-bpr-scow-pcor-telcon-91113-005.pdf; source pages 32-33",
+    "participants": [
+      "George H. W. Bush",
+      "Pope John Paul II"
+    ],
+    "countries": [
+      "United States",
+      "Holy See"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551705",
+    "pdfUrl": "documents/regional/1992-08-13-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551705",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Holy See"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 32-33; pageCount counts only the 2 pages of conversation text."
+  },
+  {
     "id": "local-1992-09-28-helmut-kohl-telcon",
     "date": "1992-09-28",
     "sortDate": "1992-09-28",
@@ -8752,5 +15142,410 @@ window.MEMCON_RECORDS = [
     "pageCount": 2,
     "localOriginalFile": "920928_BushANDKohl_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the two pages of Kohl telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1992-10-02-john-major-telcon",
+    "date": "1992-10-02",
+    "sortDate": "1992-10-02",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "921002_BushANDMajor_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-921002_BushANDMajor_Telcon",
+    "pdfUrl": "documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf",
+    "catalogUrl": "documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 4,
+    "localOriginalFile": "921002_BushANDMajor_Telcon.pdf",
+    "notes": "Source-folder audit: trimmed oversized packet to the four pages of John Major telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1992-10-14-366551705-59",
+    "date": "1992-10-14",
+    "sortDate": "1992-10-14",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92; 41-bpr-scow-pcor-telcon-91113-005.pdf; source pages 59-62",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551705",
+    "pdfUrl": "documents/united-kingdom/1992-10-14-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551705",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 4,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 59-62; pageCount counts only the 4 pages of conversation text."
+  },
+  {
+    "id": "1992-10-14-366551705-56",
+    "date": "1992-10-14",
+    "sortDate": "1992-10-14",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92; 41-bpr-scow-pcor-telcon-91113-005.pdf; source pages 56-58",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551705",
+    "pdfUrl": "documents/regional/1992-10-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551705",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 3,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 56-58; pageCount counts only the 3 pages of conversation text."
+  },
+  {
+    "id": "1992-11-01-366551705-74",
+    "date": "1992-11-01",
+    "sortDate": "1992-11-01",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92; 41-bpr-scow-pcor-telcon-91113-005.pdf; source pages 74-75",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551705",
+    "pdfUrl": "documents/united-kingdom/1992-11-01-bush-john-major-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551705",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "United Kingdom",
+      "Telcon",
+      "United Kingdom"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 74-75; pageCount counts only the 2 pages of conversation text."
+  },
+  {
+    "id": "1992-11-04-366551705-76",
+    "date": "1992-11-04",
+    "sortDate": "1992-11-04",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92; 41-bpr-scow-pcor-telcon-91113-005.pdf; source pages 76-76",
+    "participants": [
+      "George H. W. Bush",
+      "Helmut Kohl"
+    ],
+    "countries": [
+      "United States",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551705",
+    "pdfUrl": "documents/regional/1992-11-04-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551705",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-005.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Germany"
+    ],
+    "pageCount": 1,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 76-76; pageCount counts only the 1 pages of conversation text."
+  },
+  {
+    "id": "1992-11-17-366551685-58",
+    "date": "1992-11-17",
+    "sortDate": "1992-11-17",
+    "type": "Memcon",
+    "title": "Meeting with Prime Minister Mitsotakis of Greece f",
+    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 7/9/92-12/22/92; 41-bpr-scow-pcor-memcon-91110-002.pdf; source pages 58-63",
+    "participants": [
+      "George H. W. Bush",
+      "Constantine Mitsotakis"
+    ],
+    "countries": [
+      "United States",
+      "Greece"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551685",
+    "pdfUrl": "documents/regional/1992-11-17-bush-constantine-mitsotakis-memcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551685",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-002.pdf",
+      "objectFilename": "41-bpr-scow-pcor-memcon-91110-002.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Memcon",
+      "Greece"
+    ],
+    "pageCount": 6,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91110-002.pdf as a provenance sheet, followed by source pages 58-63; pageCount counts only the 6 pages of conversation text."
+  },
+  {
+    "id": "local-1992-12-03-john-major-telcon",
+    "date": "1992-12-03",
+    "sortDate": "1992-12-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and John Major",
+    "sourceTitle": "921203_BushANDMajor_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "John Major"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 1,
+      "name": "United Kingdom"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-921203_BushANDMajor_Telcon",
+    "pdfUrl": "documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf",
+    "catalogUrl": "documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "United Kingdom bilateral relations"
+    ],
+    "pageCount": 3,
+    "localOriginalFile": "921203_BushANDMajor_Telcon.pdf",
+    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "local-1992-12-03-francois-mitterrand-telcon",
+    "date": "1992-12-03",
+    "sortDate": "1992-12-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Francois Mitterrand",
+    "sourceTitle": "921203_BushANDMitterrand_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Francois Mitterrand"
+    ],
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "France"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-921203_BushANDMitterrand_Telcon",
+    "pdfUrl": "documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf",
+    "catalogUrl": "documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "France bilateral relations"
+    ],
+    "pageCount": 3,
+    "localOriginalFile": "921203_BushANDMitterrand_Telcon.pdf",
+    "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation."
+  },
+  {
+    "id": "1992-12-21-366551706-94",
+    "date": "1992-12-21",
+    "sortDate": "1992-12-21",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Ruud Lubbers",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 11/5/92-1/2/93; 41-bpr-scow-pcor-telcon-91113-006.pdf; source pages 94-95",
+    "participants": [
+      "George H. W. Bush",
+      "Ruud Lubbers"
+    ],
+    "countries": [
+      "United States",
+      "Netherlands"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "366551706",
+    "pdfUrl": "documents/regional/1992-12-21-bush-ruud-lubbers-telcon-scowcroft.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/366551706",
+    "source": {
+      "name": "Brent Scowcroft Papers",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "series": "Presidential Correspondence",
+      "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-006.pdf",
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-006.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+    "frusTopics": [
+      "Western Europe",
+      "Declassified memcons and telcons",
+      "Brent Scowcroft Papers"
+    ],
+    "topics": [
+      "Regional",
+      "Telcon",
+      "Netherlands"
+    ],
+    "pageCount": 2,
+    "provenancePages": 1,
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-006.pdf as a provenance sheet, followed by source pages 94-95; pageCount counts only the 2 pages of conversation text."
   }
 ];

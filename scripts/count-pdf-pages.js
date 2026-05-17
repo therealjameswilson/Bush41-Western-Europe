@@ -46,6 +46,10 @@ function pageCount(pdfPath) {
   return Number(match[1]);
 }
 
+function isRemoteUrl(url) {
+  return /^https?:\/\//i.test(url);
+}
+
 async function main() {
   fs.mkdirSync(CACHE_DIR, { recursive: true });
   const records = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
@@ -57,9 +61,13 @@ async function main() {
     }
 
     const filename = `${record.naid || index}.pdf`;
-    const targetPath = path.join(CACHE_DIR, filename);
-    await download(record.pdfUrl, targetPath);
-    record.pageCount = pageCount(targetPath);
+    const targetPath = isRemoteUrl(record.pdfUrl)
+      ? path.join(CACHE_DIR, filename)
+      : path.join(ROOT, record.pdfUrl);
+    if (isRemoteUrl(record.pdfUrl)) {
+      await download(record.pdfUrl, targetPath);
+    }
+    record.pageCount = pageCount(targetPath) - (record.provenancePages || 0);
     console.log(`${String(index + 1).padStart(3, "0")}/${records.length} ${record.pageCount}p ${record.title}`);
   }
 
