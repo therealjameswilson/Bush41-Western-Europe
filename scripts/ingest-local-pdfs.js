@@ -4,6 +4,7 @@ const path = require("path");
 
 const repoRoot = path.resolve(__dirname, "..");
 const dataPath = path.join(repoRoot, "data", "memcons.json");
+const dataScriptPath = path.join(repoRoot, "data", "memcons.js");
 const documentsRoot = path.join(repoRoot, "documents");
 const reportPath = path.join(repoRoot, "reports", "local-pdf-ingest.json");
 const sourceRoot =
@@ -168,6 +169,12 @@ function toRecord(candidate) {
   };
 }
 
+function writeRecordData(records) {
+  const json = JSON.stringify(records, null, 2);
+  fs.writeFileSync(dataPath, `${json}\n`);
+  fs.writeFileSync(dataScriptPath, `window.MEMCON_RECORDS = ${json};\n`);
+}
+
 function main() {
   if (!fs.existsSync(sourceRoot)) {
     throw new Error(`Source folder does not exist: ${sourceRoot}`);
@@ -206,7 +213,7 @@ function main() {
   });
 
   fs.mkdirSync(path.dirname(reportPath), { recursive: true });
-  fs.writeFileSync(dataPath, `${JSON.stringify(mergedRecords, null, 2)}\n`);
+  writeRecordData(mergedRecords);
   fs.writeFileSync(
     reportPath,
     `${JSON.stringify(

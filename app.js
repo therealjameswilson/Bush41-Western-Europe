@@ -4,6 +4,10 @@ const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
 const totalPages = document.querySelector("#total-pages");
 
+function chapterId(chapterName) {
+  return `chapter-${chapterName.toLowerCase().replaceAll(" ", "-")}`;
+}
+
 function formatDate(dateString) {
   const date = new Date(`${dateString}T00:00:00Z`);
   return new Intl.DateTimeFormat("en-US", {
@@ -61,6 +65,21 @@ function createMeta(record) {
   return meta;
 }
 
+function createProvenance(record) {
+  const provenance = document.createElement("p");
+  provenance.className = "record-provenance";
+
+  const source = record.source?.name || "Source pending";
+  const origin = record.localOriginalFile
+    ? `local extractor file ${record.localOriginalFile}`
+    : record.naid
+      ? `National Archives Catalog NAID ${record.naid}`
+      : "catalog metadata pending";
+
+  provenance.textContent = `Provenance: ${source}; ${origin}.`;
+  return provenance;
+}
+
 function createRecordRow(record) {
   const row = document.createElement("article");
   row.className = "record-row";
@@ -76,7 +95,7 @@ function createRecordRow(record) {
   title.href = record.catalogUrl || record.pdfUrl;
   title.rel = "noreferrer";
   title.textContent = record.title;
-  body.append(title, createMeta(record));
+  body.append(title, createMeta(record), createProvenance(record));
 
   const links = document.createElement("div");
   links.className = "record-links";
@@ -93,8 +112,15 @@ function createRecordRow(record) {
     const pdf = document.createElement("a");
     pdf.href = record.pdfUrl;
     pdf.rel = "noreferrer";
-    pdf.textContent = "PDF";
+    pdf.textContent = "Open PDF";
     links.append(pdf);
+
+    const print = document.createElement("a");
+    print.href = record.pdfUrl;
+    print.rel = "noreferrer";
+    print.target = "_blank";
+    print.textContent = "Print PDF";
+    links.append(print);
   }
 
   row.append(date, body, links);
@@ -109,7 +135,7 @@ function renderRecords(records) {
     const chapterRecords = sorted.filter((record) => record.chapter.name === chapterName);
     const section = document.createElement("section");
     section.className = "record-chapter";
-    section.id = `chapter-${chapterName.toLowerCase().replaceAll(" ", "-")}`;
+    section.id = chapterId(chapterName);
 
     const header = document.createElement("div");
     header.className = "record-chapter-header";
@@ -134,17 +160,41 @@ function renderRecords(records) {
   }
 }
 
+function enableChapterCards() {
+  for (const card of document.querySelectorAll(".chapter-card")) {
+    card.addEventListener("click", (event) => {
+      const targetId = card.getAttribute("href");
+      if (!targetId?.startsWith("#")) return;
+
+      const target = document.querySelector(targetId);
+      if (!target) return;
+
+      event.preventDefault();
+      history.pushState(null, "", targetId);
+      target.scrollIntoView({ block: "start" });
+    });
+  }
+}
+
 async function init() {
   try {
-    const response = await fetch("data/memcons.json");
-    if (!response.ok) throw new Error(`Could not load records: ${response.status}`);
-    const records = await response.json();
+    const records = window.MEMCON_RECORDS || (await loadRecords());
     setChapterCounts(records);
     renderRecords(records);
+    enableChapterCards();
+    if (window.location.hash) {
+      document.querySelector(window.location.hash)?.scrollIntoView();
+    }
   } catch (error) {
     recordsRoot.innerHTML =
       '<p class="error">The memcon records could not be loaded. Try opening this site through a local server or GitHub Pages.</p>';
   }
+}
+
+async function loadRecords() {
+  const response = await fetch("data/memcons.json");
+  if (!response.ok) throw new Error(`Could not load records: ${response.status}`);
+  return response.json();
 }
 
 init();

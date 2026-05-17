@@ -12,7 +12,9 @@ Presidential Library and the National Archives Catalog: date, type, participants
 country, release status, NAID, official PDF link, catalog link, FRUS volume, and
 FRUS topic tags.
 
-The current archive data lives in `data/memcons.json`. It combines extracted
+The current archive data lives in `data/memcons.json`, with a generated
+`data/memcons.js` mirror so the page can also render when opened directly from
+the filesystem. It combines extracted
 Western Europe-relevant records from the Presidential Memcon Files section of
 FOIA 2000-0429-F with deduped PDFs from the local Bush memcons extractor output.
 Each record includes `pageCount`, calculated from the linked PDF scan.
@@ -38,7 +40,7 @@ node scripts/ingest-local-pdfs.js /Users/jameswilson/bush-memcons-extractor/outp
 ```
 
 The importer copies deduped Western Europe PDFs into `documents/`, appends matching
-records to `data/memcons.json`, and writes a review report to
+records to `data/memcons.json`, refreshes `data/memcons.js`, and writes a review report to
 `reports/local-pdf-ingest.json`. It intentionally holds back oversized local
 packets above 75 pages for manual review before publication.
 

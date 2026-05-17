@@ -86,7 +86,7 @@
           <h2 id="chapters-title">Volume Arrangement</h2>
         </div>
         <div class="chapter-grid">
-          <article>
+          <a class="chapter-card" href="#chapter-united-kingdom" aria-label="View United Kingdom records">
             <p class="chapter-number">Chapter 1</p>
             <h3>United Kingdom</h3>
             <p class="chapter-count">
@@ -97,8 +97,9 @@
               Memcons and related leader conversations centered on British policy,
               U.S.-U.K. bilateral diplomacy, NATO, Europe, and crisis coordination.
             </p>
-          </article>
-          <article>
+            <span class="chapter-action">View chronological files</span>
+          </a>
+          <a class="chapter-card" href="#chapter-france" aria-label="View France records">
             <p class="chapter-number">Chapter 2</p>
             <h3>France</h3>
             <p class="chapter-count">
@@ -109,8 +110,9 @@
               Meetings with French leaders, including conversations on European security,
               German unification, alliance politics, and European integration.
             </p>
-          </article>
-          <article>
+            <span class="chapter-action">View chronological files</span>
+          </a>
+          <a class="chapter-card" href="#chapter-italy" aria-label="View Italy records">
             <p class="chapter-number">Chapter 3</p>
             <h3>Italy</h3>
             <p class="chapter-count">
@@ -121,8 +123,9 @@
               Italian bilateral meetings and Western European diplomacy involving Rome,
               NATO, the European Community, and Mediterranean-facing issues.
             </p>
-          </article>
-          <article>
+            <span class="chapter-action">View chronological files</span>
+          </a>
+          <a class="chapter-card" href="#chapter-regional" aria-label="View Regional records">
             <p class="chapter-number">Chapter 4</p>
             <h3>Regional</h3>
             <p class="chapter-count">
@@ -133,7 +136,8 @@
               All other Western Europe countries and region-wide records, arranged by
               date to preserve the diplomatic sequence across the chapter.
             </p>
-          </article>
+            <span class="chapter-action">View chronological files</span>
+          </a>
         </div>
       </section>
 
@@ -206,6 +210,10 @@
           <p class="kicker">Chronological Files</p>
           <h2 id="records-title">Chapter Records</h2>
         </div>
+        <p class="records-intro">
+          Each chapter below is ordered by date and shows record type, page count,
+          provenance, catalog source, and a direct PDF link for review or printing.
+        </p>
         <div id="records-root" class="records-root" aria-live="polite">
           <p class="loading">Loading memcon records...</p>
         </div>
@@ -283,6 +291,7 @@
       <p>Published with GitHub Pages.</p>
       <a href="https://github.com/therealjameswilson/Bush41-Western-Europe">Repository</a>
     </footer>
+    <script src="data/memcons.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
