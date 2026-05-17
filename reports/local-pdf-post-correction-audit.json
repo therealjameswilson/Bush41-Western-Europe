@@ -1,0 +1,935 @@
+{
+  "generatedAt": "2026-05-17T16:14:13.634Z",
+  "checked": 82,
+  "suspicious": [],
+  "records": [
+    {
+      "id": "local-1989-09-11-john-major-memcon",
+      "title": "Meeting memorandum: President Bush and John Major",
+      "pdfUrl": "documents/united-kingdom/1989-09-11-bush-john-major-memcon.pdf",
+      "pageCount": 4,
+      "expected": "John Major",
+      "hasExpected": true,
+      "extras": [
+        "thatcher"
+      ],
+      "header": "THE WHITE HOUSE 7018 add-on WASHINGTON DECLASSIFIED PER E.0. 13576 4009- 1022- og 71niy MEMORANDUM OF CONVERSATION SUBJECT: Meeting with John Major of the United Kingdom (U) PARTICIPANTS: U.S. The President James A. Baker, III, Secretary of State .e John H. Su",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-09-21-john-major-memcon",
+      "title": "Meeting memorandum: President Bush and John Major",
+      "pdfUrl": "documents/united-kingdom/1989-09-21-bush-john-major-memcon.pdf",
+      "pageCount": 2,
+      "expected": "John Major",
+      "hasExpected": true,
+      "extras": [],
+      "header": "| Saepene SECRET 7018 add-on | . . | NATIONAL SECURITY COUNCIL | WASHINGTON, D.C. 20508 | September 21, 1989 . ACTION FI MEMORANDUM FOR G. PHILIP enna (LD LE FROM: ROBERT BLACKWILL SUBJECT: Memorandum of Conversation with John Major, UK Foreign Secretary A mem",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-05-03-margaret-thatcher-memcon",
+      "title": "Meeting memorandum: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1990-05-03-bush-margaret-thatcher-memcon.pdf",
+      "pageCount": 21,
+      "expected": "Margaret Thatcher",
+      "hasExpected": true,
+      "extras": [],
+      "header": "ee Be - NATIONAL SECURITY COUNCIL 3508 WASHINGTON, D.C. 20506 May 3, 1990 ACTION MEMORANDUM FOR WILLIAM SITTMANN FROM: PHILIP ZELIKOW ~~ SUBJECT: Memorandum of Conversation with British Prime Minister Margaret Thatcher, April 13, 1990 At Tab I is a Memorandum ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-08-21-margaret-thatcher-telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1990-08-21-bush-margaret-thatcher-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Margaret Thatcher",
+      "hasExpected": true,
+      "extras": [],
+      "header": "bo mma / 6671- ? NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 August 21, 1990 fe, ACTION & MEMORANDUM FOR WILLIAM F. SITTMANN A FROM: ROBERT L. HUTCHINGS kK Ie SUBJECT: Telephone Call to Prime Minister Thatcher of the United Kingdom Attached at Tab I is th",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-08-31-margaret-thatcher-telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1990-08-31-bush-margaret-thatcher-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Margaret Thatcher",
+      "hasExpected": true,
+      "extras": [],
+      "header": "SPCRS? 6934 | “ NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 August 31, 1990 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN THROUGH: ADRIAN A. BASORA 4/7425 FROM: STEPHEN E. BENKO SUBJECT: Telephone Call to Prime Minister Thatcher of the | United Kingdom | Atta",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-10-margaret-thatcher-telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1990-09-10-bush-margaret-thatcher-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Margaret Thatcher",
+      "hasExpected": true,
+      "extras": [],
+      "header": "/ SBGREE 7129 NATIONAL SECURITY COUNCIL . WASHINGTON, D.C. 20506 September 10, 1990 | ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ADRIAN BASORA Aue SUBJECT: Telephone Conversation with Prime Minister Thatcher of the United Kingdom Attached at Tab A is the ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-12-margaret-thatcher-telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1990-09-12-bush-margaret-thatcher-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Margaret Thatcher",
+      "hasExpected": true,
+      "extras": [],
+      "header": "i i OO i . SBeREE iam 7129 NATIONAL SECURITY COUNCIL, WASHINGTON. D.C. 20506 September 12, 1990 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Presidential Telcon with Prime Minister Thatcher of the United K",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-18-margaret-thatcher-telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1990-09-18-bush-margaret-thatcher-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Margaret Thatcher",
+      "hasExpected": true,
+      "extras": [],
+      "header": "~-are . SBERE?/ SENSITIVE —— 2 | . NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 wane September 18, 1990 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: PHILIP D. zELtKow A- SUBJECT: Telcon with Prime Minister Margaret Thatcher of the United Kingdom on Sept",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-10-02-john-major-telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "pdfUrl": "documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf",
+      "pageCount": 16,
+      "expected": "John Major",
+      "hasExpected": true,
+      "extras": [],
+      "header": "ceocyr SBERETE— £+oeH Towel 7444 THE WHITE HOUSE DECLASSIFIED WASHINGTON PER E.O 13526 A0la- S2AO MR MEMORANDUM OF TELEPHONE CONVERSATION % BIANI4 SUBJECT: Telcon with John Major, Prime Minister of the United Kingdom PARTICIPANTS: The President Prime Minister ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-12-03-john-major-telcon",
+      "title": "Telephone conversation: President Bush and John Major",
+      "pdfUrl": "documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf",
+      "pageCount": 3,
+      "expected": "John Major",
+      "hasExpected": true,
+      "extras": [],
+      "header": "eee Ee OO EE ee | THE WHITE HOUSE DECLASSIFIED o WASHINGTON PER E.O. 13526 4004-.0740- MA | 55 Wwielip MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with Prime Minister Jean-Luc Dehaene of Belgium PARTICIPANTS: The President Prime Minister Jean-Luc Deha",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-08-26-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 33,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "' SBeRBE SEGRET 6857 - THE WHITE HOUSE WASHINGTON MEMORANDUM OF CONVERSATION SUBJECT: Telephone Conversation with President Francois Mitterrand of France (U) PARTICIPANTS: The President President Mitterrand Interpreter: Alec Toumayan Notetaker: Adrian Basora, ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-09-01-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1989-09-01-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "Oe : NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 Fi September 1, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: ADRIAN A. BASORA Ane .. SUBJECT: Memorandum of Telephone Conversation with President Francois Mitterrand of France Attached at Tab I is a me",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-09-16-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1989-09-16-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ": GONEIDENTIAL WITH ECRET_ ATTACHMENT 10386 . , NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 | MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Telephone Call from the President to Francois Mitterrand, President of France, S",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-10-24-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1989-10-24-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 53,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ", SoR EAHA . - ~CONPIDENTTAL- 8532 | THE WHITE HOUSE | WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION | SUBJECT: Telephone Call to Pope John Paul II (U) | PARTICIPANTS: The President Pope John Paul II Notetaker: Robert Hutchings DATE, TIME October 24, 1989, 8",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-12-27-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1989-12-27-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "\"SECRET 10386 . , NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 n(\\ qe. qv ( wl December 27, 1989 / ACTION Y © MEMORANDUM FOR G. PHILIP HUGHES FROM: ADRIAN BASORA (ACTING) ARE SUBJECT: Memorandum of Telephone Conversation with President Mitterrand of France",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-08-20-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 5,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "/* ‘ aed, = 2 2 * THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with President Francois Mitterrand of France PARTICIPANTS: The President President Francois Mitterrand Carol Walters, Interpreter Notetaker: Adria",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-08-31-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 4,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ": . SECRET 6931 THE WHITE HOUSE = WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Call to Francois Mitterrand, President of France (U) PARTICIPANTS: The President Francois Mitterrand, President of France Notetaker: Stephen E. Benko, NSC Staf",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-06-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 4,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ". SECRET 7063 THE WHITE HOUSE | . WASHINGTON DECLASSIFIED PER E.0. 12958, AS AMENDED 000 - 0441-F MEMORANDUM OF TELEPHONE CONVERSATION ace 8/a/oq | SUBJECT: Telephone Conversation with President Francois Mitterrand of France PARTICIPANTS: The President Preside",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-11-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "\" \" gpenee 7410 THE WHITE HOUSE la WASHINGTON DECLASSIFIED | PER E.O. 12958, | AS AMENDED | 2000-0424 -F MEMORANDUM OF TELEPHONE CONVERSATION av S209 SUBJECT: Telephone Call to Francois Mitterrand, President of France PARTICIPANTS: The President Francois Mitte",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-14-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 3,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ": “GONBIBENTIAL ee 7375 THE WHITE HOUSE DECLASSIFIED | WASHINGTON | PER E.O. 12958, 2000-042 4-F MEMORANDUM OF TELEPHONE CONVERSATION ae S/z1/oq SUBJECT: Telephone Call to President Mitterrand of France (U) PARTICIPANTS: The President Francois Mitterrand, Pres",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-15-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-15-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "| “~ | SECRET 7063 F: NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 | September 15, 1990 | | | | MEMORANDUM FOR MR. J. STAPLETON ROY | Executive Secretary Department of State SUBJECT: Transmittal of Presidential Telcon with | President Francois Mitterrand o",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-16-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 3,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ". -@ONFERENTEA SS 7375 THE WHITE HOUSE DECLASSIFIED WASHINGTON AS AMENDED’ lo0e ~- 0O429-] MEMORANDUM OF TELEPHONE CONVERSATION 2 |. a9 HK Slaifos SUBJECT: Telephone Call from President Mitterrand of France (U) PARTICIPANTS: The President Francois Mitterrand, ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-17-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-17-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "NATIONAL SECURITY COUNCIL, | WASHINGTON, D.C. 20506 September 17, 1990 / | | ACTION | | MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ROBERT L. HUTCHINGSZE | SUBJECT: Telephone Calls from President Mitterrand of France At Tabs A and B are the Memoranda of Telephone",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-18-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-18-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ", SBeRES 7410 | NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 , September 18, 1990 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ADRIAN BASORA Ave SUBJECT: Telephone Conversation with President Francois Mitterrand of France Attached at Tab A is the Memora",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-20-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-20-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "SECRET 7410 “es NATIONAL SECURITY COUNCIL ° WASHINGTON. 0.C. 20506 . September 20, 1990 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Presidential Telcon with President Mitterrand of France (U) Distribution",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-10-11-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 12,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "Senne 8151 BN THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon to President Francois Mitterrand of France (U) PARTICIPANTS: The President President Francois Mitterrand Adrian Basora, NSC Staff (Notetaker) Alec Toumayan, Interpret",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-12-24-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "OO | “ Spenpe 10019 THE WHITE HOUSE DECLASSIFIED WASHINGTON Pi ER E.0. 12958, AS AMENDED “L000 - O4@Q-F BA sluice MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with President Francois Mitterrand of France PARTICIPANTS: The President Pres",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-02-05-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 5,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ". Pm | SEGRET | , SBERST 0908 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 February 5, 1991 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ADRIAN A. BASORA Ave SUBJECT: Telephone Call with President Francois Mitterrand of France of February 5, 1991 At Tab",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-02-19-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 4,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "en ; | SECRET 1258 . THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with Francois Mitterrand, President of France on February 19, 1991 PARTICIPANTS: The President President Francois Mitterrand Adrian Basora, NSC Staff (Notetake",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-02-21-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 21,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ". . ROLE SBOENTa Ct, spenss SS es 1296 2g 69.0’ Bz 22 . <= z° = THE WHITE HOUSE %, s WASHINGTON “nny, - yaw MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with Francois Mitterrand, President of France on February 21, 1991 PARTICIPANTS: The President Fran",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-02-22-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 6,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "SNQNOENT . - ost \"14%, seers Sy a, 2320 =z Oz Limited Access a = 22 GH.Ol Bz % ‘© THE WHITE HOUSE Ny, S WASHINGTO | “Manny ‘ MEMORANDUM OF TELEPHONE CONVERSATION | SUBJECT: Telcon with Francois Mitterrand of France on February 22, 1991 PARTICIPANTS: The Presid",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-02-27-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 28,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "i | co, SEGRE 1438 a ond THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with Francois Mitterrand, President of France PARTICIPANTS: The President Francois Mitterrand, President of France Adrian Basora, NSC Staff (Notetaker) Eli",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-04-16-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 4,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "ON Y SEGREP 2818 : THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with President Francois Mitterrand of France on April 16, 1991 PARTICIPANTS: The President Francois Mitterrand, President Nicholas Burns, NSC Staff (Notetaker) D",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-07-11-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with Francois Mitterrand President of France on July 11, 1991 PARTICIPANTS: The President Francois Mitterrand, President of France Interpreter: Eliza Burnham Notetaker: Earl Anthon",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-08-19-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 1,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [
+        "major"
+      ],
+      "header": ". . ———— SRERET ' THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with Francois Mitterrand, President of France on August 19, 1991 PARTICIPANTS: The President President Mitterrand Notetaker: David C. Gompert, NSC Staff | DATE, T",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-09-24-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 5,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ": SAICIDOS SON EpRten ra : 7031 THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with President Mitterrand of France PARTICIPANTS: The President Francois Mitterrand, President Interpreter: Carol Wolter | Notetaker: Tony Wayne, NS",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-01-31-francois-mitterrand-memcon",
+      "title": "Meeting memorandum: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1992-01-31-bush-francois-mitterrand-memcon.pdf",
+      "pageCount": 3,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [
+        "dumas"
+      ],
+      "header": "| EE | , oneness 0810 THE WHITE HOUSE DECLASSIFIED WASHINGTON PER E.0O. yuo 4004 ~0646-M % Shelia MEMORANDUM OF CONVERSATION SUBJECT: Meeting with President Mitterrand of France (U) PARTICIPANTS: The President James A. Baker, Secretary of State Samuel Skinner,",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-06-30-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 10,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telecon with Francois Mitterrand, President of France PARTICIPANTS: The President Francois Mitterrand, French President Interpreter: Carol Wolters Notetaker: Anthony Wayne DATE, TIME June",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-07-05-francois-mitterrand-memcon",
+      "title": "Meeting memorandum: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1992-07-05-bush-francois-mitterrand-memcon.pdf",
+      "pageCount": 9,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [
+        "dumas"
+      ],
+      "header": "ee | SECRES 6046 THE WHITE HOUSE 3 DECLASSIFIED eal PER E.O. 13526 1004- apd SS Mell MEMORANDUM OF CONVERSATION SUBJECT: Meeting between POTUS and President Mitterrand PARTICIPANTS: The President Secretary Baker | Secretary Brady | General Scowcroft Robert Zoe",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-08-04-francois-mitterrand-memcon",
+      "title": "Meeting memorandum: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1992-08-04-bush-francois-mitterrand-memcon.pdf",
+      "pageCount": 2,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": ": ncRET™ 6 NATIONAL SECURITY COUNCIL 046 WASHINGTON. 0 C 20506 August 4, 1992 | ACTION MEMORANDUM FOR WILLIAM F. SITTMA THROUGH: DAVID C. GOMPERT FROM: TONY warned SUBJECT: Memorandum of Conversation with French President Francois Mitterrand Attached at Tab I ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-12-03-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 18,
+      "expected": "Francois Mitterrand",
+      "hasExpected": true,
+      "extras": [],
+      "header": "Bn _ a aa | CONPIDENEEAT: -PARABEATHAE 8835 | THE WHITE HOUSE DECLASSIFIED . WASHINGTON PER E.0O. 13526 4009- 074b- MR ce IIIA MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telecon with President Francois Mitterrand of France on December 3, 1992 PARTICIPANTS: ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-11-18-giulio-andreotti-telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "pdfUrl": "documents/italy/1989-11-18-bush-giulio-andreotti-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Giulio Andreotti",
+      "hasExpected": true,
+      "extras": [],
+      "header": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 | | GONEEDENTTAR 9274 Add-On #1 MEMORANDUM FOR J. STAPLETON ROY 7 Executive Secretary 7 Department of State SUBJECT: Telephone Call from the President to Prime Minister Giulio Andreotti of Italy, November 18, 19",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-11-21-giulio-andreotti-memcon",
+      "title": "Meeting memorandum: President Bush and Giulio Andreotti",
+      "pdfUrl": "documents/italy/1990-11-21-bush-giulio-andreotti-memcon.pdf",
+      "pageCount": 44,
+      "expected": "Giulio Andreotti",
+      "hasExpected": true,
+      "extras": [],
+      "header": ", NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 November 21, 1990 | ACTION S$ | G N E D MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ADRIAN A. BASORA AXE SUBJECT: Memcon with Prime Minister Andreotti of Italy, November 13, 1990 At Tab A is the Memorandum of Con",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-06-03-giulio-andreotti-telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "pdfUrl": "documents/italy/1991-06-03-bush-giulio-andreotti-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Giulio Andreotti",
+      "hasExpected": true,
+      "extras": [],
+      "header": "co Tevet : * SECRET ot NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 June 3, 1991 NOTE_ ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: EARL ANTHONY WAYNE) SUBJECT: Telcon with Prime Minister Giulio Andreotti of Italy on June 3, 1991 Attached at Tab A is a ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-08-01-giulio-andreotti-memcon",
+      "title": "Meeting memorandum: President Bush and Giulio Andreotti",
+      "pdfUrl": "documents/italy/1991-08-01-bush-giulio-andreotti-memcon.pdf",
+      "pageCount": 2,
+      "expected": "Giulio Andreotti",
+      "hasExpected": true,
+      "extras": [],
+      "header": "———_——_. = SECRET 2s —— 5505 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 August 1, 1991 MEMORANDUM FOR MR. W. ROBERT PEARSON Executive Secretary Department of State SUBJECT: Transmittal of Presidential Memcon with Prime Minister Andreotti of Italy on July",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-08-19-giulio-andreotti-telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "pdfUrl": "documents/italy/1991-08-19-bush-giulio-andreotti-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Giulio Andreotti",
+      "hasExpected": true,
+      "extras": [],
+      "header": ". CONPIDRNTEAL 6119 NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 August 19, 1991 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ROBERT L. HUTCHINGS hone SUBJECT: Telephone Conversation with Prime Minister Giulio Andreotti of Italy Attached at Tab A is a M",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-10-23-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1989-10-23-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 14,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "; wet CONFIDENTIAL 8520 THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION ! SUBJECT: Telephone Call from Chancellor Helmut Kohl of | the Federal Republic of Germany (U) PARTICIPANTS: The President Helmut Kohl, Chancellor Notetaker: Robert Hutchin",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-10-25-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1989-10-25-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "GONPEDENTIAL ON: .° NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 October 25, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: ROBERT L. HUTCHINGS RZ SUBJECT: Memorandum of Telephone Conversation with Chancellor Helmut Kohl of the Federal Republic of Germa",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-11-04-felipe-gonzalez-memcon",
+      "title": "Meeting memorandum: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1989-11-04-bush-felipe-gonzalez-memcon.pdf",
+      "pageCount": 2,
+      "expected": "Felipe Gonzalez",
+      "hasExpected": true,
+      "extras": [],
+      "header": "poy CONFIBENTIAL CONFIBENTHAL 8443 | NATIONAL SECURITY COUNCIL, | WASHINGTON, D.C. 20506 November 4, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: ADRIAN A. BASORA 47415 SUBJECT: Memorandum of Conversation with Felipe Gonzalez, Prime Minister of Spain The ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-11-26-poul-schlueter-telcon",
+      "title": "Telephone conversation: President Bush and Poul Schlueter",
+      "pdfUrl": "documents/regional/1989-11-26-bush-poul-schlueter-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Poul Schlueter",
+      "hasExpected": true,
+      "extras": [
+        "mitterrand"
+      ],
+      "header": "“CONPEDENPEAS 9709 DECLASSIFIED THE WHITE HOUSE PER E.O. 12958, WASHINGTON AS AM NDEQ 1008 oor i MEMORANDUM OF TELEPHONE CONVERSATION eo) 3 109 SUBJECT: The President’s Telephone Call to Prime Minister Poul Schlueter of Denmark (U) PARTICIPANTS: The President ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-12-23-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1989-12-23-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 14,
+      "expected": "Felipe Gonzalez",
+      "hasExpected": true,
+      "extras": [],
+      "header": "iy, . —SESRET ee DOE Mig, 0382 S25 Be THE WHITE HOUSE 22 ee = DE WASHINGTON Za zs % = %, = “My, oe “nny, m aw | MEMORANDUM OF TELEPHONE CONVERSATION | SUBJECT: Telephone Conversation with Prime Minister Felipe Gonzalez of Spain (U) PARTICIPANTS: The President ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1989-12-26-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1989-12-26-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Felipe Gonzalez",
+      "hasExpected": true,
+      "extras": [],
+      "header": "‘ ' | ‘SHERET 10362 . , NATIONAL SECURITY COUNCIL” WASHINGTON. D.C. 20506 yo December 26, 1989 i» Poe ACTION ‘ MEMORANDUM FOR G. PHILIP HUGHES FROM: ADRIAN BASORA A745 SUBJECT: Memorandum of Telephone Conversation with Felipe Gonzalez, Prime Minister of Spain,",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-01-04-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1990-01-04-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Felipe Gonzalez",
+      "hasExpected": true,
+      "extras": [],
+      "header": "7 ScGRET NATIONAL SECURITY COUNCIL * WASHINGTON, D.C. 20506 0128 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: The President’s Telephone Call to Felipe Gonzalez, Prime Minister of Spain, January 4, 1990 (U) Distribution o",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-01-08-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1990-01-08-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 41,
+      "expected": "Felipe Gonzalez",
+      "hasExpected": true,
+      "extras": [],
+      "header": "a - } Secret THE WHITE HOUSE . 0128 WASHINGTON January 8, 1990 MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with Prime Minister Felipe Gonzalez of Spain (U) PARTICIPANTS: The President Prime Minister Felipe Gonzalez Interpreter: Barbara",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-02-13-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-02-13-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 164,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "Loe : 1180 THE WHITE HOUSE WASHINGTON .? MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Call to Chancellor Helmut Kohl of the Federal Republic of Germany (U) PARTICIPANTS: The President Helmut Kohl, Chancellor Robert Hutchings, NSC Staff (Notetaker) H",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-04-05-hans-dietrich-genscher-memcon",
+      "title": "Meeting memorandum: President Bush and Hans-Dietrich Genscher",
+      "pdfUrl": "documents/regional/1990-04-05-bush-hans-dietrich-genscher-memcon.pdf",
+      "pageCount": 2,
+      "expected": "Hans-Dietrich Genscher",
+      "hasExpected": true,
+      "extras": [],
+      "header": "‘ ' UNCLASSIFIED SEGRET 2641 : . WITH SECRET ATTACHMENT . NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 April 5, 1990 Ky 4 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ROBERT D. BLACKWILL (D SUBJECT: The President’s Meeting with FRG Foreign Minister Hans",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-04-17-ruud-lubbers-telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "pdfUrl": "documents/regional/1990-04-17-bush-ruud-lubbers-telcon.pdf",
+      "pageCount": 3,
+      "expected": "Ruud Lubbers",
+      "hasExpected": true,
+      "extras": [
+        "mitterrand"
+      ],
+      "header": "| “GONPEDENE TAT TTA 2993 | | : THE WHITE HOUSE DECLASSIFIED WASHINGTON PER E.O. 42958, AS AMENDED 2090-O47A-F QA Blulor MEMORANDUM OF CONVERSATION SUBJECT: Telephone Call to Prime Minister Ruud Lubbers of the Netherlands (U) PARTICIPANTS: The President Ruud L",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-06-12-helmut-kohl-memcon",
+      "title": "Meeting memorandum: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-06-12-bush-helmut-kohl-memcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "nn ee eee ee rlLlrlmlti“‘i‘OSOSCO TY. UC ore . © . -~ al and an ere = NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 | Non-log item June 12, 1990 ACTION | MEMORANDUM FOR BRENT SCOWCROFT | iB) THROUGH: ROBERT BLACKWILL FROM: PHILIP ZELIKOW ~?/% SUBJECT: Memor",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-07-03-ruud-lubbers-telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "pdfUrl": "documents/regional/1990-07-03-bush-ruud-lubbers-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Ruud Lubbers",
+      "hasExpected": true,
+      "extras": [
+        "mitterrand"
+      ],
+      "header": "Om ne . SBGREP ~~ =~ = a” , THE WHITE HOUSE 5338 WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION ' SUBJECT: Telephone Call to Prime Minister Ruud Lubbers of the Netherlands (U) PARTICIPANTS: The President Prime Minister Ruud Lubbers “4 Nicholas Burns, NSC Staf",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-08-22-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-08-22-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 3,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [
+        "genscher"
+      ],
+      "header": ". . a SEERET ee ras) ; - : 6699 THE WHITE HOUSE WASHINGTON | | MEMORANDUM OF TELEPHONE CONVERSATION | SUBJECT: Telcon with Helmut Kohl, Chancellor of the | Federal Republic of Germany (U) | PARTICIPANTS: The President Helmut Kohl, Chancellor Notetaker: Stephen",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-08-23-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-08-23-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": ". “SeeSes — 6699 : NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 | August 23, 1990 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN THROUGH: ADRIAN A. BASORA A474? FROM: STEPHEN E. BENKO SED SUBJECT: Telcon with Helmut Kohl, Chancellor of the Federal Republic of G",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-08-30-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-08-30-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [
+        "andreotti",
+        "delors"
+      ],
+      "header": "=~ . SECRET - = - 6909 . THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Call to Helmut Kohl, Chancellor of the Federal Republic of Germany (U) PARTICIPANTS: The President Helmut Kohl, Chancellor Notetaker: Stephen E. Benko, ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-06-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-09-06-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": ". ' GONEEDENTIAL 7213 . NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Telephone Call from Chancellor Kohl of the Federal Republic of Germany, September 6, 1990 (U) Distribution",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-10-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-09-10-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "» CONETDENTEAL, - 7025 NATIONAL SECURITY COUNCIL F WASHINGTON, D.C. 20506 September 10, 1990 ACTION | MEMORANDUM FOR WILLIAM F. SITTMANN | FROM: ROBERT L. ee 1 ae SUBJECT: Telephone Call from Chancellor Kohl of the Federal Republic of Germany, September 6, 199",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-12-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-09-12-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "” ' GONFIDENPEAE~ 7213 : NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 12, 1990 iy ACTION LE MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ROBERT L. HUTCHINGS Rai SUBJECT: Telephone Call from Chancellor Kohl of the Federal Republic of Germany, Septembe",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-09-13-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-09-13-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": ", CANCIAe GOT iL cat 7213 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 13, 1990 . MEMORANDUM FOR J. STAPLETON ROY . Executive Secretary Department of State SUBJECT: Telephone Call from Chancellor Kohl of the Federal Republic of Germany, September",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-10-03-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-10-03-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "- . NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 7876 October 3, 1990 ™~ ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ROBERT L. somcamneskecle SUBJECT: President’s Call to Chancellor Helmut Kohl of Germany At Tab I is the Memorandum of Telephone Convers",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-12-17-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-12-17-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 8,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": ". : ——— | - CONELDENT EA . 9837 | THE WHITE HOUSE | WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with Chancellor Helmut Kohl of Germany (U) PARTICIPANTS: The President Helmut Kohl, Chancellor Notetaker: Robert Hutchings, NSC Staff Interprete",
+      "suspicious": false
+    },
+    {
+      "id": "local-1990-12-31-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-12-31-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "GONPIDENTEAL ee 9837 | ° NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 December 31, 1990 Vy ACTION 1 MEMORANDUM FOR WILLIAM F. SITTMANN & FROM: ROBERT L. HUTCHINGS Kelld— SUBJECT: Telcon with Chancellor Kohl of Germany At Tab I is the memorandum of telephon",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-01-11-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1991-01-11-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 101,
+      "expected": "Felipe Gonzalez",
+      "hasExpected": true,
+      "extras": [],
+      "header": "4 Bee , SECRER S EG x eT 0367 / NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 January 16, 1991 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN | FROM: ADRIAN BASORA (HAE | SUBJECT: Telcon with Prime Minister Felipe Gonzalez of Spain on January 11, 1991 Attached a",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-01-21-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1991-01-21-bush-felipe-gonzalez-telcon.pdf",
+      "pageCount": 3,
+      "expected": "Felipe Gonzalez",
+      "hasExpected": true,
+      "extras": [],
+      "header": "NATIONAL SECURITY COUNCIL WASHINGTON. 0.C. 20506 January 21, 1991 MEMORANDUM FOR WILLIAM F. SITTMANN | FROM: ADRIAN A. BASORA AAD | SUBJECT: Telcon with Prime Minister Felipe Gonzalez of Spain on January 21, 1991 Attached at Tab A is a Memorandum of Telephone ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-01-22-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-01-22-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "7 a . es , CONFIDENTIAL, 0536 NATIONAL SECURITY COUNCIL . é. WASHINGTON, D.C. 20506 | « January 22, 1991 ; y; g £ ACTION Sia MEMORANDUM FOR WILLIAM F. SITTMANN OA! FROM: Robert L. sutcnincs RZé— “t £ff , | SUBJECT: Telcon with Chancellor Kohl of Germany (Ed At",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-01-26-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-01-26-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "‘sre, awe cae | . . Rew es to SO come : | . -« SBGREP 0596 NATIONAL SECURITY COUNCIL Ps WASHINGTON, D.C. 20506 . January 26, 1991 | ae 4h A Ree Y ry CTION IAS MEMORANDUM FOR WILLIAM F. SITTMANN far FROM: ROBERT L. HUTCHINGS \\ SUBJECT: Telephone Call to Chancel",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-03-21-helmut-kohl-memcon",
+      "title": "Meeting memorandum: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-memcon.pdf",
+      "pageCount": 30,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "- So ett eo Witty, eis WD be ea bee s& <o% = Qe THE WHITE HOUSE 3g ool ee WASHINGTON 2° up of 2: % oo-oyzeFk = MEMORANDUM OF CONVERSATION “ui” SUBJECT: Telcon with Helmut Kohl, Chancellor of Germany PARTICIPANTS: The President Helmut Kohl, Chancellor Adrian Ba",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-04-16-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-04-16-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 3,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [
+        "major"
+      ],
+      "header": "2) == oe ey eee . , xi d SEGREP a eS ee | 2897 = THE WHITE HOUSE WASHINGTON DECLASSIFIED PER E.O. 12958, AS AMENDED MEMORANDUM OF TELEPHONE CONVERSATION = a kd D He Bhi fog SUBJECT: Telcon with Chancellor Kohl of Germany (U) PARTICIPANTS: The President Helmut ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-04-18-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-04-18-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "Q ceoct -SBGRET WOW ; NATIONAL SECURITY COUNCIL 2897 - / WASHINGTON, D.C. 20506 April 18, 1991 ACTION MEMORANDUM FOR WILLIAM F. SITTMANN FROM: ROBERT HUTCHINGS a SUBJECT: Telcon with Chancellor Helmut Kohl of Germany on April 16, 1991 | ' Attached at Tab I is ",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-06-24-helmut-kohl-memcon",
+      "title": "Meeting memorandum: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-06-24-bush-helmut-kohl-memcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "a SEGRET SECRET 4019 NATIONAL SECURITY COUNCIL ee WASHINGTON, D.C. 20508 | June 24, 1991 ACTION MEMORANDUM FOR WILLIAM F. SITTI FROM: DAVID C. GOMPERT SUBJECT: Memcon with Chancellor Helmut Kohl of Germany Attached at Tab A is a Memorandum of Conversation betw",
+      "suspicious": false
+    },
+    {
+      "id": "local-1991-11-26-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-11-26-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [
+        "lubbers",
+        "delors"
+      ],
+      "header": "“_ Sonerpenttar 8675 THE WHITE HOUSE DECLASSIFIED WASHINGTON PER E.O. 12958, AS AMENDED 2000 -C4y7-F @L BI2I110% MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telcon with Helmut Kohl, Chancellor of Germany PARTICIPANTS: The President Helmut Kohl, Chancellor In",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-03-31-helmut-kohl-memcon",
+      "title": "Meeting memorandum: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1992-03-31-bush-helmut-kohl-memcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "a . 6 Cwrr~ “SECREP 2395 “f NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 March 31, 1992 ACTION MEMORANDUM FOR WILLIAM F. SITTI FROM: DAVID C. GOMPERT, SUBJECT: Memorandum of Conversation for the President’s Meetings with Chancellor Kohl of Germany, March 2",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-05-06-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1992-05-06-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "bal CR Nk Eee eee : GONFIBENTIAL CONEEDENTIAL 3520 NATIONAL SECURITY COUNCIL WASHINGTON. D.C 20506 MEMORANDUM FOR W. ROBERT PEARSON Executive Secretary Department of State SUBJECT: Memorandum of Telephone Conversation Between the President and Chancellor Kohl,",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-06-29-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1992-06-29-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 15,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [],
+      "header": "ee ee Sy ae ee See, es, ee Ll) a a 5144 SEEREL NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 | June 29, 1992 ACTION | MEMORANDUM FOR WILLIAM F. SITTMANN | . | FROM: TONY WAIN, Kd SUBJECT: Telecon with Chancellor Helmut Kohl of Germany Attached at Tab A is a",
+      "suspicious": false
+    },
+    {
+      "id": "local-1992-09-28-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1992-09-28-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 71,
+      "expected": "Helmut Kohl",
+      "hasExpected": true,
+      "extras": [
+        "delors"
+      ],
+      "header": "“CERFIBEN TAL ; CONPEDENEZAL 7271 THE WHITE HOUSE DECLASSIFIED WASHINGTON PER E.O. 13526 HOA- O74) WB MEMORANDUM OF TELEPHONE CONVERSATION 7] 4/61 SUBJECT: Telcon with Helmut Kohl, Chancellor of Germany on September 28, 1992 PARTICIPANTS: The President Helmut ",
+      "suspicious": false
+    }
+  ]
+}

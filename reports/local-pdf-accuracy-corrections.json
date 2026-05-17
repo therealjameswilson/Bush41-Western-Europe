@@ -1,0 +1,213 @@
+{
+  "generatedAt": "2026-05-17T16:10:52.684Z",
+  "total": {
+    "records": 201,
+    "pages": 1545
+  },
+  "chapterTotals": {
+    "United Kingdom": {
+      "records": 22,
+      "pages": 137
+    },
+    "France": {
+      "records": 44,
+      "pages": 331
+    },
+    "Italy": {
+      "records": 17,
+      "pages": 122
+    },
+    "Regional": {
+      "records": 118,
+      "pages": 955
+    }
+  },
+  "corrections": [
+    {
+      "action": "removed",
+      "id": "local-1989-07-10-margaret-thatcher-memcon",
+      "title": "Meeting memorandum: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1989-07-10-bush-margaret-thatcher-memcon.pdf",
+      "reason": "Listed as Thatcher, but OCR shows a Jaruzelski/Poland meeting across the text pages."
+    },
+    {
+      "action": "removed",
+      "id": "local-1990-08-06-margaret-thatcher-telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1990-08-06-bush-margaret-thatcher-telcon.pdf",
+      "reason": "Listed as Thatcher, but page 1 is a Brian Mulroney/Canada telcon and the remainder is administrative material."
+    },
+    {
+      "action": "removed",
+      "id": "local-1990-08-09-margaret-thatcher-telcon",
+      "title": "Telephone conversation: President Bush and Margaret Thatcher",
+      "pdfUrl": "documents/united-kingdom/1990-08-09-bush-margaret-thatcher-telcon.pdf",
+      "reason": "Only a cover/action memo references Ozal and Thatcher; no declassified Thatcher telcon text is present."
+    },
+    {
+      "action": "removed",
+      "id": "local-1989-11-18-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1989-11-18-bush-francois-mitterrand-telcon.pdf",
+      "reason": "Listed as Mitterrand, but the text is an Andreotti/Italy conversation; the Italy record remains."
+    },
+    {
+      "action": "removed",
+      "id": "local-1989-12-04-felipe-gonzalez-telcon",
+      "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+      "pdfUrl": "documents/regional/1989-12-04-bush-felipe-gonzalez-telcon.pdf",
+      "reason": "Only a cover memo for several NATO leader calls is present, not declassified Gonzalez telcon text."
+    },
+    {
+      "action": "removed",
+      "id": "local-1990-08-30-giulio-andreotti-telcon",
+      "title": "Telephone conversation: President Bush and Giulio Andreotti",
+      "pdfUrl": "documents/italy/1990-08-30-bush-giulio-andreotti-telcon.pdf",
+      "reason": "Listed as Andreotti, but the text is a Helmut Kohl telcon; the corrected Kohl record remains in Regional."
+    },
+    {
+      "action": "updated",
+      "id": "local-1989-09-11-john-major-memcon",
+      "title": "Meeting memorandum: President Bush and John Major",
+      "pdfUrl": "documents/united-kingdom/1989-09-11-bush-john-major-memcon.pdf",
+      "pageCount": 4,
+      "reason": "Relabeled Thatcher entry to John Major and trimmed to conversation pages."
+    },
+    {
+      "action": "updated",
+      "id": "local-1989-11-26-poul-schlueter-telcon",
+      "title": "Telephone conversation: President Bush and Poul Schlueter",
+      "pdfUrl": "documents/regional/1989-11-26-bush-poul-schlueter-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Relabeled Mitterrand entry to Poul Schlueter and moved it to Regional."
+    },
+    {
+      "action": "updated",
+      "id": "local-1990-04-17-ruud-lubbers-telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "pdfUrl": "documents/regional/1990-04-17-bush-ruud-lubbers-telcon.pdf",
+      "pageCount": 3,
+      "reason": "Relabeled Mitterrand entry to Ruud Lubbers and moved it to Regional."
+    },
+    {
+      "action": "updated",
+      "id": "local-1990-07-03-ruud-lubbers-telcon",
+      "title": "Telephone conversation: President Bush and Ruud Lubbers",
+      "pdfUrl": "documents/regional/1990-07-03-bush-ruud-lubbers-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Relabeled Mitterrand entry to Ruud Lubbers and moved it to Regional."
+    },
+    {
+      "action": "updated",
+      "id": "local-1991-04-16-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-04-16-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 3,
+      "reason": "Relabeled John Major entry to Helmut Kohl and moved it to Regional."
+    },
+    {
+      "action": "updated",
+      "id": "local-1990-08-22-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-08-22-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 3,
+      "reason": "Relabeled Genscher entry to Helmut Kohl."
+    },
+    {
+      "action": "updated",
+      "id": "local-1990-08-31-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 4,
+      "reason": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count."
+    },
+    {
+      "action": "updated",
+      "id": "local-1990-09-06-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 4,
+      "reason": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count."
+    },
+    {
+      "action": "updated",
+      "id": "local-1990-09-11-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "reason": "PDF trimmed to the two pages of Mitterrand telcon text; unrelated Portugal briefing packet removed."
+    },
+    {
+      "action": "updated",
+      "id": "local-1990-12-24-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Replaced wrong Rocard-first packet with the clean Mitterrand variant and trimmed to conversation text."
+    },
+    {
+      "action": "updated",
+      "id": "local-1991-02-19-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 4,
+      "reason": "PDF trimmed to the four pages of Mitterrand telcon text; unrelated Denmark/Ozal packet pages removed."
+    },
+    {
+      "action": "updated",
+      "id": "local-1991-04-16-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 4,
+      "reason": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count."
+    },
+    {
+      "action": "updated",
+      "id": "local-1991-07-11-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 2,
+      "reason": "PDF trimmed to the two pages of Mitterrand telcon text; FOIA marker removed from the count."
+    },
+    {
+      "action": "updated",
+      "id": "local-1991-08-19-francois-mitterrand-telcon",
+      "title": "Telephone conversation: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf",
+      "pageCount": 1,
+      "reason": "Replaced wrong Lubbers-first packet with the clean Mitterrand variant and counted the single text page."
+    },
+    {
+      "action": "updated",
+      "id": "local-1992-01-31-francois-mitterrand-memcon",
+      "title": "Meeting memorandum: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1992-01-31-bush-francois-mitterrand-memcon.pdf",
+      "pageCount": 3,
+      "reason": "PDF trimmed to the three pages of Mitterrand memcon text; unrelated packet pages removed."
+    },
+    {
+      "action": "updated",
+      "id": "local-1992-07-05-francois-mitterrand-memcon",
+      "title": "Meeting memorandum: President Bush and Francois Mitterrand",
+      "pdfUrl": "documents/france/1992-07-05-bush-francois-mitterrand-memcon.pdf",
+      "pageCount": 9,
+      "reason": "PDF trimmed to the nine pages of Mitterrand memcon text; unrelated packet pages removed."
+    },
+    {
+      "action": "updated",
+      "id": "local-1991-11-26-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1991-11-26-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Replaced wrong Lubbers-first packet with the clean Kohl variant and trimmed to conversation text."
+    },
+    {
+      "action": "updated",
+      "id": "local-1990-08-30-helmut-kohl-telcon",
+      "title": "Telephone conversation: President Bush and Helmut Kohl",
+      "pdfUrl": "documents/regional/1990-08-30-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Replaced cover-only Kohl packet with the substantive Kohl telcon text misfiled under Andreotti."
+    }
+  ]
+}
