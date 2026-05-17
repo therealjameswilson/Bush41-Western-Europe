@@ -47,7 +47,8 @@ function createMeta(record) {
 
   for (const value of [
     record.countries.filter((country) => country !== "United States").join(", "),
-    `NAID ${record.naid}`,
+    record.naid?.startsWith("local-") ? "Local PDF" : `NAID ${record.naid}`,
+    record.type,
     record.pageCount ? `${record.pageCount} pages` : "Pages pending",
     ...record.frusTopics.slice(0, 3)
   ]) {
@@ -72,7 +73,7 @@ function createRecordRow(record) {
   const body = document.createElement("div");
   const title = document.createElement("a");
   title.className = "record-title";
-  title.href = record.catalogUrl;
+  title.href = record.catalogUrl || record.pdfUrl;
   title.rel = "noreferrer";
   title.textContent = record.title;
   body.append(title, createMeta(record));
@@ -80,11 +81,13 @@ function createRecordRow(record) {
   const links = document.createElement("div");
   links.className = "record-links";
 
-  const catalog = document.createElement("a");
-  catalog.href = record.catalogUrl;
-  catalog.rel = "noreferrer";
-  catalog.textContent = "Catalog";
-  links.append(catalog);
+  if (record.catalogUrl && !record.naid?.startsWith("local-")) {
+    const catalog = document.createElement("a");
+    catalog.href = record.catalogUrl;
+    catalog.rel = "noreferrer";
+    catalog.textContent = "Catalog";
+    links.append(catalog);
+  }
 
   if (record.pdfUrl) {
     const pdf = document.createElement("a");

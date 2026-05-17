@@ -1,0 +1,38 @@
+{
+  "sourceRoot": "/Users/jameswilson/bush-memcons-extractor/output/pdfs",
+  "sourcePdfCount": 1369,
+  "westernEuropeCandidates": 280,
+  "dedupedCandidates": 94,
+  "addedRecords": 86,
+  "copiedPdfBytes": 341751155,
+  "copiedPdfPages": 834,
+  "reviewRecords": [
+    {
+      "fileName": "900213_BushANDKohl_Telcon.pdf",
+      "date": "1990-02-13",
+      "type": "Telcon",
+      "person": "Helmut Kohl",
+      "pageCount": 164,
+      "size": 69994232,
+      "reason": "Held out because the local PDF is more than 75 pages and should be manually checked before publishing."
+    },
+    {
+      "fileName": "900907_BushANDMajor_Memcon.pdf",
+      "date": "1990-09-07",
+      "type": "Memcon",
+      "person": "John Major",
+      "pageCount": 98,
+      "size": 32061178,
+      "reason": "Held out because the local PDF is more than 75 pages and should be manually checked before publishing."
+    },
+    {
+      "fileName": "910116_BushANDGonzalez_Telcon.pdf",
+      "date": "1991-01-16",
+      "type": "Telcon",
+      "person": "Felipe Gonzalez",
+      "pageCount": 101,
+      "size": 46555773,
+      "reason": "Held out because the local PDF is more than 75 pages and should be manually checked before publishing."
+    }
+  ]
+}

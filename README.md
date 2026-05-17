@@ -1,6 +1,6 @@
-# FRUS 1989-1992 Volume VIII Memcons
+# FRUS 1989-1992 Volume VIII Memcons and Telcons
 
-A GitHub Pages website for housing declassified memoranda of conversation relevant
+A GitHub Pages website for housing declassified memoranda and telephone conversations relevant
 to *Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe*.
 
 The Office of the Historian currently lists this FRUS volume as **Being Researched**.
@@ -12,10 +12,10 @@ Presidential Library and the National Archives Catalog: date, type, participants
 country, release status, NAID, official PDF link, catalog link, FRUS volume, and
 FRUS topic tags.
 
-The current archive data lives in `data/memcons.json`. It contains 119 extracted
+The current archive data lives in `data/memcons.json`. It combines extracted
 Western Europe-relevant records from the Presidential Memcon Files section of
-FOIA 2000-0429-F. Each record includes `pageCount`, calculated from the official
-PDF scan.
+FOIA 2000-0429-F with deduped PDFs from the local Bush memcons extractor output.
+Each record includes `pageCount`, calculated from the linked PDF scan.
 
 ## Chapter Arrangement
 
@@ -28,6 +28,19 @@ Records inside each chapter are arranged chronologically by `sortDate`.
 
 The data shape lives in `data/memcons.schema.json`, with a small reference subset
 in `data/memcons.sample.json`.
+
+## Local PDF Ingest
+
+Run the local importer after placing extractor PDFs on the same machine:
+
+```bash
+node scripts/ingest-local-pdfs.js /Users/jameswilson/bush-memcons-extractor/output/pdfs
+```
+
+The importer copies deduped Western Europe PDFs into `documents/`, appends matching
+records to `data/memcons.json`, and writes a review report to
+`reports/local-pdf-ingest.json`. It intentionally holds back oversized local
+packets above 75 pages for manual review before publication.
 
 ## Source Anchors
 
