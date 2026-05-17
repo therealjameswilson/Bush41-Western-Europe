@@ -12,6 +12,10 @@ Presidential Library and the National Archives Catalog: date, type, participants
 country, release status, NAID, official PDF link, catalog link, FRUS volume, and
 FRUS topic tags.
 
+The current archive data lives in `data/memcons.json`. It contains 119 extracted
+Western Europe-relevant records from the Presidential Memcon Files section of
+FOIA 2000-0429-F.
+
 ## Chapter Arrangement
 
 1. United Kingdom
@@ -21,8 +25,8 @@ FRUS topic tags.
 
 Records inside each chapter are arranged chronologically by `sortDate`.
 
-The starter data shape lives in `data/memcons.schema.json`, with official-source
-examples in `data/memcons.sample.json`.
+The data shape lives in `data/memcons.schema.json`, with a small reference subset
+in `data/memcons.sample.json`.
 
 ## Source Anchors
 
@@ -33,7 +37,13 @@ examples in `data/memcons.sample.json`.
 
 ## Local Preview
 
-Open `index.html` in a browser.
+Run a local static server so the page can fetch `data/memcons.json`:
+
+```bash
+python3 -m http.server 4181
+```
+
+Then open <http://127.0.0.1:4181/>.
 
 ## Publish
 
