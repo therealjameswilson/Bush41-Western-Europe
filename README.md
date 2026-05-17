@@ -14,7 +14,8 @@ FRUS topic tags.
 
 The current archive data lives in `data/memcons.json`. It contains 119 extracted
 Western Europe-relevant records from the Presidential Memcon Files section of
-FOIA 2000-0429-F.
+FOIA 2000-0429-F. Each record includes `pageCount`, calculated from the official
+PDF scan.
 
 ## Chapter Arrangement
 

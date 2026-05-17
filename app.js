@@ -2,6 +2,7 @@ const CHAPTER_ORDER = ["United Kingdom", "France", "Italy", "Regional"];
 
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
+const totalPages = document.querySelector("#total-pages");
 
 function formatDate(dateString) {
   const date = new Date(`${dateString}T00:00:00Z`);
@@ -23,12 +24,19 @@ function byChapterThenDate(a, b) {
 
 function setChapterCounts(records) {
   totalRecords.textContent = records.length.toString();
+  totalPages.textContent = records.reduce((sum, record) => sum + (record.pageCount || 0), 0).toString();
 
   for (const chapterName of CHAPTER_ORDER) {
-    const count = records.filter((record) => record.chapter.name === chapterName).length;
-    const node = document.querySelector(`[data-chapter-count="${chapterName}"]`);
-    if (node) {
-      node.textContent = count.toString();
+    const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
+    const countNode = document.querySelector(`[data-chapter-count="${chapterName}"]`);
+    const pagesNode = document.querySelector(`[data-chapter-pages="${chapterName}"]`);
+    const pageTotal = chapterRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0);
+
+    if (countNode) {
+      countNode.textContent = chapterRecords.length.toString();
+    }
+    if (pagesNode) {
+      pagesNode.textContent = pageTotal.toString();
     }
   }
 }
@@ -40,6 +48,7 @@ function createMeta(record) {
   for (const value of [
     record.countries.filter((country) => country !== "United States").join(", "),
     `NAID ${record.naid}`,
+    record.pageCount ? `${record.pageCount} pages` : "Pages pending",
     ...record.frusTopics.slice(0, 3)
   ]) {
     if (!value) continue;
@@ -107,7 +116,8 @@ function renderRecords(records) {
 
     const count = document.createElement("p");
     count.className = "record-count";
-    count.textContent = `${chapterRecords.length} records`;
+    const pageTotal = chapterRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0);
+    count.textContent = `${chapterRecords.length} records / ${pageTotal} pages`;
     header.append(heading, count);
 
     const list = document.createElement("div");

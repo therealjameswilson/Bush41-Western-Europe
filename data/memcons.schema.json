@@ -79,6 +79,11 @@
       "type": "string",
       "format": "uri"
     },
+    "pageCount": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "description": "Number of pages in the official PDF scan."
+    },
     "catalogUrl": {
       "type": "string",
       "format": "uri"
