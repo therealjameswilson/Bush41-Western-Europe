@@ -1,13 +1,16 @@
 {
-  "generatedAt": "2026-05-17T23:59:53.880Z",
-  "styleModel": "Foreign Relations of the United States, 1989-1992, Volume XXXI, START I, 1989-1991",
-  "styleModelUrl": "https://history.state.gov/historicaldocuments/frus1989-92v31",
+  "generatedAt": "2026-05-18T09:18:41.761Z",
+  "styleModel": "Foreign Relations of the United States, 1989-1992, Volume XXXI, START I, 1989-1991, Document 38",
+  "styleModelUrl": "https://history.state.gov/historicaldocuments/frus1989-92v31/d38",
   "changes": [
-    "Added generic FRUS-style documentTitle values: Memorandum of Conversation or Memorandum of a Telephone Conversation.",
-    "Added dateLine values in the FRUS place/date/time pattern where the PDF text exposed a place or time; otherwise fell back to Washington plus the record date.",
-    "Added sourceNote values modeled on FRUS source notes, separating archival provenance from descriptive titles."
+    "Recast Source lines to follow the FRUS archival-chain pattern used in the published volume.",
+    "For Brent Scowcroft source-folder PDFs, used the provenance sheet hierarchy: George H.W. Bush Presidential Records; Scowcroft, Brent, Collection; Presidential Correspondence Files; Presidential Telcon or Memcons Files; OA/ID folder number; folder title.",
+    "Retained NAID and catalog links as finding aids for non-Scowcroft NARA catalog records."
   ],
-  "records": 229,
-  "withDateLine": 229,
-  "withSourceNote": 229
+  "counts": {
+    "scowcroftRecords": 106,
+    "foiaCatalogRecords": 90,
+    "localProjectRecords": 33,
+    "totalRecords": 229
+  }
 }
