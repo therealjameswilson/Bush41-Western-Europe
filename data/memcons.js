@@ -43,7 +43,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 18-20; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, January 23, 1989, 1:19 p.m. - 1:23 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 41-bpr-scow-pcor-telcon-91111-001.pdf, source pages 18-20. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551686."
@@ -92,7 +92,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 21-22; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, January 24, 1989, 9:21 a.m. - 9:30 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 41-bpr-scow-pcor-telcon-91111-001.pdf, source pages 21-22. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551686."
@@ -141,7 +141,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 23-24; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, January 24, 1989, 11:16 a.m. - 11:25 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 41-bpr-scow-pcor-telcon-91111-001.pdf, source pages 23-24. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551686."
@@ -190,7 +190,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 27-28; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Poul Schlueter",
     "dateLine": "Washington, January 24, 1989, 3:10 p.m. - 3:21 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 41-bpr-scow-pcor-telcon-91111-001.pdf, source pages 27-28. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551686."
@@ -239,7 +239,7 @@ window.MEMCONS = [
     "pageCount": 1,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 42-42; pageCount counts only the 1 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, January 26, 1989, 12:02 p.m. - 12:03 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 41-bpr-scow-pcor-telcon-91111-001.pdf, source pages 42-42. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551686."
@@ -618,7 +618,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 78-80; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, April 17, 1989, 4:35 p.m to 4:55 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 41-bpr-scow-pcor-telcon-91111-001.pdf, source pages 78-80. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551686."
@@ -667,7 +667,7 @@ window.MEMCONS = [
     "pageCount": 5,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 88-92; pageCount counts only the 5 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Camp David, April 22, 1989, 10:17 a.m. - 10:34 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 41-bpr-scow-pcor-telcon-91111-001.pdf, source pages 88-92. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551686."
@@ -808,7 +808,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 101-104; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, May 8, 1989, 2:16 - 2:30 pm EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 41-bpr-scow-pcor-telcon-91111-001.pdf, source pages 101-104. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551686."
@@ -903,7 +903,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 105-106; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, May 10, 1989, 1:36-1:46 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 41-bpr-scow-pcor-telcon-91111-001.pdf, source pages 105-106. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551686."
@@ -952,7 +952,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 12-13; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, May 11, 1989, 1:20 - 1:30 pm EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 41-bpr-scow-pcor-telcon-91111-002.pdf, source pages 12-13. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551687."
@@ -1001,7 +1001,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 44-45; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, May 23, 1989, 12:30 - 12:41 pm EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 41-bpr-scow-pcor-telcon-91111-002.pdf, source pages 44-45. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551687."
@@ -1146,7 +1146,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 46-48; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, June 5, 1989, 12:02 p.m. - 12:09 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 41-bpr-scow-pcor-telcon-91111-002.pdf, source pages 46-48. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551687."
@@ -1195,7 +1195,7 @@ window.MEMCONS = [
     "pageCount": 5,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 59-63; pageCount counts only the 5 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Camp David, June 11, 1989, 8:07 a.m. - 8:24 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 41-bpr-scow-pcor-telcon-91111-002.pdf, source pages 59-63. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551687."
@@ -1572,7 +1572,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 15-17; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, August 2, 1989, 10:11 a.m. - 10:21 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, 41-bpr-scow-pcor-telcon-91111-003.pdf, source pages 15-17. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551688."
@@ -1667,7 +1667,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "890826_BushANDMitterrand_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Kennebunkport, Maine, August 26, 1989, 10:33 - 10:45 a.m. EDT",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 890826_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf."
@@ -1716,7 +1716,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 61-64; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, September 5, 1989, 1:15 P.M. - 1:30 P.M.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, 41-bpr-scow-pcor-telcon-91111-003.pdf, source pages 61-64. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551688."
@@ -1765,7 +1765,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 65-66; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, September 9, 1989, 1:27 - 1:30 pm",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, 41-bpr-scow-pcor-telcon-91111-003.pdf, source pages 65-66. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551688."
@@ -1957,7 +1957,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 67-68; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, September 16, 1989, 7:01 - 7:11 a.m. EDT",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, 41-bpr-scow-pcor-telcon-91111-003.pdf, source pages 67-68. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551688."
@@ -2196,7 +2196,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 95-96; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, October 23, 1989, 6:12 - 6:23 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, 41-bpr-scow-pcor-telcon-91111-003.pdf, source pages 95-96. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551688."
@@ -2291,7 +2291,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "localOriginalFile": "891024_BushANDMitterrand_Telcon.pdf",
     "notes": "Corrected after source-folder audit: the PDF text is a telephone call with Pope John Paul II, not Francois Mitterrand; trimmed to the two conversation pages. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "John Paul Robert Hutchings October, October 24, 1989, 8:40 - 8:52 a.m. EDT",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 891024_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/regional/1989-10-24-bush-pope-john-paul-ii-telcon.pdf."
@@ -2340,7 +2340,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 37-39; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, November 17, 1989, 3:16 pm - 3:24 pm EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 37-39. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -2389,7 +2389,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 28-29; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, November 17, 1989, 9:33 - 9:44 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 28-29. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -2486,7 +2486,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 48-49; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Camp David, November 25, 1989, 8:30 - 8:37 a.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 48-49. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -2535,7 +2535,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 46-47; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Camp David, November 25, 1989, 7:52 - 8:00 a.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 46-47. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -2584,7 +2584,7 @@ window.MEMCONS = [
     "pageCount": 1,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 45-45; pageCount counts only the 1 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Wilfried Martens",
     "dateLine": "Camp David, November 25, 1989, 7:46 - 7:50 a.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 45-45. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -2633,7 +2633,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "localOriginalFile": "891126_BushANDMitterrand_Telcon.pdf",
     "notes": "Corrected after OCR audit: the conversation text is with Danish Prime Minister Poul Schlueter, not Francois Mitterrand. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Poul Schlueter",
     "dateLine": "Camp David, November 26, 1989, 8:03 - 8:08 EST",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 891126_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/regional/1989-11-26-bush-poul-schlueter-telcon.pdf."
@@ -2682,7 +2682,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 60-61; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Anibal Cavaco Silva",
     "dateLine": "Washington, November 27, 1989, 12:16 - 12:34 p.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 60-61. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -2731,7 +2731,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 67-68; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Jacques Santer",
     "dateLine": "Washington, November 27, 1989, 5:31 - 5:34 p.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 67-68. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -2780,7 +2780,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 65-66; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Steingrimur Hermannsson",
     "dateLine": "Washington, November 27, 1989, 4:16 - 4:20 p.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 65-66. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -2829,7 +2829,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 87-89; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, November 30, 1989, 9:40 - 9:55 a.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 87-89. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -2878,7 +2878,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 84-86; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Washington, November 30, 1989, 8:59 - 9:28 a.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 84-86. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -3071,7 +3071,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 114-116; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, December 20, 1989, 7:41 - 7:56 a.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, 41-bpr-scow-pcor-telcon-91111-004.pdf, source pages 114-116. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551689."
@@ -3120,7 +3120,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "localOriginalFile": "891223_BushANDGonzalez_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the four pages of Gonzalez telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, December 23, 1989, 8:05 - 8:35 am EST",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 891223_BushANDGonzalez_Telcon.pdf. Declassified. Local project PDF: documents/regional/1989-12-23-bush-felipe-gonzalez-telcon.pdf."
@@ -3169,7 +3169,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 9-10; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, January 4, 1990, 10:23 - 10:27 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, 41-bpr-scow-pcor-telcon-91111-005.pdf, source pages 9-10. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551690."
@@ -3218,7 +3218,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "localOriginalFile": "900108_BushANDGonzalez_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the two pages of Gonzalez telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, January 8, 1990, 3:20 - 3:35pm EST",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 900108_BushANDGonzalez_Telcon.pdf. Declassified. Local project PDF: documents/regional/1990-01-08-bush-felipe-gonzalez-telcon.pdf."
@@ -3359,7 +3359,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 24-26; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Washington, January 26, 1990, 3:22 - 3:40pm EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, 41-bpr-scow-pcor-telcon-91111-005.pdf, source pages 24-26. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551690."
@@ -3408,7 +3408,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 30-33; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, January 27, 1990, 9:11 a.m. - 9:30 a.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, 41-bpr-scow-pcor-telcon-91111-005.pdf, source pages 30-33. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551690."
@@ -3457,7 +3457,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 27-29; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, January 27, 1990, 7:04 - 7:18am EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, 41-bpr-scow-pcor-telcon-91111-005.pdf, source pages 27-29. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551690."
@@ -3646,7 +3646,7 @@ window.MEMCONS = [
     "pageCount": 8,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 57-64; pageCount counts only the 8 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, February 24, 1990, 8:01 - 8:42am EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, 41-bpr-scow-pcor-telcon-91111-005.pdf, source pages 57-64. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551690."
@@ -3743,7 +3743,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 70-72; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 26, 1990, 3:53 - 4:48 pm",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, 41-bpr-scow-pcor-telcon-91111-005.pdf, source pages 70-72. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551690."
@@ -3982,7 +3982,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "900417_BushANDMitterrand_Telcon.pdf",
     "notes": "Corrected after OCR audit: the conversation text is with Dutch Prime Minister Ruud Lubbers, not Francois Mitterrand; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "The President Prime The know, April 17, 1990",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 900417_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/regional/1990-04-17-bush-ruud-lubbers-telcon.pdf."
@@ -4223,7 +4223,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 83-85; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, June 3, 1990, 3:58 - 4:08 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, 41-bpr-scow-pcor-telcon-91111-006.pdf, source pages 83-85. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551691."
@@ -4318,7 +4318,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-007.pdf as a provenance sheet, followed by source pages 26-27; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Poul Schlueter",
     "dateLine": "Washington, July 3, 1990, 10:52 a.m.-10:57 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90, 41-bpr-scow-pcor-telcon-91111-007.pdf, source pages 26-27. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551692."
@@ -4367,7 +4367,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "localOriginalFile": "900703_BushANDMitterrand_Telcon.pdf",
     "notes": "Corrected after OCR audit: the conversation text is with Dutch Prime Minister Ruud Lubbers, not Francois Mitterrand. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Prime (U) rs rb NSC, July 3, 1990, 1:28 p.m.-1:35 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 900703_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/regional/1990-07-03-bush-ruud-lubbers-telcon.pdf."
@@ -4416,7 +4416,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-007.pdf as a provenance sheet, followed by source pages 24-25; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Wilfried Martens",
     "dateLine": "Kennebunkport, Maine, July 3, 1990, 8:44 a.m.-8:51 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90, 41-bpr-scow-pcor-telcon-91111-007.pdf, source pages 24-25. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551692."
@@ -4847,7 +4847,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 17-18; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, August 3, 1990, 3:03 - 3:10 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90, 41-bpr-scow-pcor-telcon-91112-001.pdf, source pages 17-18. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551693."
@@ -4896,7 +4896,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 19-22; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, August 3, 1990, 4:32 - 4:57 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90, 41-bpr-scow-pcor-telcon-91112-001.pdf, source pages 19-22. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551693."
@@ -4945,7 +4945,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 48-49; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Washington, August 6, 1990, 11:33 - 11:47 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90, 41-bpr-scow-pcor-telcon-91112-001.pdf, source pages 48-49. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551693."
@@ -4994,7 +4994,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 64-66; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, August 9, 1990, 10:02 - 10:16 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90, 41-bpr-scow-pcor-telcon-91112-001.pdf, source pages 64-66. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551693."
@@ -5043,7 +5043,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-001.pdf as a provenance sheet, followed by source pages 102-104; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, August 20, 1990, 9:16 - 9:26 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90, 41-bpr-scow-pcor-telcon-91112-001.pdf, source pages 102-104. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551693."
@@ -5092,7 +5092,7 @@ window.MEMCONS = [
     "pageCount": 5,
     "localOriginalFile": "900820_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, August 20, 1990, 3:59 - 4:28 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 900820_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf."
@@ -5141,7 +5141,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 10-11; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Constantine Mitsotakis",
     "dateLine": "Washington, August 22, 1990, 11:44-11:49 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90, 41-bpr-scow-pcor-telcon-91112-002.pdf, source pages 10-11. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551694."
@@ -5190,7 +5190,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "localOriginalFile": "900831_BushANDMitterrand_Telcon.pdf",
     "notes": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Kennebunkport, Maine, August 31, 1990, 7:12 - 7:36 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 900831_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf."
@@ -5239,7 +5239,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "localOriginalFile": "900906_BushANDMitterrand_Telcon.pdf",
     "notes": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 6, 1990, 7:23 - 7:43 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 900906_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf."
@@ -5288,7 +5288,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 79-81; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, September 7, 1990, 7:29 - 7:45 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90, 41-bpr-scow-pcor-telcon-91112-002.pdf, source pages 79-81. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551694."
@@ -5383,7 +5383,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "localOriginalFile": "900911_BushANDMitterrand_Telcon.pdf",
     "notes": "PDF trimmed to the two pages of Mitterrand telcon text; unrelated Portugal briefing packet removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 11, 1990, 1:34 - 1:43 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 900911_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf."
@@ -5432,7 +5432,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 100-103; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, September 14, 1990, 7:29 - 7:42am EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90, 41-bpr-scow-pcor-telcon-91112-002.pdf, source pages 100-103. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551694."
@@ -5481,7 +5481,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "900914_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 14, 1990, 12:02 - 12:07 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 900914_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf."
@@ -5530,7 +5530,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "900916_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Camp David, September 16, 1990, 3:17 - 3:23 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 900916_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf."
@@ -5579,7 +5579,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 88-89; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 19, 1990, 1:34 - 1:43 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90, 41-bpr-scow-pcor-telcon-91112-002.pdf, source pages 88-89. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551694."
@@ -5814,7 +5814,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "localOriginalFile": "901011_BushANDMitterrand_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the two pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, October 11, 1990, 5:25-5:38 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 901011_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf."
@@ -5863,7 +5863,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 10-12; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, October 12, 1990, 7:06 - 7:15pm EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, 41-bpr-scow-pcor-telcon-91112-003.pdf, source pages 10-12. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551695."
@@ -5912,7 +5912,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 34-36; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Washington, October 26, 1990, 4:45 - 4:59 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, 41-bpr-scow-pcor-telcon-91112-003.pdf, source pages 34-36. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551695."
@@ -5961,7 +5961,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 31-33; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, October 26, 1990, 4:27 - 4:40 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, 41-bpr-scow-pcor-telcon-91112-003.pdf, source pages 31-33. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551695."
@@ -6248,7 +6248,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 76-78; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, November 30, 1990, 3:06 - 3:15 pm",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, 41-bpr-scow-pcor-telcon-91112-003.pdf, source pages 76-78. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551695."
@@ -6393,7 +6393,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 93-94; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Camp David, December 24, 1990, 1:48 - 1:53pm",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, 41-bpr-scow-pcor-telcon-91112-003.pdf, source pages 93-94. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551695."
@@ -6442,7 +6442,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "localOriginalFile": "901224_BushANDMitterrand_Telcon_01.pdf",
     "notes": "Replaced wrong Rocard-first packet with the clean Mitterrand variant and trimmed to conversation text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Camp David, December 24, 1990, 2:08-2:15 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 901224_BushANDMitterrand_Telcon_01.pdf. Declassified. Local project PDF: documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf."
@@ -6491,7 +6491,7 @@ window.MEMCONS = [
     "pageCount": 1,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 97-97; pageCount counts only the 1 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Michel Rocard",
     "dateLine": "Camp David, December 24, 1990, 2:34-2:37 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, 41-bpr-scow-pcor-telcon-91112-003.pdf, source pages 97-97. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551695."
@@ -6540,7 +6540,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 11-12; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, January 3, 1991, 5:30 - 5:39am EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, 41-bpr-scow-pcor-telcon-91112-004.pdf, source pages 11-12. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551696."
@@ -6589,7 +6589,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 9-10; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, January 3, 1991, 5:47 - 5:53am EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, 41-bpr-scow-pcor-telcon-91112-004.pdf, source pages 9-10. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551696."
@@ -6638,7 +6638,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 18-19; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, January 9, 1991, 12:02 - 12:06 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, 41-bpr-scow-pcor-telcon-91112-004.pdf, source pages 18-19. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551696."
@@ -6687,7 +6687,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "localOriginalFile": "910111_BushANDGonzalez_Telcon_01.pdf",
     "notes": "Source-folder audit: replaced 101-page wrong packet with the clean January 11 Gonzalez telcon text. Manually reviewed oversized local packet. The extractor filename uses 910116, but the document title identifies the call as January 11, 1991.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Camp David, January 11, 1991, 11:07-11:21 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910111_BushANDGonzalez_Telcon_01.pdf. Declassified. Local project PDF: documents/regional/1991-01-11-bush-felipe-gonzalez-telcon.pdf."
@@ -6736,7 +6736,7 @@ window.MEMCONS = [
     "pageCount": 1,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 47-47; pageCount counts only the 1 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Constantine Mitsotakis",
     "dateLine": "Washington, January 14, 1991, 2:32-2:35 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, 41-bpr-scow-pcor-telcon-91112-004.pdf, source pages 47-47. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551696."
@@ -6785,7 +6785,7 @@ window.MEMCONS = [
     "pageCount": 6,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 77-82; pageCount counts only the 6 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Camp David, January 20, 1991, 1:17 p.m. - 1:34 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, 41-bpr-scow-pcor-telcon-91112-004.pdf, source pages 77-82. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551696."
@@ -6834,7 +6834,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 86-88; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Camp David, January 21, 1991, 9:49 - 10:04 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, 41-bpr-scow-pcor-telcon-91112-004.pdf, source pages 86-88. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551696."
@@ -6883,7 +6883,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "910121_BushANDGonzalez_Telcon_01.pdf",
     "notes": "Source-folder audit: replaced cover-packet PDF with the three pages of Gonzalez telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "The The President telephoned Prime, January 21, 1991, 8:02 a.m. EST",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910121_BushANDGonzalez_Telcon_01.pdf. Declassified. Local project PDF: documents/regional/1991-01-21-bush-felipe-gonzalez-telcon.pdf."
@@ -6932,7 +6932,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "910205_BushANDMitterrand_Telcon_01.pdf",
     "notes": "Source-folder audit: replaced cover-packet PDF with the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "February The Oval The President, February 5, 1991, 1:08 - 1:22 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910205_BushANDMitterrand_Telcon_01.pdf. Declassified. Local project PDF: documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf."
@@ -6981,7 +6981,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-005.pdf as a provenance sheet, followed by source pages 66-68; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Camp David, February 9, 1991, 6:56 - 7:13 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91, 41-bpr-scow-pcor-telcon-91112-005.pdf, source pages 66-68. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551697."
@@ -7126,7 +7126,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-005.pdf as a provenance sheet, followed by source pages 94-96; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Kennebunkport, Maine, February 16, 1991, 10:18 - 10:27 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91, 41-bpr-scow-pcor-telcon-91112-005.pdf, source pages 94-96. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551697."
@@ -7175,7 +7175,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "localOriginalFile": "910219_BushANDMitterrand_Telcon.pdf",
     "notes": "PDF trimmed to the four pages of Mitterrand telcon text; unrelated Denmark/Ozal packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 19, 1991, 3:24 - 3:47 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910219_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf."
@@ -7224,7 +7224,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "910221_BushANDMitterrand_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 21, 1991, 2:07 - 2:16 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910221_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf."
@@ -7273,7 +7273,7 @@ window.MEMCONS = [
     "pageCount": 5,
     "localOriginalFile": "910222_BushANDMitterrand_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the five pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 22, 1991, 9:35 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910222_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf."
@@ -7322,7 +7322,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "localOriginalFile": "910227_BushANDMitterrand_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the four pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 27, 1991, 10:37 - 10:50 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910227_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf."
@@ -7465,7 +7465,7 @@ window.MEMCONS = [
     "pageCount": 1,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-006.pdf as a provenance sheet, followed by source pages 79-79; pageCount counts only the 1 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, March 5, 1991, 7:23 - 7:30 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 2/22/91-3/6/91, 41-bpr-scow-pcor-telcon-91112-006.pdf, source pages 79-79. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551698."
@@ -7706,7 +7706,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 26-29; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, April 11, 1991, 1:45-2:00 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91, 41-bpr-scow-pcor-telcon-91112-007.pdf, source pages 26-29. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551699."
@@ -7803,7 +7803,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 48-51; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, April 16, 1991, 12:25 - 12:40 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91, 41-bpr-scow-pcor-telcon-91112-007.pdf, source pages 48-51. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551699."
@@ -7852,7 +7852,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "localOriginalFile": "910416_BushANDMitterrand_Telcon.pdf",
     "notes": "PDF trimmed to the four pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, April 16, 1991, 1:07 - 1:21 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910416_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf."
@@ -7901,7 +7901,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 65-67; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Camp David, April 20, 1991, 8:15 - 8:30 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91, 41-bpr-scow-pcor-telcon-91112-007.pdf, source pages 65-67. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551699."
@@ -8046,7 +8046,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "localOriginalFile": "910711_BushANDMitterrand_Telcon.pdf",
     "notes": "PDF trimmed to the two pages of Mitterrand telcon text; FOIA marker removed from the count. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, July 11, 1991, 6:59 - 7:08 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910711_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf."
@@ -8238,7 +8238,7 @@ window.MEMCONS = [
     "pageCount": 1,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 9-9; pageCount counts only the 1 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, August 19, 1991, 6:42 - 6:48am",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91, 41-bpr-scow-pcor-telcon-91113-001.pdf, source pages 9-9. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551701."
@@ -8287,7 +8287,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 20-21; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Air Force One, August 19, 1991, 12:56 - 1:06 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91, 41-bpr-scow-pcor-telcon-91113-001.pdf, source pages 20-21. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551701."
@@ -8336,7 +8336,7 @@ window.MEMCONS = [
     "pageCount": 1,
     "localOriginalFile": "910819_BushANDMitterrand_Telcon_02.pdf",
     "notes": "Replaced wrong Lubbers-first packet with the clean Mitterrand variant and counted the single text page. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, August 19, 1991, 6:50am",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910819_BushANDMitterrand_Telcon_02.pdf. Declassified. Local project PDF: documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf."
@@ -8385,7 +8385,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 22-24; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Air Force One, August 19, 1991, 1:51 - 2:02 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91, 41-bpr-scow-pcor-telcon-91113-001.pdf, source pages 22-24. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551701."
@@ -8434,7 +8434,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 25-27; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, August 19, 1991, 2:36 - 2:43 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91, 41-bpr-scow-pcor-telcon-91113-001.pdf, source pages 25-27. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551701."
@@ -8483,7 +8483,7 @@ window.MEMCONS = [
     "pageCount": 5,
     "localOriginalFile": "910924_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Waldorf Astoria, New York |, September 24, 1991, 12:52 - 1:05 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 910924_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf."
@@ -8624,7 +8624,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 10-12; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, September 27, 1991, 7:45 - 7:57 am EDT",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 41-bpr-scow-pcor-telcon-91113-002.pdf, source pages 10-12. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551702."
@@ -8673,7 +8673,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 8-9; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 27, 1991, 7:13-7:20am EDT",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 41-bpr-scow-pcor-telcon-91113-002.pdf, source pages 8-9. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551702."
@@ -8722,7 +8722,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 16-17; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Manfred Woerner",
     "dateLine": "Washington, September 27, 1991, 11:25-11:37 am EDT",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 41-bpr-scow-pcor-telcon-91113-002.pdf, source pages 16-17. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551702."
@@ -8817,7 +8817,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 46-47; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Anibal Cavaco Silva",
     "dateLine": "Washington, October 11, 1991, 11:10 - 11:14 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 41-bpr-scow-pcor-telcon-91113-002.pdf, source pages 46-47. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551702."
@@ -8866,7 +8866,7 @@ window.MEMCONS = [
     "pageCount": 7,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 39-45; pageCount counts only the 7 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Manfred Woerner",
     "dateLine": "Washington, October 11, 1991, 11:30 -12:00",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 41-bpr-scow-pcor-telcon-91113-002.pdf, source pages 39-45. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551702."
@@ -9105,7 +9105,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 76-78; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, November 26, 1991, 6:07 - 6:18 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 41-bpr-scow-pcor-telcon-91113-002.pdf, source pages 76-78. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551702."
@@ -9292,7 +9292,7 @@ window.MEMCONS = [
     "pageCount": 6,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 112-117; pageCount counts only the 6 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, December 13, 1991, 1:50 - 2:14 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 41-bpr-scow-pcor-telcon-91113-002.pdf, source pages 112-117. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551702."
@@ -9341,7 +9341,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 126-129; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Camp David, December 15, 1991, 12:01 - 12:22 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 41-bpr-scow-pcor-telcon-91113-002.pdf, source pages 126-129. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551702."
@@ -9390,7 +9390,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 133-136; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, December 16, 1991, 4:05 - 4:17 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 41-bpr-scow-pcor-telcon-91113-002.pdf, source pages 133-136. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551702."
@@ -9684,7 +9684,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-003.pdf as a provenance sheet, followed by source pages 25-28; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, March 6, 1992, 9:02 - 9:19 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92, 41-bpr-scow-pcor-telcon-91113-003.pdf, source pages 25-28. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551703."
@@ -9733,7 +9733,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-003.pdf as a provenance sheet, followed by source pages 48-49; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, March 29, 1992, 3:08-3:18 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92, 41-bpr-scow-pcor-telcon-91113-003.pdf, source pages 48-49. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551703."
@@ -9880,7 +9880,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 15-17; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Jacques Delors",
     "dateLine": "Washington, May 1, 1992, 3:11 - 3:23 pm",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 41-bpr-scow-pcor-telcon-91113-004.pdf, source pages 15-17. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551704."
@@ -9929,7 +9929,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 18-19; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, May 1, 1992, 3:30 pm",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 41-bpr-scow-pcor-telcon-91113-004.pdf, source pages 18-19. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551704."
@@ -10027,7 +10027,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-008.pdf as a provenance sheet, followed by source pages 66-68; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Camp David, May 28, 1992, 7:58-8:11 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Meetings--Memorandum of Conversations 5/1/92-6/17/92, 41-bpr-scow-pcor-memcon-91109-008.pdf, source pages 66-68. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551683."
@@ -10125,7 +10125,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 39-40; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Constantine Mitsotakis",
     "dateLine": "Washington, June 10, 1992, 8:39 - 8:45am EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 41-bpr-scow-pcor-telcon-91113-004.pdf, source pages 39-40. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551704."
@@ -10174,7 +10174,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 73-76; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Camp David, June 27, 1992, 11:16 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 41-bpr-scow-pcor-telcon-91113-004.pdf, source pages 73-76. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551704."
@@ -10223,7 +10223,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 80-82; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Camp David, June 28, 1992, 8:46 - 8:55 am EST",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 41-bpr-scow-pcor-telcon-91113-004.pdf, source pages 80-82. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551704."
@@ -10272,7 +10272,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 86-87; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Anibal Cavaco Silva",
     "dateLine": "Camp David, June 28, 1992, 2:22 - 2:33 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 41-bpr-scow-pcor-telcon-91113-004.pdf, source pages 86-87. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551704."
@@ -10321,7 +10321,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 77-79; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Camp David, June 28, 1992, 7:58-8:11 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 41-bpr-scow-pcor-telcon-91113-004.pdf, source pages 77-79. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551704."
@@ -10370,7 +10370,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "920630_BushANDMitterrand_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, June 30, 1992, 11:40 - 11:49 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 920630_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf."
@@ -10664,7 +10664,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 25-27; pageCount counts only the 3 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, August 7, 1992, 1:40pm - 2:00 pm",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92, 41-bpr-scow-pcor-telcon-91113-005.pdf, source pages 25-27. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551705."
@@ -10713,7 +10713,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 32-33; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, August 13, 1992, 11:15 - 11:17 a.m. EDT",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92, 41-bpr-scow-pcor-telcon-91113-005.pdf, source pages 32-33. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551705."
@@ -10762,7 +10762,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "localOriginalFile": "921002_BushANDMajor_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the four pages of John Major telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Air Force One, October 2, 1992",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 921002_BushANDMajor_Telcon.pdf. Declassified. Local project PDF: documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf."
@@ -10811,7 +10811,7 @@ window.MEMCONS = [
     "pageCount": 4,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 59-62; pageCount counts only the 4 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, October 14, 1992, 9:32-9:43 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92, 41-bpr-scow-pcor-telcon-91113-005.pdf, source pages 59-62. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551705."
@@ -10860,7 +10860,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 74-75; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Air Force One, November 1, 1992, 11:40-11:47 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92, 41-bpr-scow-pcor-telcon-91113-005.pdf, source pages 74-75. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551705."
@@ -10958,7 +10958,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "921203_BushANDMajor_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, December 3, 1992, 8:38-8:45 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 921203_BushANDMajor_Telcon.pdf. Declassified. Local project PDF: documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf."
@@ -11007,7 +11007,7 @@ window.MEMCONS = [
     "pageCount": 3,
     "localOriginalFile": "921203_BushANDMitterrand_Telcon.pdf",
     "notes": "Source-folder audit: trimmed oversized packet to the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, December 3, 1992, 8:14-8:23 a.m.",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, 921203_BushANDMitterrand_Telcon.pdf. Declassified. Local project PDF: documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf."
@@ -11056,7 +11056,7 @@ window.MEMCONS = [
     "pageCount": 2,
     "provenancePages": 1,
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-006.pdf as a provenance sheet, followed by source pages 94-95; pageCount counts only the 2 pages of conversation text.",
-    "documentTitle": "Memorandum of Telephone Conversation",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, December 21, 1992, 4:31 - 4:37 p.m.",
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence, Presidential Telephone Calls--Memorandum of Conversations 11/5/92-1/2/93, 41-bpr-scow-pcor-telcon-91113-006.pdf, source pages 94-95. Declassified. The project PDF includes 1 provenance sheet before the conversation text. Catalog: https://catalog.archives.gov/id/366551706."
