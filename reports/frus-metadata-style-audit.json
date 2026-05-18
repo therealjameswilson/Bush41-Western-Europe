@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-17T23:59:53.880Z",
+  "styleModel": "Foreign Relations of the United States, 1989-1992, Volume XXXI, START I, 1989-1991",
+  "styleModelUrl": "https://history.state.gov/historicaldocuments/frus1989-92v31",
+  "changes": [
+    "Added generic FRUS-style documentTitle values: Memorandum of Conversation or Memorandum of Telephone Conversation.",
+    "Added dateLine values in the FRUS place/date/time pattern where the PDF text exposed a place or time; otherwise fell back to Washington plus the record date.",
+    "Added sourceNote values modeled on FRUS source notes, separating archival provenance from descriptive titles."
+  ],
+  "records": 229,
+  "withDateLine": 229,
+  "withSourceNote": 229
+}

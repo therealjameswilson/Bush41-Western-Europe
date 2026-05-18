@@ -18,6 +18,16 @@ function formatDate(dateString) {
   }).format(date);
 }
 
+function shortDate(dateString) {
+  const date = new Date(`${dateString}T00:00:00Z`);
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+    timeZone: "UTC"
+  }).format(date);
+}
+
 function byChapterThenDate(a, b) {
   return (
     a.chapter.number - b.chapter.number ||
@@ -51,10 +61,9 @@ function createMeta(record) {
 
   for (const value of [
     record.countries.filter((country) => country !== "United States").join(", "),
-    record.naid?.startsWith("local-") ? "Local PDF" : `NAID ${record.naid}`,
-    record.type,
     record.pageCount ? `${record.pageCount} pages` : "Pages pending",
-    ...record.frusTopics.slice(0, 3)
+    record.naid?.startsWith("local-") ? "Local PDF" : `NAID ${record.naid}`,
+    record.releaseStatus
   ]) {
     if (!value) continue;
     const item = document.createElement("span");
@@ -65,19 +74,25 @@ function createMeta(record) {
   return meta;
 }
 
-function createProvenance(record) {
-  const provenance = document.createElement("p");
-  provenance.className = "record-provenance";
+function createSourceNote(record) {
+  const sourceNote = document.createElement("p");
+  sourceNote.className = "record-source-note";
+  sourceNote.textContent = record.sourceNote || "Source: Provenance pending.";
+  return sourceNote;
+}
 
-  const source = record.source?.name || "Source pending";
-  const origin = record.localOriginalFile
-    ? `local extractor file ${record.localOriginalFile}`
-    : record.naid
-      ? `National Archives Catalog NAID ${record.naid}`
-      : "catalog metadata pending";
+function createSubject(record) {
+  const subject = document.createElement("p");
+  subject.className = "record-subject";
+  subject.textContent = record.subjectLine || record.title;
+  return subject;
+}
 
-  provenance.textContent = `Provenance: ${source}; ${origin}.`;
-  return provenance;
+function createDateLine(record) {
+  const line = document.createElement("p");
+  line.className = "record-date-line";
+  line.textContent = record.dateLine || formatDate(record.date);
+  return line;
 }
 
 function createRecordRow(record) {
@@ -87,15 +102,15 @@ function createRecordRow(record) {
   const date = document.createElement("time");
   date.className = "record-date";
   date.dateTime = record.date;
-  date.textContent = formatDate(record.date);
+  date.textContent = shortDate(record.date);
 
   const body = document.createElement("div");
   const title = document.createElement("a");
   title.className = "record-title";
   title.href = record.catalogUrl || record.pdfUrl;
   title.rel = "noreferrer";
-  title.textContent = record.title;
-  body.append(title, createMeta(record), createProvenance(record));
+  title.textContent = record.documentTitle || record.title;
+  body.append(title, createDateLine(record), createSubject(record), createMeta(record), createSourceNote(record));
 
   const links = document.createElement("div");
   links.className = "record-links";
@@ -178,7 +193,7 @@ function enableChapterCards() {
 
 async function init() {
   try {
-    const records = window.MEMCON_RECORDS || (await loadRecords());
+    const records = window.MEMCONS || window.MEMCON_RECORDS || (await loadRecords());
     setChapterCounts(records);
     renderRecords(records);
     enableChapterCards();

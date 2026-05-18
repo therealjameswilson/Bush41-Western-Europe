@@ -449,6 +449,8 @@ footer {
 .record-title {
   display: block;
   color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.12rem;
   font-weight: 900;
   line-height: 1.35;
   text-decoration: none;
@@ -467,14 +469,29 @@ footer {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin-top: 9px;
+  margin-top: 10px;
 }
 
-.record-provenance {
-  margin: 9px 0 0;
+.record-date-line {
+  margin: 4px 0 0;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.98rem;
+  line-height: 1.45;
+}
+
+.record-subject {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-weight: 800;
+  line-height: 1.45;
+}
+
+.record-source-note {
+  margin: 10px 0 0;
   color: var(--muted);
   font-size: 0.88rem;
-  line-height: 1.45;
+  line-height: 1.5;
 }
 
 .record-meta span,
@@ -532,7 +549,8 @@ footer {
   border-radius: 8px;
 }
 
-.source-list a:nth-child(2) {
+.source-list a:nth-child(2),
+.source-list a:nth-child(5) {
   background: var(--green);
 }
 
