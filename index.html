@@ -42,7 +42,12 @@
             <a class="button secondary" href="#ingest">Add a Memcon</a>
           </div>
         </div>
-        <aside class="brief" aria-label="Archive scope">
+        <aside class="brief visual-brief" aria-label="Archive scope">
+          <img
+            class="archive-map"
+            src="assets/western-europe-archive-map.svg"
+            alt="Archival map of Western Europe marking the United Kingdom, France, Italy, and regional files"
+          />
           <p class="brief-label">Volume Scope</p>
           <dl>
             <div>
@@ -215,6 +220,30 @@
           generic document title, place/date/time line, subject cue, page count,
           Source note, and a direct PDF link for review or printing.
         </p>
+        <div class="records-tools" aria-label="Search and filter records">
+          <label class="search-field">
+            <span>Search records</span>
+            <input
+              id="record-search"
+              type="search"
+              placeholder="Search leaders, countries, NAIDs, topics, source notes"
+            />
+          </label>
+          <label>
+            <span>Chapter</span>
+            <select id="chapter-filter"></select>
+          </label>
+          <label>
+            <span>Type</span>
+            <select id="type-filter"></select>
+          </label>
+          <label>
+            <span>Release</span>
+            <select id="release-filter"></select>
+          </label>
+          <button id="clear-filters" type="button">Reset</button>
+          <p id="records-summary" class="records-summary">Loading record index...</p>
+        </div>
         <div id="records-root" class="records-root" aria-live="polite">
           <p class="loading">Loading memcon records...</p>
         </div>

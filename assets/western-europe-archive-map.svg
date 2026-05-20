@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">Archival map of Western Europe, 1989-1992</title>
+  <desc id="desc">A stylized archival map of Western Europe marking the United Kingdom, France, Italy, and regional files for a Bush 41 Western Europe volume.</desc>
+  <defs>
+    <linearGradient id="sea" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#183b5b"/>
+      <stop offset="0.58" stop-color="#276174"/>
+      <stop offset="1" stop-color="#10283f"/>
+    </linearGradient>
+    <radialGradient id="paper" cx="52%" cy="48%" r="70%">
+      <stop offset="0" stop-color="#fff6d8"/>
+      <stop offset="0.68" stop-color="#e7c978"/>
+      <stop offset="1" stop-color="#b37d34"/>
+    </radialGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <rect width="22" height="22" fill="none"/>
+      <path d="M0 0h22M0 0v22" stroke="#f0d79c" stroke-opacity=".16" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="9" flood-color="#091928" flood-opacity=".42"/>
+    </filter>
+    <style>
+      .frame { fill: url(#sea); }
+      .grid { fill: url(#grid); }
+      .land { stroke: #fff1bd; stroke-width: 2.6; filter: url(#shadow); }
+      .uk { fill: #c9973b; }
+      .france { fill: #9f2f3a; }
+      .italy { fill: #d9aa4f; }
+      .regional { fill: #2f6f5e; }
+      .line { stroke: #f0d79c; stroke-opacity: .58; stroke-width: 1.4; }
+      .label { font: 700 20px Georgia, 'Times New Roman', serif; fill: #fff6d8; letter-spacing: 0; paint-order: stroke; stroke: #10283f; stroke-width: 4px; }
+      .small-label { font: 800 13px Inter, Arial, sans-serif; fill: #1f2934; letter-spacing: 0; }
+      .caption { font: 800 15px Inter, Arial, sans-serif; fill: #fff0bd; letter-spacing: 0; }
+      .title { font: 700 34px Georgia, 'Times New Roman', serif; fill: #fff3ca; letter-spacing: 0; }
+      .pin { fill: #fff3ca; stroke: #10283f; stroke-width: 3; }
+      .pin-core { fill: #9f2f3a; }
+    </style>
+  </defs>
+
+  <rect width="960" height="640" class="frame"/>
+  <rect width="960" height="640" class="grid"/>
+  <path d="M42 42h876v556H42z" fill="none" stroke="#f0d79c" stroke-width="5"/>
+  <path d="M65 66h830v504H65z" fill="none" stroke="#10283f" stroke-width="3" opacity=".76"/>
+
+  <g opacity=".72">
+    <path class="line" d="M116 138h720M116 196h720M116 254h720M116 312h720M116 370h720M116 428h720"/>
+    <path class="line" d="M166 116v350M246 116v350M326 116v350M406 116v350M486 116v350M566 116v350M646 116v350M726 116v350M806 116v350"/>
+  </g>
+
+  <g>
+    <path class="land regional" d="M372 168l58-32 80 8 42 36-10 54-66 32-86-13-42-38z"/>
+    <path class="land uk" d="M248 171l42-58 54 27-8 64-39 31-45-18z"/>
+    <path class="land uk" d="M224 244l29-22 33 17-12 38-31 11z"/>
+    <path class="land france" d="M397 266l88-26 76 43-10 92-55 55-92-22-50-62z"/>
+    <path class="land regional" d="M538 222l68-25 74 36 13 68-48 46-73-26z"/>
+    <path class="land italy" d="M576 386l57 38 20 74 48 30-26 32-75-52-34-82z"/>
+    <path class="land regional" d="M318 405l77-28 44 36-22 50-80 7-46-29z"/>
+    <path class="land regional" d="M650 356l65 30 42 56-26 42-72-21-47-52z"/>
+  </g>
+
+  <g>
+    <circle class="pin" cx="299" cy="186" r="13"/>
+    <circle class="pin-core" cx="299" cy="186" r="5"/>
+    <circle class="pin" cx="468" cy="327" r="13"/>
+    <circle class="pin-core" cx="468" cy="327" r="5"/>
+    <circle class="pin" cx="632" cy="465" r="13"/>
+    <circle class="pin-core" cx="632" cy="465" r="5"/>
+    <circle class="pin" cx="610" cy="282" r="11"/>
+    <circle class="pin-core" cx="610" cy="282" r="4"/>
+  </g>
+
+  <g>
+    <text x="198" y="142" class="label">UNITED KINGDOM</text>
+    <text x="392" y="346" class="label">FRANCE</text>
+    <text x="648" y="506" class="label">ITALY</text>
+    <text x="566" y="253" class="small-label">REGIONAL</text>
+    <text x="390" y="150" class="small-label">NATO AND EC FILES</text>
+  </g>
+
+  <g transform="translate(92 448)">
+    <rect width="240" height="82" rx="3" fill="url(#paper)" stroke="#fff1bd" stroke-width="2"/>
+    <text x="18" y="30" class="small-label">Volume VIII research map</text>
+    <path d="M20 49h168M20 66h112" stroke="#183b5b" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <path d="M504 548h268" stroke="#f0d79c" stroke-width="2" stroke-linecap="round"/>
+  <text x="82" y="574" class="title">Bush 41 Western Europe</text>
+  <text x="506" y="568" class="caption">UNITED KINGDOM - FRANCE - ITALY - REGIONAL</text>
+</svg>
