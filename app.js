@@ -125,8 +125,17 @@ function releaseText(record) {
   return (record.releaseStatus || "").toLowerCase();
 }
 
+function hasCitationSheetSourceNote(record) {
+  const note = record.sourceNote || "";
+  return Boolean(
+    note.length > 40 &&
+      /^Source:/i.test(note) &&
+      !/Local Bush memcons extractor output|official catalog metadata requires manual reconciliation/i.test(note)
+  );
+}
+
 function hasSourceNote(record) {
-  return Boolean(record.sourceNote && record.sourceNote.length > 40);
+  return hasCitationSheetSourceNote(record);
 }
 
 function needsPageCount(record) {
@@ -307,25 +316,91 @@ function duplicateProvenanceSentence(record) {
   return provenance ? `Deduped related provenance: ${provenance}.` : "";
 }
 
+function frusStyleSourcePathFromNote(note) {
+  if (!/^Source:/i.test(note || "")) return "";
+
+  const normalized = note
+    .replace(/\s+/g, " ")
+    .replace(/George H\.W\. Bush Presidential Records/g, "Bush Presidential Records")
+    .replace(/Scowcroft,\s*Brent,\s*Collection/g, "Brent Scowcroft Collection")
+    .replace(/--/g, " - ")
+    .trim();
+
+  const workingMetadataMarkers = [
+    ". NAID ",
+    ", NAID ",
+    ". Full.",
+    ", Full,",
+    ", Full.",
+    ". Declassified.",
+    ", Declassified,",
+    ", Declassified.",
+    ". Originally processed under FOIA",
+    ", Originally processed under FOIA",
+    ". The project PDF includes",
+    ", The project PDF includes",
+    ". Catalog:",
+    ", Catalog:",
+    ". Digital copy:",
+    ", Digital copy:",
+    ". Series:",
+    ", Series:",
+    ". Access restricted:",
+    ", Access restricted:"
+  ];
+
+  const end = workingMetadataMarkers.reduce((earliest, marker) => {
+    const index = normalized.toLowerCase().indexOf(marker.toLowerCase());
+    if (index === -1) return earliest;
+    return earliest === -1 ? index : Math.min(earliest, index);
+  }, -1);
+
+  const sourcePath = (end === -1 ? normalized : normalized.slice(0, end))
+    .replace(/[,.]\s*$/, "")
+    .trim();
+
+  return sourcePath ? `${sourcePath}.` : "";
+}
+
+function supplementalSourceNoteSentences(record) {
+  const sentences = [];
+  const classification = record.classification || record.securityClassification;
+
+  if (classification) {
+    sentences.push(`${classification}.`);
+  }
+
+  if (/withheld|restricted|denied|excised/i.test(record.releaseStatus || "")) {
+    const extent = record.pageCount
+      ? ` Approximate extent: ${record.pageCount} ${record.pageCount === 1 ? "page" : "pages"}.`
+      : "";
+    sentences.push(`Not declassified.${extent}`.trim());
+  }
+
+  return sentences;
+}
+
 function generateFrusSourceNote(record) {
+  if (hasCitationSheetSourceNote(record)) {
+    return [frusStyleSourcePathFromNote(record.sourceNote), ...supplementalSourceNoteSentences(record)]
+      .filter(Boolean)
+      .join(" ");
+  }
+
+  if (record.sourceNote && /Local Bush memcons extractor output|official catalog metadata requires manual reconciliation/i.test(record.sourceNote)) {
+    return "Source: Citation sheet extraction pending. Use the full provenance trail below for temporary project-only identification.";
+  }
+
   const source = record.source || {};
   const sourcePath = uniqueInOrder([
     frusRepository(record),
     ...frusSeriesParts(record),
-    ...frusLocatorParts(record)
+    ...frusLocatorParts(record).filter((part) => !/^source pages?\b/i.test(part))
   ]).join(", ");
 
   return [
     `Source: ${sourcePath || "Provenance pending"}.`,
-    frusReleaseSentence(record),
-    foiaSentence(record),
-    frusExtentSentence(record),
-    record.naid && !record.naid.startsWith("local-") ? `NAID ${record.naid}.` : "",
-    record.catalogUrl && !record.naid?.startsWith("local-") ? `Catalog: ${record.catalogUrl}.` : "",
-    source.objectFilename ? `Digital object: ${source.objectFilename}.` : "",
-    record.pdfUrl ? `Digital copy: ${record.pdfUrl}.` : "",
-    source.seriesUrl ? `Series: ${source.seriesUrl}.` : "",
-    duplicateProvenanceSentence(record)
+    ...supplementalSourceNoteSentences(record)
   ]
     .filter(Boolean)
     .join(" ");

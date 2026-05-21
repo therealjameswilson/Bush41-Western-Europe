@@ -40,6 +40,22 @@ records.
 The data shape lives in `data/memcons.schema.json`, with a small reference subset
 in `data/memcons.sample.json`.
 
+## Source Note Standard
+
+Source notes on the site should be drafted from the citation sheet/provenance
+marker in the PDF packet, not from the catalog title alone. The archival chain
+should follow the published FRUS pattern used in *Foreign Relations, 1989-1992,
+Volume XXXI, START I, 1989-1991*: `Source: repository, records group,
+collection or office of origin, series, subseries, OA/ID, folder title.` Add
+classification, drafting, distribution, meeting-location, and textual-status
+sentences only when those facts are visible in the document or citation sheet.
+
+Working metadata such as NAID, catalog URL, digital-object filename, duplicate
+source pages, and project-PDF extent should remain in the provenance trail, not
+in the FRUS-style Source Note sentence. Records whose provenance still depends
+only on local extractor output are treated as source-note gaps until their PDF
+citation sheet has been reconciled.
+
 ## Local PDF Ingest
 
 Run the local importer after placing extractor PDFs on the same machine:
