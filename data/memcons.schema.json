@@ -55,11 +55,11 @@
         "number": {
           "type": "integer",
           "minimum": 1,
-          "maximum": 4
+          "maximum": 5
         },
         "name": {
           "type": "string",
-          "enum": ["United Kingdom", "France", "Italy", "Regional"]
+          "enum": ["United Kingdom", "France", "Italy", "Regional", "Germany Reference"]
         }
       }
     },
@@ -70,7 +70,7 @@
     },
     "releaseStatus": {
       "type": "string",
-      "enum": ["Full", "Partial", "Denied", "Unknown"]
+      "enum": ["Full", "Partial", "Denied", "Unknown", "Declassified", "Withheld under b(1)"]
     },
     "naid": {
       "type": "string"
@@ -105,23 +105,30 @@
       }
     },
     "frusVolume": {
-      "type": "object",
-      "required": ["id", "title", "url", "status"],
-      "properties": {
-        "id": {
+      "oneOf": [
+        {
           "type": "string"
         },
-        "title": {
-          "type": "string"
-        },
-        "url": {
-          "type": "string",
-          "format": "uri"
-        },
-        "status": {
-          "type": "string"
+        {
+          "type": "object",
+          "required": ["id", "title", "url", "status"],
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "status": {
+              "type": "string"
+            }
+          }
         }
-      }
+      ]
     },
     "frusTopics": {
       "type": "array",

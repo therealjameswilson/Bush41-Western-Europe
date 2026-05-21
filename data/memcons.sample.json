@@ -7,8 +7,8 @@
     "participants": ["George H. W. Bush", "Helmut Kohl"],
     "countries": ["United States", "Germany"],
     "chapter": {
-      "number": 4,
-      "name": "Regional"
+      "number": 5,
+      "name": "Germany Reference"
     },
     "sortDate": "1990-07-09",
     "releaseStatus": "Full",
@@ -26,8 +26,8 @@
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
       "status": "Being Researched"
     },
-    "frusTopics": ["German unification", "NATO", "Western Europe"],
-    "topics": ["German unification", "NATO", "Bilateral diplomacy"]
+    "frusTopics": ["German unification", "NATO", "Western Europe", "Germany Reference"],
+    "topics": ["German unification", "NATO", "Bilateral diplomacy", "Germany Reference"]
   },
   {
     "id": "1990-07-09-mitterrand",
@@ -67,8 +67,8 @@
     "participants": ["George H. W. Bush", "Lothar de Maiziere"],
     "countries": ["United States", "German Democratic Republic"],
     "chapter": {
-      "number": 4,
-      "name": "Regional"
+      "number": 5,
+      "name": "Germany Reference"
     },
     "sortDate": "1990-06-11",
     "releaseStatus": "Full",
@@ -86,7 +86,7 @@
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
       "status": "Being Researched"
     },
-    "frusTopics": ["German unification", "Eastern Europe", "Western Europe"],
-    "topics": ["German unification", "Eastern Europe", "Bilateral diplomacy"]
+    "frusTopics": ["German unification", "Eastern Europe", "Western Europe", "Germany Reference"],
+    "topics": ["German unification", "Eastern Europe", "Bilateral diplomacy", "Germany Reference"]
   }
 ]

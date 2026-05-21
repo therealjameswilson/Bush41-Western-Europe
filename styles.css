@@ -293,8 +293,15 @@ h2 {
 .feature-grid,
 .chapter-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 14px;
+}
+
+.feature-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.chapter-grid {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
 }
 
 article,
@@ -319,7 +326,11 @@ article,
   transition:
     border-color 160ms ease,
     box-shadow 160ms ease,
-    transform 160ms ease;
+  transform 160ms ease;
+}
+
+.reference-card {
+  border-top: 5px solid var(--red);
 }
 
 .chapter-card:hover,

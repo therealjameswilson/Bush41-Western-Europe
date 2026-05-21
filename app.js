@@ -1,4 +1,4 @@
-const CHAPTER_ORDER = ["United Kingdom", "France", "Italy", "Regional"];
+const CHAPTER_ORDER = ["United Kingdom", "France", "Italy", "Regional", "Germany Reference"];
 
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
@@ -26,6 +26,11 @@ const COMPILER_QUEUE_OPTIONS = [
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replaceAll(" ", "-")}`;
+}
+
+function chapterHeading(chapterName) {
+  if (chapterName === "Germany Reference") return "Reference: Germany";
+  return `Chapter ${CHAPTER_ORDER.indexOf(chapterName) + 1}: ${chapterName}`;
 }
 
 function formatDate(dateString) {
@@ -291,6 +296,8 @@ function duplicateProvenanceSentence(record) {
         duplicate.sourceName,
         duplicate.series,
         duplicate.localIdentifier ? `OA/ID ${duplicate.localIdentifier}` : "",
+        duplicate.sourceFile,
+        duplicate.sourcePages ? `source pages ${duplicate.sourcePages}` : "",
         duplicate.naid ? `NAID ${duplicate.naid}` : ""
       ]).join(", ")
     )
@@ -660,7 +667,7 @@ function renderRecords(records) {
     header.className = "record-chapter-header";
 
     const heading = document.createElement("h3");
-    heading.textContent = `Chapter ${CHAPTER_ORDER.indexOf(chapterName) + 1}: ${chapterName}`;
+    heading.textContent = chapterHeading(chapterName);
 
     const count = document.createElement("p");
     count.className = "record-count";
@@ -717,7 +724,7 @@ function enableChapterCards() {
       if (!targetId?.startsWith("#")) return;
 
       if (chapterFilter) {
-        chapterFilter.value = card.querySelector("h3")?.textContent || "";
+        chapterFilter.value = card.dataset.chapterName || card.querySelector("h3")?.textContent || "";
       }
       event.preventDefault();
       history.pushState(null, "", targetId);
