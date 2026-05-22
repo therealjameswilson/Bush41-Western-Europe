@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-05-22T11:31:55.003Z",
+  "sourceCollection": "https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W.",
+  "packageSummaries": [
+    {
+      "packageId": "PPP-1989-book1",
+      "granules": 0
+    },
+    {
+      "packageId": "PPP-1989-book2",
+      "granules": 0
+    },
+    {
+      "packageId": "PPP-1990-book1",
+      "granules": 0
+    },
+    {
+      "packageId": "PPP-1990-book2",
+      "granules": 0
+    },
+    {
+      "packageId": "PPP-1991-book1",
+      "granules": 570
+    },
+    {
+      "packageId": "PPP-1991-book2",
+      "granules": 0
+    },
+    {
+      "packageId": "PPP-1992-book1",
+      "granules": 824
+    },
+    {
+      "packageId": "PPP-1992-book2",
+      "granules": 555
+    }
+  ],
+  "govInfoGranuleMatches": 90,
+  "appTitleCandidates": 340,
+  "appVolumeReferenceMatches": 247,
+  "totalRecords": 337,
+  "sourceMix": {
+    "GovInfo volume reference": 247,
+    "GovInfo granule": 90
+  },
+  "countryCounts": {
+    "Germany": 109,
+    "United Kingdom": 122,
+    "Switzerland": 21,
+    "France": 94,
+    "Italy": 45,
+    "Belgium": 33,
+    "Norway": 14,
+    "Sweden": 11,
+    "Spain": 27,
+    "Austria": 29,
+    "Luxembourg": 6,
+    "Finland": 42,
+    "Ireland": 20,
+    "Greece": 37,
+    "Denmark": 12,
+    "Iceland": 6,
+    "Holy See": 5,
+    "Netherlands": 22,
+    "Portugal": 12,
+    "Turkey": 18
+  },
+  "note": "GovInfo item-level granules were harvested where exposed in document-in-context pages. For GovInfo packages that expose only volume-level PDFs, APP public-text pages were used to identify title/date while the source anchor remains the corresponding GovInfo Public Papers volume package."
+}

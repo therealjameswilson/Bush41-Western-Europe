@@ -20,6 +20,12 @@ presidential memcon and telcon files, and deduped PDFs from the local Bush
 memcons extractor output.
 Each record includes `pageCount`, calculated from the linked PDF scan.
 
+The Public Papers reference section lives in `data/public-statements.json`, with
+a generated `data/public-statements.js` mirror. It indexes George H. W. Bush
+public statements from GovInfo's *Public Papers of the Presidents* collection
+that are titled around Western Europe countries, leaders, NATO, the European
+Community, CSCE, G-7 summitry, German unification, or related regional terms.
+
 ## Chapter Arrangement
 
 1. United Kingdom
@@ -39,6 +45,24 @@ records.
 
 The data shape lives in `data/memcons.schema.json`, with a small reference subset
 in `data/memcons.sample.json`.
+
+## Public Papers Reference
+
+Run the GovInfo Public Papers harvester when the public-statement reference set
+needs to be rebuilt:
+
+```bash
+node scripts/harvest-govinfo-public-statements.js
+```
+
+The script reads GovInfo document-in-context pages for the Bush 41 Public Papers
+volumes and writes `data/public-statements.json`,
+`data/public-statements.js`, and
+`reports/govinfo-public-statements-audit.json`. GovInfo item-level granules are
+used where available. For scanned or volume-only GovInfo packages, the record is
+anchored to the corresponding GovInfo volume package and uses the American
+Presidency Project public-text mirror only to identify the individual title and
+date pending GovInfo item-level availability.
 
 ## Source Note Standard
 
@@ -92,6 +116,7 @@ writes the Germany reference section to `data/memcons.json` and
 - FOIA 2000-0429-F finding aid: <https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991>
 - Brent Scowcroft Papers finding aid: <https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers>
 - National Archives Catalog: <https://catalog.archives.gov/>
+- GovInfo Public Papers, George H. W. Bush: <https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W.>
 
 ## Local Preview
 

@@ -11,8 +11,17 @@ const compilerFilter = document.querySelector("#compiler-filter");
 const recordsSummary = document.querySelector("#records-summary");
 const clearFilters = document.querySelector("#clear-filters");
 const compilerRoot = document.querySelector("#compiler-root");
+const publicStatementsRoot = document.querySelector("#public-statements-root");
+const publicStatementsCount = document.querySelector("#public-statements-count");
+const publicStatementSearch = document.querySelector("#public-statement-search");
+const publicStatementCountryFilter = document.querySelector("#public-statement-country-filter");
+const publicStatementTypeFilter = document.querySelector("#public-statement-type-filter");
+const publicStatementSourceFilter = document.querySelector("#public-statement-source-filter");
+const publicStatementClear = document.querySelector("#public-statement-clear");
+const publicStatementSummary = document.querySelector("#public-statement-summary");
 
 let allRecords = [];
+let allPublicStatements = [];
 
 const COMPILER_QUEUE_OPTIONS = [
   ["", "All compiler queues"],
@@ -119,6 +128,15 @@ function assignCompilerNumbers(records) {
     record.compilerNumber = `${chapterNumber}.${String(chapterCount).padStart(3, "0")}`;
   }
   return records;
+}
+
+function assignPublicStatementNumbers(statements) {
+  return [...statements]
+    .sort((a, b) => a.date.localeCompare(b.date) || a.title.localeCompare(b.title))
+    .map((statement, index) => ({
+      ...statement,
+      referenceNumber: `PS ${String(index + 1).padStart(3, "0")}`
+    }));
 }
 
 function releaseText(record) {
@@ -768,6 +786,186 @@ function renderRecords(records) {
   }
 }
 
+function publicStatementSearchText(statement) {
+  return [
+    statement.referenceNumber,
+    statement.title,
+    statement.type,
+    statement.sourcePackage,
+    statement.sourcePackageLabel,
+    statement.sourceKind,
+    statement.sourceNote,
+    statement.notes,
+    ...(statement.countries || []),
+    ...(statement.leaders || []),
+    ...(statement.topics || []),
+    ...(statement.matchTerms || [])
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function populatePublicStatementFilters(statements) {
+  addOptions(
+    publicStatementCountryFilter,
+    uniqueSorted(statements.flatMap((statement) => statement.countries || [])),
+    "All countries"
+  );
+  addOptions(
+    publicStatementTypeFilter,
+    uniqueSorted(statements.map((statement) => statement.type)),
+    "All statement types"
+  );
+  addOptions(
+    publicStatementSourceFilter,
+    uniqueSorted(statements.map((statement) => statement.sourceKind)),
+    "All source levels"
+  );
+}
+
+function filterPublicStatements(statements) {
+  const query = publicStatementSearch?.value.trim().toLowerCase() || "";
+  const country = publicStatementCountryFilter?.value || "";
+  const type = publicStatementTypeFilter?.value || "";
+  const source = publicStatementSourceFilter?.value || "";
+
+  return statements.filter((statement) => {
+    if (country && !(statement.countries || []).includes(country)) return false;
+    if (type && statement.type !== type) return false;
+    if (source && statement.sourceKind !== source) return false;
+    return !query || publicStatementSearchText(statement).includes(query);
+  });
+}
+
+function createPublicStatementRow(statement) {
+  const row = document.createElement("article");
+  row.className = "record-row public-statement-row";
+
+  const dateStack = document.createElement("div");
+  dateStack.className = "record-date-stack";
+
+  const number = document.createElement("span");
+  number.className = "record-doc-number";
+  number.textContent = statement.referenceNumber;
+
+  const date = document.createElement("time");
+  date.className = "record-date";
+  date.dateTime = statement.date;
+  date.textContent = shortDate(statement.date);
+  dateStack.append(number, date);
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = statement.govinfoUrl || statement.detailsUrl || statement.packageUrl || statement.appUrl;
+  title.rel = "noreferrer";
+  title.textContent = statement.title;
+
+  const sourceLine = document.createElement("p");
+  sourceLine.className = "record-source-line";
+  sourceLine.textContent = `${statement.sourcePackageLabel || statement.sourcePackage} / ${statement.sourceKind}`;
+
+  const meta = document.createElement("div");
+  meta.className = "record-meta";
+  for (const value of [
+    statement.type,
+    statement.countries?.join(", "),
+    statement.leaders?.slice(0, 3).join(", "),
+    statement.sourcePackage
+  ]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+
+  const topics = document.createElement("div");
+  topics.className = "record-topics";
+  for (const topic of uniqueSorted([...(statement.topics || []), ...(statement.matchTerms || [])]).slice(0, 7)) {
+    const item = document.createElement("span");
+    item.textContent = topic;
+    topics.append(item);
+  }
+
+  const sourceNote = document.createElement("details");
+  sourceNote.className = "record-source-note";
+  const sourceSummary = document.createElement("summary");
+  sourceSummary.textContent = "Public Papers source note";
+  const sourceText = document.createElement("p");
+  sourceText.className = "record-frus-source-note";
+  sourceText.textContent = statement.sourceNote;
+  const note = document.createElement("p");
+  note.className = "record-provenance-text";
+  note.textContent = statement.notes || "Public Papers reference record.";
+  sourceNote.append(sourceSummary, sourceText, note);
+
+  body.append(title, sourceLine, meta, topics, sourceNote);
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  for (const [label, url] of [
+    ["GovInfo", statement.govinfoUrl || statement.packageUrl],
+    ["Text", statement.textUrl],
+    ["PDF", statement.pdfUrl],
+    ["APP mirror", statement.appUrl],
+    ["Volume", statement.packageUrl]
+  ]) {
+    if (!url) continue;
+    const link = document.createElement("a");
+    link.href = url;
+    link.rel = "noreferrer";
+    link.textContent = label;
+    links.append(link);
+  }
+
+  row.append(dateStack, body, links);
+  return row;
+}
+
+function updatePublicStatementSummary(statements) {
+  if (publicStatementsCount) publicStatementsCount.textContent = allPublicStatements.length.toString();
+  if (!publicStatementSummary) return;
+  publicStatementSummary.textContent = `Showing ${statements.length} of ${allPublicStatements.length} Public Papers references`;
+}
+
+function renderPublicStatements(statements) {
+  if (!publicStatementsRoot) return;
+  publicStatementsRoot.replaceChildren();
+  if (!statements.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No public statements match the current filters.";
+    publicStatementsRoot.append(empty);
+    return;
+  }
+  for (const statement of [...statements].sort((a, b) => a.date.localeCompare(b.date) || a.title.localeCompare(b.title))) {
+    publicStatementsRoot.append(createPublicStatementRow(statement));
+  }
+}
+
+function updatePublicStatementsView() {
+  const filtered = filterPublicStatements(allPublicStatements);
+  updatePublicStatementSummary(filtered);
+  renderPublicStatements(filtered);
+}
+
+function enablePublicStatementFilters() {
+  for (const control of [publicStatementSearch, publicStatementCountryFilter, publicStatementTypeFilter, publicStatementSourceFilter]) {
+    control?.addEventListener("input", updatePublicStatementsView);
+    control?.addEventListener("change", updatePublicStatementsView);
+  }
+
+  publicStatementClear?.addEventListener("click", () => {
+    if (publicStatementSearch) publicStatementSearch.value = "";
+    if (publicStatementCountryFilter) publicStatementCountryFilter.value = "";
+    if (publicStatementTypeFilter) publicStatementTypeFilter.value = "";
+    if (publicStatementSourceFilter) publicStatementSourceFilter.value = "";
+    updatePublicStatementsView();
+    publicStatementSearch?.focus();
+  });
+}
+
 function updateRecordsView() {
   const filtered = filterRecords(allRecords);
   updateSummary(filtered);
@@ -812,11 +1010,15 @@ function enableChapterCards() {
 async function init() {
   try {
     allRecords = assignCompilerNumbers(window.MEMCONS || window.MEMCON_RECORDS || (await loadRecords()));
+    allPublicStatements = assignPublicStatementNumbers(window.PUBLIC_STATEMENTS || (await loadPublicStatements()));
     setChapterCounts(allRecords);
     populateFilters(allRecords);
+    populatePublicStatementFilters(allPublicStatements);
     enableFilters();
+    enablePublicStatementFilters();
     enableChapterCards();
     updateRecordsView();
+    updatePublicStatementsView();
     if (window.location.hash) {
       document.querySelector(window.location.hash)?.scrollIntoView();
     }
@@ -829,6 +1031,12 @@ async function init() {
 async function loadRecords() {
   const response = await fetch("data/memcons.json");
   if (!response.ok) throw new Error(`Could not load records: ${response.status}`);
+  return response.json();
+}
+
+async function loadPublicStatements() {
+  const response = await fetch("data/public-statements.json");
+  if (!response.ok) throw new Error(`Could not load public statements: ${response.status}`);
   return response.json();
 }
 

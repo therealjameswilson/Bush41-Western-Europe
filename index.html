@@ -22,6 +22,7 @@
         <a href="#collection">Collection</a>
         <a href="#browse">Browse</a>
         <a href="#compiler">Compiler</a>
+        <a href="#public-statements">Statements</a>
         <a href="#sources">Sources</a>
         <a href="#ingest">Ingest</a>
       </nav>
@@ -37,12 +38,13 @@
             the forthcoming <em>Foreign Relations of the United States, 1989-1992,
             Volume VIII, Western Europe</em>, arranged in four chapters: United Kingdom,
             France, Italy, and Regional, with a separate Germany reference section
-            for Kohl, East German, and related German-leader conversations. Records
-            inside each section are ordered chronologically.
+            for Kohl, East German, and related German-leader conversations, plus a
+            Public Papers reference section for President Bush's Western Europe statements.
+            Records inside each section are ordered chronologically.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
             <a class="button primary" href="#records">Browse the Records</a>
-            <a class="button secondary" href="#ingest">Add a Memcon</a>
+            <a class="button secondary" href="#public-statements">Public Statements</a>
           </div>
         </div>
         <aside class="brief visual-brief" aria-label="Archive scope">
@@ -85,6 +87,10 @@
         <div>
           <span id="total-pages">1317</span>
           <p>PDF pages counted</p>
+        </div>
+        <div>
+          <span id="public-statements-count">337</span>
+          <p>Public Papers references</p>
         </div>
       </section>
 
@@ -223,6 +229,7 @@
             <a href="#source-records">By FRUS topic</a>
             <a href="#source-records">By release status</a>
             <a href="#source-records">By NAID</a>
+            <a href="#public-statements">Public statements</a>
           </div>
           <div class="browse-note" id="source-records">
             <h3>Chapter-first, date-ordered</h3>
@@ -294,6 +301,47 @@
         </div>
       </section>
 
+      <section class="section statements-section" id="public-statements" aria-labelledby="public-statements-title">
+        <div class="section-heading">
+          <p class="kicker">Reference Section</p>
+          <h2 id="public-statements-title">Public Statements on Western Europe</h2>
+        </div>
+        <p class="records-intro">
+          George H. W. Bush Public Papers references from GovInfo, selected for Western
+          Europe countries, leaders, NATO, the European Community, CSCE, G-7 summitry,
+          German unification, and related regional terms. Item-level GovInfo granules
+          are used when available; scanned volume-only years are anchored to the
+          corresponding GovInfo Public Papers package.
+        </p>
+        <div class="records-tools statements-tools" aria-label="Search and filter public statements">
+          <label class="search-field">
+            <span>Search statements</span>
+            <input
+              id="public-statement-search"
+              type="search"
+              placeholder="Search titles, leaders, countries, topics, packages"
+            />
+          </label>
+          <label>
+            <span>Country</span>
+            <select id="public-statement-country-filter"></select>
+          </label>
+          <label>
+            <span>Type</span>
+            <select id="public-statement-type-filter"></select>
+          </label>
+          <label>
+            <span>Source level</span>
+            <select id="public-statement-source-filter"></select>
+          </label>
+          <button id="public-statement-clear" type="button">Reset</button>
+          <p id="public-statement-summary" class="records-summary">Loading Public Papers index...</p>
+        </div>
+        <div id="public-statements-root" class="records-root public-statements-root" aria-live="polite">
+          <p class="loading">Loading public statements...</p>
+        </div>
+      </section>
+
       <section class="section source-section" id="sources" aria-labelledby="sources-title">
         <div class="section-heading">
           <p class="kicker">Official Anchors</p>
@@ -339,6 +387,12 @@
           <a href="https://catalog.archives.gov/" rel="noreferrer">
             National Archives Catalog
           </a>
+          <a
+            href="https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W."
+            rel="noreferrer"
+          >
+            GovInfo Public Papers: George H. W. Bush
+          </a>
         </div>
       </section>
 
@@ -376,6 +430,10 @@
             <span class="step-number">07</span>
             <span>Track partial, denied, and newly released records while Volume VIII remains in research.</span>
           </li>
+          <li>
+            <span class="step-number">08</span>
+            <span>Use the GovInfo Public Papers reference section to cross-check public statements, press events, summit declarations, and treaty messages against the internal record chronology.</span>
+          </li>
         </ol>
       </section>
     </main>
@@ -385,6 +443,7 @@
       <a href="https://github.com/therealjameswilson/Bush41-Western-Europe">Repository</a>
     </footer>
     <script src="data/memcons.js"></script>
+    <script src="data/public-statements.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
