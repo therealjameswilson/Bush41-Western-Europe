@@ -1,4 +1,5 @@
 const CHAPTER_ORDER = ["United Kingdom", "France", "Italy", "Regional", "Germany Reference"];
+const MAIN_VOLUME_CHAPTERS = CHAPTER_ORDER.filter((chapterName) => chapterName !== "Germany Reference");
 
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
@@ -17,17 +18,20 @@ const publicStatementSearch = document.querySelector("#public-statement-search")
 const publicStatementCountryFilter = document.querySelector("#public-statement-country-filter");
 const publicStatementTypeFilter = document.querySelector("#public-statement-type-filter");
 const publicStatementSourceFilter = document.querySelector("#public-statement-source-filter");
+const publicStatementBasisFilter = document.querySelector("#public-statement-basis-filter");
 const publicStatementClear = document.querySelector("#public-statement-clear");
 const publicStatementSummary = document.querySelector("#public-statement-summary");
+const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
 
 let allRecords = [];
 let allPublicStatements = [];
+let allCompilerGaps = [];
 
 const COMPILER_QUEUE_OPTIONS = [
   ["", "All compiler queues"],
   ["declassification", "Declassification ledger"],
   ["presidential", "Presidential conversations"],
-  ["source-note", "Source note gaps"],
+  ["citation-sheet", "Citation sheet gaps"],
   ["unpaged", "Page count gaps"],
   ["no-pdf", "PDF gaps"],
   ["local", "Project-only records"]
@@ -84,8 +88,19 @@ function uniqueInOrder(values) {
 }
 
 function setChapterCounts(records) {
-  totalRecords.textContent = records.length.toString();
-  totalPages.textContent = records.reduce((sum, record) => sum + (record.pageCount || 0), 0).toString();
+  const mainVolumeRecords = records.filter((record) => MAIN_VOLUME_CHAPTERS.includes(record.chapter.name));
+  const germanyReferenceRecords = records.filter((record) => record.chapter.name === "Germany Reference");
+  const germanyRecords = document.querySelector("#germany-records");
+  const germanyPages = document.querySelector("#germany-pages");
+
+  totalRecords.textContent = mainVolumeRecords.length.toString();
+  totalPages.textContent = mainVolumeRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0).toString();
+  if (germanyRecords) germanyRecords.textContent = germanyReferenceRecords.length.toString();
+  if (germanyPages) {
+    germanyPages.textContent = germanyReferenceRecords
+      .reduce((sum, record) => sum + (record.pageCount || 0), 0)
+      .toString();
+  }
 
   for (const chapterName of CHAPTER_ORDER) {
     const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
@@ -125,7 +140,8 @@ function assignCompilerNumbers(records) {
     const chapterNumber = record.chapter.number;
     const chapterCount = (chapterCounts.get(record.chapter.name) || 0) + 1;
     chapterCounts.set(record.chapter.name, chapterCount);
-    record.compilerNumber = `${chapterNumber}.${String(chapterCount).padStart(3, "0")}`;
+    const prefix = record.chapter.name === "Germany Reference" ? "G" : String(chapterNumber);
+    record.compilerNumber = `${prefix}.${String(chapterCount).padStart(3, "0")}`;
   }
   return records;
 }
@@ -145,15 +161,21 @@ function releaseText(record) {
 
 function hasCitationSheetSourceNote(record) {
   const note = record.sourceNote || "";
+  if (isProjectOnly(record) || record.provenanceStatus === "project-only") return false;
+  if (record.provenanceStatus === "citation-sheet") {
+    return /^Source:/i.test(note) && /OA\/ID\s+[A-Z0-9-]+/i.test(note);
+  }
   return Boolean(
     note.length > 40 &&
       /^Source:/i.test(note) &&
-      !/Local Bush memcons extractor output|official catalog metadata requires manual reconciliation/i.test(note)
+      !/Local Bush memcons extractor output|Project-only working copy|citation sheet reconciliation pending|citation sheet extraction pending|official catalog metadata requires manual reconciliation/i.test(note)
   );
 }
 
 function hasSourceNote(record) {
-  return hasCitationSheetSourceNote(record);
+  if (hasCitationSheetSourceNote(record)) return true;
+  if (record.provenanceStatus === "catalog-record") return /^Source:/i.test(record.sourceNote || "");
+  return false;
 }
 
 function needsPageCount(record) {
@@ -165,6 +187,7 @@ function needsPdf(record) {
 }
 
 function isProjectOnly(record) {
+  if (record.provenanceStatus === "citation-sheet" || record.provenancePages) return false;
   return (
     record.naid?.startsWith("local-") ||
     /local/i.test(record.source?.name || "") ||
@@ -187,7 +210,7 @@ function matchesCompilerQueue(record, queue) {
   if (!queue) return true;
   if (queue === "declassification") return isDeclassificationQueue(record);
   if (queue === "presidential") return isPresidentialConversation(record);
-  if (queue === "source-note") return !hasSourceNote(record);
+  if (queue === "citation-sheet") return !hasCitationSheetSourceNote(record);
   if (queue === "unpaged") return needsPageCount(record);
   if (queue === "no-pdf") return needsPdf(record);
   if (queue === "local") return isProjectOnly(record);
@@ -197,7 +220,8 @@ function matchesCompilerQueue(record, queue) {
 function compilerFlags(record) {
   return [
     isDeclassificationQueue(record) ? "Declassification review" : "",
-    !hasSourceNote(record) ? "Source note gap" : "",
+    record.provenanceStatus === "catalog-record" ? "Catalog-only source" : "",
+    !hasCitationSheetSourceNote(record) ? "Citation sheet needed" : "",
     needsPageCount(record) ? "Page count gap" : "",
     needsPdf(record) ? "PDF gap" : "",
     isProjectOnly(record) ? "Project-only provenance" : ""
@@ -348,6 +372,7 @@ function frusStyleSourcePathFromNote(note) {
     ". NAID ",
     ", NAID ",
     ". Full.",
+    ". Full release.",
     ", Full,",
     ", Full.",
     ". Declassified.",
@@ -363,6 +388,8 @@ function frusStyleSourcePathFromNote(note) {
     ", Digital copy:",
     ". Series:",
     ", Series:",
+    ". Project PDF",
+    ", project PDF",
     ". Access restricted:",
     ", Access restricted:"
   ];
@@ -399,13 +426,17 @@ function supplementalSourceNoteSentences(record) {
 }
 
 function generateFrusSourceNote(record) {
+  if (isProjectOnly(record) || record.provenanceStatus === "project-only") {
+    return "Source: Citation sheet extraction pending. Use the full provenance trail below for temporary project-only identification.";
+  }
+
   if (hasCitationSheetSourceNote(record)) {
     return [frusStyleSourcePathFromNote(record.sourceNote), ...supplementalSourceNoteSentences(record)]
       .filter(Boolean)
       .join(" ");
   }
 
-  if (record.sourceNote && /Local Bush memcons extractor output|official catalog metadata requires manual reconciliation/i.test(record.sourceNote)) {
+  if (record.sourceNote && /Local Bush memcons extractor output|official catalog metadata requires manual reconciliation|citation sheet extraction pending/i.test(record.sourceNote)) {
     return "Source: Citation sheet extraction pending. Use the full provenance trail below for temporary project-only identification.";
   }
 
@@ -422,6 +453,24 @@ function generateFrusSourceNote(record) {
   ]
     .filter(Boolean)
     .join(" ");
+}
+
+function sourceDisplay(record) {
+  const sourceText = `${record.source?.name || ""} ${record.sourceNote || ""} ${record.type || ""}`;
+  if (/Brent Scowcroft/i.test(sourceText)) {
+    return `Brent Scowcroft Collection / ${isTelconDisplay(record) ? "Presidential Telcon Files" : "Presidential Memcons Files"}`;
+  }
+  if (isProjectOnly(record) || record.provenanceStatus === "project-only") {
+    return "Project-only PDF / citation sheet pending";
+  }
+  if (record.provenanceStatus === "catalog-record") {
+    return "National Security Council / catalog record";
+  }
+  return record.source?.series || record.source?.name || "Source series pending";
+}
+
+function isTelconDisplay(record) {
+  return record.type === "Telcon" || /telephone|telcon/i.test(`${record.title || ""} ${record.documentTitle || ""}`);
 }
 
 function createMeta(record) {
@@ -475,7 +524,7 @@ function createSourceNote(record) {
 
   const note = document.createElement("p");
   note.className = "record-provenance-text";
-  note.textContent = record.sourceNote || "Source: Provenance pending.";
+  note.textContent = record.provenanceNote || record.sourceNote || "Source: Provenance pending.";
 
   sourceNote.append(summary, frusNote, provenanceLabel, note);
   return sourceNote;
@@ -521,7 +570,7 @@ function createRecordRow(record) {
 
   const sourceLine = document.createElement("p");
   sourceLine.className = "record-source-line";
-  sourceLine.textContent = record.source?.series || record.source?.name || "Source series pending";
+  sourceLine.textContent = sourceDisplay(record);
 
   const flags = document.createElement("div");
   flags.className = "record-flags";
@@ -585,9 +634,11 @@ function getSearchText(record) {
     record.naid,
     record.sourceTitle,
     record.sourceNote,
+    record.provenanceNote,
     generateFrusSourceNote(record),
     record.source?.series,
     record.source?.name,
+    ...(record.compilerRisks || []),
     ...(record.participants || []),
     ...(record.countries || []),
     ...(record.frusTopics || []),
@@ -676,9 +727,10 @@ function renderCompilerDesk(records) {
   if (!compilerRoot) return;
   const pages = records.reduce((sum, record) => sum + (record.pageCount || 0), 0);
   const sourceReady = records.filter(hasSourceNote).length;
+  const citationSheetReady = records.filter(hasCitationSheetSourceNote).length;
   const declassification = records.filter(isDeclassificationQueue);
   const presidential = records.filter(isPresidentialConversation);
-  const sourceGaps = records.filter((record) => !hasSourceNote(record));
+  const citationSheetGaps = records.filter((record) => !hasCitationSheetSourceNote(record));
   const pageGaps = records.filter(needsPageCount);
   const pdfGaps = records.filter(needsPdf);
   const projectOnly = records.filter(isProjectOnly);
@@ -693,6 +745,7 @@ function renderCompilerDesk(records) {
     createMetric("Candidate documents", records.length.toString(), "Numbered for compiler citation by chapter sequence."),
     createMetric("Document pages", pages.toString(), "Measured or estimated pages visible in the working set."),
     createMetric("Source notes", `${sourceReady}/${records.length}`, "Records with source provenance ready for review."),
+    createMetric("Citation sheets", `${citationSheetReady}/${records.length}`, "Records grounded in a PDF provenance sheet with OA/ID."),
     createMetric("Date span", dateSpan, "Chronological control uses meeting or document date.")
   );
 
@@ -705,7 +758,7 @@ function renderCompilerDesk(records) {
   queueList.append(
     queueButton("declassification", "Declassification ledger", declassification.length),
     queueButton("presidential", "Presidential conversations", presidential.length),
-    queueButton("source-note", "Source note gaps", sourceGaps.length),
+    queueButton("citation-sheet", "Citation sheet gaps", citationSheetGaps.length),
     queueButton("unpaged", "Page count gaps", pageGaps.length),
     queueButton("no-pdf", "PDF gaps", pdfGaps.length),
     queueButton("local", "Project-only records", projectOnly.length)
@@ -732,6 +785,65 @@ function renderCompilerDesk(records) {
   ledger.append(ledgerTitle, createLedgerList(declassification.sort(byChapterThenDate)));
 
   compilerRoot.replaceChildren(metrics, queues, sourcePanel, ledger);
+}
+
+function renderCompilerGaps(gaps) {
+  if (!compilerGapsRoot) return;
+  compilerGapsRoot.replaceChildren();
+  if (!gaps.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No compiler gaps are currently staged.";
+    compilerGapsRoot.append(empty);
+    return;
+  }
+
+  const metrics = document.createElement("div");
+  metrics.className = "compiler-metrics";
+  metrics.append(
+    createMetric("Gap items", gaps.length.toString(), "Tracked compiler-risk issues."),
+    createMetric(
+      "Open",
+      gaps.filter((gap) => /open|partly/i.test(gap.status || "")).length.toString(),
+      "Items needing more source work."
+    ),
+    createMetric(
+      "Remediated",
+      gaps.filter((gap) => /remediated/i.test(gap.status || "")).length.toString(),
+      "Items improved in the current dataset."
+    ),
+    createMetric(
+      "Critical or high",
+      gaps.filter((gap) => ["Critical", "High"].includes(gap.priority)).length.toString(),
+      "Highest-priority compiler risks."
+    )
+  );
+
+  const list = document.createElement("div");
+  list.className = "gap-list";
+  for (const gap of gaps) {
+    const card = document.createElement("article");
+    card.className = "gap-card";
+    const title = document.createElement("h3");
+    title.textContent = gap.title;
+    const meta = document.createElement("div");
+    meta.className = "record-meta";
+    for (const value of [gap.priority, gap.status, gap.targetCount != null ? `${gap.targetCount} targets` : ""]) {
+      if (!value) continue;
+      const item = document.createElement("span");
+      item.textContent = value;
+      meta.append(item);
+    }
+    const evidence = document.createElement("p");
+    evidence.textContent = gap.evidence;
+    const action = document.createElement("p");
+    action.className = "record-provenance-text";
+    action.textContent = gap.nextAction;
+    card.append(title, meta, evidence, action);
+    list.append(card);
+  }
+
+  compilerGapsRoot.append(metrics, list);
 }
 
 function renderRecords(records) {
@@ -794,6 +906,7 @@ function publicStatementSearchText(statement) {
     statement.sourcePackage,
     statement.sourcePackageLabel,
     statement.sourceKind,
+    statement.selectionBasis,
     statement.sourceNote,
     statement.notes,
     ...(statement.countries || []),
@@ -822,6 +935,11 @@ function populatePublicStatementFilters(statements) {
     uniqueSorted(statements.map((statement) => statement.sourceKind)),
     "All source levels"
   );
+  addOptions(
+    publicStatementBasisFilter,
+    uniqueSorted(statements.map((statement) => statement.selectionBasis)),
+    "All match bases"
+  );
 }
 
 function filterPublicStatements(statements) {
@@ -829,11 +947,13 @@ function filterPublicStatements(statements) {
   const country = publicStatementCountryFilter?.value || "";
   const type = publicStatementTypeFilter?.value || "";
   const source = publicStatementSourceFilter?.value || "";
+  const basis = publicStatementBasisFilter?.value || "";
 
   return statements.filter((statement) => {
     if (country && !(statement.countries || []).includes(country)) return false;
     if (type && statement.type !== type) return false;
     if (source && statement.sourceKind !== source) return false;
+    if (basis && statement.selectionBasis !== basis) return false;
     return !query || publicStatementSearchText(statement).includes(query);
   });
 }
@@ -872,6 +992,7 @@ function createPublicStatementRow(statement) {
     statement.type,
     statement.countries?.join(", "),
     statement.leaders?.slice(0, 3).join(", "),
+    statement.selectionBasis ? `${statement.selectionBasis} match` : "",
     statement.sourcePackage
   ]) {
     if (!value) continue;
@@ -951,7 +1072,13 @@ function updatePublicStatementsView() {
 }
 
 function enablePublicStatementFilters() {
-  for (const control of [publicStatementSearch, publicStatementCountryFilter, publicStatementTypeFilter, publicStatementSourceFilter]) {
+  for (const control of [
+    publicStatementSearch,
+    publicStatementCountryFilter,
+    publicStatementTypeFilter,
+    publicStatementSourceFilter,
+    publicStatementBasisFilter
+  ]) {
     control?.addEventListener("input", updatePublicStatementsView);
     control?.addEventListener("change", updatePublicStatementsView);
   }
@@ -961,6 +1088,7 @@ function enablePublicStatementFilters() {
     if (publicStatementCountryFilter) publicStatementCountryFilter.value = "";
     if (publicStatementTypeFilter) publicStatementTypeFilter.value = "";
     if (publicStatementSourceFilter) publicStatementSourceFilter.value = "";
+    if (publicStatementBasisFilter) publicStatementBasisFilter.value = "";
     updatePublicStatementsView();
     publicStatementSearch?.focus();
   });
@@ -1011,6 +1139,7 @@ async function init() {
   try {
     allRecords = assignCompilerNumbers(window.MEMCONS || window.MEMCON_RECORDS || (await loadRecords()));
     allPublicStatements = assignPublicStatementNumbers(window.PUBLIC_STATEMENTS || (await loadPublicStatements()));
+    allCompilerGaps = window.COMPILER_GAPS || (await loadCompilerGaps());
     setChapterCounts(allRecords);
     populateFilters(allRecords);
     populatePublicStatementFilters(allPublicStatements);
@@ -1019,6 +1148,7 @@ async function init() {
     enableChapterCards();
     updateRecordsView();
     updatePublicStatementsView();
+    renderCompilerGaps(allCompilerGaps);
     if (window.location.hash) {
       document.querySelector(window.location.hash)?.scrollIntoView();
     }
@@ -1037,6 +1167,12 @@ async function loadRecords() {
 async function loadPublicStatements() {
   const response = await fetch("data/public-statements.json");
   if (!response.ok) throw new Error(`Could not load public statements: ${response.status}`);
+  return response.json();
+}
+
+async function loadCompilerGaps() {
+  const response = await fetch("data/compiler-gaps.json");
+  if (!response.ok) return [];
   return response.json();
 }
 

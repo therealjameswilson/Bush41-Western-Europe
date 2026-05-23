@@ -46,7 +46,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, January 23, 1989, 1:19 p.m. - 1:23 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 18-20. Catalog: https://catalog.archives.gov/id/366551686."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 18-20. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/united-kingdom/1989-01-23-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-04-22-366551686-88",
@@ -95,7 +104,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Camp David, April 22, 1989, 10:17 a.m. - 10:34 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 88-92. Catalog: https://catalog.archives.gov/id/366551686."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 88-92. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/united-kingdom/1989-04-22-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-01-428080027",
@@ -143,7 +161,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (1 of 2)",
     "dateLine": "Washington, June 1, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (1 of 2). NAID 428080027. Full. Catalog: https://catalog.archives.gov/id/428080027."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (1 of 2). NAID 428080027. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080027.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080027",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-01--Thatcher-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-01-428080029",
@@ -191,7 +217,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (2 of 2)",
     "dateLine": "London, June 1, 1989, 11:35 a.m. - 12:35 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (2 of 2). NAID 428080029. Full. Catalog: https://catalog.archives.gov/id/428080029."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (2 of 2). NAID 428080029. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080029.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080029",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-01--Thatcher-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-05-366551687-46",
@@ -240,7 +274,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, June 5, 1989, 12:02 p.m. - 12:09 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 46-48. Catalog: https://catalog.archives.gov/id/366551687."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 46-48. Catalog: https://catalog.archives.gov/id/366551687.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551687",
+      "documents/united-kingdom/1989-06-05-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-11-366551687-59",
@@ -289,7 +332,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Camp David, June 11, 1989, 8:07 a.m. - 8:24 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 59-63. Catalog: https://catalog.archives.gov/id/366551687."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 59-63. Catalog: https://catalog.archives.gov/id/366551687.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551687",
+      "documents/united-kingdom/1989-06-11-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-07-14-428080097",
@@ -337,7 +389,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
     "dateLine": "Washington, July 14, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of Great Britain. NAID 428080097. Full. Catalog: https://catalog.archives.gov/id/428080097."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of Great Britain. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of Great Britain. NAID 428080097. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080097.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080097",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-14--Thatcher.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-08-02-366551688-15",
@@ -386,7 +446,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, August 2, 1989, 10:11 a.m. - 10:21 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 15-17. Catalog: https://catalog.archives.gov/id/366551688."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 15-17. Catalog: https://catalog.archives.gov/id/366551688.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551688",
+      "documents/united-kingdom/1989-08-02-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-09-05-366551688-61",
@@ -435,7 +504,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, September 5, 1989, 1:15 P.M. - 1:30 P.M.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 61-64. Catalog: https://catalog.archives.gov/id/366551688."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 61-64. Catalog: https://catalog.archives.gov/id/366551688.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551688",
+      "documents/united-kingdom/1989-09-05-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1989-09-11-john-major-memcon",
@@ -484,7 +562,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, September 11, 1989, 10:00 a.m. - 10:35 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 890911_BushANDThatcher_Memcon.pdf. Declassified. Project PDF: documents/united-kingdom/1989-09-11-bush-john-major-memcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 890911_BushANDThatcher_Memcon.pdf, project PDF documents/united-kingdom/1989-09-11-bush-john-major-memcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/united-kingdom/1989-09-11-bush-john-major-memcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1989-09-11-428080179",
@@ -532,7 +620,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with John Major of the United Kingdom, September 11, 1989",
     "dateLine": "Washington, September 11, 1989, 10:00 a.m. - 10:35 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with John Major of the United Kingdom, September 11, 1989. NAID 428080179. Full. Catalog: https://catalog.archives.gov/id/428080179."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with John Major of the United Kingdom, September 11, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with John Major of the United Kingdom, September 11, 1989. NAID 428080179. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080179.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080179",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-11--Major.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-17-366551689-37",
@@ -581,7 +677,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, November 17, 1989, 3:16 pm - 3:24 pm EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 37-39. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 37-39. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/united-kingdom/1989-11-17-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-24-428080329",
@@ -629,7 +734,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Margaret Thatcher, Prime Minister of Great Britain",
     "dateLine": "Washington, November 24, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of Great Britain. NAID 428080329. Full. Catalog: https://catalog.archives.gov/id/428080329."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of Great Britain. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Margaret Thatcher, Prime Minister of Great Britain. NAID 428080329. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080329.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080329",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-11-24--Thatcher.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-01-27-366551690-30",
@@ -678,7 +791,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, January 27, 1990, 9:11 a.m. - 9:30 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 30-33. Catalog: https://catalog.archives.gov/id/366551690."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 30-33. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/united-kingdom/1990-01-27-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-01-29-428080479",
@@ -726,7 +848,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Douglas Hurd, Foreign Secretary of the United Kingdom",
     "dateLine": "Washington, January 29, 1990, 3:05 - 3:40 pm EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Douglas Hurd, Foreign Secretary of the United Kingdom. NAID 428080479. Full. Catalog: https://catalog.archives.gov/id/428080479."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Douglas Hurd, Foreign Secretary of the United Kingdom. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Douglas Hurd, Foreign Secretary of the United Kingdom. NAID 428080479. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080479.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080479",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-29--Hurd.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-02-24-366551690-57",
@@ -775,7 +905,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, February 24, 1990, 8:01 - 8:42am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 57-64. Catalog: https://catalog.archives.gov/id/366551690."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 57-64. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/united-kingdom/1990-02-24-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-04-13-428080633",
@@ -823,7 +962,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Margaret Thatcher of Great Britain, April 13, 1990",
     "dateLine": "Washington, April 13, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with prime Minister Maraaret Thatcher of Great Britain, April 13, 1990. NAID 428080633. Full. Catalog: https://catalog.archives.gov/id/428080633."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with prime Minister Maraaret Thatcher of Great Britain, April 13, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with prime Minister Maraaret Thatcher of Great Britain, April 13, 1990. NAID 428080633. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080633.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080633",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-13--Thatcher.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-06-03-366551691-83",
@@ -872,7 +1019,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, June 3, 1990, 3:58 - 4:08 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 83-85. Catalog: https://catalog.archives.gov/id/366551691."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 83-85. Catalog: https://catalog.archives.gov/id/366551691.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551691",
+      "documents/united-kingdom/1990-06-03-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-08-03-366551693-17",
@@ -921,7 +1077,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, August 3, 1990, 3:03 - 3:10 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 17-18. Catalog: https://catalog.archives.gov/id/366551693."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 17-18. Catalog: https://catalog.archives.gov/id/366551693.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551693",
+      "documents/united-kingdom/1990-08-03-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-08-09-366551693-64",
@@ -970,7 +1135,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, August 9, 1990, 10:02 - 10:16 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 64-66. Catalog: https://catalog.archives.gov/id/366551693."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 64-66. Catalog: https://catalog.archives.gov/id/366551693.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551693",
+      "documents/united-kingdom/1990-08-09-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-08-20-366551693-102",
@@ -1019,7 +1193,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, August 20, 1990, 9:16 - 9:26 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 102-104. Catalog: https://catalog.archives.gov/id/366551693."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 102-104. Catalog: https://catalog.archives.gov/id/366551693.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551693",
+      "documents/united-kingdom/1990-08-20-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-09-07-366551694-79",
@@ -1068,7 +1251,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, September 7, 1990, 7:29 - 7:45 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 79-81. Catalog: https://catalog.archives.gov/id/366551694."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 79-81. Catalog: https://catalog.archives.gov/id/366551694.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551694",
+      "documents/united-kingdom/1990-09-07-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-09-14-366551694-100",
@@ -1117,7 +1309,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, September 14, 1990, 7:29 - 7:42am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 100-103. Catalog: https://catalog.archives.gov/id/366551694."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 100-103. Catalog: https://catalog.archives.gov/id/366551694.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551694",
+      "documents/united-kingdom/1990-09-14-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-10-12-366551695-10",
@@ -1166,7 +1367,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Washington, October 12, 1990, 7:06 - 7:15pm EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 10-12. Catalog: https://catalog.archives.gov/id/366551695."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 10-12. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/united-kingdom/1990-10-12-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-11-19-428081193",
@@ -1214,7 +1424,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Margaret Thatcher of Great Britain, November 19, 1990",
     "dateLine": "Paris, November 19, 1990, 8:00 - 9:00am",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Maragaret Thatcher of Great Britain, November 19, 1990. NAID 428081193. Full. Catalog: https://catalog.archives.gov/id/428081193."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Maragaret Thatcher of Great Britain, November 19, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Maragaret Thatcher of Great Britain, November 19, 1990. NAID 428081193. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081193.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081193",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-19--Thatcher.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-11-30-366551695-76",
@@ -1263,7 +1481,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, November 30, 1990, 3:06 - 3:15 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 76-78. Catalog: https://catalog.archives.gov/id/366551695."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 76-78. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/united-kingdom/1990-11-30-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-12-21-428081243",
@@ -1311,7 +1538,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister John Major of the United Kingdom, December 21, 1990 (2 of 2)",
     "dateLine": "Camp David, December 21, 1990, 5:00 - 6:15 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister John Major of the United Kingdom, December 21, 1990 (2 of 2). NAID 428081243. Full. Catalog: https://catalog.archives.gov/id/428081243."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister John Major of the United Kingdom, December 21, 1990 (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister John Major of the United Kingdom, December 21, 1990 (2 of 2). NAID 428081243. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081243.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081243",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-21--Major-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-12-21-428081247",
@@ -1359,7 +1594,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Telephone Conversation with Prime Minister John Major of the United Kingdom, December 21, 1990 (1 of 2)",
     "dateLine": "Washington, December 21, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Telephone Conversation with Prime Minister John Major of the United Kingdom, December 21, 1990 (1 of 2). NAID 428081247. Full. Catalog: https://catalog.archives.gov/id/428081247."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Telephone Conversation with Prime Minister John Major of the United Kingdom, December 21, 1990 (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Telephone Conversation with Prime Minister John Major of the United Kingdom, December 21, 1990 (1 of 2). NAID 428081247. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081247.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081247",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-21--Major-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-12-24-366551695-93",
@@ -1408,7 +1651,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Margaret Thatcher",
     "dateLine": "Camp David, December 24, 1990, 1:48 - 1:53pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 93-94. Catalog: https://catalog.archives.gov/id/366551695."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 93-94. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/united-kingdom/1990-12-24-bush-margaret-thatcher-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-01-03-366551696-11",
@@ -1457,7 +1709,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, January 3, 1991, 5:30 - 5:39am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 11-12. Catalog: https://catalog.archives.gov/id/366551696."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 11-12. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551696",
+      "documents/united-kingdom/1991-01-03-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-02-12-428081431",
@@ -1505,7 +1766,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Thomas King, Secretary of State for Defense, United Kingdom, February 12, 1991",
     "dateLine": "Washington, February 12, 1991, 2p.m. - 2:30p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Thomas King, Secretary of State for Defense, United Kingdom, February 12, 1991. NAID 428081431. Full. Catalog: https://catalog.archives.gov/id/428081431."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Thomas King, Secretary of State for Defense, United Kingdom, February 12, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Thomas King, Secretary of State for Defense, United Kingdom, February 12, 1991. NAID 428081431. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081431.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081431",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-12--King.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-03-16-428081535",
@@ -1553,7 +1822,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with John Major, Prime Minister of the United Kingdom, March 16, 1991",
     "dateLine": "Washington, March 16, 1991, 9:45-11:45 am.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with John Major, Prime Minister of the United Kingdom, March 16, 1991. NAID 428081535. Full. Catalog: https://catalog.archives.gov/id/428081535."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with John Major, Prime Minister of the United Kingdom, March 16, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with John Major, Prime Minister of the United Kingdom, March 16, 1991. NAID 428081535. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081535.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081535",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-16--Major.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-04-16-366551699-48",
@@ -1602,7 +1879,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, April 16, 1991, 12:25 - 12:40 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 48-51. Catalog: https://catalog.archives.gov/id/366551699."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 48-51. Catalog: https://catalog.archives.gov/id/366551699.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551699",
+      "documents/united-kingdom/1991-04-16-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-08-19-366551701-9",
@@ -1643,7 +1929,7 @@ window.MEMCONS = [
     "topics": [
       "United Kingdom",
       "Telcon",
-      "United Kingdom"
+      "Same-day duplicate disambiguated"
     ],
     "pageCount": 1,
     "provenancePages": 1,
@@ -1651,7 +1937,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, August 19, 1991, 6:42 - 6:48am",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 9-9. Catalog: https://catalog.archives.gov/id/366551701."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 9-9. Catalog: https://catalog.archives.gov/id/366551701.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551701",
+      "documents/united-kingdom/1991-08-19-bush-john-major-telcon-scowcroft-p9.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": [],
+    "disambiguationNote": "Distinct same-day telcon 2 of 2; source pages 9-9."
   },
   {
     "id": "1991-08-19-366551701-20",
@@ -1692,7 +1988,7 @@ window.MEMCONS = [
     "topics": [
       "United Kingdom",
       "Telcon",
-      "United Kingdom"
+      "Same-day duplicate disambiguated"
     ],
     "pageCount": 2,
     "provenancePages": 1,
@@ -1700,7 +1996,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Air Force One, August 19, 1991, 12:56 - 1:06 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 20-21. Catalog: https://catalog.archives.gov/id/366551701."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 20-21. Catalog: https://catalog.archives.gov/id/366551701.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551701",
+      "documents/united-kingdom/1991-08-19-bush-john-major-telcon-scowcroft-p20.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": [],
+    "disambiguationNote": "Distinct same-day telcon 1 of 2; source pages 20-21."
   },
   {
     "id": "1991-09-27-366551702-10",
@@ -1749,7 +2055,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, September 27, 1991, 7:45 - 7:57 am EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 10-12. Catalog: https://catalog.archives.gov/id/366551702."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 10-12. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/united-kingdom/1991-09-27-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-03-06-366551703-25",
@@ -1798,7 +2113,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, March 6, 1992, 9:02 - 9:19 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92-4/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-28. Catalog: https://catalog.archives.gov/id/366551703."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92-4/9/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92-4/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-28. Catalog: https://catalog.archives.gov/id/366551703.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551703",
+      "documents/united-kingdom/1992-03-06-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-03-29-366551703-48",
@@ -1847,7 +2171,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, March 29, 1992, 3:08-3:18 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92-4/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 48-49. Catalog: https://catalog.archives.gov/id/366551703."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92-4/9/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92-4/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 48-49. Catalog: https://catalog.archives.gov/id/366551703.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551703",
+      "documents/united-kingdom/1992-03-29-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-06-27-366551704-73",
@@ -1896,7 +2229,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Camp David, June 27, 1992, 11:16 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 73-76. Catalog: https://catalog.archives.gov/id/366551704."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 73-76. Catalog: https://catalog.archives.gov/id/366551704.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551704",
+      "documents/united-kingdom/1992-06-27-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-08-07-366551705-25",
@@ -1945,7 +2287,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, August 7, 1992, 1:40pm - 2:00 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-27. Catalog: https://catalog.archives.gov/id/366551705."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-27. Catalog: https://catalog.archives.gov/id/366551705.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551705",
+      "documents/united-kingdom/1992-08-07-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1992-10-02-john-major-telcon",
@@ -1993,8 +2344,18 @@ window.MEMCONS = [
     "notes": "Source-folder audit: trimmed oversized packet to the four pages of John Major telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
-    "dateLine": "Air Force One, October 2, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 921002_BushANDMajor_Telcon.pdf. Declassified. Project PDF: documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf."
+    "dateLine": "Air Force One and 10 Downing Street, October 2, 1992, 1514-1521 and 1525-1537",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 921002_BushANDMajor_Telcon.pdf, project PDF documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/united-kingdom/1992-10-02-bush-john-major-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1992-10-14-366551705-59",
@@ -2043,7 +2404,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Washington, October 14, 1992, 9:32-9:43 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 59-62. Catalog: https://catalog.archives.gov/id/366551705."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 59-62. Catalog: https://catalog.archives.gov/id/366551705.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551705",
+      "documents/united-kingdom/1992-10-14-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-11-01-366551705-74",
@@ -2092,56 +2462,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and John Major",
     "dateLine": "Air Force One, November 1, 1992, 11:40-11:47 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 74-75. Catalog: https://catalog.archives.gov/id/366551705."
-  },
-  {
-    "id": "local-1992-12-03-john-major-telcon",
-    "date": "1992-12-03",
-    "sortDate": "1992-12-03",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and John Major",
-    "sourceTitle": "921203_BushANDMajor_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "John Major"
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 74-75. Catalog: https://catalog.archives.gov/id/366551705.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551705",
+      "documents/united-kingdom/1992-11-01-bush-john-major-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
     ],
-    "countries": [
-      "United States",
-      "United Kingdom"
-    ],
-    "chapter": {
-      "number": 1,
-      "name": "United Kingdom"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-921203_BushANDMajor_Telcon",
-    "pdfUrl": "documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf",
-    "catalogUrl": "documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "United Kingdom bilateral relations"
-    ],
-    "pageCount": 3,
-    "localOriginalFile": "921203_BushANDMajor_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and John Major",
-    "dateLine": "Washington, December 3, 1992, 8:38-8:45 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 921203_BushANDMajor_Telcon.pdf. Declassified. Project PDF: documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf."
+    "compilerRisks": []
   },
   {
     "id": "1989-01-24-366551686-21",
@@ -2190,7 +2520,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, January 24, 1989, 9:21 a.m. - 9:30 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 21-22. Catalog: https://catalog.archives.gov/id/366551686."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 21-22. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/france/1989-01-24-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-02-23-428079895",
@@ -2238,7 +2577,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Francois Mitterrand of France, February 23, 1989",
     "dateLine": "Washington, February 23, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Francois Mitterrand of France, February 23, 1989. NAID 428079895. Full. Catalog: https://catalog.archives.gov/id/428079895."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Francois Mitterrand of France, February 23, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Francois Mitterrand of France, February 23, 1989. NAID 428079895. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079895.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079895",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-23--Mitterrand.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-04-11-428079947",
@@ -2286,7 +2633,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Foreign Minister Roland Dumas of France, April 11, 1989",
     "dateLine": "Washington, April 11, 1989, 4:30- 5:05 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Foreign Minister Roland Dumas of France, April 11, 1989. NAID 428079947. Full. Catalog: https://catalog.archives.gov/id/428079947."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Foreign Minister Roland Dumas of France, April 11, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Foreign Minister Roland Dumas of France, April 11, 1989. NAID 428079947. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079947.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079947",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-11--Dumas.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-04-17-366551686-78",
@@ -2335,7 +2690,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, April 17, 1989, 4:35 p.m to 4:55 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 78-80. Catalog: https://catalog.archives.gov/id/366551686."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 78-80. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/france/1989-04-17-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-07-13-428080095",
@@ -2383,7 +2747,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Francois Mitterrand, President of France",
     "dateLine": "Office July 13, 1989, 4, July 13, 1989, 4:00 pm - 4:35 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Francois Mitterrand, President of France. NAID 428080095. Full. Catalog: https://catalog.archives.gov/id/428080095."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Francois Mitterrand, President of France. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Francois Mitterrand, President of France. NAID 428080095. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080095.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080095",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-13--Mitterrand.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1989-08-26-francois-mitterrand-telcon",
@@ -2432,7 +2804,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Kennebunkport, Maine, August 26, 1989, 10:33 - 10:45 a.m. EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 890826_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 890826_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1989-08-26-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1989-10-23-366551688-95",
@@ -2481,7 +2863,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, October 23, 1989, 6:12 - 6:23 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 95-96. Catalog: https://catalog.archives.gov/id/366551688."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 95-96. Catalog: https://catalog.archives.gov/id/366551688.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551688",
+      "documents/france/1989-10-23-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-17-366551689-28",
@@ -2530,7 +2921,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, November 17, 1989, 9:33 - 9:44 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 28-29. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 28-29. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/france/1989-11-17-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-30-366551689-87",
@@ -2579,7 +2979,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, November 30, 1989, 9:40 - 9:55 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 87-89. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 87-89. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/france/1989-11-30-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-12-16-428080395",
@@ -2626,8 +3035,16 @@ window.MEMCONS = [
     "pageCount": 11,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Francois Mitterrand of France, December 16, 1989",
-    "dateLine": "The President December 16,1989,1 30, December 16, 1989, 1:30 - 3:00 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with President Francois Mitterrand of France, December 16, 1989. NAID 428080395. Full. Catalog: https://catalog.archives.gov/id/428080395."
+    "dateLine": "December 16, 1989, 1:30 - 3:00 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Francois Mitterrand of France, December 16, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Francois Mitterrand of France, December 16, 1989. NAID 428080395. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080395.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080395",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-16--Mitterrand.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-12-20-366551689-114",
@@ -2676,7 +3093,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, December 20, 1989, 7:41 - 7:56 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 114-116. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 114-116. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/france/1989-12-20-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-01-27-366551690-27",
@@ -2725,7 +3151,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, January 27, 1990, 7:04 - 7:18am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 27-29. Catalog: https://catalog.archives.gov/id/366551690."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 27-29. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/france/1990-01-27-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-02-26-366551690-70",
@@ -2774,7 +3209,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 26, 1990, 3:53 - 4:48 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 70-72. Catalog: https://catalog.archives.gov/id/366551690."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 70-72. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/france/1990-02-26-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-04-19-428080645",
@@ -2821,8 +3265,16 @@ window.MEMCONS = [
     "pageCount": 6,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Mitterrand of France, April 19, 1990 (1 of 2)",
-    "dateLine": "The President of your ideas, April 19, 1990, 11:30 am - 1:05 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting With President Mitterrand of France, April 19, 1990 (1 of 2). NAID 428080645. Full. Catalog: https://catalog.archives.gov/id/428080645."
+    "dateLine": "April 19, 1990, 11:30 a.m. - 1:05 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting With President Mitterrand of France, April 19, 1990 (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting With President Mitterrand of France, April 19, 1990 (1 of 2). NAID 428080645. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080645.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080645",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-19--Mitterrand-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-04-19-428080647",
@@ -2869,8 +3321,16 @@ window.MEMCONS = [
     "pageCount": 8,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Mitterrand of France, April 19, 1990 (2 of 2)",
-    "dateLine": "SEGRE~(SENSITIVE Declassify on OADR April, April 19, 1990, 1:07 - 2:15pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with President Mitterrand of France, April 19, 1990 (2 of 2). NAID 428080647. Full. Catalog: https://catalog.archives.gov/id/428080647."
+    "dateLine": "Key Largo, Florida, April 19, 1990, 1:07 - 2:15 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Mitterrand of France, April 19, 1990 (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Mitterrand of France, April 19, 1990 (2 of 2). NAID 428080647. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080647.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080647",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-19--Mitterrand-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-09-428080827",
@@ -2918,7 +3378,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Mitterrand of France, July 9, 1990 (1 of 2)",
     "dateLine": "Francois Mitterrand, President Jacques Attali,, July 9, 1990, 9:10 - 10:00 am",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with President Mitterrand of France, July 9, 1990 (1 of 2). NAID 428080827. Full. Catalog: https://catalog.archives.gov/id/428080827."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Mitterrand of France, July 9, 1990 (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Mitterrand of France, July 9, 1990 (1 of 2). NAID 428080827. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080827.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080827",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Mitterrand-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-08-03-366551693-19",
@@ -2967,7 +3435,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, August 3, 1990, 4:32 - 4:57 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 19-22. Catalog: https://catalog.archives.gov/id/366551693."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 19-22. Catalog: https://catalog.archives.gov/id/366551693.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551693",
+      "documents/france/1990-08-03-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1990-08-20-francois-mitterrand-telcon",
@@ -2988,13 +3465,16 @@ window.MEMCONS = [
       "number": 2,
       "name": "France"
     },
-    "releaseStatus": "Unknown",
+    "releaseStatus": "Declassified",
     "naid": "local-900820_BushANDMitterrand_Telcon",
     "pdfUrl": "documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf",
     "catalogUrl": "documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
+      "series": "European and Eurasian Directorate, Central Chronological Files",
+      "localIdentifier": "30508-006",
+      "foiaNumber": "2011-0002-F"
     },
     "frusVolume": {
       "id": "frus1989-92v08",
@@ -3010,13 +3490,21 @@ window.MEMCONS = [
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 5,
+    "pageCount": 4,
     "localOriginalFile": "900820_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
-    "dateLine": "Washington, August 20, 1990, 3:59 - 4:28 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 900820_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf."
+    "dateLine": "Kennebunkport, Maine, August 20, 1990, 3:59 - 4:28 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30508, Folder ID 30508-006, August 1990 [2]. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30508, Folder ID 30508-006, August 1990 [2]. Originally processed under FOIA 2011-0002-F. The project PDF begins with the FOIA marker provenance sheet and includes 4 pages of conversation text. Source file 900820_BushANDMitterrand_Telcon.pdf.",
+    "provenanceLinks": [
+      "documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [],
+    "provenancePages": 1
   },
   {
     "id": "local-1990-08-31-francois-mitterrand-telcon",
@@ -3065,7 +3553,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Kennebunkport, Maine, August 31, 1990, 7:12 - 7:36 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 900831_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 900831_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1990-08-31-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1990-09-06-francois-mitterrand-telcon",
@@ -3114,7 +3612,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 6, 1990, 7:23 - 7:43 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 900906_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 900906_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1990-09-06-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1990-09-11-francois-mitterrand-telcon",
@@ -3163,7 +3671,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 11, 1990, 1:34 - 1:43 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 900911_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 900911_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1990-09-11-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1990-09-14-francois-mitterrand-telcon",
@@ -3184,13 +3702,16 @@ window.MEMCONS = [
       "number": 2,
       "name": "France"
     },
-    "releaseStatus": "Unknown",
+    "releaseStatus": "Declassified",
     "naid": "local-900914_BushANDMitterrand_Telcon",
     "pdfUrl": "documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf",
     "catalogUrl": "documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
+      "series": "European and Eurasian Directorate, Central Chronological Files",
+      "localIdentifier": "30510-001",
+      "foiaNumber": "2011-0002-F"
     },
     "frusVolume": {
       "id": "frus1989-92v08",
@@ -3206,13 +3727,21 @@ window.MEMCONS = [
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 3,
+    "pageCount": 2,
     "localOriginalFile": "900914_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 14, 1990, 12:02 - 12:07 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 900914_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30510, Folder ID 30510-001, September 1990 [3]. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30510, Folder ID 30510-001, September 1990 [3]. Originally processed under FOIA 2011-0002-F. The project PDF begins with the FOIA marker provenance sheet and includes 2 pages of conversation text. Source file 900914_BushANDMitterrand_Telcon.pdf.",
+    "provenanceLinks": [
+      "documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [],
+    "provenancePages": 1
   },
   {
     "id": "local-1990-09-16-francois-mitterrand-telcon",
@@ -3233,13 +3762,16 @@ window.MEMCONS = [
       "number": 2,
       "name": "France"
     },
-    "releaseStatus": "Unknown",
+    "releaseStatus": "Declassified",
     "naid": "local-900916_BushANDMitterrand_Telcon",
     "pdfUrl": "documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf",
     "catalogUrl": "documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
+      "series": "European and Eurasian Directorate, Central Chronological Files",
+      "localIdentifier": "30510-001",
+      "foiaNumber": "2011-0002-F"
     },
     "frusVolume": {
       "id": "frus1989-92v08",
@@ -3255,13 +3787,21 @@ window.MEMCONS = [
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 3,
+    "pageCount": 2,
     "localOriginalFile": "900916_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Camp David, September 16, 1990, 3:17 - 3:23 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 900916_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30510, Folder ID 30510-001, September 1990 [3]. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30510, Folder ID 30510-001, September 1990 [3]. Originally processed under FOIA 2011-0002-F. The project PDF begins with the FOIA marker provenance sheet and includes 2 pages of conversation text. Source file 900916_BushANDMitterrand_Telcon.pdf.",
+    "provenanceLinks": [
+      "documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [],
+    "provenancePages": 1
   },
   {
     "id": "1990-09-19-366551694-88",
@@ -3310,7 +3850,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 19, 1990, 1:34 - 1:43 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 88-89. Catalog: https://catalog.archives.gov/id/366551694."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 88-89. Catalog: https://catalog.archives.gov/id/366551694.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551694",
+      "documents/france/1990-09-19-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1990-10-11-francois-mitterrand-telcon",
@@ -3359,7 +3908,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, October 11, 1990, 5:25-5:38 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 901011_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 901011_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1990-10-11-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1990-11-18-428081191",
@@ -3406,8 +3965,16 @@ window.MEMCONS = [
     "pageCount": 7,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Mitterrand of France, November 18, 1990",
-    "dateLine": "The President Czechoslovakia was wonderful, November 18, 1990, 8:00 - 10:18 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with President Mitterrand of France, November 18, 1990. NAID 428081191. Full. Catalog: https://catalog.archives.gov/id/428081191."
+    "dateLine": "November 18, 1990, 8:00 - 10:18 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Mitterrand of France, November 18, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Mitterrand of France, November 18, 1990. NAID 428081191. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081191.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081191",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-18--Mitterrand.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1990-12-24-francois-mitterrand-telcon",
@@ -3456,7 +4023,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Camp David, December 24, 1990, 2:08-2:15 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 901224_BushANDMitterrand_Telcon_01.pdf. Declassified. Project PDF: documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 901224_BushANDMitterrand_Telcon_01.pdf, project PDF documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1990-12-24-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1990-12-24-366551695-97",
@@ -3505,7 +4082,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Michel Rocard",
     "dateLine": "Camp David, December 24, 1990, 2:34-2:37 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 97-97. Catalog: https://catalog.archives.gov/id/366551695."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 97-97. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/france/1990-12-24-bush-michel-rocard-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-01-03-366551696-9",
@@ -3554,7 +4140,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, January 3, 1991, 5:47 - 5:53am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 9-10. Catalog: https://catalog.archives.gov/id/366551696."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 9-10. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551696",
+      "documents/france/1991-01-03-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-01-09-366551696-18",
@@ -3603,7 +4198,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, January 9, 1991, 12:02 - 12:06 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 18-19. Catalog: https://catalog.archives.gov/id/366551696."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 18-19. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551696",
+      "documents/france/1991-01-09-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-01-20-366551696-77",
@@ -3652,7 +4256,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Camp David, January 20, 1991, 1:17 p.m. - 1:34 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 77-82. Catalog: https://catalog.archives.gov/id/366551696."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 77-82. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551696",
+      "documents/france/1991-01-20-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1991-02-05-francois-mitterrand-telcon",
@@ -3700,8 +4313,18 @@ window.MEMCONS = [
     "notes": "Source-folder audit: replaced cover-packet PDF with the three pages of Mitterrand telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
-    "dateLine": "February The Oval The President, February 5, 1991, 1:08 - 1:22 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910205_BushANDMitterrand_Telcon_01.pdf. Declassified. Project PDF: documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf."
+    "dateLine": "The Oval Office, February 5, 1991, 1:08 - 1:22 p.m.",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910205_BushANDMitterrand_Telcon_01.pdf, project PDF documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1991-02-05-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1991-02-12-428081429",
@@ -3749,7 +4372,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Pierre Joxe, Minister of Defense of France, February 12, 1991",
     "dateLine": "February 12, 1991, 1 10, February 12, 1991, 1:10 - 1:40 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Pierre Joxe, Minister of Defense of France, February 12, 1991. NAID 428081429. Full. Catalog: https://catalog.archives.gov/id/428081429."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Pierre Joxe, Minister of Defense of France, February 12, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Pierre Joxe, Minister of Defense of France, February 12, 1991. NAID 428081429. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081429.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081429",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-12--Joxe.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-02-16-366551697-94",
@@ -3798,7 +4429,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Kennebunkport, Maine, February 16, 1991, 10:18 - 10:27 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91-2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 94-96. Catalog: https://catalog.archives.gov/id/366551697."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91-2/22/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91-2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 94-96. Catalog: https://catalog.archives.gov/id/366551697.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551697",
+      "documents/france/1991-02-16-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1991-02-19-francois-mitterrand-telcon",
@@ -3847,7 +4487,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 19, 1991, 3:24 - 3:47 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910219_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910219_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1991-02-19-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1991-02-21-francois-mitterrand-telcon",
@@ -3896,7 +4546,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 21, 1991, 2:07 - 2:16 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910221_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910221_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1991-02-21-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1991-02-22-francois-mitterrand-telcon",
@@ -3945,7 +4605,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 22, 1991, 9:35 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910222_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910222_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1991-02-22-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1991-02-27-francois-mitterrand-telcon",
@@ -3994,7 +4664,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, February 27, 1991, 10:37 - 10:50 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910227_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910227_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1991-02-27-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1991-02-28-428081475",
@@ -4042,7 +4722,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Roland Dumas, Foreign Minister of France, February 28, 1991",
     "dateLine": "February 28, 1991, 1 15-, February 28, 1991, 1:15- 1:35 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Roland Dumas, Foreign Minister of France, February 28, 1991. NAID 428081475. Full. Catalog: https://catalog.archives.gov/id/428081475."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Roland Dumas, Foreign Minister of France, February 28, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Roland Dumas, Foreign Minister of France, February 28, 1991. NAID 428081475. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081475.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081475",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-28--Dumas.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-03-11-428081529",
@@ -4090,7 +4778,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Michel Rocard, Prime Minister of France, March 11, 1991",
     "dateLine": "Washington, March 11, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Michel Rocard, Prime Minister of France, March 11, 1991. NAID 428081529. Full. Catalog: https://catalog.archives.gov/id/428081529."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Michel Rocard, Prime Minister of France, March 11, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Michel Rocard, Prime Minister of France, March 11, 1991. NAID 428081529. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081529.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081529",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-11--Rocard.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-03-14-428081533",
@@ -4138,7 +4834,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Francois Mitterrand, President of France, March 14, 1991",
     "dateLine": "Washington, March 14, 1991, 2:00p.m. - 3:20p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Francois Mitterrand, President of France, tv1arch 14, 1991. NAID 428081533. Full. Catalog: https://catalog.archives.gov/id/428081533."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Francois Mitterrand, President of France, tv1arch 14, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Francois Mitterrand, President of France, tv1arch 14, 1991. NAID 428081533. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081533.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081533",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-14--Mitterrand.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-04-11-366551699-26",
@@ -4187,7 +4891,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, April 11, 1991, 1:45-2:00 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 26-29. Catalog: https://catalog.archives.gov/id/366551699."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 26-29. Catalog: https://catalog.archives.gov/id/366551699.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551699",
+      "documents/france/1991-04-11-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1991-04-16-francois-mitterrand-telcon",
@@ -4236,7 +4949,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, April 16, 1991, 1:07 - 1:21 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910416_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910416_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1991-04-16-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1991-07-11-francois-mitterrand-telcon",
@@ -4285,7 +5008,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, July 11, 1991, 6:59 - 7:08 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910711_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910711_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1991-07-11-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1991-08-19-francois-mitterrand-telcon",
@@ -4334,7 +5067,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, August 19, 1991, 6:50am",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910819_BushANDMitterrand_Telcon_02.pdf. Declassified. Project PDF: documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910819_BushANDMitterrand_Telcon_02.pdf, project PDF documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1991-08-19-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1991-09-24-francois-mitterrand-telcon",
@@ -4355,13 +5098,16 @@ window.MEMCONS = [
       "number": 2,
       "name": "France"
     },
-    "releaseStatus": "Unknown",
+    "releaseStatus": "Declassified",
     "naid": "local-910924_BushANDMitterrand_Telcon",
     "pdfUrl": "documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf",
     "catalogUrl": "documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
+      "series": "European and Eurasian Directorate, Central Chronological Files",
+      "localIdentifier": "30520-001",
+      "foiaNumber": "2011-0002-F"
     },
     "frusVolume": {
       "id": "frus1989-92v08",
@@ -4377,13 +5123,21 @@ window.MEMCONS = [
       "Western Europe",
       "France bilateral relations"
     ],
-    "pageCount": 5,
+    "pageCount": 4,
     "localOriginalFile": "910924_BushANDMitterrand_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
-    "dateLine": "Waldorf Astoria, New York |, September 24, 1991, 12:52 - 1:05 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910924_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf."
+    "dateLine": "Waldorf Astoria, New York, September 24, 1991, 12:52 - 1:05 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30520, Folder ID 30520-001, September 1991 [3]. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30520, Folder ID 30520-001, September 1991 [3]. Originally processed under FOIA 2011-0002-F. The project PDF begins with the FOIA marker provenance sheet and includes 4 pages of conversation text. Source file 910924_BushANDMitterrand_Telcon.pdf.",
+    "provenanceLinks": [
+      "documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [],
+    "provenancePages": 1
   },
   {
     "id": "1991-09-27-366551702-8",
@@ -4432,7 +5186,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, September 27, 1991, 7:13-7:20am EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 8-9. Catalog: https://catalog.archives.gov/id/366551702."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 8-9. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/france/1991-09-27-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-11-22-428082029",
@@ -4480,7 +5243,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Michel Rocard, Former Prime Minister of France",
     "dateLine": "November 22, 1991, 11 55, November 22, 1991, 11:55 - 12:05 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Michel Rocard, Former Prime Minister of France. NAID 428082029. Full. Catalog: https://catalog.archives.gov/id/428082029."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Michel Rocard, Former Prime Minister of France. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Michel Rocard, Former Prime Minister of France. NAID 428082029. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428082029.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428082029",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-11-22--Rocard.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-12-15-366551702-126",
@@ -4529,7 +5300,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Camp David, December 15, 1991, 12:01 - 12:22 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 126-129. Catalog: https://catalog.archives.gov/id/366551702."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 126-129. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/france/1991-12-15-bush-francois-mitterrand-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1992-01-31-francois-mitterrand-memcon",
@@ -4577,8 +5357,18 @@ window.MEMCONS = [
     "notes": "PDF trimmed to the three pages of Mitterrand memcon text; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
-    "dateLine": "Waldorf Towers, New York President, January 31, 1992, 9:00 a.m. to 9:30 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 920131_BushANDMitterrand_Memcon.pdf. Declassified. Project PDF: documents/france/1992-01-31-bush-francois-mitterrand-memcon.pdf."
+    "dateLine": "Waldorf Towers, New York, January 31, 1992, 9:00 - 9:30 a.m. EST",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 920131_BushANDMitterrand_Memcon.pdf, project PDF documents/france/1992-01-31-bush-francois-mitterrand-memcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1992-01-31-bush-francois-mitterrand-memcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1992-05-11-366551683-35",
@@ -4627,7 +5417,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Foreign Minister Roland Dumas of France",
     "dateLine": "Washington, May 11, 1992, 2:45 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92-6/17/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 35-37. Catalog: https://catalog.archives.gov/id/366551683."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92-6/17/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92-6/17/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 35-37. Catalog: https://catalog.archives.gov/id/366551683.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551683",
+      "documents/france/1992-05-11-bush-roland-dumas-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1992-06-30-francois-mitterrand-telcon",
@@ -4676,7 +5475,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, June 30, 1992, 11:40 - 11:49 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 920630_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 920630_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1992-06-30-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1992-07-05-francois-mitterrand-memcon",
@@ -4725,7 +5534,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Munich, July 5, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 920705_BushANDMitterrand_Memcon.pdf. Declassified. Project PDF: documents/france/1992-07-05-bush-francois-mitterrand-memcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 920705_BushANDMitterrand_Memcon.pdf, project PDF documents/france/1992-07-05-bush-francois-mitterrand-memcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1992-07-05-bush-francois-mitterrand-memcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1992-12-03-francois-mitterrand-telcon",
@@ -4774,7 +5593,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Francois Mitterrand",
     "dateLine": "Washington, December 3, 1992, 8:14-8:23 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 921203_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 921203_BushANDMitterrand_Telcon.pdf, project PDF documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/france/1992-12-03-bush-francois-mitterrand-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1989-02-24-428079861",
@@ -4822,7 +5651,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Francesco Cossiga of Italy, February 24, 1989",
     "dateLine": "February 24, 1989, 6 06, February 24, 1989, 6:06 p.m. - 6:22 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with President Francesco Cossiga of Italy, February 24, 1989. NAID 428079861. Full. Catalog: https://catalog.archives.gov/id/428079861."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Francesco Cossiga of Italy, February 24, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Francesco Cossiga of Italy, February 24, 1989. NAID 428079861. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079861.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079861",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-24--Cossiga.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-10-11-428080255",
@@ -4870,7 +5707,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Expanded Meeting with President Francesco Cossiga of Italy, October 11, 1989 (2 of 2)",
     "dateLine": "October 11, 1989, 11 10, October 11, 1989, 11:10 - 11:35 a.m. EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Expanded Meeting with President Francesco Cossiga of Italy, October 11, 1989 (2 of 2). NAID 428080255. Full. Catalog: https://catalog.archives.gov/id/428080255."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Expanded Meeting with President Francesco Cossiga of Italy, October 11, 1989 (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Expanded Meeting with President Francesco Cossiga of Italy, October 11, 1989 (2 of 2). NAID 428080255. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080255.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080255",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-11--Cossiga-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-10-11-428080253",
@@ -4918,7 +5763,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Francesco Cossiga of Italy, October 11, 1989 (1 of 2)",
     "dateLine": "October 11, 1989, 10 45, October 11, 1989, 10:45 - 11:05 a.m. EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with President Francesco Cossiga of Italy, October 11, 1989 (1 of 2). NAID 428080253. Full. Catalog: https://catalog.archives.gov/id/428080253."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Francesco Cossiga of Italy, October 11, 1989 (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Francesco Cossiga of Italy, October 11, 1989 (1 of 2). NAID 428080253. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080253.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080253",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-11--Cossiga-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-30-366551689-84",
@@ -4967,7 +5820,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Washington, November 30, 1989, 8:59 - 9:28 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 84-86. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 84-86. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/italy/1989-11-30-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-12-06-428080393",
@@ -5015,7 +5877,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Bettino Craxi, Secretary of the Socialist Party of Italy",
     "dateLine": "Washington, December 6, 1989, 10:05 - 10:35 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Bettino Craxi, Secretary of the Socialist Party of Italy. NAID 428080393. Full. Catalog: https://catalog.archives.gov/id/428080393."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Bettino Craxi, Secretary of the Socialist Party of Italy. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Bettino Craxi, Secretary of the Socialist Party of Italy. NAID 428080393. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080393.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080393",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-06--Craxi.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-01-26-366551690-24",
@@ -5064,7 +5934,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Washington, January 26, 1990, 3:22 - 3:40pm EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 24-26. Catalog: https://catalog.archives.gov/id/366551690."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 24-26. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/italy/1990-01-26-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-03-06-428080575",
@@ -5112,7 +5991,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (1 of 2)",
     "dateLine": "Washington, March 6, 1990, 10:30 a.m. - 10:48 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (1 of 2). NAID 428080575. Full. Catalog: https://catalog.archives.gov/id/428080575."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (1 of 2). NAID 428080575. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080575.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080575",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-06--Andreotti-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-03-06-428080577",
@@ -5160,7 +6047,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Giulio Andreotti of Italy, March 6, 1990 (2 of 2)",
     "dateLine": "Washington, March 6, 1990, 10:50 - 11:53 am",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2). NAID 428080577. Full. Catalog: https://catalog.archives.gov/id/428080577."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2). NAID 428080577. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080577.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080577",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-06--Andreotti-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-08-06-366551693-48",
@@ -5209,7 +6104,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Washington, August 6, 1990, 11:33 - 11:47 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 48-49. Catalog: https://catalog.archives.gov/id/366551693."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90-8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 48-49. Catalog: https://catalog.archives.gov/id/366551693.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551693",
+      "documents/italy/1990-08-06-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-10-01-428081093",
@@ -5257,7 +6161,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Giulio Andreotti of Italy, October 1, 1990",
     "dateLine": "Waldorf Astoria Hotel, New York, October 1, 1990, 4:30-5:00 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Giulio Andreotti of Italy, October 1, 1990. NAID 428081093. Full. Catalog: https://catalog.archives.gov/id/428081093."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Giulio Andreotti of Italy, October 1, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Giulio Andreotti of Italy, October 1, 1990. NAID 428081093. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081093.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081093",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Andreotti.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-10-26-366551695-34",
@@ -5306,7 +6218,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Washington, October 26, 1990, 4:45 - 4:59 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 34-36. Catalog: https://catalog.archives.gov/id/366551695."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 34-36. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/italy/1990-10-26-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-11-13-428081133",
@@ -5354,7 +6275,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2)",
     "dateLine": "Washington, November 13, 1990, 4:15-4:45 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2). NAID 428081133. Full. Catalog: https://catalog.archives.gov/id/428081133."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2). NAID 428081133. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081133.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081133",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-11-13-428081135",
@@ -5402,7 +6331,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
     "dateLine": "November 13, 1990, 4 45-6, November 13, 1990, 4:45-6:00 p.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2). NAID 428081135. Full. Catalog: https://catalog.archives.gov/id/428081135."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2). NAID 428081135. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081135.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081135",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-01-21-366551696-86",
@@ -5451,7 +6388,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Camp David, January 21, 1991, 9:49 - 10:04 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 86-88. Catalog: https://catalog.archives.gov/id/366551696."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 86-88. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551696",
+      "documents/italy/1991-01-21-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-03-24-428081541",
@@ -5499,7 +6445,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting and Dinner with Italian Prime Minister Andreotti, March 24, 1991",
     "dateLine": "March 24, 1991, 6 30, March 24, 1991, 6:30 - 8:45 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting and Dinner with Italian Prime Minister Andreotti, March 24, 1991. NAID 428081541. Full. Catalog: https://catalog.archives.gov/id/428081541."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting and Dinner with Italian Prime Minister Andreotti, March 24, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting and Dinner with Italian Prime Minister Andreotti, March 24, 1991. NAID 428081541. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081541.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081541",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-24--Andreotti.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-05-07-428081633",
@@ -5546,8 +6500,16 @@ window.MEMCONS = [
     "pageCount": 6,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy, May 7, 1991",
-    "dateLine": "The President I am delighted, May 7, 1991, 3:06 - 3:50 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy, May 7, 1991. NAID 428081633. Full. Catalog: https://catalog.archives.gov/id/428081633."
+    "dateLine": "May 7, 1991, 3:06 - 3:50 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy, May 7, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy, May 7, 1991. NAID 428081633. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081633.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081633",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-07--Cossiga.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-07-15-428081739",
@@ -5595,7 +6557,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
     "dateLine": "July 15, 1991, 9 30, July 15, 1991, 9:30 - 10:30 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991. NAID 428081739. Full. Catalog: https://catalog.archives.gov/id/428081739."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991. NAID 428081739. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081739.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081739",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-15--Andreotti.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-04-07-366551682-66",
@@ -5644,7 +6614,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Francesco Cossiga of Italy",
     "dateLine": "Washington, April 7, 1992, 4:00 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-007, Presidential Meetings - Memorandum of Conversations 3/3/92-4/28/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 66-70. Catalog: https://catalog.archives.gov/id/366551682."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-007, Presidential Meetings - Memorandum of Conversations 3/3/92-4/28/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-007, Presidential Meetings - Memorandum of Conversations 3/3/92-4/28/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 66-70. Catalog: https://catalog.archives.gov/id/366551682.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551682",
+      "documents/italy/1992-04-07-bush-francesco-cossiga-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-06-28-366551704-80",
@@ -5693,7 +6672,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Giulio Andreotti",
     "dateLine": "Camp David, June 28, 1992, 8:46 - 8:55 am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 80-82. Catalog: https://catalog.archives.gov/id/366551704."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 80-82. Catalog: https://catalog.archives.gov/id/366551704.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551704",
+      "documents/italy/1992-06-28-bush-giulio-andreotti-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-07-06-366551684-25",
@@ -5742,7 +6730,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Giuliano Amato of Italy",
     "dateLine": "Munich, July 6, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-27. Catalog: https://catalog.archives.gov/id/366551684."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-27. Catalog: https://catalog.archives.gov/id/366551684.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551684",
+      "documents/italy/1992-07-06-bush-giuliano-amato-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-01-24-366551686-23",
@@ -5791,7 +6788,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, January 24, 1989, 11:16 a.m. - 11:25 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 23-24. Catalog: https://catalog.archives.gov/id/366551686."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 23-24. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/regional/1989-01-24-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-01-24-366551686-27",
@@ -5840,7 +6846,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Poul Schlueter",
     "dateLine": "Washington, January 24, 1989, 3:10 p.m. - 3:21 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 27-28. Catalog: https://catalog.archives.gov/id/366551686."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 27-28. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/regional/1989-01-24-bush-poul-schlueter-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-01-26-366551686-42",
@@ -5889,7 +6904,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, January 26, 1989, 12:02 p.m. - 12:03 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 42-42. Catalog: https://catalog.archives.gov/id/366551686."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 42-42. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/regional/1989-01-26-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-02-23-428079891",
@@ -5935,7 +6959,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with King Juan Carlos I of Spain, February 23, 1989",
     "dateLine": "Washington, February 23, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with King Juan Carlos I of Spain, February 23, 1989. NAID 428079891. Full. Catalog: https://catalog.archives.gov/id/428079891."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with King Juan Carlos I of Spain, February 23, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with King Juan Carlos I of Spain, February 23, 1989. NAID 428079891. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079891.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079891",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-23--Carlos-I.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-02-23-428079851",
@@ -5981,7 +7013,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President's Meeting with President Mario Soares of Portugal, February 23, 1989",
     "dateLine": "American Ambassador’s Residence, Tokyo, Japan, February 23, 1989, 6:05 p.m. - 6:25 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, President's Meeting with President Mario Soares of Portugal, February 23, 1989. NAID 428079851. Full. Catalog: https://catalog.archives.gov/id/428079851."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Meeting with President Mario Soares of Portugal, February 23, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Meeting with President Mario Soares of Portugal, February 23, 1989. NAID 428079851. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079851.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079851",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-23--Soares.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-02-24-428079899",
@@ -6027,7 +7067,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with King Baudouin I, of the Kingdom of Belgium",
     "dateLine": "Washington, February 24, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with King Baudouin I, of the Kingdom of Belgium. NAID 428079899. Full. Catalog: https://catalog.archives.gov/id/428079899."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with King Baudouin I, of the Kingdom of Belgium. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with King Baudouin I, of the Kingdom of Belgium. NAID 428079899. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079899.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079899",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-24--Baudouin.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-04-12-428079959",
@@ -6075,7 +7123,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Manfred Woerner of NATO, April 12, 1989",
     "dateLine": "April 12, 1989, 3 45, April 12, 1989, 3:45 p.m. - 4:05 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Manfred Woerner of NATO, April 12, 1989. NAID 428079959. Full. Catalog: https://catalog.archives.gov/id/428079959."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner of NATO, April 12, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner of NATO, April 12, 1989. NAID 428079959. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079959.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079959",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-12--Woerner.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-05-03-428079985",
@@ -6121,7 +7177,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President's Meeting with Gro Harlem Brundtland, Prime Minister of Norway",
     "dateLine": "Washington, May 3, 1989, 10:00 - 11:00 am EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, President's Meeting with Gro Harlem Brundtland, Prime Minister of Norway. NAID 428079985. Full. Catalog: https://catalog.archives.gov/id/428079985."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Meeting with Gro Harlem Brundtland, Prime Minister of Norway. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Meeting with Gro Harlem Brundtland, Prime Minister of Norway. NAID 428079985. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079985.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079985",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-03--Brundtland.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-05-05-428079991",
@@ -6167,7 +7231,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "The President's Meeting with Austrian Chancellor Franz Vranitzky, May 5, 1989",
     "dateLine": "Washington, May 5, 1989, 9:45 - 10:10 am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, The President's Meeting with Austrian Chancellor Franz Vranitzky, May 5, 1989. NAID 428079991. Full. Catalog: https://catalog.archives.gov/id/428079991."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Austrian Chancellor Franz Vranitzky, May 5, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Austrian Chancellor Franz Vranitzky, May 5, 1989. NAID 428079991. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079991.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079991",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-05--Vranitzky.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-05-08-366551686-101",
@@ -6216,7 +7288,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, May 8, 1989, 2:16 - 2:30 pm EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 101-104. Catalog: https://catalog.archives.gov/id/366551686."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 101-104. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/regional/1989-05-08-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-05-09-428079997",
@@ -6262,7 +7343,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands",
     "dateLine": "Washington, May 9, 1989, 10:00 - 10:15 am",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Ruud Lubbers, Prime Minister of the Netherlands. NAID 428079997. Full. Catalog: https://catalog.archives.gov/id/428079997."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Ruud Lubbers, Prime Minister of the Netherlands. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Ruud Lubbers, Prime Minister of the Netherlands. NAID 428079997. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079997.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079997",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-09--Lubbers.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-05-10-366551686-105",
@@ -6311,7 +7400,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, May 10, 1989, 1:36-1:46 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 105-106. Catalog: https://catalog.archives.gov/id/366551686."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 105-106. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/regional/1989-05-10-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-05-11-366551687-12",
@@ -6360,7 +7458,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, May 11, 1989, 1:20 - 1:30 pm EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 12-13. Catalog: https://catalog.archives.gov/id/366551687."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 12-13. Catalog: https://catalog.archives.gov/id/366551687.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551687",
+      "documents/regional/1989-05-11-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-05-23-366551687-44",
@@ -6409,7 +7516,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, May 23, 1989, 12:30 - 12:41 pm EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 44-45. Catalog: https://catalog.archives.gov/id/366551687."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 44-45. Catalog: https://catalog.archives.gov/id/366551687.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551687",
+      "documents/regional/1989-05-23-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-14-428080043",
@@ -6457,7 +7573,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Luncheon Meeting with Jacques Delors, President, European Communities Commission",
     "dateLine": "Jun e 14, 1989, 12, June 14, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Luncheon Meeting with Jacques Delors, President, European Communities Commission. NAID 428080043. Full. Catalog: https://catalog.archives.gov/id/428080043."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Luncheon Meeting with Jacques Delors, President, European Communities Commission. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Luncheon Meeting with Jacques Delors, President, European Communities Commission. NAID 428080043. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080043.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080043",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-14--Delors.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-26-428080075",
@@ -6503,7 +7627,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Mario Soares of Portugal, June 26, 1989",
     "dateLine": "Washington, June 26, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with President Mario Soares of Protugal, June 26, 1989. NAID 428080075. Full. Catalog: https://catalog.archives.gov/id/428080075."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Mario Soares of Protugal, June 26, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with President Mario Soares of Protugal, June 26, 1989. NAID 428080075. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080075.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080075",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-26--Soares.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-07-17-428080107",
@@ -6549,7 +7681,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Queen Beatrix of the Kingdom of the Netherlands, July 17, 1989",
     "dateLine": "Washington, July 17, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Queen Beatrix of the Kingdom of the Netherlands, July 17, 1989. NAID 428080107. Full. Catalog: https://catalog.archives.gov/id/428080107."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Queen Beatrix of the Kingdom of the Netherlands, July 17, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Queen Beatrix of the Kingdom of the Netherlands, July 17, 1989. NAID 428080107. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080107.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080107",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-17--Beatrix.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-07-17-428080103",
@@ -6595,7 +7735,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
     "dateLine": "July 17, 1989, 11 40, July 17, 1989, 11:40 am - 12:45 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2). NAID 428080103. Full. Catalog: https://catalog.archives.gov/id/428080103."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2). NAID 428080103. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080103.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080103",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-17--Lubbers-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-07-17-428080105",
@@ -6641,7 +7789,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Working Luncheon with Ruud Lubbers, Prime Minister, of Netherlands (2 of 2)",
     "dateLine": "July 17, 1989, 12 55, July 17, 1989, 12:55 pm - 2:35 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Working Luncheon with Ruud Lubbers, Prime Minister, of Netherlands (2 of 2). NAID 428080105. Full. Catalog: https://catalog.archives.gov/id/428080105."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Working Luncheon with Ruud Lubbers, Prime Minister, of Netherlands (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Working Luncheon with Ruud Lubbers, Prime Minister, of Netherlands (2 of 2). NAID 428080105. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080105.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080105",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-17--Lubbers-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-08-24-428080197",
@@ -6687,7 +7843,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Poul Schluter of Denmark, August 24, 1989",
     "dateLine": "Washington, August 24, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Poul Schluter of Denmark, August 24, 1989. NAID 428080197. Full. Catalog: https://catalog.archives.gov/id/428080197."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Poul Schluter of Denmark, August 24, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Poul Schluter of Denmark, August 24, 1989. NAID 428080197. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080197.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080197",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-08-24--Schluter.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-09-09-366551688-65",
@@ -6736,7 +7900,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, September 9, 1989, 1:27 - 1:30 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 65-66. Catalog: https://catalog.archives.gov/id/366551688."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 65-66. Catalog: https://catalog.archives.gov/id/366551688.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551688",
+      "documents/regional/1989-09-09-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-09-16-428080183",
@@ -6782,7 +7955,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Telephone Call to Pope John Paul II, September 16, 1989",
     "dateLine": "September 16, 1989,7 01\" ', September 16, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Telephone Call to Pope John Paul II, September 16, 1989. NAID 428080183. Full. Catalog: https://catalog.archives.gov/id/428080183."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Telephone Call to Pope John Paul II, September 16, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Telephone Call to Pope John Paul II, September 16, 1989. NAID 428080183. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080183.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080183",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-16--John-Paul-II.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-09-16-366551688-67",
@@ -6831,7 +8012,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, September 16, 1989, 7:01 - 7:11 a.m. EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 67-68. Catalog: https://catalog.archives.gov/id/366551688."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 67-68. Catalog: https://catalog.archives.gov/id/366551688.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551688",
+      "documents/regional/1989-09-16-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-10-11-428080257",
@@ -6879,7 +8069,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Manfred Woerner, NATO Secretary General",
     "dateLine": "Washington, October 11, 1989, 2:00 - 2:30 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, NATO Secretary General. NAID 428080257. Full. Catalog: https://catalog.archives.gov/id/428080257."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, NATO Secretary General. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, NATO Secretary General. NAID 428080257. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080257.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080257",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-11--Woerner.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-10-19-428080277",
@@ -6925,7 +8123,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Felipe Gonzalez, Prime Minister of Spain",
     "dateLine": "Washington, October 19, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Felipe Gonzalez, Prime Minister of Spain. NAID 428080277. Full. Catalog: https://catalog.archives.gov/id/428080277."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Felipe Gonzalez, Prime Minister of Spain. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Felipe Gonzalez, Prime Minister of Spain. NAID 428080277. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080277.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080277",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-19--Gonzalez.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-10-24-428080281",
@@ -6971,7 +8177,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Presentation of Credentials by Christos Zacharakis, Ambassador of Greece",
     "dateLine": "Washington, October 24, 1989, 3:00 - 3:05pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Presentation of Credentials by Christos Zacharakis, Ambassador of Greece. NAID 428080281. Full. Catalog: https://catalog.archives.gov/id/428080281."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presentation of Credentials by Christos Zacharakis, Ambassador of Greece. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presentation of Credentials by Christos Zacharakis, Ambassador of Greece. NAID 428080281. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080281.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080281",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-24--Zacharakis.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1989-10-24-pope-john-paul-ii-telcon",
@@ -7019,8 +8233,18 @@ window.MEMCONS = [
     "notes": "Corrected after source-folder audit: the PDF text is a telephone call with Pope John Paul II, not Francois Mitterrand; trimmed to the two conversation pages. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
-    "dateLine": "John Paul Robert Hutchings October, October 24, 1989, 8:40 - 8:52 a.m. EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 891024_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/regional/1989-10-24-bush-pope-john-paul-ii-telcon.pdf."
+    "dateLine": "The Oval Office, October 24, 1989, 8:40 - 8:52 a.m. EDT",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 891024_BushANDMitterrand_Telcon.pdf, project PDF documents/regional/1989-10-24-bush-pope-john-paul-ii-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/regional/1989-10-24-bush-pope-john-paul-ii-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1989-11-25-366551689-48",
@@ -7069,7 +8293,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Camp David, November 25, 1989, 8:30 - 8:37 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 48-49. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 48-49. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/regional/1989-11-25-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-25-366551689-46",
@@ -7118,7 +8351,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Camp David, November 25, 1989, 7:52 - 8:00 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 46-47. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 46-47. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/regional/1989-11-25-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-25-366551689-45",
@@ -7167,7 +8409,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Wilfried Martens",
     "dateLine": "Camp David, November 25, 1989, 7:46 - 7:50 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 45-45. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 45-45. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/regional/1989-11-25-bush-wilfried-martens-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1989-11-26-poul-schlueter-telcon",
@@ -7216,7 +8467,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Poul Schlueter",
     "dateLine": "Camp David, November 26, 1989, 8:03 - 8:08 EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 891126_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/regional/1989-11-26-bush-poul-schlueter-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 891126_BushANDMitterrand_Telcon.pdf, project PDF documents/regional/1989-11-26-bush-poul-schlueter-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/regional/1989-11-26-bush-poul-schlueter-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1989-11-27-366551689-60",
@@ -7265,7 +8526,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Anibal Cavaco Silva",
     "dateLine": "Washington, November 27, 1989, 12:16 - 12:34 p.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 60-61. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 60-61. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/regional/1989-11-27-bush-anibal-cavaco-silva-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-27-366551689-67",
@@ -7314,7 +8584,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Jacques Santer",
     "dateLine": "Washington, November 27, 1989, 5:31 - 5:34 p.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 67-68. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 67-68. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/regional/1989-11-27-bush-jacques-santer-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-27-366551689-65",
@@ -7363,7 +8642,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Steingrimur Hermannsson",
     "dateLine": "Washington, November 27, 1989, 4:16 - 4:20 p.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 65-66. Catalog: https://catalog.archives.gov/id/366551689."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 65-66. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/regional/1989-11-27-bush-steingrimur-hermannsson-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-12-04-428080391",
@@ -7411,7 +8699,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting between President Bush and Secretary General of NATO, December 4, 1989",
     "dateLine": "Secretary General’s Office NATO Headquarters, December 4, 1989, 9:40 - 9:50 am",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting between President Bush and Secretary General o f NATO, December 4, 1989. NAID 428080391. Full. Catalog: https://catalog.archives.gov/id/428080391."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting between President Bush and Secretary General o f NATO, December 4, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting between President Bush and Secretary General o f NATO, December 4, 1989. NAID 428080391. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080391.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080391",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-04--Woerner.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1989-12-23-felipe-gonzalez-telcon",
@@ -7460,7 +8756,76 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Washington, December 23, 1989, 8:05 - 8:35 am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 891223_BushANDGonzalez_Telcon.pdf. Declassified. Project PDF: documents/regional/1989-12-23-bush-felipe-gonzalez-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 891223_BushANDGonzalez_Telcon.pdf, project PDF documents/regional/1989-12-23-bush-felipe-gonzalez-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/regional/1989-12-23-bush-felipe-gonzalez-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
+  },
+  {
+    "id": "local-1990-01-04-felipe-gonzalez-telcon",
+    "date": "1990-01-04",
+    "sortDate": "1990-01-04",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
+    "sourceTitle": "900108_BushANDGonzalez_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Felipe Gonzalez"
+    ],
+    "countries": [
+      "United States",
+      "Spain"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Unknown",
+    "naid": "local-900108_BushANDGonzalez_Telcon-corrected-1990-01-04",
+    "pdfUrl": "documents/regional/1990-01-04-bush-felipe-gonzalez-telcon.pdf",
+    "catalogUrl": "documents/regional/1990-01-04-bush-felipe-gonzalez-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Spain bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Spain bilateral relations"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "900108_BushANDGonzalez_Telcon.pdf",
+    "notes": "Corrected after OCR audit: the memorandum was dated January 8, but the DATE, TIME, AND PLACE line identifies the telephone conversation as January 4, 1990.",
+    "documentTitle": "Memorandum of a Telephone Conversation",
+    "subjectLine": "President Bush and Felipe Gonzalez",
+    "dateLine": "The Oval Office, January 4, 1990, 3:20 - 3:35 p.m. EST",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 900108_BushANDGonzalez_Telcon.pdf, project PDF documents/regional/1990-01-04-bush-felipe-gonzalez-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/regional/1990-01-04-bush-felipe-gonzalez-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1990-01-04-366551690-9",
@@ -7509,56 +8874,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, January 4, 1990, 10:23 - 10:27 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 9-10. Catalog: https://catalog.archives.gov/id/366551690."
-  },
-  {
-    "id": "local-1990-01-08-felipe-gonzalez-telcon",
-    "date": "1990-01-08",
-    "sortDate": "1990-01-08",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Felipe Gonzalez",
-    "sourceTitle": "900108_BushANDGonzalez_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Felipe Gonzalez"
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 9-10. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/regional/1990-01-04-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
     ],
-    "countries": [
-      "United States",
-      "Spain"
-    ],
-    "chapter": {
-      "number": 4,
-      "name": "Regional"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900108_BushANDGonzalez_Telcon",
-    "pdfUrl": "documents/regional/1990-01-08-bush-felipe-gonzalez-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-01-08-bush-felipe-gonzalez-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Spain bilateral relations"
-    ],
-    "topics": [
-      "Western Europe",
-      "Spain bilateral relations"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900108_BushANDGonzalez_Telcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the two pages of Gonzalez telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Felipe Gonzalez",
-    "dateLine": "Washington, January 8, 1990, 3:20 - 3:35pm EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 900108_BushANDGonzalez_Telcon.pdf. Declassified. Project PDF: documents/regional/1990-01-08-bush-felipe-gonzalez-telcon.pdf."
+    "compilerRisks": []
   },
   {
     "id": "1990-01-11-428080429",
@@ -7604,7 +8929,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Luncheon with Prime Minister Cavaco Silva of Portugal, January 11, 1990 (2 of 2)",
     "dateLine": "Washington, January 11, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Luncheon with Prime Minister Cavac6 Silva of Portugal, January 11, 1990 (2 of 2). NAID 428080429. Full. Catalog: https://catalog.archives.gov/id/428080429."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Luncheon with Prime Minister Cavac6 Silva of Portugal, January 11, 1990 (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Luncheon with Prime Minister Cavac6 Silva of Portugal, January 11, 1990 (2 of 2). NAID 428080429. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080429.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080429",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-11--Silva-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-01-11-428080427",
@@ -7650,7 +8983,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Anibal Cavaco Silva of Portugal, January 11, 1990 (1 of 2)",
     "dateLine": "Washington, January 11, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Anibal Cavaco Silva of Protugal, January 11, 1990 (1 of 2). NAID 428080427. Full. Catalog: https://catalog.archives.gov/id/428080427."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Anibal Cavaco Silva of Protugal, January 11, 1990 (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Anibal Cavaco Silva of Protugal, January 11, 1990 (1 of 2). NAID 428080427. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080427.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080427",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-11--Silva-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-02-20-428080533",
@@ -7695,8 +9036,16 @@ window.MEMCONS = [
     "pageCount": 6,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "The President's Meeting with Chancellor Franz Vranitzky of Austria, February 20, 1990",
-    "dateLine": "The President I was impressed, February 20, 1990, 3:10 - 3:40 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, The President's Meeting with Chancellor Franz Vranitzky of Austria, February 20, 1990. NAID 428080533. Full. Catalog: https://catalog.archives.gov/id/428080533."
+    "dateLine": "February 20, 1990, 3:10 - 3:40 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Chancellor Franz Vranitzky of Austria, February 20, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Chancellor Franz Vranitzky of Austria, February 20, 1990. NAID 428080533. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080533.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080533",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-20--Vranitzky.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-02-23-428080539",
@@ -7742,7 +9091,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Jan P. Syse of Norway, February 23, 1990",
     "dateLine": "February 23, 1990, 10 10, February 23, 1990, 10:10 - 10:40 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Jan P. Syse of Norway, February 23, 1990. NAID 428080539. Full. Catalog: https://catalog.archives.gov/id/428080539."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Jan P. Syse of Norway, February 23, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Jan P. Syse of Norway, February 23, 1990. NAID 428080539. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080539.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080539",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-23--Syse.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-02-24-428080543",
@@ -7790,7 +9147,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization",
     "dateLine": "Camp David, February 24, 1990, 1:15 - 3:15pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization. NAID 428080543. Full. Catalog: https://catalog.archives.gov/id/428080543."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization. NAID 428080543. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080543.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080543",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-24--Woerner.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-04-17-428080643",
@@ -7836,7 +9201,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Telephone Call to Prime Minister Ruud Lubbers of the Netherlands, April 17, 1990",
     "dateLine": "April 17, 1990, 4 20, April 17, 1990, 4:20 - 4:32 p.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Telephone Call to Prime Minister Ruud Lubbers of the Netherlands, April 17, 1990. NAID 428080643. Full. Catalog: https://catalog.archives.gov/id/428080643."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Telephone Call to Prime Minister Ruud Lubbers of the Netherlands, April 17, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Telephone Call to Prime Minister Ruud Lubbers of the Netherlands, April 17, 1990. NAID 428080643. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080643.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080643",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-17--Lubbers.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1990-04-17-ruud-lubbers-telcon",
@@ -7884,8 +9257,18 @@ window.MEMCONS = [
     "notes": "Corrected after OCR audit: the conversation text is with Dutch Prime Minister Ruud Lubbers, not Francois Mitterrand; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
-    "dateLine": "The President Prime The know, April 17, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 900417_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/regional/1990-04-17-bush-ruud-lubbers-telcon.pdf."
+    "dateLine": "The Oval Office, April 17, 1990, 4:20 - 4:32 p.m. EST",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 900417_BushANDMitterrand_Telcon.pdf, project PDF documents/regional/1990-04-17-bush-ruud-lubbers-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/regional/1990-04-17-bush-ruud-lubbers-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1990-04-24-428080649",
@@ -7933,7 +9316,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Jacques Delors, President of the European Economic Community",
     "dateLine": "April 24, 1990, 3 30, April 24, 1990, 3:30 - 4:00 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Jacques Delors, President of the European Economic Community. NAID 428080649. Full. Catalog: https://catalog.archives.gov/id/428080649."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Jacques Delors, President of the European Economic Community. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Jacques Delors, President of the European Economic Community. NAID 428080649. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080649.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080649",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-24--Delors.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-05-07-428080683",
@@ -7981,7 +9372,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization",
     "dateLine": "Washington, May 7, 1990, 10:05 - 10:45am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization. NAID 428080683. Full. Catalog: https://catalog.archives.gov/id/428080683."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization. NAID 428080683. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080683.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080683",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-07--Woerner.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-06-06-428080735",
@@ -8027,7 +9426,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990",
     "dateLine": "Washington, June 6, 1990, 11:30-1:00 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990. NAID 428080735. Full. Catalog: https://catalog.archives.gov/id/428080735."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990. NAID 428080735. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080735.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080735",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-06--Mitsotakis.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-03-366551692-26",
@@ -8076,7 +9483,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Poul Schlueter",
     "dateLine": "Washington, July 3, 1990, 10:52 a.m.-10:57 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90-7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 26-27. Catalog: https://catalog.archives.gov/id/366551692."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90-7/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90-7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 26-27. Catalog: https://catalog.archives.gov/id/366551692.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551692",
+      "documents/regional/1990-07-03-bush-poul-schlueter-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1990-07-03-ruud-lubbers-telcon",
@@ -8124,8 +9540,18 @@ window.MEMCONS = [
     "notes": "Corrected after OCR audit: the conversation text is with Dutch Prime Minister Ruud Lubbers, not Francois Mitterrand. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
-    "dateLine": "Prime (U) rs rb NSC, July 3, 1990, 1:28 p.m.-1:35 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 900703_BushANDMitterrand_Telcon.pdf. Declassified. Project PDF: documents/regional/1990-07-03-bush-ruud-lubbers-telcon.pdf."
+    "dateLine": "Kennebunkport, July 3, 1990, 1:28 p.m. - 1:35 p.m.",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 900703_BushANDMitterrand_Telcon.pdf, project PDF documents/regional/1990-07-03-bush-ruud-lubbers-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/regional/1990-07-03-bush-ruud-lubbers-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1990-07-03-366551692-24",
@@ -8174,7 +9600,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Wilfried Martens",
     "dateLine": "Kennebunkport, Maine, July 3, 1990, 8:44 a.m.-8:51 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90-7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 24-25. Catalog: https://catalog.archives.gov/id/366551692."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90-7/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90-7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 24-25. Catalog: https://catalog.archives.gov/id/366551692.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551692",
+      "documents/regional/1990-07-03-bush-wilfried-martens-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-05-428080785",
@@ -8222,7 +9657,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Secretary General Manfred Woerner of the North Atlantic Treaty Organization, July 5, 1990",
     "dateLine": "July 5, 1990, 9 15, July 5, 1990, 9:15 - 9:45 am",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Secretary General Manfred Woerner of the North Atlantic Treaty Organization, July 5, 1990. NAID 428080785. Full. Catalog: https://catalog.archives.gov/id/428080785."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Secretary General Manfred Woerner of the North Atlantic Treaty Organization, July 5, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Secretary General Manfred Woerner of the North Atlantic Treaty Organization, July 5, 1990. NAID 428080785. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080785.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080785",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-05--Woerner.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-08-428080789",
@@ -8270,7 +9713,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Bilateral Meeting with EC President Jacques Delors, July 8, 1990",
     "dateLine": "July 8, 1990, 4 30-4, July 8, 1990, 4:30-4:55 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Bilateral Meeting with EC President Jacques Delors, July 8, 1990. NAID 428080789. Full. Catalog: https://catalog.archives.gov/id/428080789."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Bilateral Meeting with EC President Jacques Delors, July 8, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Bilateral Meeting with EC President Jacques Delors, July 8, 1990. NAID 428080789. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080789.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080789",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-08--Delors.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-09-428080829",
@@ -8317,8 +9768,16 @@ window.MEMCONS = [
     "pageCount": 10,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2)",
-    "dateLine": "Chancellor Kohl 60HFIDEHTIl'zL Declassify on, July 9, 1990, 2:30 p.m.-4:35 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2). NAID 428080829. Full. Catalog: https://catalog.archives.gov/id/428080829."
+    "dateLine": "Founders Room, Rice University, Houston, Texas, July 9, 1990, 2:30 p.m. - 4:35 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2). NAID 428080829. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080829.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080829",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Mitterrand-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-10-428080831",
@@ -8366,7 +9825,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "First Main Plenary Session of the 16th Economic Summit of Industrialized Nations, July 10, 1990 (1 of 2)",
     "dateLine": "Washington, July 10, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, First Main Plenary Session of the 16th Economic Summit of Industrialized Nations, July 10, 1990 (1 of 2). NAID 428080831. Full. Catalog: https://catalog.archives.gov/id/428080831."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, First Main Plenary Session of the 16th Economic Summit of Industrialized Nations, July 10, 1990 (1 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, First Main Plenary Session of the 16th Economic Summit of Industrialized Nations, July 10, 1990 (1 of 2). NAID 428080831. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080831.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080831",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-10--Mitterrand-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-10-428080833",
@@ -8414,7 +9881,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Second Main Plenary Session of the 16th Economic Summit of Industrialized Nations, July 10, 1990 (2 of 2)",
     "dateLine": "Washington, July 10, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Second Main Plenary Session of the 16th Economic Summit of Industrialized Nations, July 10, 1990 (2 of 2). NAID 428080833. Full. Catalog: https://catalog.archives.gov/id/428080833."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Second Main Plenary Session of the 16th Economic Summit of Industrialized Nations, July 10, 1990 (2 of 2). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Second Main Plenary Session of the 16th Economic Summit of Industrialized Nations, July 10, 1990 (2 of 2). NAID 428080833. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080833.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080833",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-10--Mitterrand-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-11-428080835",
@@ -8462,7 +9937,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Final Session of the 16th Economic Summit of Industrialized Nations, July 11, 1990",
     "dateLine": "Washington, July 11, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Final Session of the 16th Economic Summit of Industrialized Nations, July 11, 1990. NAID 428080835. Full. Catalog: https://catalog.archives.gov/id/428080835."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Final Session of the 16th Economic Summit of Industrialized Nations, July 11, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Final Session of the 16th Economic Summit of Industrialized Nations, July 11, 1990. NAID 428080835. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080835.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080835",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-11--Mitterrand.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-26-428080843",
@@ -8508,7 +9991,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Federal Councillor Jean Pascal Delamuraz of Switzerland, July 26, 1990",
     "dateLine": "Jean Pascal Delamuraz,· Federal Councillor, July 26, 1990, 10:50 - 11:20 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Federal Councillor Jean Pascal Delamuraz of Switzerland, July 26, 1990. NAID 428080843. Full. Catalog: https://catalog.archives.gov/id/428080843."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Federal Councillor Jean Pascal Delamuraz of Switzerland, July 26, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Federal Councillor Jean Pascal Delamuraz of Switzerland, July 26, 1990. NAID 428080843. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080843.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080843",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-26--Delamuraz.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-08-22-366551694-10",
@@ -8557,7 +10048,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Constantine Mitsotakis",
     "dateLine": "Washington, August 22, 1990, 11:44-11:49 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 10-11. Catalog: https://catalog.archives.gov/id/366551694."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 10-11. Catalog: https://catalog.archives.gov/id/366551694.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551694",
+      "documents/regional/1990-08-22-bush-constantine-mitsotakis-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-09-08-428080979",
@@ -8603,7 +10103,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Working Luncheon with President Mauno Koivisto of Finland, September 8, 1990",
     "dateLine": "Mauno Koivisto, President Jukka Valtasaari,, September 8, 1990, 12:20 - 1:00 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Working Luncheon with President Mauno Koivisto of Finland, September 8, 1990. NAID 428080979. Full. Catalog: https://catalog.archives.gov/id/428080979."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Working Luncheon with President Mauno Koivisto of Finland, September 8, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Working Luncheon with President Mauno Koivisto of Finland, September 8, 1990. NAID 428080979. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080979.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080979",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-08--Koivisto.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-09-25-428081037",
@@ -8649,7 +10157,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Cavaco Silva of Portugal, September 25, 1990",
     "dateLine": "Washington, September 25, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Cavaco Silva of Portugal, September 25, 1990. NAID 428081037. Full. Catalog: https://catalog.archives.gov/id/428081037."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Cavaco Silva of Portugal, September 25, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Cavaco Silva of Portugal, September 25, 1990. NAID 428081037. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081037.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081037",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-25--Silva.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-09-30-428081085",
@@ -8695,7 +10211,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with King Baudouin of Belgium, September 30, 1990",
     "dateLine": "King Baudoin How long do, September 30, 1990, 6:25 - 6:35 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with King Baudouin of Belgium, September 30, 1990. NAID 428081085. Full. Catalog: https://catalog.archives.gov/id/428081085."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with King Baudouin of Belgium, September 30, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with King Baudouin of Belgium, September 30, 1990. NAID 428081085. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081085.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081085",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-30--Baudouin.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-09-30-428081087",
@@ -8740,8 +10264,16 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990",
-    "dateLine": "The President I am delighted, September 30, 1990, 6:40-7:00 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990. NAID 428081087. Full. Catalog: https://catalog.archives.gov/id/428081087."
+    "dateLine": "September 30, 1990, 6:40 - 7:00 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990. NAID 428081087. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081087.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081087",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-30--Gonzalez.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-10-26-366551695-31",
@@ -8790,7 +10322,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, October 26, 1990, 4:27 - 4:40 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 31-33. Catalog: https://catalog.archives.gov/id/366551695."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 31-33. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/regional/1990-10-26-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-11-21-428081201",
@@ -8836,7 +10377,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Mitsotakis of Greece, November 21, 1990",
     "dateLine": "November 21, 1990, 8-8 30, November 21, 1990, 8:30 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Mitsotakis of Greece, November 21, 1990. NAID 428081201. Full. Catalog: https://catalog.archives.gov/id/428081201."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Mitsotakis of Greece, November 21, 1990. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Mitsotakis of Greece, November 21, 1990. NAID 428081201. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081201.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081201",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-21--Mitsotakis.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1991-01-11-felipe-gonzalez-telcon",
@@ -8885,7 +10434,17 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Camp David, January 11, 1991, 11:07-11:21 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910111_BushANDGonzalez_Telcon_01.pdf. Declassified. Project PDF: documents/regional/1991-01-11-bush-felipe-gonzalez-telcon.pdf."
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910111_BushANDGonzalez_Telcon_01.pdf, project PDF documents/regional/1991-01-11-bush-felipe-gonzalez-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/regional/1991-01-11-bush-felipe-gonzalez-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1991-01-14-366551696-47",
@@ -8934,7 +10493,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Constantine Mitsotakis",
     "dateLine": "Washington, January 14, 1991, 2:32-2:35 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 47-47. Catalog: https://catalog.archives.gov/id/366551696."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 47-47. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551696",
+      "documents/regional/1991-01-14-bush-constantine-mitsotakis-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1991-01-21-felipe-gonzalez-telcon",
@@ -8982,8 +10550,18 @@ window.MEMCONS = [
     "notes": "Source-folder audit: replaced cover-packet PDF with the three pages of Gonzalez telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
-    "dateLine": "The The President telephoned Prime, January 21, 1991, 8:02 a.m. EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, 910121_BushANDGonzalez_Telcon_01.pdf. Declassified. Project PDF: documents/regional/1991-01-21-bush-felipe-gonzalez-telcon.pdf."
+    "dateLine": "Camp David, January 21, 1991, 7:48 - 8:02 a.m. EST",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910121_BushANDGonzalez_Telcon_01.pdf, project PDF documents/regional/1991-01-21-bush-felipe-gonzalez-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/regional/1991-01-21-bush-felipe-gonzalez-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1991-02-09-366551697-66",
@@ -9032,7 +10610,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Camp David, February 9, 1991, 6:56 - 7:13 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91-2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 66-68. Catalog: https://catalog.archives.gov/id/366551697."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91-2/22/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91-2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 66-68. Catalog: https://catalog.archives.gov/id/366551697.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551697",
+      "documents/regional/1991-02-09-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-03-05-428081525",
@@ -9078,7 +10665,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Francisco Fernandez-Ordonez, Foreign Minister of Spain, March 5, 1991",
     "dateLine": "March 5, 1991, 1 17, March 5, 1991, 1:17 - 1:35 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Francisco Fernandez-Ordonez, Foreign Minister of Spain, March 5, 1991. NAID 428081525. Full. Catalog: https://catalog.archives.gov/id/428081525."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Francisco Fernandez-Ordonez, Foreign Minister of Spain, March 5, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Francisco Fernandez-Ordonez, Foreign Minister of Spain, March 5, 1991. NAID 428081525. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081525.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081525",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-05--Fernandez-Ordonez.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-03-05-366551698-79",
@@ -9127,7 +10722,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, March 5, 1991, 7:23 - 7:30 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-006, Presidential Telephone Calls - Memorandum of Conversations 2/22/91-3/6/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 79-79. Catalog: https://catalog.archives.gov/id/366551698."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-006, Presidential Telephone Calls - Memorandum of Conversations 2/22/91-3/6/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-006, Presidential Telephone Calls - Memorandum of Conversations 2/22/91-3/6/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 79-79. Catalog: https://catalog.archives.gov/id/366551698.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551698",
+      "documents/regional/1991-03-05-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-04-11-428081579",
@@ -9175,7 +10779,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Santer and EC President Delors, April 11, 1991",
     "dateLine": "April 11, 1991 (11 00, April 11, 1991, 11:00 a.m. - 1:30 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Santer and EC President Delors, April 11, 1991. NAID 428081579. Full. Catalog: https://catalog.archives.gov/id/428081579."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Santer and EC President Delors, April 11, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Santer and EC President Delors, April 11, 1991. NAID 428081579. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081579.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081579",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-04-11--Santer.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-04-20-366551699-65",
@@ -9224,7 +10836,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Camp David, April 20, 1991, 8:15 - 8:30 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 65-67. Catalog: https://catalog.archives.gov/id/366551699."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 65-67. Catalog: https://catalog.archives.gov/id/366551699.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551699",
+      "documents/regional/1991-04-20-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-06-25-428081731",
@@ -9272,7 +10893,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Manfred Woerner, Secretary General of NATO, June 25, 1991",
     "dateLine": "June 25, 1991, 2 45, June 25, 1991, 2:45 - 3:15 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, SecretaryGeneral of NATO, June 25, 1991. NAID 428081731. Full. Catalog: https://catalog.archives.gov/id/428081731."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, SecretaryGeneral of NATO, June 25, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Manfred Woerner, SecretaryGeneral of NATO, June 25, 1991. NAID 428081731. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081731.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081731",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-25--Woerner.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-07-15-428081743",
@@ -9321,7 +10950,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Lubbers and EC President Delors on July 15, 1991",
     "dateLine": "July 15, 1991, 11 00, July 15, 1991, 11:00 - 12:00 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Lubbers and EC President Delors on July 15, 1991. NAID 428081743. Full. Catalog: https://catalog.archives.gov/id/428081743."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Lubbers and EC President Delors on July 15, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Lubbers and EC President Delors on July 15, 1991. NAID 428081743. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081743.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081743",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-15--Lubbers.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-07-18-428081777",
@@ -9367,7 +11004,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, July 18, 1991",
     "dateLine": "Prime Minister Mitsotakis Thank you, July 18, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991. NAID 428081777. Full. Catalog: https://catalog.archives.gov/id/428081777."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991. NAID 428081777. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081777.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081777",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-18--Mitsotakis.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-08-19-366551701-22",
@@ -9416,7 +11061,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Felipe Gonzalez",
     "dateLine": "Air Force One, August 19, 1991, 1:51 - 2:02 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 22-24. Catalog: https://catalog.archives.gov/id/366551701."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 22-24. Catalog: https://catalog.archives.gov/id/366551701.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551701",
+      "documents/regional/1991-08-19-bush-felipe-gonzalez-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-08-19-366551701-25",
@@ -9465,7 +11119,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, August 19, 1991, 2:36 - 2:43 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-27. Catalog: https://catalog.archives.gov/id/366551701."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-27. Catalog: https://catalog.archives.gov/id/366551701.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551701",
+      "documents/regional/1991-08-19-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-09-24-428081895",
@@ -9510,8 +11173,16 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Gro Harlem Brundtland of Norway, September 24, 1991",
-    "dateLine": "The President September 24, 1991,, September 24, 1991, 2:00 - 2:30pm EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Gro Harlem Brundtland of Norway, September 24, 1991. NAID 428081895. Full. Catalog: https://catalog.archives.gov/id/428081895."
+    "dateLine": "September 24, 1991, 2:00 - 2:30 p.m. EST",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Gro Harlem Brundtland of Norway, September 24, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Gro Harlem Brundtland of Norway, September 24, 1991. NAID 428081895. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081895.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081895",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-24--Brundtland.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-09-24-428081901",
@@ -9557,7 +11228,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Oddsson of Iceland, September 24, 1991",
     "dateLine": "September 24, 1991, 9 45, September 24, 1991, 9:45 - 10:15am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Oddsson of Iceland, September 24, 1991. NAID 428081901. Full. Catalog: https://catalog.archives.gov/id/428081901."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Oddsson of Iceland, September 24, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Oddsson of Iceland, September 24, 1991. NAID 428081901. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081901.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081901",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-24--Oddsson.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-09-27-366551702-16",
@@ -9606,7 +11285,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Manfred Woerner",
     "dateLine": "Washington, September 27, 1991, 11:25-11:37 am EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 16-17. Catalog: https://catalog.archives.gov/id/366551702."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 16-17. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/regional/1991-09-27-bush-manfred-woerner-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-10-10-428081973",
@@ -9652,7 +11340,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Franz Vranitzky, Chancellor of Austria",
     "dateLine": "October 10, 1991, 3 00, October 10, 1991, 3:00 - 3:30 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Franz Vranitzky, Chancellor of Austria. NAID 428081973. Full. Catalog: https://catalog.archives.gov/id/428081973."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Franz Vranitzky, Chancellor of Austria. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Franz Vranitzky, Chancellor of Austria. NAID 428081973. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081973.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081973",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-10--Vranitzky.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-10-11-366551702-46",
@@ -9701,7 +11397,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Anibal Cavaco Silva",
     "dateLine": "Washington, October 11, 1991, 11:10 - 11:14 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 46-47. Catalog: https://catalog.archives.gov/id/366551702."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 46-47. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/regional/1991-10-11-bush-anibal-cavaco-silva-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-10-11-366551702-39",
@@ -9750,7 +11455,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Manfred Woerner",
     "dateLine": "Washington, October 11, 1991, 11:30 -12:00",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 39-45. Catalog: https://catalog.archives.gov/id/366551702."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 39-45. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/regional/1991-10-11-bush-manfred-woerner-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-10-11-428082011",
@@ -9798,7 +11512,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "The President's Meeting with Secretary General of NATO Manfred Woerner, October 11, 1991",
     "dateLine": "October 11,1991,11 30 -12 00, October 11, 1991, 11:30 -12:00",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, The President's Meeting with Secretary General of NATO Manfred Woerner, October 11, 1991. NAID 428082011. Full. Catalog: https://catalog.archives.gov/id/428082011."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Secretary General of NATO Manfred Woerner, October 11, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Secretary General of NATO Manfred Woerner, October 11, 1991. NAID 428082011. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428082011.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428082011",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-11--Woerner.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-10-16-428081979",
@@ -9844,7 +11566,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Poul Schlueter of Denmark, October 16, 1991",
     "dateLine": "Washington, October 16, 1991, 2:00-2:30 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Poul Schlueter of Denmark, October 16, 1991. NAID 428081979. Full. Catalog: https://catalog.archives.gov/id/428081979."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Poul Schlueter of Denmark, October 16, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Poul Schlueter of Denmark, October 16, 1991. NAID 428081979. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081979.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081979",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-16--Schluter.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-11-07-428082005",
@@ -9891,8 +11621,16 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "NATO Summit, November 7, 1991",
-    "dateLine": "The President (To· the Press, November 7, 1991, 5:35 - 6:00 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, NATO Summit, November 7, 1991. NAID 428082005. Full. Catalog: https://catalog.archives.gov/id/428082005."
+    "dateLine": "November 7, 1991, 5:35 - 6:00 p.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, NATO Summit, November 7, 1991. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, NATO Summit, November 7, 1991. NAID 428082005. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428082005.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428082005",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-11-07--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-11-26-366551702-76",
@@ -9941,7 +11679,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, November 26, 1991, 6:07 - 6:18 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 76-78. Catalog: https://catalog.archives.gov/id/366551702."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 76-78. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/regional/1991-11-26-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-12-12-428082071",
@@ -9986,8 +11733,16 @@ window.MEMCONS = [
     "pageCount": 3,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (1 of 3)",
-    "dateLine": "The President Are there any, December 12, 1991, 11:00 - 11:20 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (1 of 3). NAID 428082071. Full. Catalog: https://catalog.archives.gov/id/428082071."
+    "dateLine": "December 12, 1991, 11:00 - 11:20 a.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (1 of 3). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (1 of 3). NAID 428082071. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428082071.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428082071",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-12-12--Mitsotakis-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-12-12-428082073",
@@ -10033,7 +11788,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (2 of 3)",
     "dateLine": "Washington, December 12, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (2 of 3). NAID 428082073. Full. Catalog: https://catalog.archives.gov/id/428082073."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (2 of 3). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (2 of 3). NAID 428082073. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428082073.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428082073",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-12-12--Mitsotakis-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-12-12-428082075",
@@ -10079,7 +11842,15 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (3 of 3)",
     "dateLine": "December 12, 1991, 12 15, December 12, 1991, 12:15 - 1:30 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (3 of 3). NAID 428082075. Full. Catalog: https://catalog.archives.gov/id/428082075."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (3 of 3). Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Constantine Mitsotakis of Greece, December 12, 1991 (3 of 3). NAID 428082075. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428082075.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428082075",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-12-12--Mitsotakis-3.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-12-13-366551702-112",
@@ -10128,7 +11899,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, December 13, 1991, 1:50 - 2:14 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 112-117. Catalog: https://catalog.archives.gov/id/366551702."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 112-117. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/regional/1991-12-13-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-12-16-366551702-133",
@@ -10177,7 +11957,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, December 16, 1991, 4:05 - 4:17 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 133-136. Catalog: https://catalog.archives.gov/id/366551702."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 133-136. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/regional/1991-12-16-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-01-13-366551680-25",
@@ -10226,7 +12015,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Mario Soares, President of Portugal",
     "dateLine": "Washington, January 13, 1992, 4:10 - 4:30 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-005, Presidential Meetings - Memorandum of Conversations 1/1/92-1/31/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-29. Catalog: https://catalog.archives.gov/id/366551680."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-005, Presidential Meetings - Memorandum of Conversations 1/1/92-1/31/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-005, Presidential Meetings - Memorandum of Conversations 1/1/92-1/31/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 25-29. Catalog: https://catalog.archives.gov/id/366551680.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551680",
+      "documents/regional/1992-01-13-bush-mario-soares-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-01-31-366551680-57",
@@ -10275,7 +12073,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Franz Vranitzky of Austria",
     "dateLine": "Waldorf Towers, New York The, January 31, 1992, 3:55 - 4:25 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-005, Presidential Meetings - Memorandum of Conversations 1/1/92-1/31/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 57-59. Catalog: https://catalog.archives.gov/id/366551680."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-005, Presidential Meetings - Memorandum of Conversations 1/1/92-1/31/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-005, Presidential Meetings - Memorandum of Conversations 1/1/92-1/31/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 57-59. Catalog: https://catalog.archives.gov/id/366551680.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551680",
+      "documents/regional/1992-01-31-bush-franz-vranitzky-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-01-31-366551680-61",
@@ -10324,7 +12131,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Wilfried Martens, the Prime Minister of Belgium",
     "dateLine": "Waldorf Towers, New York The, January 31, 1992, 4:31 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-005, Presidential Meetings - Memorandum of Conversations 1/1/92-1/31/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 61-63. Catalog: https://catalog.archives.gov/id/366551680."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-005, Presidential Meetings - Memorandum of Conversations 1/1/92-1/31/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-005, Presidential Meetings - Memorandum of Conversations 1/1/92-1/31/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 61-63. Catalog: https://catalog.archives.gov/id/366551680.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551680",
+      "documents/regional/1992-01-31-bush-wilfried-martens-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-02-20-366551681-40",
@@ -10373,7 +12189,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Bildt of Sweden",
     "dateLine": "Washington, February 20, 1992, 11:20 a.m. - 12:00 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-006, Presidential Meetings - Memorandum of Conversations 2/1/92-2/27/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 40-45. Catalog: https://catalog.archives.gov/id/366551681."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-006, Presidential Meetings - Memorandum of Conversations 2/1/92-2/27/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-006, Presidential Meetings - Memorandum of Conversations 2/1/92-2/27/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 40-45. Catalog: https://catalog.archives.gov/id/366551681.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551681",
+      "documents/regional/1992-02-20-bush-carl-bildt-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-04-02-366551682-57",
@@ -10422,7 +12247,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Felipe Gonzalez of Spain",
     "dateLine": "Washington, April 2, 1992, 11:00am - 1:30pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-007, Presidential Meetings - Memorandum of Conversations 3/3/92-4/28/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 57-64. Catalog: https://catalog.archives.gov/id/366551682."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-007, Presidential Meetings - Memorandum of Conversations 3/3/92-4/28/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-007, Presidential Meetings - Memorandum of Conversations 3/3/92-4/28/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 57-64. Catalog: https://catalog.archives.gov/id/366551682.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551682",
+      "documents/regional/1992-04-02-bush-felipe-gonzalez-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-05-01-366551704-15",
@@ -10471,7 +12305,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Jacques Delors",
     "dateLine": "Washington, May 1, 1992, 3:11 - 3:23 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 15-17. Catalog: https://catalog.archives.gov/id/366551704."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 15-17. Catalog: https://catalog.archives.gov/id/366551704.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551704",
+      "documents/regional/1992-05-01-bush-jacques-delors-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-05-01-366551704-18",
@@ -10520,7 +12363,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, May 1, 1992, 3:30 pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 18-19. Catalog: https://catalog.archives.gov/id/366551704."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 18-19. Catalog: https://catalog.archives.gov/id/366551704.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551704",
+      "documents/regional/1992-05-01-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-05-28-366551683-66",
@@ -10569,7 +12421,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Camp David, May 28, 1992, 7:58-8:11 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92-6/17/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 66-68. Catalog: https://catalog.archives.gov/id/366551683."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92-6/17/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92-6/17/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 66-68. Catalog: https://catalog.archives.gov/id/366551683.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551683",
+      "documents/regional/1992-05-28-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-06-07-366551683-75",
@@ -10618,7 +12479,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Brundtland of Norway",
     "dateLine": "Washington, June 7, 1992, 10:46 - 11:21 am",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92-6/17/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 75-79. Catalog: https://catalog.archives.gov/id/366551683."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92-6/17/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92-6/17/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 75-79. Catalog: https://catalog.archives.gov/id/366551683.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551683",
+      "documents/regional/1992-06-07-bush-gro-harlem-brundtland-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-06-10-366551704-39",
@@ -10667,7 +12537,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Constantine Mitsotakis",
     "dateLine": "Washington, June 10, 1992, 8:39 - 8:45am EST",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 39-40. Catalog: https://catalog.archives.gov/id/366551704."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 39-40. Catalog: https://catalog.archives.gov/id/366551704.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551704",
+      "documents/regional/1992-06-10-bush-constantine-mitsotakis-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-06-28-366551704-86",
@@ -10716,7 +12595,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Anibal Cavaco Silva",
     "dateLine": "Camp David, June 28, 1992, 2:22 - 2:33 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 86-87. Catalog: https://catalog.archives.gov/id/366551704."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 86-87. Catalog: https://catalog.archives.gov/id/366551704.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551704",
+      "documents/regional/1992-06-28-bush-anibal-cavaco-silva-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-06-28-366551704-77",
@@ -10765,7 +12653,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Camp David, June 28, 1992, 7:58-8:11 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 77-79. Catalog: https://catalog.archives.gov/id/366551704."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 77-79. Catalog: https://catalog.archives.gov/id/366551704.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551704",
+      "documents/regional/1992-06-28-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-07-07-366551684-45",
@@ -10814,7 +12711,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bushs July 7 Meeting with EC Commission President Delors",
     "dateLine": "Munich, July 7, 1992, 7:45 a.m. - 8:15 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 45-49. Catalog: https://catalog.archives.gov/id/366551684."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 45-49. Catalog: https://catalog.archives.gov/id/366551684.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551684",
+      "documents/regional/1992-07-07-bush-jacques-delors-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-07-09-366551684-85",
@@ -10863,7 +12769,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Manfred Woerner NATO Secretary General",
     "dateLine": "Helsinki Fair Center, Finland The, July 9, 1992, 11:00 - 11:30 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 85-87. Catalog: https://catalog.archives.gov/id/366551684."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 85-87. Catalog: https://catalog.archives.gov/id/366551684.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551684",
+      "documents/regional/1992-07-09-bush-manfred-woerner-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-07-09-366551684-76",
@@ -10912,7 +12827,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Constantine Mitsotakis of Greece",
     "dateLine": "Guest House, Helsinki, Finland The, July 9, 1992, 7:30 a.m. - 8:00 a.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 76-79. Catalog: https://catalog.archives.gov/id/366551684."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 76-79. Catalog: https://catalog.archives.gov/id/366551684.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551684",
+      "documents/regional/1992-07-09-bush-constantine-mitsotakis-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-08-13-366551705-32",
@@ -10961,7 +12885,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Pope John Paul II",
     "dateLine": "Washington, August 13, 1992, 11:15 - 11:17 a.m. EDT",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 32-33. Catalog: https://catalog.archives.gov/id/366551705."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 32-33. Catalog: https://catalog.archives.gov/id/366551705.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551705",
+      "documents/regional/1992-08-13-bush-pope-john-paul-ii-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-11-17-366551685-58",
@@ -11010,7 +12943,77 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Prime Minister Mitsotakis of Greece f",
     "dateLine": "Washington, November 17, 1992, 2:00-2:45pm",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-002, Presidential Meetings - Memorandum of Conversations 7/9/92-12/22/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 58-63. Catalog: https://catalog.archives.gov/id/366551685."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-002, Presidential Meetings - Memorandum of Conversations 7/9/92-12/22/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-002, Presidential Meetings - Memorandum of Conversations 7/9/92-12/22/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 58-63. Catalog: https://catalog.archives.gov/id/366551685.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551685",
+      "documents/regional/1992-11-17-bush-constantine-mitsotakis-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
+  },
+  {
+    "id": "local-1992-12-03-jean-luc-dehaene-telcon",
+    "date": "1992-12-03",
+    "sortDate": "1992-12-03",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Jean-Luc Dehaene",
+    "sourceTitle": "921203_BushANDMajor_Telcon.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Jean-Luc Dehaene"
+    ],
+    "countries": [
+      "United States",
+      "Belgium"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Declassified",
+    "naid": "local-921203_BushANDMajor_Telcon-corrected-jean-luc-dehaene",
+    "pdfUrl": "documents/regional/1992-12-03-bush-jean-luc-dehaene-telcon.pdf",
+    "catalogUrl": "documents/regional/1992-12-03-bush-jean-luc-dehaene-telcon.pdf",
+    "source": {
+      "name": "Local Bush memcons extractor output",
+      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
+      "series": "European and Eurasian Directorate, Central Chronological Files",
+      "localIdentifier": "30531-004",
+      "foiaNumber": "2011-0002-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "Belgium bilateral relations"
+    ],
+    "topics": [
+      "Western Europe",
+      "Belgium bilateral relations",
+      "Corrected mislabeled local PDF"
+    ],
+    "pageCount": 2,
+    "localOriginalFile": "921203_BushANDMajor_Telcon.pdf",
+    "notes": "Corrected after OCR audit: the clean local PDF is a Bush-Dehaene telcon, not a Bush-Major telcon. The rebuilt PDF begins with the FOIA marker and includes the two pages of telephone-conversation text.",
+    "documentTitle": "Memorandum of a Telephone Conversation",
+    "subjectLine": "President Bush and Jean-Luc Dehaene",
+    "dateLine": "The Oval Office, December 3, 1992, 8:38 - 8:45 a.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30531, Folder ID 30531-004, December 1992 [4]. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30531, Folder ID 30531-004, December 1992 [4]. Originally processed under FOIA 2011-0002-F. The project PDF begins with the FOIA marker provenance sheet and includes 2 pages of conversation text. Source file 921203_BushANDMajor_Telcon.pdf.",
+    "provenanceLinks": [
+      "documents/regional/1992-12-03-bush-jean-luc-dehaene-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [],
+    "provenancePages": 1
   },
   {
     "id": "1992-12-21-366551706-94",
@@ -11059,7 +13062,16 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Ruud Lubbers",
     "dateLine": "Washington, December 21, 1992, 4:31 - 4:37 p.m.",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-006, Presidential Telephone Calls - Memorandum of Conversations 11/5/92-1/2/93. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 94-95. Catalog: https://catalog.archives.gov/id/366551706."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-006, Presidential Telephone Calls - Memorandum of Conversations 11/5/92-1/2/93. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-006, Presidential Telephone Calls - Memorandum of Conversations 11/5/92-1/2/93. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 94-95. Catalog: https://catalog.archives.gov/id/366551706.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551706",
+      "documents/regional/1992-12-21-bush-ruud-lubbers-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-01-23-366551686-7",
@@ -11082,7 +13094,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551686",
-    "pdfUrl": "documents/regional/1989-01-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-01-23-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551686",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11111,8 +13123,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 7-8; pageCount counts only the 2 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: January 23, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 7-8, Catalog: https://catalog.archives.gov/id/366551686."
+    "dateLine": "January 23, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 7-8. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/germany-reference/1989-01-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-02-24-428079867",
@@ -11163,9 +13184,17 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President's Meeting with President Richard von Weizsaecker of the Federal Republic of Germany, February 24, 1989",
-    "dateLine": "Date: February 24, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, President's Meeting with President Richard von Weizsaecker of the Federal Republic of Germany, February 24, 1989, NAID 428079867, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428079867, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-24--von-Weizsaecker.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "February 24, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Meeting with President Richard von Weizsaecker of the Federal Republic of Germany, February 24, 1989. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Meeting with President Richard von Weizsaecker of the Federal Republic of Germany, February 24, 1989. NAID 428079867. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428079867.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428079867",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-24--von-Weizsaecker.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-04-12-366551686-69",
@@ -11188,7 +13217,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551686",
-    "pdfUrl": "documents/regional/1989-04-12-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-04-12-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551686",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11217,8 +13246,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 69-70; pageCount counts only the 2 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: April 12, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 69-70, Catalog: https://catalog.archives.gov/id/366551686."
+    "dateLine": "April 12, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 69-70. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/germany-reference/1989-04-12-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-04-21-366551686-81",
@@ -11241,7 +13279,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551686",
-    "pdfUrl": "documents/regional/1989-04-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-04-21-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551686",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11270,8 +13308,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 81-83; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: April 21, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 81-83, Catalog: https://catalog.archives.gov/id/366551686."
+    "dateLine": "April 21, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 81-83. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/germany-reference/1989-04-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-05-05-366551686-97",
@@ -11294,7 +13341,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551686",
-    "pdfUrl": "documents/regional/1989-05-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-05-05-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551686",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11323,8 +13370,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-001.pdf as a provenance sheet, followed by source pages 97-100; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: May 5, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 97-100, Catalog: https://catalog.archives.gov/id/366551686."
+    "dateLine": "May 5, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89-5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 97-100. Catalog: https://catalog.archives.gov/id/366551686.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551686",
+      "documents/germany-reference/1989-05-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-05-31-428080025",
@@ -11377,9 +13433,17 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: May 31, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, NAID 428080025, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080025, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-31--Kohl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "May 31, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany. NAID 428080025. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080025.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080025",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-31--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-06-428080033",
@@ -11430,9 +13494,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "The President's Meeting with Richard von Weizsaecker, President of the Federal Republic of Germany",
-    "dateLine": "Date: June 6, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, The President's Meeting with Richard von Weizsaecker, President of the Federal Republic of Germany, NAID 428080033, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080033, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-06--von-Weizsaecker.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "June 6, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Richard von Weizsaecker, President of the Federal Republic of Germany. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Richard von Weizsaecker, President of the Federal Republic of Germany. NAID 428080033. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080033.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080033",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-06--von-Weizsaecker.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-07-366551687-49",
@@ -11455,7 +13527,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551687",
-    "pdfUrl": "documents/regional/1989-06-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-06-07-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551687",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11484,8 +13556,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 49-50; pageCount counts only the 2 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: June 7, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 49-50, Catalog: https://catalog.archives.gov/id/366551687."
+    "dateLine": "June 7, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 49-50. Catalog: https://catalog.archives.gov/id/366551687.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551687",
+      "documents/germany-reference/1989-06-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-15-366551687-67",
@@ -11508,7 +13589,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551687",
-    "pdfUrl": "documents/regional/1989-06-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-06-15-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551687",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11537,8 +13618,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 67-72; pageCount counts only the 6 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: June 15, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 67-72, Catalog: https://catalog.archives.gov/id/366551687."
+    "dateLine": "June 15, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89-7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 67-72. Catalog: https://catalog.archives.gov/id/366551687.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551687",
+      "documents/germany-reference/1989-06-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-06-21-428080047",
@@ -11589,9 +13679,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "The President's Meeting with Foreign Minister Hans-Dietrich Genscher of West Germany, June 21, 1989",
-    "dateLine": "Date: June 21, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, The President's Meeting with Foreign Minister Hans-Dietrich Genscher of West Germany, June 21, 1989, NAID 428080047, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080047, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-21--Genscher.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "June 21, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Foreign Minister Hans-Dietrich Genscher of West Germany, June 21, 1989. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, The President's Meeting with Foreign Minister Hans-Dietrich Genscher of West Germany, June 21, 1989. NAID 428080047. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080047.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080047",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-21--Genscher.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-08-03-366551688-29",
@@ -11614,7 +13712,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551688",
-    "pdfUrl": "documents/regional/1989-08-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-08-03-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551688",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11643,8 +13741,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 29-30; pageCount counts only the 2 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: August 3, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 29-30, Catalog: https://catalog.archives.gov/id/366551688."
+    "dateLine": "August 3, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 29-30. Catalog: https://catalog.archives.gov/id/366551688.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551688",
+      "documents/germany-reference/1989-08-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-09-05-366551688-59",
@@ -11667,7 +13774,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551688",
-    "pdfUrl": "documents/regional/1989-09-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-09-05-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551688",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11696,8 +13803,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-003.pdf as a provenance sheet, followed by source pages 59-60; pageCount counts only the 2 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 5, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 59-60, Catalog: https://catalog.archives.gov/id/366551688."
+    "dateLine": "September 5, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89-10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 59-60. Catalog: https://catalog.archives.gov/id/366551688.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551688",
+      "documents/germany-reference/1989-09-05-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-09-26-428080235",
@@ -11748,9 +13864,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Theo Waigel, Chairman of the Christian Social Union of the Federal Republic of Germany",
-    "dateLine": "Date: September 26, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Theo Waigel, Chairman of the Christian Social Union of the Federal Republic of Germany, NAID 428080235, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080235, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-26--Waigel.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "September 26, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Theo Waigel, Chairman of the Christian Social Union of the Federal Republic of Germany. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Theo Waigel, Chairman of the Christian Social Union of the Federal Republic of Germany. NAID 428080235. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080235.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080235",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-26--Waigel.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1989-10-23-helmut-kohl-telcon",
@@ -11773,8 +13897,8 @@ window.MEMCONS = [
     },
     "releaseStatus": "Unknown",
     "naid": "local-891023_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1989-10-23-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1989-10-23-bush-helmut-kohl-telcon.pdf",
+    "pdfUrl": "documents/germany-reference/1989-10-23-bush-helmut-kohl-telcon.pdf",
+    "catalogUrl": "documents/germany-reference/1989-10-23-bush-helmut-kohl-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
       "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
@@ -11812,60 +13936,18 @@ window.MEMCONS = [
     "notes": "Source-folder audit: trimmed oversized packet to the four pages of Kohl telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: October 23, 1989",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 891023_BushANDKohl_Telcon.pdf, project PDF documents/regional/1989-10-23-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
-  },
-  {
-    "id": "local-1989-10-25-helmut-kohl-telcon",
-    "date": "1989-10-25",
-    "sortDate": "1989-10-25",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "891025_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "The Oval Office, October 23, 1989, 9:02 - 9:26 a.m. EDT",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 891023_BushANDKohl_Telcon.pdf, project PDF documents/germany-reference/1989-10-23-bush-helmut-kohl-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/germany-reference/1989-10-23-bush-helmut-kohl-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-891025_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1989-10-25-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1989-10-25-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "891025_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: October 25, 1989",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 891025_BushANDKohl_Telcon.pdf, project PDF documents/regional/1989-10-25-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1989-11-10-366551689-17",
@@ -11888,7 +13970,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551689",
-    "pdfUrl": "documents/regional/1989-11-10-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-11-10-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551689",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11917,8 +13999,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 17-19; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: November 10, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 17-19, Catalog: https://catalog.archives.gov/id/366551689."
+    "dateLine": "November 10, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 17-19. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/germany-reference/1989-11-10-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-17-366551689-24",
@@ -11941,7 +14032,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551689",
-    "pdfUrl": "documents/regional/1989-11-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-11-17-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551689",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -11970,8 +14061,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 24-27; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: November 17, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 24-27, Catalog: https://catalog.archives.gov/id/366551689."
+    "dateLine": "November 17, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 24-27. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/germany-reference/1989-11-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-21-428080327",
@@ -12022,9 +14122,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, November 21, 1989",
-    "dateLine": "Date: November 21, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, November 21, 1989, NAID 428080327, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080327, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-11-21--Genscher.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "November 21, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, November 21, 1989. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, November 21, 1989. NAID 428080327. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080327.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080327",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-11-21--Genscher.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-11-29-366551689-77",
@@ -12047,7 +14155,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551689",
-    "pdfUrl": "documents/regional/1989-11-29-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-11-29-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551689",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -12076,8 +14184,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 77-81; pageCount counts only the 5 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: November 29, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 77-81, Catalog: https://catalog.archives.gov/id/366551689."
+    "dateLine": "November 29, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 77-81. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/germany-reference/1989-11-29-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-12-03-428080385",
@@ -12130,9 +14247,17 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: December 3, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, NAID 428080385, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080385, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-03--Kohl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "December 3, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany. NAID 428080385. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080385.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080385",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-03--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1989-12-20-366551689-120",
@@ -12155,7 +14280,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551689",
-    "pdfUrl": "documents/regional/1989-12-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1989-12-20-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551689",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -12184,8 +14309,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-004.pdf as a provenance sheet, followed by source pages 120-122; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: December 20, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls--Memorandum of Conversations 10/24/89-12/26/89, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 120-122, Catalog: https://catalog.archives.gov/id/366551689."
+    "dateLine": "December 20, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-004, Presidential Telephone Calls - Memorandum of Conversations 10/24/89-12/26/89. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 120-122. Catalog: https://catalog.archives.gov/id/366551689.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551689",
+      "documents/germany-reference/1989-12-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-01-26-366551690-19",
@@ -12208,7 +14342,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551690",
-    "pdfUrl": "documents/regional/1990-01-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-01-26-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551690",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -12237,8 +14371,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 19-23; pageCount counts only the 5 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: January 26, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 19-23, Catalog: https://catalog.archives.gov/id/366551690."
+    "dateLine": "January 26, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 19-23. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/germany-reference/1990-01-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-02-13-366551690-45",
@@ -12261,7 +14404,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551690",
-    "pdfUrl": "documents/regional/1990-02-13-bush-helmut-kohl-telcon-from-kohl-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-02-13-bush-helmut-kohl-telcon-from-kohl-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551690",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -12282,15 +14425,26 @@ window.MEMCONS = [
       "Germany Reference",
       "Telcon",
       "Germany",
-      "Germany and German unification"
+      "Germany and German unification",
+      "Same-day duplicate disambiguated"
     ],
     "pageCount": 2,
     "provenancePages": 1,
     "documentTitle": "Memorandum of a Telephone Conversation",
     "dateLine": "Washington, February 13, 1990, 1:49-2:00 p.m. EST",
     "subjectLine": "President Bush and Helmut Kohl; Kohl-initiated call on German unification",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 45-46, Catalog: https://catalog.archives.gov/id/366551690.",
-    "notes": "Added during Germany reference completeness review. This is the first of two distinct Kohl telephone conversations on February 13, 1990."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "notes": "Added during Germany reference completeness review. This is the first of two distinct Kohl telephone conversations on February 13, 1990.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 45-46. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/germany-reference/1990-02-13-bush-helmut-kohl-telcon-from-kohl-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": [],
+    "disambiguationNote": "Distinct same-day telcon 1 of 2; source pages 45-46."
   },
   {
     "id": "1990-02-13-366551690-47",
@@ -12313,7 +14467,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551690",
-    "pdfUrl": "documents/regional/1990-02-13-bush-helmut-kohl-telcon-to-kohl-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-02-13-bush-helmut-kohl-telcon-to-kohl-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551690",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -12334,15 +14488,26 @@ window.MEMCONS = [
       "Germany Reference",
       "Telcon",
       "Germany",
-      "Germany and German unification"
+      "Germany and German unification",
+      "Same-day duplicate disambiguated"
     ],
     "pageCount": 2,
     "provenancePages": 1,
     "documentTitle": "Memorandum of a Telephone Conversation",
     "dateLine": "Washington, February 13, 1990, 3:01-3:10 p.m. EST",
     "subjectLine": "President Bush and Helmut Kohl; follow-up call on Two Plus Four language",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 47-48; duplicate copy appears at source pages 49-50, Catalog: https://catalog.archives.gov/id/366551690.",
-    "notes": "Added during Germany reference completeness review. Source pages 49-50 duplicate this February 13, 1990 follow-up conversation."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "notes": "Added during Germany reference completeness review. Source pages 49-50 duplicate this February 13, 1990 follow-up conversation.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 47-48. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/germany-reference/1990-02-13-bush-helmut-kohl-telcon-to-kohl-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": [],
+    "disambiguationNote": "Distinct same-day telcon 2 of 2; source pages 47-48."
   },
   {
     "id": "1990-02-24-428080541",
@@ -12395,9 +14560,17 @@ window.MEMCONS = [
     "pageCount": 14,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: February 24, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, NAID 428080541, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080541, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-24--Kohl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "February 24, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany. NAID 428080541. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080541.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080541",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-24--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-02-25-428080545",
@@ -12450,9 +14623,17 @@ window.MEMCONS = [
     "pageCount": 7,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: February 25, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, NAID 428080545, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080545, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-25--Kohl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "February 25, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany. NAID 428080545. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080545.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080545",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-25--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-03-15-366551690-102",
@@ -12475,7 +14656,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551690",
-    "pdfUrl": "documents/regional/1990-03-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-03-15-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551690",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -12504,8 +14685,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 102-105; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: March 15, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 102-105, Catalog: https://catalog.archives.gov/id/366551690."
+    "dateLine": "March 15, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90-3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 102-105. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551690",
+      "documents/germany-reference/1990-03-15-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-03-20-366551691-13",
@@ -12528,7 +14718,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551691",
-    "pdfUrl": "documents/regional/1990-03-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-03-20-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551691",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -12557,8 +14747,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 13-16; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: March 20, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 13-16, Catalog: https://catalog.archives.gov/id/366551691."
+    "dateLine": "March 20, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 13-16. Catalog: https://catalog.archives.gov/id/366551691.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551691",
+      "documents/germany-reference/1990-03-20-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-03-23-366551691-21",
@@ -12581,7 +14780,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551691",
-    "pdfUrl": "documents/regional/1990-03-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-03-23-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551691",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -12610,8 +14809,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 21-24; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: March 23, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 21-24, Catalog: https://catalog.archives.gov/id/366551691."
+    "dateLine": "March 23, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 21-24. Catalog: https://catalog.archives.gov/id/366551691.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551691",
+      "documents/germany-reference/1990-03-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-04-04-428080625",
@@ -12662,61 +14870,17 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, April 4, 1990",
-    "dateLine": "Date: April 4, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, April 4, 1990, NAID 428080625, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080625, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-04--Genscher.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
-  },
-  {
-    "id": "local-1990-04-05-hans-dietrich-genscher-memcon",
-    "date": "1990-04-05",
-    "sortDate": "1990-04-05",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Hans-Dietrich Genscher",
-    "sourceTitle": "900405_BushANDGenscher_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Hans-Dietrich Genscher"
+    "dateLine": "April 4, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, April 4, 1990. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Foreign Minister Hans-Dietrich Genscher of the Federal Republic of Germany, April 4, 1990. NAID 428080625. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080625.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080625",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-04--Genscher.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900405_BushANDGenscher_Memcon",
-    "pdfUrl": "documents/regional/1990-04-05-bush-hans-dietrich-genscher-memcon.pdf",
-    "catalogUrl": "documents/regional/1990-04-05-bush-hans-dietrich-genscher-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900405_BushANDGenscher_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of Conversation",
-    "subjectLine": "Meeting memorandum: President Bush and Hans-Dietrich Genscher",
-    "dateLine": "Date: April 5, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 900405_BushANDGenscher_Memcon.pdf, project PDF documents/regional/1990-04-05-bush-hans-dietrich-genscher-memcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": []
   },
   {
     "id": "1990-05-17-428080695",
@@ -12769,9 +14933,17 @@ window.MEMCONS = [
     "pageCount": 6,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: May 17, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Chancellor Kohl, Federal Republic of Germany (1 of 3), NAID 428080695, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080695, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-1.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "May 17, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Chancellor Kohl, Federal Republic of Germany (1 of 3). Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Chancellor Kohl, Federal Republic of Germany (1 of 3). NAID 428080695. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080695",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-05-17-428080699",
@@ -12824,9 +14996,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: May 17, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3), NAID 428080699, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080699, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-3.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "May 17, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3). Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3). NAID 428080699. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080699.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080699",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-3.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-05-17-428080697",
@@ -12879,9 +15059,17 @@ window.MEMCONS = [
     "pageCount": 9,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: May 17, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990 (2 of 3), NAID 428080697, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080697, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-2.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "May 17, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990 (2 of 3). Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990 (2 of 3). NAID 428080697. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080697.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080697",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-05-24-428080703",
@@ -12932,9 +15120,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Otto Graf Lambsdorff, Chairman of the Free Democratic Party of the Federal Republic of Germany (",
-    "dateLine": "Date: May 24, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Otto Graf Lambsdorff, Chairman of the Free Democratic Party of the Federal Republic of Germany (, NAID 428080703, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080703, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-24--Lambsdorff.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "May 24, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Otto Graf Lambsdorff, Chairman of the Free Democratic Party of the Federal Republic of Germany (. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Otto Graf Lambsdorff, Chairman of the Free Democratic Party of the Federal Republic of Germany (. NAID 428080703. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080703.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080703",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-24--Lambsdorff.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-05-30-366551691-71",
@@ -12957,7 +15153,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551691",
-    "pdfUrl": "documents/regional/1990-05-30-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-05-30-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551691",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -12986,8 +15182,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 71-75; pageCount counts only the 5 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: May 30, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 71-75, Catalog: https://catalog.archives.gov/id/366551691."
+    "dateLine": "May 30, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 71-75. Catalog: https://catalog.archives.gov/id/366551691.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551691",
+      "documents/germany-reference/1990-05-30-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-06-01-366551691-77",
@@ -13010,7 +15215,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551691",
-    "pdfUrl": "documents/regional/1990-06-01-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-06-01-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551691",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -13039,8 +15244,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 77-80; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: June 1, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 77-80, Catalog: https://catalog.archives.gov/id/366551691."
+    "dateLine": "June 1, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 77-80. Catalog: https://catalog.archives.gov/id/366551691.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551691",
+      "documents/germany-reference/1990-06-01-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-06-03-366551691-81",
@@ -13063,7 +15277,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551691",
-    "pdfUrl": "documents/regional/1990-06-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-06-03-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551691",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -13092,8 +15306,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-006.pdf as a provenance sheet, followed by source pages 81-82; pageCount counts only the 2 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: June 3, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 81-82, Catalog: https://catalog.archives.gov/id/366551691."
+    "dateLine": "June 3, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90-6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 81-82. Catalog: https://catalog.archives.gov/id/366551691.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551691",
+      "documents/germany-reference/1990-06-03-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-06-08-428080743",
@@ -13146,9 +15369,17 @@ window.MEMCONS = [
     "pageCount": 6,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: June 8, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Chancellor Helmut Kohl of the Federal Republic of Germany, June 8, 1990, NAID 428080743, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080743, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-08--Kohl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "June 8, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Chancellor Helmut Kohl of the Federal Republic of Germany, June 8, 1990. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Chancellor Helmut Kohl of the Federal Republic of Germany, June 8, 1990. NAID 428080743. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080743.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080743",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-08--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-06-11-428080747",
@@ -13202,9 +15433,17 @@ window.MEMCONS = [
     "pageCount": 6,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Lothar de Maiziere",
-    "dateLine": "Date: June 11, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Luncheon Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (2 of 2), NAID 428080747, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080747, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-2.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "June 11, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Luncheon Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (2 of 2). Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Luncheon Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (2 of 2). NAID 428080747. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080747.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080747",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-06-11-428080745",
@@ -13258,61 +15497,17 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Lothar de Maiziere",
-    "dateLine": "Date: June 11, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (1 of 2), NAID 428080745, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080745, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-1.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
-  },
-  {
-    "id": "local-1990-06-12-helmut-kohl-memcon",
-    "date": "1990-06-12",
-    "sortDate": "1990-06-12",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Helmut Kohl",
-    "sourceTitle": "900612_BushANDKohl_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "June 11, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (1 of 2). Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Prime Minister Lothar de Maiziere of the German Democratic Republic, June 11, 1990 (1 of 2). NAID 428080745. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080745.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080745",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-11--de-Maiziere-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900612_BushANDKohl_Memcon",
-    "pdfUrl": "documents/regional/1990-06-12-bush-helmut-kohl-memcon.pdf",
-    "catalogUrl": "documents/regional/1990-06-12-bush-helmut-kohl-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900612_BushANDKohl_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: June 12, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 900612_BushANDKohl_Memcon.pdf, project PDF documents/regional/1990-06-12-bush-helmut-kohl-memcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": []
   },
   {
     "id": "1990-07-09-428080825",
@@ -13365,9 +15560,17 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: July 9, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Bilateral Meeting with German Chancellor Helmut Kohl, July 9, 1990, NAID 428080825, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080825, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Kohl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "July 9, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Bilateral Meeting with German Chancellor Helmut Kohl, July 9, 1990. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Bilateral Meeting with German Chancellor Helmut Kohl, July 9, 1990. NAID 428080825. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080825.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080825",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-07-17-366551692-30",
@@ -13390,7 +15593,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551692",
-    "pdfUrl": "documents/regional/1990-07-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-07-17-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551692",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -13419,8 +15622,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-007.pdf as a provenance sheet, followed by source pages 30-34; pageCount counts only the 5 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: July 17, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 30-34, Catalog: https://catalog.archives.gov/id/366551692."
+    "dateLine": "July 17, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90-7/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90-7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 30-34. Catalog: https://catalog.archives.gov/id/366551692.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551692",
+      "documents/germany-reference/1990-07-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1990-08-22-helmut-kohl-telcon",
@@ -13443,8 +15655,8 @@ window.MEMCONS = [
     },
     "releaseStatus": "Unknown",
     "naid": "local-900822_BushANDGenscher_Telcon-corrected-helmut-kohl",
-    "pdfUrl": "documents/regional/1990-08-22-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-08-22-bush-helmut-kohl-telcon.pdf",
+    "pdfUrl": "documents/germany-reference/1990-08-22-bush-helmut-kohl-telcon.pdf",
+    "catalogUrl": "documents/germany-reference/1990-08-22-bush-helmut-kohl-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
       "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
@@ -13482,71 +15694,18 @@ window.MEMCONS = [
     "notes": "Corrected after OCR audit: the telcon text is with Chancellor Helmut Kohl, not Hans-Dietrich Genscher; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: August 22, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 900822_BushANDGenscher_Telcon.pdf, project PDF documents/regional/1990-08-22-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
-  },
-  {
-    "id": "local-1990-08-23-helmut-kohl-telcon",
-    "date": "1990-08-23",
-    "sortDate": "1990-08-23",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "900823_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "Kennebunkport, Maine, August 22, 1990, 8:15 - 8:36 a.m.",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 900822_BushANDGenscher_Telcon.pdf, project PDF documents/germany-reference/1990-08-22-bush-helmut-kohl-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/germany-reference/1990-08-22-bush-helmut-kohl-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900823_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1990-08-23-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-08-23-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
-      "duplicateSources": [
-        {
-          "sourceName": "Brent Scowcroft Papers",
-          "series": "Presidential Correspondence Files, Presidential Telcon Files",
-          "localIdentifier": "91112-002",
-          "naid": "366551694",
-          "sourceFile": "41-bpr-scow-pcor-telcon-91112-002.pdf",
-          "sourcePages": "12-13",
-          "reason": "already-in-current-collection"
-        }
-      ]
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900823_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: August 23, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 900823_BushANDKohl_Telcon.pdf, project PDF documents/regional/1990-08-23-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "local-1990-08-30-helmut-kohl-telcon",
@@ -13569,8 +15728,8 @@ window.MEMCONS = [
     },
     "releaseStatus": "Unknown",
     "naid": "local-900830_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1990-08-30-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-08-30-bush-helmut-kohl-telcon.pdf",
+    "pdfUrl": "documents/germany-reference/1990-08-30-bush-helmut-kohl-telcon.pdf",
+    "catalogUrl": "documents/germany-reference/1990-08-30-bush-helmut-kohl-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
       "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
@@ -13608,71 +15767,18 @@ window.MEMCONS = [
     "notes": "Corrected after OCR audit: the text misfiled under Andreotti is the substantive August 30 Kohl telcon; cover-only Kohl packet replaced. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: August 30, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 900830_BushANDAndreotti_Telcon.pdf, project PDF documents/regional/1990-08-30-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-06-helmut-kohl-telcon",
-    "date": "1990-09-06",
-    "sortDate": "1990-09-06",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "900906_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "White House Situation Room, August 30, 1990, 2:45 p.m. - 2:55 p.m.",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 900830_BushANDAndreotti_Telcon.pdf, project PDF documents/germany-reference/1990-08-30-bush-helmut-kohl-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/germany-reference/1990-08-30-bush-helmut-kohl-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900906_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1990-09-06-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-09-06-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
-      "duplicateSources": [
-        {
-          "sourceName": "Brent Scowcroft Papers",
-          "series": "Presidential Correspondence Files, Presidential Telcon Files",
-          "localIdentifier": "91112-002",
-          "naid": "366551694",
-          "sourceFile": "41-bpr-scow-pcor-telcon-91112-002.pdf",
-          "sourcePages": "71-73",
-          "reason": "already-in-current-collection"
-        }
-      ]
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900906_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 6, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 900906_BushANDKohl_Telcon.pdf, project PDF documents/regional/1990-09-06-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1990-09-07-428080977",
@@ -13723,61 +15829,17 @@ window.MEMCONS = [
     "pageCount": 6,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Oskar Lafontaine, Chancellor-Candidate of the Social Democratic Party of Germany",
-    "dateLine": "Date: September 7, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Oskar Lafontaine, ChancellorCandidate of the Social Democratic Party of Germany, NAID 428080977, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428080977, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-07--Lafontaine.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
-  },
-  {
-    "id": "local-1990-09-10-helmut-kohl-telcon",
-    "date": "1990-09-10",
-    "sortDate": "1990-09-10",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "900910_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "September 7, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Oskar Lafontaine, ChancellorCandidate of the Social Democratic Party of Germany. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Oskar Lafontaine, ChancellorCandidate of the Social Democratic Party of Germany. NAID 428080977. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080977.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080977",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-07--Lafontaine.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900910_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1990-09-10-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-09-10-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900910_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 10, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 900910_BushANDKohl_Telcon.pdf, project PDF documents/regional/1990-09-10-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": []
   },
   {
     "id": "1990-09-11-366551694-95",
@@ -13800,7 +15862,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551694",
-    "pdfUrl": "documents/regional/1990-09-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-09-11-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551694",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -13829,164 +15891,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-002.pdf as a provenance sheet, followed by source pages 95-96; pageCount counts only the 2 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 11, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 95-96, Catalog: https://catalog.archives.gov/id/366551694."
-  },
-  {
-    "id": "local-1990-09-12-helmut-kohl-telcon",
-    "date": "1990-09-12",
-    "sortDate": "1990-09-12",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "900912_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "September 11, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-002, Presidential Telephone Calls - Memorandum of Conversations 8/22/90-10/5/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 95-96. Catalog: https://catalog.archives.gov/id/366551694.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551694",
+      "documents/germany-reference/1990-09-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900912_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1990-09-12-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-09-12-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900912_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 12, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 900912_BushANDKohl_Telcon.pdf, project PDF documents/regional/1990-09-12-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
-  },
-  {
-    "id": "local-1990-09-13-helmut-kohl-telcon",
-    "date": "1990-09-13",
-    "sortDate": "1990-09-13",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "900913_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
-    ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-900913_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1990-09-13-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-09-13-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "900913_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 13, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 900913_BushANDKohl_Telcon.pdf, project PDF documents/regional/1990-09-13-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
-  },
-  {
-    "id": "local-1990-10-03-helmut-kohl-telcon",
-    "date": "1990-10-03",
-    "sortDate": "1990-10-03",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "901003_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
-    ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-901003_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1990-10-03-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-10-03-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "901003_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: October 3, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 901003_BushANDKohl_Telcon.pdf, project PDF documents/regional/1990-10-03-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": []
   },
   {
     "id": "1990-10-17-366551695-15",
@@ -14009,7 +15924,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551695",
-    "pdfUrl": "documents/regional/1990-10-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-10-17-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551695",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14038,8 +15953,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 15-17; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: October 17, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 15-17, Catalog: https://catalog.archives.gov/id/366551695."
+    "dateLine": "October 17, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 15-17. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/germany-reference/1990-10-17-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-10-26-366551695-28",
@@ -14062,7 +15986,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551695",
-    "pdfUrl": "documents/regional/1990-10-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-10-26-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551695",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14091,8 +16015,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 28-30; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: October 26, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 28-30, Catalog: https://catalog.archives.gov/id/366551695."
+    "dateLine": "October 26, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 28-30. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/germany-reference/1990-10-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-11-11-366551695-47",
@@ -14115,7 +16048,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551695",
-    "pdfUrl": "documents/regional/1990-11-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-11-11-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551695",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14144,8 +16077,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 47-47; pageCount counts only the 1 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: November 11, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 47-47, Catalog: https://catalog.archives.gov/id/366551695."
+    "dateLine": "November 11, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 47-47. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/germany-reference/1990-11-11-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1990-12-02-366551695-85",
@@ -14168,7 +16110,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551695",
-    "pdfUrl": "documents/regional/1990-12-02-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1990-12-02-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551695",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14197,8 +16139,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 85-87; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: December 2, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 85-87, Catalog: https://catalog.archives.gov/id/366551695."
+    "dateLine": "December 2, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90-12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 85-87. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551695",
+      "documents/germany-reference/1990-12-02-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1990-12-17-helmut-kohl-telcon",
@@ -14219,24 +16170,16 @@ window.MEMCONS = [
       "number": 5,
       "name": "Germany Reference"
     },
-    "releaseStatus": "Unknown",
+    "releaseStatus": "Declassified",
     "naid": "local-901217_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1990-12-17-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-12-17-bush-helmut-kohl-telcon.pdf",
+    "pdfUrl": "documents/germany-reference/1990-12-17-bush-helmut-kohl-telcon.pdf",
+    "catalogUrl": "documents/germany-reference/1990-12-17-bush-helmut-kohl-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
       "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
-      "duplicateSources": [
-        {
-          "sourceName": "Brent Scowcroft Papers",
-          "series": "Presidential Correspondence Files, Presidential Telcon Files",
-          "localIdentifier": "91112-003",
-          "naid": "366551695",
-          "sourceFile": "41-bpr-scow-pcor-telcon-91112-003.pdf",
-          "sourcePages": "88-90",
-          "reason": "already-in-current-collection"
-        }
-      ]
+      "series": "European and Eurasian Directorate, Central Chronological Files",
+      "localIdentifier": "30512-003",
+      "foiaNumber": "2011-0002-F"
     },
     "frusVolume": {
       "id": "frus1989-92v08",
@@ -14255,65 +16198,21 @@ window.MEMCONS = [
       "Germany Reference",
       "Germany"
     ],
-    "pageCount": 8,
+    "pageCount": 6,
     "localOriginalFile": "901217_BushANDKohl_Telcon.pdf",
     "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: December 17, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 901217_BushANDKohl_Telcon.pdf, project PDF documents/regional/1990-12-17-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
-  },
-  {
-    "id": "local-1990-12-31-helmut-kohl-telcon",
-    "date": "1990-12-31",
-    "sortDate": "1990-12-31",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "901231_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "The Oval Office, December 17, 1990, 8:37 - 8:50 a.m.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30512, Folder ID 30512-003, December 1990 [1]. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Eurasian Directorate, Central Chronological Files, OA/ID 30512, Folder ID 30512-003, December 1990 [1]. Originally processed under FOIA 2011-0002-F. The project PDF begins with the FOIA marker provenance sheet and includes 6 pages of conversation text. Source file 901217_BushANDKohl_Telcon.pdf.",
+    "provenanceLinks": [
+      "documents/germany-reference/1990-12-17-bush-helmut-kohl-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-901231_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1990-12-31-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1990-12-31-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "901231_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: December 31, 1990",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 901231_BushANDKohl_Telcon.pdf, project PDF documents/regional/1990-12-31-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": [],
+    "provenancePages": 1
   },
   {
     "id": "1991-01-16-366551696-52",
@@ -14336,7 +16235,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551696",
-    "pdfUrl": "documents/regional/1991-01-16-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-01-16-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551696",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14365,71 +16264,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 52-53; pageCount counts only the 2 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: January 16, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 52-53, Catalog: https://catalog.archives.gov/id/366551696."
-  },
-  {
-    "id": "local-1991-01-22-helmut-kohl-telcon",
-    "date": "1991-01-22",
-    "sortDate": "1991-01-22",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "910122_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "January 16, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 52-53. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551696",
+      "documents/germany-reference/1991-01-16-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910122_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1991-01-22-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1991-01-22-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
-      "duplicateSources": [
-        {
-          "sourceName": "Brent Scowcroft Papers",
-          "series": "Presidential Correspondence Files, Presidential Telcon Files",
-          "localIdentifier": "91112-004",
-          "naid": "366551696",
-          "sourceFile": "41-bpr-scow-pcor-telcon-91112-004.pdf",
-          "sourcePages": "94-98",
-          "reason": "already-in-current-collection"
-        }
-      ]
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "910122_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: January 22, 1991",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 910122_BushANDKohl_Telcon.pdf, project PDF documents/regional/1991-01-22-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": []
   },
   {
     "id": "1991-01-24-366551696-99",
@@ -14452,7 +16297,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551696",
-    "pdfUrl": "documents/regional/1991-01-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-01-24-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551696",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14481,60 +16326,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 99-101; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: January 24, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 99-101, Catalog: https://catalog.archives.gov/id/366551696."
-  },
-  {
-    "id": "local-1991-01-26-helmut-kohl-telcon",
-    "date": "1991-01-26",
-    "sortDate": "1991-01-26",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "910126_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "January 24, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 99-101. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551696",
+      "documents/germany-reference/1991-01-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910126_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1991-01-26-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1991-01-26-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "910126_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: January 26, 1991",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 910126_BushANDKohl_Telcon.pdf, project PDF documents/regional/1991-01-26-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": []
   },
   {
     "id": "1991-01-28-366551696-106",
@@ -14557,7 +16359,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551696",
-    "pdfUrl": "documents/regional/1991-01-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-01-28-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551696",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14586,8 +16388,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 106-109; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: January 28, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 106-109, Catalog: https://catalog.archives.gov/id/366551696."
+    "dateLine": "January 28, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91-1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 106-109. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551696",
+      "documents/germany-reference/1991-01-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-02-18-366551697-97",
@@ -14610,7 +16421,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551697",
-    "pdfUrl": "documents/regional/1991-02-18-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-02-18-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551697",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14639,8 +16450,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-005.pdf as a provenance sheet, followed by source pages 97-100; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: February 18, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 97-100, Catalog: https://catalog.archives.gov/id/366551697."
+    "dateLine": "February 18, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91-2/22/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91-2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 97-100. Catalog: https://catalog.archives.gov/id/366551697.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551697",
+      "documents/germany-reference/1991-02-18-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-02-23-366551698-24",
@@ -14663,7 +16483,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551698",
-    "pdfUrl": "documents/regional/1991-02-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-02-23-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551698",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14692,8 +16512,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-006.pdf as a provenance sheet, followed by source pages 24-26; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: February 23, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-006, Presidential Telephone Calls--Memorandum of Conversations 2/22/91-3/6/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 24-26, Catalog: https://catalog.archives.gov/id/366551698."
+    "dateLine": "February 23, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-006, Presidential Telephone Calls - Memorandum of Conversations 2/22/91-3/6/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-006, Presidential Telephone Calls - Memorandum of Conversations 2/22/91-3/6/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 24-26. Catalog: https://catalog.archives.gov/id/366551698.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551698",
+      "documents/germany-reference/1991-02-23-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-03-01-428081523",
@@ -14744,9 +16573,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Hans-Dietrich Genscher, Foreign Minister of Germany, March 1, 1991",
-    "dateLine": "Date: March 1, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Hans-Dietrich Genscher, Foreign Minister of Germany, March 1, 1991, NAID 428081523, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081523, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-01--Genscher.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "March 1, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Hans-Dietrich Genscher, Foreign Minister of Germany, March 1, 1991. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Hans-Dietrich Genscher, Foreign Minister of Germany, March 1, 1991. NAID 428081523. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081523.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081523",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-01--Genscher.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-03-07-366551699-4",
@@ -14769,7 +16606,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551699",
-    "pdfUrl": "documents/regional/1991-03-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-03-07-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551699",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14798,8 +16635,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 4-7; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: March 7, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 4-7, Catalog: https://catalog.archives.gov/id/366551699."
+    "dateLine": "March 7, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 4-7. Catalog: https://catalog.archives.gov/id/366551699.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551699",
+      "documents/germany-reference/1991-03-07-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-03-19-428081537",
@@ -14850,16 +16696,24 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Governing Mayor Eberhard Diepgen of Berlin, Germany, March 19, 1991",
-    "dateLine": "Date: March 19, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Governing Mayor Eberhard Diepgen of Berlin, Germany, March 19, 1991, NAID 428081537, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081537, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-19--Diepgen.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "March 19, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Governing Mayor Eberhard Diepgen of Berlin, Germany, March 19, 1991. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Governing Mayor Eberhard Diepgen of Berlin, Germany, March 19, 1991. NAID 428081537. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081537.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081537",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-19--Diepgen.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1991-03-21-helmut-kohl-memcon",
     "date": "1991-03-21",
     "sortDate": "1991-03-21",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Helmut Kohl",
+    "type": "Telcon",
+    "title": "Telephone conversation: President Bush and Helmut Kohl",
     "sourceTitle": "910321_BushANDKohl_Memcon.pdf",
     "participants": [
       "George H. W. Bush",
@@ -14875,8 +16729,8 @@ window.MEMCONS = [
     },
     "releaseStatus": "Unknown",
     "naid": "local-910321_BushANDKohl_Memcon",
-    "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-memcon.pdf",
-    "catalogUrl": "documents/regional/1991-03-21-bush-helmut-kohl-memcon.pdf",
+    "pdfUrl": "documents/germany-reference/1991-03-21-bush-helmut-kohl-memcon.pdf",
+    "catalogUrl": "documents/germany-reference/1991-03-21-bush-helmut-kohl-memcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
       "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
@@ -14896,15 +16750,26 @@ window.MEMCONS = [
       "Western Europe",
       "Germany and German unification",
       "Germany Reference",
-      "Germany"
+      "Germany",
+      "Corrected type from local filename"
     ],
     "pageCount": 5,
     "localOriginalFile": "910321_BushANDKohl_Memcon.pdf",
-    "notes": "Source-folder audit: trimmed oversized packet to the five pages of Kohl memcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of Conversation",
+    "notes": "Source-folder audit: trimmed oversized packet to the five pages of Kohl memcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional. Corrected after OCR audit: the subject line identifies this as a telcon with Chancellor Kohl.",
+    "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: March 21, 1991",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 910321_BushANDKohl_Memcon.pdf, project PDF documents/regional/1991-03-21-bush-helmut-kohl-memcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "dateLine": "The Oval Office, March 21, 1991, 3:02 - 3:23 p.m.",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910321_BushANDKohl_Memcon.pdf, project PDF documents/germany-reference/1991-03-21-bush-helmut-kohl-memcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/germany-reference/1991-03-21-bush-helmut-kohl-memcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1991-03-21-366551699-8",
@@ -14927,7 +16792,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551699",
-    "pdfUrl": "documents/regional/1991-03-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-03-21-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551699",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -14956,8 +16821,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 8-12; pageCount counts only the 5 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: March 21, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 8-12, Catalog: https://catalog.archives.gov/id/366551699."
+    "dateLine": "March 21, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 8-12. Catalog: https://catalog.archives.gov/id/366551699.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551699",
+      "documents/germany-reference/1991-03-21-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-04-12-428081581",
@@ -15008,9 +16882,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Defense Minister Gerhard Stoltenberg of Germany, April 12, 1991",
-    "dateLine": "Date: April 12, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Defense Minister Gerhard Stoltenberg of Germany, April 12, 1991, NAID 428081581, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081581, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-04-12--Stoltenberg.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "April 12, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Defense Minister Gerhard Stoltenberg of Germany, April 12, 1991. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Defense Minister Gerhard Stoltenberg of Germany, April 12, 1991. NAID 428081581. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081581.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081581",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-04-12--Stoltenberg.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1991-04-16-helmut-kohl-telcon",
@@ -15033,8 +16915,8 @@ window.MEMCONS = [
     },
     "releaseStatus": "Unknown",
     "naid": "local-910416_BushANDMajor_Telcon-corrected-helmut-kohl",
-    "pdfUrl": "documents/regional/1991-04-16-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1991-04-16-bush-helmut-kohl-telcon.pdf",
+    "pdfUrl": "documents/germany-reference/1991-04-16-bush-helmut-kohl-telcon.pdf",
+    "catalogUrl": "documents/germany-reference/1991-04-16-bush-helmut-kohl-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
       "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
@@ -15072,60 +16954,18 @@ window.MEMCONS = [
     "notes": "Corrected after OCR audit: the conversation text is with Chancellor Helmut Kohl, not John Major; unrelated packet pages removed. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: April 16, 1991",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 910416_BushANDMajor_Telcon.pdf, project PDF documents/regional/1991-04-16-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
-  },
-  {
-    "id": "local-1991-04-18-helmut-kohl-telcon",
-    "date": "1991-04-18",
-    "sortDate": "1991-04-18",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "910418_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "The Oval Office, April 16, 1991, 8:42 - 8:59 a.m.",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 910416_BushANDMajor_Telcon.pdf, project PDF documents/germany-reference/1991-04-16-bush-helmut-kohl-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/germany-reference/1991-04-16-bush-helmut-kohl-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910418_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1991-04-18-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1991-04-18-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "910418_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: April 18, 1991",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 910418_BushANDKohl_Telcon.pdf, project PDF documents/regional/1991-04-18-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1991-04-25-366551699-70",
@@ -15148,7 +16988,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551699",
-    "pdfUrl": "documents/regional/1991-04-25-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-04-25-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551699",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -15177,8 +17017,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-007.pdf as a provenance sheet, followed by source pages 70-72; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: April 25, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 70-72, Catalog: https://catalog.archives.gov/id/366551699."
+    "dateLine": "April 25, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91-4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 70-72. Catalog: https://catalog.archives.gov/id/366551699.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551699",
+      "documents/germany-reference/1991-04-25-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-05-20-428081647",
@@ -15231,9 +17080,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: May 20, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany, May 20, 1991, NAID 428081647, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081647, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-20--Kohl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "May 20, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany, May 20, 1991. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany, May 20, 1991. NAID 428081647. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081647.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081647",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-20--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-05-21-428081673",
@@ -15286,61 +17143,17 @@ window.MEMCONS = [
     "pageCount": 6,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: May 21, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany, May 21, 1991, NAID 428081673, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081673, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-21--Kohl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
-  },
-  {
-    "id": "local-1991-06-24-helmut-kohl-memcon",
-    "date": "1991-06-24",
-    "sortDate": "1991-06-24",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Helmut Kohl",
-    "sourceTitle": "910624_BushANDKohl_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "May 21, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany, May 21, 1991. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany, May 21, 1991. NAID 428081673. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081673.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081673",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-21--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-910624_BushANDKohl_Memcon",
-    "pdfUrl": "documents/regional/1991-06-24-bush-helmut-kohl-memcon.pdf",
-    "catalogUrl": "documents/regional/1991-06-24-bush-helmut-kohl-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "910624_BushANDKohl_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: June 24, 1991",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 910624_BushANDKohl_Memcon.pdf, project PDF documents/regional/1991-06-24-bush-helmut-kohl-memcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": []
   },
   {
     "id": "1991-06-24-366551700-80",
@@ -15363,7 +17176,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551700",
-    "pdfUrl": "documents/regional/1991-06-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-06-24-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551700",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -15392,8 +17205,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-008.pdf as a provenance sheet, followed by source pages 80-83; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: June 24, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-008, Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 80-83, Catalog: https://catalog.archives.gov/id/366551700."
+    "dateLine": "June 24, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-008, Presidential Telephone Calls - Memorandum of Conversations 5/3/91-7/21/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-008, Presidential Telephone Calls - Memorandum of Conversations 5/3/91-7/21/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 80-83. Catalog: https://catalog.archives.gov/id/366551700.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551700",
+      "documents/germany-reference/1991-06-24-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-06-28-428081733",
@@ -15444,9 +17266,17 @@ window.MEMCONS = [
     "pageCount": 3,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Bavarian Minister-President Max Streibl of Germany on June 28, 1991",
-    "dateLine": "Date: June 28, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Bavarian Minister-President Max Streibl of Germany on June 28, 1991, NAID 428081733, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081733, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-28--Streibl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "June 28, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Bavarian Minister-President Max Streibl of Germany on June 28, 1991. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Bavarian Minister-President Max Streibl of Germany on June 28, 1991. NAID 428081733. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081733.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081733",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-28--Streibl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-07-08-366551700-84",
@@ -15469,7 +17299,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551700",
-    "pdfUrl": "documents/regional/1991-07-08-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-07-08-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551700",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -15498,8 +17328,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-008.pdf as a provenance sheet, followed by source pages 84-85; pageCount counts only the 2 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: July 8, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-008, Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 84-85, Catalog: https://catalog.archives.gov/id/366551700."
+    "dateLine": "July 8, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-008, Presidential Telephone Calls - Memorandum of Conversations 5/3/91-7/21/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-008, Presidential Telephone Calls - Memorandum of Conversations 5/3/91-7/21/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 84-85. Catalog: https://catalog.archives.gov/id/366551700.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551700",
+      "documents/germany-reference/1991-07-08-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-07-15-428081741",
@@ -15552,9 +17391,17 @@ window.MEMCONS = [
     "pageCount": 6,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: July 15, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany on July 15, 1991, NAID 428081741, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081741, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-15--Kohl.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "July 15, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany on July 15, 1991. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany on July 15, 1991. NAID 428081741. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081741.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081741",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-15--Kohl.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-08-19-366551701-11",
@@ -15577,7 +17424,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551701",
-    "pdfUrl": "documents/regional/1991-08-19-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-08-19-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551701",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -15606,8 +17453,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 11-11; pageCount counts only the 1 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: August 19, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 11-11, Catalog: https://catalog.archives.gov/id/366551701."
+    "dateLine": "August 19, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 11-11. Catalog: https://catalog.archives.gov/id/366551701.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551701",
+      "documents/germany-reference/1991-08-19-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-08-26-366551701-63",
@@ -15630,7 +17486,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551701",
-    "pdfUrl": "documents/regional/1991-08-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-08-26-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551701",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -15659,8 +17515,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 63-66; pageCount counts only the 4 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: August 26, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 63-66, Catalog: https://catalog.archives.gov/id/366551701."
+    "dateLine": "August 26, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 63-66. Catalog: https://catalog.archives.gov/id/366551701.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551701",
+      "documents/germany-reference/1991-08-26-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-08-27-366551701-74",
@@ -15683,7 +17548,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551701",
-    "pdfUrl": "documents/regional/1991-08-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-08-27-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551701",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -15712,8 +17577,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 74-76; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: August 27, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 74-76, Catalog: https://catalog.archives.gov/id/366551701."
+    "dateLine": "August 27, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91-9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 74-76. Catalog: https://catalog.archives.gov/id/366551701.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551701",
+      "documents/germany-reference/1991-08-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-09-16-428081883",
@@ -15777,9 +17651,17 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 16, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Expanded Meeting with Helmut Kohl, Chancellor of Germany, September 16, 1991 (2 of 2), NAID 428081883, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081883, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-16--Kohl-2.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "September 16, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Expanded Meeting with Helmut Kohl, Chancellor of Germany, September 16, 1991 (2 of 2). Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Expanded Meeting with Helmut Kohl, Chancellor of Germany, September 16, 1991 (2 of 2). NAID 428081883. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081883.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081883",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-16--Kohl-2.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-09-16-428081881",
@@ -15843,9 +17725,17 @@ window.MEMCONS = [
     "pageCount": 5,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 16, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany, September 16, 1991 (1 of 2), NAID 428081881, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081881, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-16--Kohl-1.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "September 16, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany, September 16, 1991 (1 of 2). Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Helmut Kohl, Chancellor of Germany, September 16, 1991 (1 of 2). NAID 428081881. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081881.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081881",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-16--Kohl-1.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-09-27-366551702-20",
@@ -15868,7 +17758,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551702",
-    "pdfUrl": "documents/regional/1991-09-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-09-27-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551702",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -15897,8 +17787,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 20-20; pageCount counts only the 1 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 27, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 20-20, Catalog: https://catalog.archives.gov/id/366551702."
+    "dateLine": "September 27, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 20-20. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/germany-reference/1991-09-27-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1991-10-03-428081933",
@@ -15949,9 +17848,17 @@ window.MEMCONS = [
     "pageCount": 4,
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Foreign Minister Hans-Dietrich Genscher of Germany, October 3, 1991",
-    "dateLine": "Date: October 3, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, National Security Council, Meeting with Foreign Minister Hans-Dietrich Genscher of Germany, October 3, 1991, NAID 428081933, Full, FOIA 2000-0429-F, Catalog: https://catalog.archives.gov/id/428081933, Digital copy: https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-03--Genscher.pdf.",
-    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional."
+    "dateLine": "October 3, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Foreign Minister Hans-Dietrich Genscher of Germany, October 3, 1991. Full release.",
+    "notes": "Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Meeting with Foreign Minister Hans-Dietrich Genscher of Germany, October 3, 1991. NAID 428081933. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428081933.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428081933",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-03--Genscher.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1991-11-26-helmut-kohl-telcon",
@@ -15974,8 +17881,8 @@ window.MEMCONS = [
     },
     "releaseStatus": "Unknown",
     "naid": "local-911126_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1991-11-26-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1991-11-26-bush-helmut-kohl-telcon.pdf",
+    "pdfUrl": "documents/germany-reference/1991-11-26-bush-helmut-kohl-telcon.pdf",
+    "catalogUrl": "documents/germany-reference/1991-11-26-bush-helmut-kohl-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
       "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
@@ -16013,8 +17920,18 @@ window.MEMCONS = [
     "notes": "Replaced wrong Lubbers-first packet with the clean Kohl variant and trimmed to conversation text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: November 26, 1991",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 911126_BushANDKohl_Telcon_01.pdf, project PDF documents/regional/1991-11-26-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "dateLine": "The Oval Office, November 26, 1991, 11:47 - 11:57 a.m.",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 911126_BushANDKohl_Telcon_01.pdf, project PDF documents/germany-reference/1991-11-26-bush-helmut-kohl-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/germany-reference/1991-11-26-bush-helmut-kohl-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1991-12-14-366551702-122",
@@ -16037,7 +17954,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551702",
-    "pdfUrl": "documents/regional/1991-12-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1991-12-14-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551702",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -16066,8 +17983,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-002.pdf as a provenance sheet, followed by source pages 122-124; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: December 14, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 122-124, Catalog: https://catalog.archives.gov/id/366551702."
+    "dateLine": "December 14, 1991",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 122-124. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551702",
+      "documents/germany-reference/1991-12-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-01-23-366551703-12-withheld",
@@ -16090,7 +18016,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Withheld under b(1)",
     "naid": "366551703",
-    "pdfUrl": "documents/regional/1992-01-23-bush-helmut-kohl-telcon-withheld-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1992-01-23-bush-helmut-kohl-telcon-withheld-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551703",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -16119,8 +18045,19 @@ window.MEMCONS = [
     "documentTitle": "Memorandum of a Telephone Conversation",
     "dateLine": "Washington, January 23, 1992",
     "subjectLine": "President Bush and Helmut Kohl; withheld 3-page telcon",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92, Access restricted: withdrawal sheet identifies Telcon Re: Telcon with Chancellor Helmut Kohl of Germany (3 pp.), January 23, 1992, closed under (b)(1). The project PDF includes the provenance sheet, NSC cover memorandum, and withdrawal sheet; conversation text is not declassified. Catalog: https://catalog.archives.gov/id/366551703.",
-    "notes": "Listed because the Scowcroft file documents a Bush-Kohl telcon that remains withheld. Page count comes from the withdrawal sheet, not released conversation text."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92-4/9/92. Not declassified. Approximate extent: 3 pages.",
+    "notes": "Listed because the Scowcroft file documents a Bush-Kohl telcon that remains withheld. Page count comes from the withdrawal sheet, not released conversation text.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92-4/9/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 12-13. Catalog: https://catalog.archives.gov/id/366551703.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551703",
+      "documents/germany-reference/1992-01-23-bush-helmut-kohl-telcon-withheld-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-003.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": [
+      "declassification-review"
+    ]
   },
   {
     "id": "1992-03-21-366551682-33",
@@ -16143,7 +18080,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551682",
-    "pdfUrl": "documents/regional/1992-03-21-bush-helmut-kohl-memcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1992-03-21-bush-helmut-kohl-memcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551682",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -16172,123 +18109,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91109-007.pdf as a provenance sheet, followed by source pages 33-49; pageCount counts only the 17 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: March 21, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Memcon Files, OA/ID 91109-007, Presidential Meetings--Memorandum of Conversations 3/3/92-4/28/92, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 33-49, Catalog: https://catalog.archives.gov/id/366551682."
-  },
-  {
-    "id": "local-1992-03-31-helmut-kohl-memcon",
-    "date": "1992-03-31",
-    "sortDate": "1992-03-31",
-    "type": "Memcon",
-    "title": "Meeting memorandum: President Bush and Helmut Kohl",
-    "sourceTitle": "920331_BushANDKohl_Memcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
+    "dateLine": "March 21, 1992",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-007, Presidential Meetings - Memorandum of Conversations 3/3/92-4/28/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-007, Presidential Meetings - Memorandum of Conversations 3/3/92-4/28/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 33-49. Catalog: https://catalog.archives.gov/id/366551682.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551682",
+      "documents/germany-reference/1992-03-21-bush-helmut-kohl-memcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-007.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
     ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-920331_BushANDKohl_Memcon",
-    "pdfUrl": "documents/regional/1992-03-31-bush-helmut-kohl-memcon.pdf",
-    "catalogUrl": "documents/regional/1992-03-31-bush-helmut-kohl-memcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe"
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "920331_BushANDKohl_Memcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: March 31, 1992",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 920331_BushANDKohl_Memcon.pdf, project PDF documents/regional/1992-03-31-bush-helmut-kohl-memcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
-  },
-  {
-    "id": "local-1992-05-06-helmut-kohl-telcon",
-    "date": "1992-05-06",
-    "sortDate": "1992-05-06",
-    "type": "Telcon",
-    "title": "Telephone conversation: President Bush and Helmut Kohl",
-    "sourceTitle": "920506_BushANDKohl_Telcon.pdf",
-    "participants": [
-      "George H. W. Bush",
-      "Helmut Kohl"
-    ],
-    "countries": [
-      "United States",
-      "Germany"
-    ],
-    "chapter": {
-      "number": 5,
-      "name": "Germany Reference"
-    },
-    "releaseStatus": "Unknown",
-    "naid": "local-920506_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1992-05-06-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1992-05-06-bush-helmut-kohl-telcon.pdf",
-    "source": {
-      "name": "Local Bush memcons extractor output",
-      "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
-      "duplicateSources": [
-        {
-          "sourceName": "Brent Scowcroft Papers",
-          "series": "Presidential Correspondence Files, Presidential Telcon Files",
-          "localIdentifier": "91113-004",
-          "naid": "366551704",
-          "sourceFile": "41-bpr-scow-pcor-telcon-91113-004.pdf",
-          "sourcePages": "23-24",
-          "reason": "already-in-current-collection"
-        }
-      ]
-    },
-    "frusVolume": {
-      "id": "frus1989-92v08",
-      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
-      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
-      "status": "Being Researched"
-    },
-    "frusTopics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference"
-    ],
-    "topics": [
-      "Western Europe",
-      "Germany and German unification",
-      "Germany Reference",
-      "Germany"
-    ],
-    "pageCount": 2,
-    "localOriginalFile": "920506_BushANDKohl_Telcon.pdf",
-    "notes": "Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
-    "documentTitle": "Memorandum of a Telephone Conversation",
-    "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: May 6, 1992",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 920506_BushANDKohl_Telcon.pdf, project PDF documents/regional/1992-05-06-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "compilerRisks": []
   },
   {
     "id": "1992-06-28-366551704-83",
@@ -16311,7 +18142,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551704",
-    "pdfUrl": "documents/regional/1992-06-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1992-06-28-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551704",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -16340,8 +18171,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-004.pdf as a provenance sheet, followed by source pages 83-85; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: June 28, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 83-85, Catalog: https://catalog.archives.gov/id/366551704."
+    "dateLine": "June 28, 1992",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92-6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 83-85. Catalog: https://catalog.archives.gov/id/366551704.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551704",
+      "documents/germany-reference/1992-06-28-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "local-1992-09-28-helmut-kohl-telcon",
@@ -16364,8 +18204,8 @@ window.MEMCONS = [
     },
     "releaseStatus": "Unknown",
     "naid": "local-920928_BushANDKohl_Telcon",
-    "pdfUrl": "documents/regional/1992-09-28-bush-helmut-kohl-telcon.pdf",
-    "catalogUrl": "documents/regional/1992-09-28-bush-helmut-kohl-telcon.pdf",
+    "pdfUrl": "documents/germany-reference/1992-09-28-bush-helmut-kohl-telcon.pdf",
+    "catalogUrl": "documents/germany-reference/1992-09-28-bush-helmut-kohl-telcon.pdf",
     "source": {
       "name": "Local Bush memcons extractor output",
       "url": "https://github.com/therealjameswilson/Bush41-Western-Europe",
@@ -16403,8 +18243,18 @@ window.MEMCONS = [
     "notes": "Source-folder audit: trimmed oversized packet to the two pages of Kohl telcon text. Deduped from the local Bush memcons extractor output; official catalog metadata still needs manual reconciliation. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: September 28, 1992",
-    "sourceNote": "Source: Local Bush memcons extractor output, source file 920928_BushANDKohl_Telcon.pdf, project PDF documents/regional/1992-09-28-bush-helmut-kohl-telcon.pdf, release status Unknown, official catalog metadata requires manual reconciliation."
+    "dateLine": "Air Force One, September 28, 1992, 1:32 - 1:39 p.m. EST",
+    "sourceNote": "Source: Citation sheet extraction pending.",
+    "provenanceStatus": "project-only",
+    "provenanceNote": "Source: Project-only working copy. source file 920928_BushANDKohl_Telcon.pdf, project PDF documents/germany-reference/1992-09-28-bush-helmut-kohl-telcon.pdf, citation sheet reconciliation pending.",
+    "provenanceLinks": [
+      "documents/germany-reference/1992-09-28-bush-helmut-kohl-telcon.pdf",
+      "https://github.com/therealjameswilson/Bush41-Western-Europe"
+    ],
+    "compilerRisks": [
+      "citation-sheet-reconciliation",
+      "release-status-unknown"
+    ]
   },
   {
     "id": "1992-10-14-366551705-56",
@@ -16427,7 +18277,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551705",
-    "pdfUrl": "documents/regional/1992-10-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1992-10-14-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551705",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -16456,8 +18306,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 56-58; pageCount counts only the 3 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: October 14, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 56-58, Catalog: https://catalog.archives.gov/id/366551705."
+    "dateLine": "October 14, 1992",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 56-58. Catalog: https://catalog.archives.gov/id/366551705.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551705",
+      "documents/germany-reference/1992-10-14-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   },
   {
     "id": "1992-11-04-366551705-76",
@@ -16480,7 +18339,7 @@ window.MEMCONS = [
     },
     "releaseStatus": "Declassified",
     "naid": "366551705",
-    "pdfUrl": "documents/regional/1992-11-04-bush-helmut-kohl-telcon-scowcroft.pdf",
+    "pdfUrl": "documents/germany-reference/1992-11-04-bush-helmut-kohl-telcon-scowcroft.pdf",
     "catalogUrl": "https://catalog.archives.gov/id/366551705",
     "source": {
       "name": "Brent Scowcroft Papers",
@@ -16509,7 +18368,17 @@ window.MEMCONS = [
     "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 76-76; pageCount counts only the 1 pages of conversation text. Restored as a Germany reference record after the earlier Germany-specific exclusion audit. Keep separate from the four Western Europe chapter sequence unless the compiler elects to fold Germany material into Regional.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "President Bush and Helmut Kohl",
-    "dateLine": "Date: November 4, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, George H.W. Bush Presidential Records, Scowcroft, Brent, Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92, Declassified, Originally processed under FOIA 2009-0275-S, The project PDF includes the provenance sheet and source pages 76-76, Catalog: https://catalog.archives.gov/id/366551705."
+    "dateLine": "November 4, 1992",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified.",
+    "provenanceStatus": "citation-sheet",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92-11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 76-76. Catalog: https://catalog.archives.gov/id/366551705.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/366551705",
+      "documents/germany-reference/1992-11-04-bush-helmut-kohl-telcon-scowcroft.pdf",
+      "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+    ],
+    "compilerRisks": []
   }
-];
+]
+;

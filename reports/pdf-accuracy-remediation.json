@@ -1,0 +1,300 @@
+{
+  "generatedAt": "2026-05-23T14:28:11.767Z",
+  "actions": [
+    {
+      "action": "date-line-corrected",
+      "id": "local-1992-10-02-john-major-telcon",
+      "dateLine": "Air Force One and 10 Downing Street, October 2, 1992, 1514-1521 and 1525-1537"
+    },
+    {
+      "action": "relabeled",
+      "oldPdf": "documents/united-kingdom/1992-12-03-bush-john-major-telcon.pdf",
+      "newPdf": "documents/regional/1992-12-03-bush-jean-luc-dehaene-telcon.pdf",
+      "id": "local-1992-12-03-jean-luc-dehaene-telcon"
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1990-08-20-francois-mitterrand-telcon",
+      "dateLine": "Kennebunkport, Maine, August 20, 1990, 3:59 - 4:28 p.m."
+    },
+    {
+      "action": "rebuilt-with-provenance-first",
+      "id": "local-1990-08-20-francois-mitterrand-telcon",
+      "pdfUrl": "documents/france/1990-08-20-bush-francois-mitterrand-telcon.pdf",
+      "textPages": 4,
+      "provenancePages": 1,
+      "source": {
+        "oaId": "30508",
+        "folderId": "30508-006",
+        "folderTitle": "August 1990 [2]"
+      }
+    },
+    {
+      "action": "rebuilt-with-provenance-first",
+      "id": "local-1990-09-14-francois-mitterrand-telcon",
+      "pdfUrl": "documents/france/1990-09-14-bush-francois-mitterrand-telcon.pdf",
+      "textPages": 2,
+      "provenancePages": 1,
+      "source": {
+        "oaId": "30510",
+        "folderId": "30510-001",
+        "folderTitle": "September 1990 [3]"
+      }
+    },
+    {
+      "action": "rebuilt-with-provenance-first",
+      "id": "local-1990-09-16-francois-mitterrand-telcon",
+      "pdfUrl": "documents/france/1990-09-16-bush-francois-mitterrand-telcon.pdf",
+      "textPages": 2,
+      "provenancePages": 1,
+      "source": {
+        "oaId": "30510",
+        "folderId": "30510-001",
+        "folderTitle": "September 1990 [3]"
+      }
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1991-02-05-francois-mitterrand-telcon",
+      "dateLine": "The Oval Office, February 5, 1991, 1:08 - 1:22 p.m."
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1991-09-24-francois-mitterrand-telcon",
+      "dateLine": "Waldorf Astoria, New York, September 24, 1991, 12:52 - 1:05 p.m."
+    },
+    {
+      "action": "rebuilt-with-provenance-first",
+      "id": "local-1991-09-24-francois-mitterrand-telcon",
+      "pdfUrl": "documents/france/1991-09-24-bush-francois-mitterrand-telcon.pdf",
+      "textPages": 4,
+      "provenancePages": 1,
+      "source": {
+        "oaId": "30520",
+        "folderId": "30520-001",
+        "folderTitle": "September 1991 [3]"
+      }
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1992-01-31-francois-mitterrand-memcon",
+      "dateLine": "Waldorf Towers, New York, January 31, 1992, 9:00 - 9:30 a.m. EST"
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1989-10-24-pope-john-paul-ii-telcon",
+      "dateLine": "The Oval Office, October 24, 1989, 8:40 - 8:52 a.m. EDT"
+    },
+    {
+      "action": "redated",
+      "oldId": "local-1990-01-08-felipe-gonzalez-telcon",
+      "id": "local-1990-01-04-felipe-gonzalez-telcon",
+      "oldPdf": "documents/regional/1990-01-08-bush-felipe-gonzalez-telcon.pdf",
+      "newPdf": "documents/regional/1990-01-04-bush-felipe-gonzalez-telcon.pdf"
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1990-04-17-ruud-lubbers-telcon",
+      "dateLine": "The Oval Office, April 17, 1990, 4:20 - 4:32 p.m. EST"
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1990-07-03-ruud-lubbers-telcon",
+      "dateLine": "Kennebunkport, July 3, 1990, 1:28 p.m. - 1:35 p.m."
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1991-01-21-felipe-gonzalez-telcon",
+      "dateLine": "Camp David, January 21, 1991, 7:48 - 8:02 a.m. EST"
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1989-10-23-helmut-kohl-telcon",
+      "dateLine": "The Oval Office, October 23, 1989, 9:02 - 9:26 a.m. EDT"
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1989-10-25-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1989-10-25-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1990-04-05-hans-dietrich-genscher-memcon",
+      "pdfUrl": "documents/germany-reference/1990-04-05-bush-hans-dietrich-genscher-memcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1990-06-12-helmut-kohl-memcon",
+      "pdfUrl": "documents/germany-reference/1990-06-12-bush-helmut-kohl-memcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1990-08-22-helmut-kohl-telcon",
+      "dateLine": "Kennebunkport, Maine, August 22, 1990, 8:15 - 8:36 a.m."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1990-08-23-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1990-08-23-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1990-08-30-helmut-kohl-telcon",
+      "dateLine": "White House Situation Room, August 30, 1990, 2:45 p.m. - 2:55 p.m."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1990-09-06-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1990-09-06-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1990-09-10-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1990-09-10-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1990-09-12-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1990-09-12-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1990-09-13-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1990-09-13-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1990-10-03-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1990-10-03-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "rebuilt-with-provenance-first",
+      "id": "local-1990-12-17-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1990-12-17-bush-helmut-kohl-telcon.pdf",
+      "textPages": 6,
+      "provenancePages": 1,
+      "source": {
+        "oaId": "30512",
+        "folderId": "30512-003",
+        "folderTitle": "December 1990 [1]"
+      }
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1990-12-31-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1990-12-31-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1991-01-22-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1991-01-22-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1991-01-26-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1991-01-26-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1991-03-21-helmut-kohl-memcon",
+      "dateLine": "The Oval Office, March 21, 1991, 3:02 - 3:23 p.m."
+    },
+    {
+      "action": "type-corrected",
+      "id": "local-1991-03-21-helmut-kohl-memcon"
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1991-04-16-helmut-kohl-telcon",
+      "dateLine": "The Oval Office, April 16, 1991, 8:42 - 8:59 a.m."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1991-04-18-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1991-04-18-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1991-06-24-helmut-kohl-memcon",
+      "pdfUrl": "documents/germany-reference/1991-06-24-bush-helmut-kohl-memcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1991-11-26-helmut-kohl-telcon",
+      "dateLine": "The Oval Office, November 26, 1991, 11:47 - 11:57 a.m."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1992-03-31-helmut-kohl-memcon",
+      "pdfUrl": "documents/germany-reference/1992-03-31-bush-helmut-kohl-memcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "removed-cover-only",
+      "id": "local-1992-05-06-helmut-kohl-telcon",
+      "pdfUrl": "documents/germany-reference/1992-05-06-bush-helmut-kohl-telcon.pdf",
+      "pageCount": 2,
+      "reason": "Local PDF contained only an NSC transmitting/cover memorandum and a FOIA marker, without the memorandum of conversation or telephone-conversation text."
+    },
+    {
+      "action": "date-line-corrected",
+      "id": "local-1992-09-28-helmut-kohl-telcon",
+      "dateLine": "Air Force One, September 28, 1992, 1:32 - 1:39 p.m. EST"
+    }
+  ],
+  "totals": {
+    "records": 313,
+    "pages": 1278,
+    "byChapter": {
+      "United Kingdom": {
+        "records": 43,
+        "pages": 184
+      },
+      "France": {
+        "records": 54,
+        "pages": 205
+      },
+      "Italy": {
+        "records": 20,
+        "pages": 95
+      },
+      "Regional": {
+        "records": 112,
+        "pages": 454
+      },
+      "Germany Reference": {
+        "records": 84,
+        "pages": 340
+      }
+    }
+  }
+}

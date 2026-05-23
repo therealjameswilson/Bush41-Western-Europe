@@ -18,13 +18,18 @@ the filesystem. It combines extracted Western Europe-relevant records from the
 Presidential Memcon Files section of FOIA 2000-0429-F, Brent Scowcroft Papers
 presidential memcon and telcon files, and deduped PDFs from the local Bush
 memcons extractor output.
-Each record includes `pageCount`, calculated from the linked PDF scan.
+Each record includes `pageCount`, counting only memorandum or
+telephone-conversation text pages. Provenance sheets included in project PDFs
+are tracked separately with `provenancePages`.
 
 The Public Papers reference section lives in `data/public-statements.json`, with
 a generated `data/public-statements.js` mirror. It indexes George H. W. Bush
 public statements from GovInfo's *Public Papers of the Presidents* collection
 that are titled around Western Europe countries, leaders, NATO, the European
 Community, CSCE, G-7 summitry, German unification, or related regional terms.
+The harvester also uses bounded full-text matching for GovInfo granules and
+GovInfo search results, while filtering out common false positives such as
+domestic place names and body-only administrative matches.
 
 ## Chapter Arrangement
 
@@ -41,7 +46,8 @@ telcons with Helmut Kohl, East German leader Lothar de Maiziere, and related
 German officials found in the same source base. It also lists the withheld
 January 23, 1992 Bush-Kohl telcon documented by the Scowcroft withdrawal sheet
 and splits the two distinct February 13, 1990 Bush-Kohl telcons into separate
-records.
+records. Local packets that contain only NSC cover/transmittal memoranda and
+administrative markers are excluded from active counts.
 
 The data shape lives in `data/memcons.schema.json`, with a small reference subset
 in `data/memcons.sample.json`.
@@ -53,16 +59,48 @@ needs to be rebuilt:
 
 ```bash
 node scripts/harvest-govinfo-public-statements.js
+node scripts/normalize-source-notes.js
+node scripts/remediate-compiler-gaps.js
 ```
 
 The script reads GovInfo document-in-context pages for the Bush 41 Public Papers
 volumes and writes `data/public-statements.json`,
 `data/public-statements.js`, and
-`reports/govinfo-public-statements-audit.json`. GovInfo item-level granules are
-used where available. For scanned or volume-only GovInfo packages, the record is
-anchored to the corresponding GovInfo volume package and uses the American
-Presidency Project public-text mirror only to identify the individual title and
-date pending GovInfo item-level availability.
+`reports/govinfo-public-statements-audit.json`. GovInfo item-level granules and
+GovInfo full-text search results are used where available. For scanned or
+volume-only GovInfo packages, the record is anchored to the corresponding
+GovInfo volume package and uses the American Presidency Project public-text
+mirror only to identify the individual title and date pending GovInfo item-level
+availability.
+
+`normalize-source-notes.js` separates clean FRUS-style Source Notes from the full
+working provenance trail. `remediate-compiler-gaps.js` refreshes the public gap
+ledger and disambiguates same-day/same-title calls by source pages.
+
+## Metadata Maintenance
+
+Normalize source notes, document-title wording, provenance status, and Germany
+reference PDF paths with:
+
+```bash
+node scripts/remediate-pdf-accuracy.js
+node scripts/normalize-metadata.js
+node scripts/normalize-source-notes.js
+node scripts/remediate-compiler-gaps.js
+```
+
+Run the quality gate before publishing:
+
+```bash
+node scripts/validate-data.js
+```
+
+The validator writes `reports/data-quality-audit.json` and fails on duplicate
+IDs, missing local PDFs, Scowcroft records without OA/ID folder numbers,
+Germany leader records assigned to Regional, malformed title lines, and OCR
+classification text leaking into date lines. It also checks local PDF page totals
+against `pageCount + provenancePages`. The normalization and remediation scripts
+write audit files under `reports/`.
 
 ## Source Note Standard
 
@@ -108,6 +146,9 @@ Scowcroft-only February 13, 1990 and January 23, 1992 Kohl telcon records,
 writes the Germany reference section to `data/memcons.json` and
 `data/memcons.js`, restores the local Scowcroft PDF scans, and writes
 `reports/germany-reference-restoration-audit.json`.
+After running it, run `node scripts/normalize-metadata.js` so Germany reference
+PDFs are stored under `documents/germany-reference/` and all Source lines use
+the same provenance standard.
 
 ## Source Anchors
 

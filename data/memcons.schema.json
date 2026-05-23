@@ -36,6 +36,25 @@
     "sourceTitle": {
       "type": "string"
     },
+    "documentTitle": {
+      "type": "string",
+      "enum": ["Memorandum of Conversation", "Memorandum of a Telephone Conversation"]
+    },
+    "subjectLine": {
+      "type": "string"
+    },
+    "dateLine": {
+      "type": "string"
+    },
+    "sourceNote": {
+      "type": "string",
+      "pattern": "^Source:"
+    },
+    "provenanceStatus": {
+      "type": "string",
+      "enum": ["citation-sheet", "catalog-record", "project-only"],
+      "description": "Whether the Source line is grounded in a PDF citation/provenance sheet, catalog metadata, or a project-only working copy still requiring reconciliation."
+    },
     "participants": {
       "type": "array",
       "items": {
@@ -82,7 +101,12 @@
     "pageCount": {
       "type": ["integer", "null"],
       "minimum": 1,
-      "description": "Number of pages in the official PDF scan."
+      "description": "Number of memorandum or telephone-conversation text pages, excluding provenance sheets and administrative markers."
+    },
+    "provenancePages": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of non-text provenance pages included in the project PDF."
     },
     "catalogUrl": {
       "type": "string",
@@ -101,6 +125,28 @@
         },
         "foiaNumber": {
           "type": "string"
+        },
+        "localIdentifier": {
+          "type": "string"
+        },
+        "series": {
+          "type": "string"
+        },
+        "objectUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "objectFilename": {
+          "type": "string"
+        },
+        "sourcePages": {
+          "type": "string"
+        },
+        "duplicateSources": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
         }
       }
     },
@@ -143,6 +189,25 @@
       }
     },
     "notes": {
+      "type": "string"
+    },
+    "provenanceNote": {
+      "type": "string"
+    },
+    "provenanceLinks": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri-reference"
+      }
+    },
+    "compilerRisks": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "disambiguationNote": {
       "type": "string"
     },
     "localOriginalFile": {

@@ -23,6 +23,7 @@
         <a href="#browse">Browse</a>
         <a href="#compiler">Compiler</a>
         <a href="#public-statements">Statements</a>
+        <a href="#gaps">Gaps</a>
         <a href="#sources">Sources</a>
         <a href="#ingest">Ingest</a>
       </nav>
@@ -77,19 +78,23 @@
 
       <section class="stats" aria-label="Archive summary">
         <div>
-          <span id="total-records">329</span>
-          <p>Western Europe files</p>
+          <span id="total-records">229</span>
+          <p>Volume VIII chapter files</p>
         </div>
         <div>
-          <span>4+1</span>
-          <p>chapters plus Germany reference</p>
+          <span id="total-pages">938</span>
+          <p>Volume VIII chapter pages</p>
         </div>
         <div>
-          <span id="total-pages">1317</span>
-          <p>PDF pages counted</p>
+          <span id="germany-records">84</span>
+          <p>Germany reference files</p>
         </div>
         <div>
-          <span id="public-statements-count">337</span>
+          <span id="germany-pages">340</span>
+          <p>Germany reference pages</p>
+        </div>
+        <div>
+          <span id="public-statements-count">483</span>
           <p>Public Papers references</p>
         </div>
       </section>
@@ -104,8 +109,8 @@
             <p class="chapter-number">Chapter 1</p>
             <h3>United Kingdom</h3>
             <p class="chapter-count">
-              <span data-chapter-count="United Kingdom">44</span> records /
-              <span data-chapter-pages="United Kingdom">187</span> pages
+              <span data-chapter-count="United Kingdom">43</span> records /
+              <span data-chapter-pages="United Kingdom">184</span> pages
             </p>
             <p>
               Memcons and related leader conversations centered on British policy,
@@ -118,7 +123,7 @@
             <h3>France</h3>
             <p class="chapter-count">
               <span data-chapter-count="France">54</span> records /
-              <span data-chapter-pages="France">209</span> pages
+              <span data-chapter-pages="France">205</span> pages
             </p>
             <p>
               Meetings with French leaders, including conversations on European security,
@@ -143,8 +148,8 @@
             <p class="chapter-number">Chapter 4</p>
             <h3>Regional</h3>
             <p class="chapter-count">
-              <span data-chapter-count="Regional">111</span> records /
-              <span data-chapter-pages="Regional">452</span> pages
+              <span data-chapter-count="Regional">112</span> records /
+              <span data-chapter-pages="Regional">454</span> pages
             </p>
             <p>
               All other Western Europe countries and region-wide records, arranged by
@@ -161,8 +166,8 @@
             <p class="chapter-number">Reference</p>
             <h3>Germany</h3>
             <p class="chapter-count">
-              <span data-chapter-count="Germany Reference">100</span> records /
-              <span data-chapter-pages="Germany Reference">374</span> pages
+              <span data-chapter-count="Germany Reference">84</span> records /
+              <span data-chapter-pages="Germany Reference">340</span> pages
             </p>
             <p>
               Restored reference set for Germany: identified Bush memcons and
@@ -334,11 +339,30 @@
             <span>Source level</span>
             <select id="public-statement-source-filter"></select>
           </label>
+          <label>
+            <span>Match basis</span>
+            <select id="public-statement-basis-filter"></select>
+          </label>
           <button id="public-statement-clear" type="button">Reset</button>
           <p id="public-statement-summary" class="records-summary">Loading Public Papers index...</p>
         </div>
         <div id="public-statements-root" class="records-root public-statements-root" aria-live="polite">
           <p class="loading">Loading public statements...</p>
+        </div>
+      </section>
+
+      <section class="section gap-section" id="gaps" aria-labelledby="gaps-title">
+        <div class="section-heading">
+          <p class="kicker">Compiler Risk</p>
+          <h2 id="gaps-title">Gap Remediation Ledger</h2>
+        </div>
+        <p class="records-intro">
+          Current remediation status for citation-sheet reconciliation, source-note
+          separation, public-statement coverage, same-day duplicates, release status,
+          and source-family coverage.
+        </p>
+        <div id="compiler-gaps-root" class="gap-root" aria-live="polite">
+          <p class="loading">Loading compiler gap ledger...</p>
         </div>
       </section>
 
@@ -444,6 +468,7 @@
     </footer>
     <script src="data/memcons.js"></script>
     <script src="data/public-statements.js"></script>
+    <script src="data/compiler-gaps.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

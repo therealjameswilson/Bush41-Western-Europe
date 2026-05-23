@@ -17,12 +17,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-morris-berthold-abram-be-united-states-representative-the-european-office-the",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-02-07-statement-by-press-secretary-fitzwater-on-the-acquisition-of-monsanto-electronic-materials-c",
@@ -46,12 +47,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-acquisition-monsanto-electronic-materials-company",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-02-18-statement-by-press-secretary-fitzwater-concerning-secretary-baker-s-report-to-the-president-",
@@ -59,30 +61,27 @@ window.PUBLIC_STATEMENTS = [
     "sortDate": "1989-02-18",
     "type": "Statement",
     "title": "Statement by Press Secretary Fitzwater Concerning Secretary Baker's Report to the President on Meetings With NATO Allies",
-    "countries": [
-      "United Kingdom"
-    ],
+    "countries": [],
     "leaders": [],
     "topics": [
       "Public Papers",
       "Europe",
-      "NATO",
-      "United Kingdom"
+      "NATO"
     ],
     "matchTerms": [
-      "United Kingdom",
       "Europe",
       "NATO"
     ],
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-concerning-secretary-bakers-report-the-president",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-02-21-message-to-the-congress-transmitting-the-switzerland-united-states-social-security-agreement",
@@ -128,12 +127,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-congress-transmitting-the-switzerland-united-states-social-security-agreement",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-09-statement-on-the-negotiations-on-arms-reduction-and-security-in-europe",
@@ -161,12 +161,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-the-negotiations-arms-reduction-and-security-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-17-nomination-of-frederick-morris-bush-to-be-united-states-ambassador-to-luxembourg",
@@ -188,12 +189,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-frederick-morris-bush-be-united-states-ambassador-luxembourg",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-17-nomination-of-john-giffen-weinmann-to-be-united-states-ambassador-to-finland",
@@ -215,12 +217,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-john-giffen-weinmann-be-united-states-ambassador-finland",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-17-nomination-of-joseph-zappala-to-be-united-states-ambassador-to-spain",
@@ -242,12 +245,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-joseph-zappala-be-united-states-ambassador-spain",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-17-statement-on-meeting-with-prime-minister-charles-haughey-of-ireland",
@@ -272,12 +276,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-meeting-with-prime-minister-charles-haughey-ireland",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-21-proclamation-5944-greek-independence-day-a-national-day-of-celebration-of-greek-and-american",
@@ -301,12 +306,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-5944-greek-independence-day-national-day-celebration-greek-and-american",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-23-nomination-of-walter-j-p-curley-to-be-united-states-ambassador-to-france",
@@ -337,12 +343,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-walter-jp-curley-be-united-states-ambassador-france",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-24-nomination-of-charles-edgar-redman-to-be-united-states-ambassador-to-sweden",
@@ -371,12 +378,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-charles-edgar-redman-be-united-states-ambassador-sweden",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-24-nomination-of-joseph-b-gildenhorn-to-be-united-states-ambassador-to-switzerland",
@@ -385,28 +393,26 @@ window.PUBLIC_STATEMENTS = [
     "type": "Public Statement",
     "title": "Nomination of Joseph B. Gildenhorn To Be United States Ambassador to Switzerland",
     "countries": [
-      "Switzerland",
-      "United Kingdom"
+      "Switzerland"
     ],
     "leaders": [],
     "topics": [
       "Public Papers",
-      "Switzerland",
-      "United Kingdom"
+      "Switzerland"
     ],
     "matchTerms": [
-      "Switzerland",
-      "United Kingdom"
+      "Switzerland"
     ],
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-joseph-b-gildenhorn-be-united-states-ambassador-switzerland",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-24-nomination-of-william-h-taft-iv-to-be-united-states-permanent-representative-to-the-north-at",
@@ -428,46 +434,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-william-h-taft-iv-be-united-states-permanent-representative-the-north-atlantic",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
-  },
-  {
-    "id": "ppp-1989-03-28-remarks-and-a-question-and-answer-session-with-students-at-james-madison-high-school-in-vien",
-    "date": "1989-03-28",
-    "sortDate": "1989-03-28",
-    "type": "Q&A",
-    "title": "Remarks and a Question-and-Answer Session With Students at James Madison High School in Vienna, Virginia",
-    "countries": [
-      "Austria",
-      "Spain"
-    ],
-    "leaders": [],
-    "topics": [
-      "Public Papers",
-      "Europe",
-      "Trade",
-      "Austria",
-      "Spain"
-    ],
-    "matchTerms": [
-      "Austria",
-      "Spain",
-      "Europe",
-      "Trade"
-    ],
-    "sourcePackage": "PPP-1989-book1",
-    "sourcePackageLabel": "1989, Book I",
-    "sourceKind": "GovInfo volume reference",
-    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
-    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
-    "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-with-students-james-madison-high-school-vienna",
-    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
-    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-29-continuation-of-henry-anatole-grunwald-as-united-states-ambassador-to-austria",
@@ -489,12 +462,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/continuation-henry-anatole-grunwald-united-states-ambassador-austria",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-29-nomination-of-peter-f-secchia-to-be-united-states-ambassador-to-italy",
@@ -516,12 +490,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-peter-f-secchia-be-united-states-ambassador-italy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-03-30-nomination-of-richard-anthony-moore-to-be-united-states-ambassador-to-ireland",
@@ -543,12 +518,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-richard-anthony-moore-be-united-states-ambassador-ireland",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-04-04-nomination-of-thomas-michael-tolliver-niles-to-be-united-states-representative-to-the-europe",
@@ -574,12 +550,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-thomas-michael-tolliver-niles-be-united-states-representative-the-european",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-04-04-remarks-at-a-ceremony-commemorating-the-40th-anniversary-of-the-north-atlantic-treaty",
@@ -617,39 +594,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-ceremony-commemorating-the-40th-anniversary-the-north-atlantic-treaty",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
-  },
-  {
-    "id": "ppp-1989-04-05-statement-of-administration-policy-s-248-major-fraud-act-amendments-of-1989",
-    "date": "1989-04-05",
-    "sortDate": "1989-04-05",
-    "type": "Statement",
-    "title": "Statement of Administration Policy: S. 248 - Major Fraud Act Amendments of 1989",
-    "countries": [
-      "United Kingdom"
-    ],
-    "leaders": [],
-    "topics": [
-      "Public Papers",
-      "United Kingdom"
-    ],
-    "matchTerms": [
-      "United Kingdom"
-    ],
-    "sourcePackage": "PPP-1989-book1",
-    "sourcePackageLabel": "1989, Book I",
-    "sourceKind": "GovInfo volume reference",
-    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
-    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
-    "appUrl": "https://www.presidency.ucsb.edu/documents/statement-administration-policy-s-248-major-fraud-act-amendments-1989-0",
-    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
-    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-02-continuation-of-keith-lapham-brown-as-united-states-ambassador-to-denmark",
@@ -671,12 +622,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/continuation-keith-lapham-brown-united-states-ambassador-denmark",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-03-message-to-the-congress-transmitting-the-european-economic-community-united-states-fishing-a",
@@ -696,12 +648,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-congress-transmitting-the-european-economic-community-united-states-fishing",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-03-message-to-the-congress-transmitting-the-iceland-united-states-fishing-agreement",
@@ -723,12 +676,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-congress-transmitting-the-iceland-united-states-fishing-agreement",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-05-statement-by-press-secretary-fitzwater-on-the-resumption-of-arms-control-negotiations-in-vie",
@@ -759,12 +713,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-resumption-arms-control-negotiations-vienna",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-21-the-president-s-news-conference-with-president-mitterrand-of-france",
@@ -786,7 +741,6 @@ window.PUBLIC_STATEMENTS = [
       "Western Europe",
       "Europe",
       "NATO",
-      "European Community",
       "G-7",
       "France",
       "United Kingdom",
@@ -802,18 +756,18 @@ window.PUBLIC_STATEMENTS = [
       "Western Europe",
       "Europe",
       "NATO",
-      "European Community",
       "G-7"
     ],
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-president-mitterrand-france",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-24-remarks-at-the-united-states-coast-guard-academy-commencement-ceremony-in-new-london-connect",
@@ -841,12 +795,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-united-states-coast-guard-academy-commencement-ceremony-new-london-connecticut",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-26-remarks-at-the-welcoming-ceremony-in-rome",
@@ -870,12 +825,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-rome",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-26-remarks-upon-departure-for-europe",
@@ -909,12 +865,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-upon-departure-for-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-27-remarks-following-an-audience-with-pope-john-paul-ii-in-vatican-city",
@@ -941,12 +898,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-audience-with-pope-john-paul-ii-vatican-city",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-27-remarks-to-students-at-the-american-seminary-in-vatican-city",
@@ -973,12 +931,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-students-the-american-seminary-vatican-city",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-27-toast-at-a-dinner-hosted-by-prime-minister-ciriaco-de-mita-in-rome",
@@ -1004,12 +963,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/toast-dinner-hosted-prime-minister-ciriaco-de-mita-rome",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-28-remarks-at-a-memorial-day-ceremony-in-nettuno-italy",
@@ -1041,12 +1001,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-memorial-day-ceremony-nettuno-italy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-28-remarks-to-the-american-embassy-employees-and-their-families-in-rome",
@@ -1070,12 +1031,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-american-embassy-employees-and-their-families-rome",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-28-remarks-upon-arrival-at-the-north-atlantic-treaty-organization-summit-meeting-in-brussels",
@@ -1106,12 +1068,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-upon-arrival-the-north-atlantic-treaty-organization-summit-meeting-brussels",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-29-remarks-announcing-a-conventional-arms-control-initiative-and-a-question-and-answer-session-",
@@ -1121,7 +1084,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Remarks Announcing a Conventional Arms Control Initiative and a Question-and-Answer Session With Reporters in Brussels",
     "countries": [
       "Belgium",
-      "United Kingdom",
       "Austria"
     ],
     "leaders": [],
@@ -1131,12 +1093,10 @@ window.PUBLIC_STATEMENTS = [
       "NATO",
       "Trade",
       "Belgium",
-      "United Kingdom",
       "Austria"
     ],
     "matchTerms": [
       "Belgium",
-      "United Kingdom",
       "Austria",
       "Europe",
       "NATO",
@@ -1145,12 +1105,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-announcing-conventional-arms-control-initiative-and-question-and-answer-session",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-30-declaration-of-the-heads-of-state-and-government-participating-in-the-meeting-of-the-north-a",
@@ -1160,7 +1121,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Declaration of the Heads of State and Government Participating in the Meeting of the North Atlantic Council in Brussels",
     "countries": [
       "Belgium",
-      "United Kingdom",
       "France",
       "Germany",
       "Austria"
@@ -1175,14 +1135,12 @@ window.PUBLIC_STATEMENTS = [
       "Berlin",
       "Trade",
       "Belgium",
-      "United Kingdom",
       "France",
       "Germany",
       "Austria"
     ],
     "matchTerms": [
       "Belgium",
-      "United Kingdom",
       "France",
       "Germany",
       "Austria",
@@ -1196,12 +1154,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/declaration-the-heads-state-and-government-participating-the-meeting-the-north-atlantic",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-30-north-atlantic-treaty-organization-communique-a-comprehensive-concept-of-arms-control-and-di",
@@ -1258,12 +1217,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/north-atlantic-treaty-organization-communique-comprehensive-concept-arms-control-and",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-30-remarks-and-a-question-and-answer-session-with-reporters-following-discussions-with-chancell",
@@ -1301,12 +1261,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-with-reporters-following-discussions-with-0",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-30-remarks-at-the-american-school-in-brussels",
@@ -1335,12 +1296,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-american-school-brussels",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-30-the-president-s-news-conference-following-the-north-atlantic-treaty-organization-summit-meet",
@@ -1380,12 +1342,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-following-the-north-atlantic-treaty-organization-summit-0",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-30-toast-at-a-dinner-hosted-by-chancellor-helmut-kohl-in-bonn-federal-republic-of-germany",
@@ -1416,12 +1379,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/toast-dinner-hosted-chancellor-helmut-kohl-bonn-federal-republic-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-31-remarks-to-american-embassy-employees-and-their-families-in-bonn-federal-republic-of-germany",
@@ -1447,12 +1411,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-american-embassy-employees-and-their-families-bonn-federal-republic-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-31-remarks-to-military-personnel-and-their-families-in-frankfurt-federal-republic-of-germany",
@@ -1485,12 +1450,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-military-personnel-and-their-families-frankfurt-federal-republic-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-05-31-remarks-to-the-citizens-in-mainz-federal-republic-of-germany",
@@ -1540,12 +1506,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-citizens-mainz-federal-republic-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-06-01-nomination-of-c-howard-wilkins-jr-to-be-united-states-ambassador-to-the-netherlands",
@@ -1567,12 +1534,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-c-howard-wilkins-jr-be-united-states-ambassador-the-netherlands",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-06-01-remarks-and-a-question-and-answer-session-following-discussions-with-prime-minister-margaret",
@@ -1607,12 +1575,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-following-discussions-with-prime-minister-margaret",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-06-01-remarks-to-american-embassy-employees-and-their-families-in-london",
@@ -1648,12 +1617,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-american-embassy-employees-and-their-families-london",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-06-01-toast-at-a-dinner-hosted-by-prime-minister-margaret-thatcher-in-london",
@@ -1672,7 +1642,6 @@ window.PUBLIC_STATEMENTS = [
       "Western Europe",
       "Europe",
       "NATO",
-      "European Community",
       "United Kingdom"
     ],
     "matchTerms": [
@@ -1680,18 +1649,18 @@ window.PUBLIC_STATEMENTS = [
       "Margaret Thatcher",
       "Western Europe",
       "Europe",
-      "NATO",
-      "European Community"
+      "NATO"
     ],
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/toast-dinner-hosted-prime-minister-margaret-thatcher-london",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-06-09-nomination-of-thomas-patrick-melady-to-be-united-states-ambassador-to-the-holy-see",
@@ -1713,12 +1682,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-thomas-patrick-melady-be-united-states-ambassador-the-holy-see",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-06-14-message-to-the-congress-transmitting-the-denmark-united-states-fishing-agreement",
@@ -1740,12 +1710,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-congress-transmitting-the-denmark-united-states-fishing-agreement",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-06-14-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-jacques-de",
@@ -1781,12 +1752,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-president-bushs-meeting-with-president-jacques-delors",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-06-26-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-mario-albe",
@@ -1817,12 +1789,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-president-bushs-meeting-with-president-mario-alberto",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-06-26-statement-by-press-secretary-fitzwater-on-the-persecution-of-the-turkish-minority-in-bulgari",
@@ -1847,12 +1820,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book1",
     "sourcePackageLabel": "1989, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-persecution-the-turkish-minority-bulgaria",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-06-nomination-of-michael-g-sotirhos-to-be-united-states-ambassador-to-greece",
@@ -1874,12 +1848,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-michael-g-sotirhos-be-united-states-ambassador-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-06-the-president-s-news-conference-with-journalists-from-the-economic-summit-countries",
@@ -1888,7 +1863,6 @@ window.PUBLIC_STATEMENTS = [
     "type": "News Conference",
     "title": "The President's News Conference With Journalists From the Economic Summit Countries",
     "countries": [
-      "United Kingdom",
       "France",
       "Germany",
       "Belgium",
@@ -1902,14 +1876,12 @@ window.PUBLIC_STATEMENTS = [
       "NATO",
       "G-7",
       "Trade",
-      "United Kingdom",
       "France",
       "Germany",
       "Belgium",
       "Netherlands"
     ],
     "matchTerms": [
-      "United Kingdom",
       "France",
       "Germany",
       "Belgium",
@@ -1923,12 +1895,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-journalists-from-the-economic-summit-countries",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-07-proclamation-5998-national-day-to-commemorate-the-bicentennial-of-bastille-day-the-french-re",
@@ -1950,12 +1923,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-5998-national-day-commemorate-the-bicentennial-bastille-day-the-french",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-07-remarks-on-signing-the-proclamation-commemorating-the-bicentennial-of-bastille-day-the-frenc",
@@ -1981,12 +1955,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-signing-the-proclamation-commemorating-the-bicentennial-bastille-day-the-french",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-09-advance-text-of-remarks-upon-departure-for-europe",
@@ -1995,7 +1970,6 @@ window.PUBLIC_STATEMENTS = [
     "type": "Remarks",
     "title": "Advance Text of Remarks Upon Departure for Europe",
     "countries": [
-      "United Kingdom",
       "France",
       "Netherlands"
     ],
@@ -2005,12 +1979,10 @@ window.PUBLIC_STATEMENTS = [
       "Europe",
       "G-7",
       "Trade",
-      "United Kingdom",
       "France",
       "Netherlands"
     ],
     "matchTerms": [
-      "United Kingdom",
       "France",
       "Netherlands",
       "Europe",
@@ -2020,12 +1992,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/advance-text-remarks-upon-departure-for-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-12-white-house-fact-sheet-on-the-proposal-to-reduce-conventional-forces-in-europe",
@@ -2051,12 +2024,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/white-house-fact-sheet-the-proposal-reduce-conventional-forces-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-15-informal-exchange-with-reporters-following-a-meeting-with-british-prime-minister-margaret-th",
@@ -2086,12 +2060,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/informal-exchange-with-reporters-following-meeting-with-british-prime-minister-margaret",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-15-paris-economic-summit-declaration-on-human-rights",
@@ -2115,12 +2090,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/paris-economic-summit-declaration-human-rights",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-16-paris-economic-summit-economic-declaration",
@@ -2171,12 +2147,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/paris-economic-summit-economic-declaration",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-16-the-president-s-news-conference-in-paris",
@@ -2186,7 +2163,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "The President's News Conference in Paris",
     "countries": [
       "France",
-      "United Kingdom",
       "Belgium",
       "Austria"
     ],
@@ -2200,13 +2176,11 @@ window.PUBLIC_STATEMENTS = [
       "G-7",
       "Trade",
       "France",
-      "United Kingdom",
       "Belgium",
       "Austria"
     ],
     "matchTerms": [
       "France",
-      "United Kingdom",
       "Belgium",
       "Austria",
       "Francois Mitterrand",
@@ -2218,12 +2192,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-paris",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-17-remarks-to-residents-of-leiden-the-netherlands",
@@ -2269,12 +2244,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-residents-leiden-the-netherlands",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-18-remarks-upon-returning-from-the-trip-to-europe",
@@ -2301,12 +2277,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-upon-returning-from-the-trip-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-07-19-nomination-of-loret-m-ruppe-to-be-united-states-ambassador-to-norway",
@@ -2328,12 +2305,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-loret-m-ruppe-be-united-states-ambassador-norway",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-08-01-proclamation-6005-helsinki-human-rights-day-1989",
@@ -2362,12 +2340,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6005-helsinki-human-rights-day-1989",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-08-09-nomination-of-charles-e-cobb-jr-to-be-united-states-ambassador-to-iceland",
@@ -2389,12 +2368,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-charles-e-cobb-jr-be-united-states-ambassador-iceland",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-08-12-statement-on-the-anniversary-of-the-berlin-wall",
@@ -2426,12 +2406,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-the-anniversary-the-berlin-wall",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-08-24-remarks-at-the-welcoming-ceremony-for-prime-minister-poul-schluter-of-denmark-in-kennebunkpo",
@@ -2458,12 +2439,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-for-prime-minister-poul-schluter-denmark-kennebunkport",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-08-29-nomination-of-barbara-spyridon-pope-to-be-an-assistant-secretary-of-the-navy",
@@ -2485,12 +2467,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-barbara-spyridon-pope-be-assistant-secretary-the-navy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-09-07-statement-by-press-secretary-fitzwater-on-nato-warsaw-pact-conventional-forces-negotiations",
@@ -2516,12 +2499,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-nato-warsaw-pact-conventional-forces-negotiations",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-09-23-statement-on-the-death-of-irving-berlin",
@@ -2545,12 +2529,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-the-death-irving-berlin",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-10-05-proclamation-6037-german-american-day-1989",
@@ -2576,12 +2561,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6037-german-american-day-1989",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-10-05-remarks-on-signing-the-german-american-day-proclamation",
@@ -2608,39 +2594,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-signing-the-german-american-day-proclamation",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
-  },
-  {
-    "id": "ppp-1989-10-05-statement-of-administration-policy-s-248-major-fraud-act-amendments-of-1989",
-    "date": "1989-10-05",
-    "sortDate": "1989-10-05",
-    "type": "Statement",
-    "title": "Statement of Administration Policy: S. 248 - Major Fraud Act Amendments of 1989",
-    "countries": [
-      "United Kingdom"
-    ],
-    "leaders": [],
-    "topics": [
-      "Public Papers",
-      "United Kingdom"
-    ],
-    "matchTerms": [
-      "United Kingdom"
-    ],
-    "sourcePackage": "PPP-1989-book2",
-    "sourcePackageLabel": "1989, Book II",
-    "sourceKind": "GovInfo volume reference",
-    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
-    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
-    "appUrl": "https://www.presidency.ucsb.edu/documents/statement-administration-policy-s-248-major-fraud-act-amendments-1989",
-    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
-    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-10-11-remarks-at-the-welcoming-ceremony-for-president-francesco-cossiga-of-italy",
@@ -2649,32 +2609,30 @@ window.PUBLIC_STATEMENTS = [
     "type": "Remarks",
     "title": "Remarks at the Welcoming Ceremony for President Francesco Cossiga of Italy",
     "countries": [
-      "Italy",
-      "United Kingdom"
+      "Italy"
     ],
     "leaders": [],
     "topics": [
       "Public Papers",
       "Europe",
       "NATO",
-      "Italy",
-      "United Kingdom"
+      "Italy"
     ],
     "matchTerms": [
       "Italy",
-      "United Kingdom",
       "Europe",
       "NATO"
     ],
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-for-president-francesco-cossiga-italy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-10-11-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-nato-secretary-genera",
@@ -2696,12 +2654,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-presidents-meeting-with-nato-secretary-general",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-10-11-toasts-at-the-state-dinner-for-president-francesco-cossiga-of-italy",
@@ -2711,7 +2670,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Toasts at the State Dinner for President Francesco Cossiga of Italy",
     "countries": [
       "Italy",
-      "United Kingdom",
       "France"
     ],
     "leaders": [],
@@ -2720,12 +2678,10 @@ window.PUBLIC_STATEMENTS = [
       "Europe",
       "European Community",
       "Italy",
-      "United Kingdom",
       "France"
     ],
     "matchTerms": [
       "Italy",
-      "United Kingdom",
       "France",
       "Europe",
       "European Community"
@@ -2733,12 +2689,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/toasts-the-state-dinner-for-president-francesco-cossiga-italy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-10-12-proclamation-6045-italian-american-heritage-and-culture-month-1989",
@@ -2760,12 +2717,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6045-italian-american-heritage-and-culture-month-1989",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-10-19-remarks-following-discussions-with-prime-minister-felipe-gonzalez-marquez-of-spain",
@@ -2774,8 +2732,7 @@ window.PUBLIC_STATEMENTS = [
     "type": "Remarks",
     "title": "Remarks Following Discussions With Prime Minister Felipe Gonzalez Marquez of Spain",
     "countries": [
-      "Spain",
-      "United Kingdom"
+      "Spain"
     ],
     "leaders": [
       "Felipe Gonzalez"
@@ -2784,29 +2741,26 @@ window.PUBLIC_STATEMENTS = [
       "Public Papers",
       "Europe",
       "NATO",
-      "European Community",
       "Trade",
-      "Spain",
-      "United Kingdom"
+      "Spain"
     ],
     "matchTerms": [
       "Spain",
-      "United Kingdom",
       "Felipe Gonzalez",
       "Europe",
       "NATO",
-      "European Community",
       "Trade"
     ],
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-discussions-with-prime-minister-felipe-gonzalez-marquez-spain",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-11-08-message-to-the-senate-transmitting-the-tax-convention-concerning-the-council-of-europe-and-t",
@@ -2830,12 +2784,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-senate-transmitting-the-tax-convention-concerning-the-council-europe-and-the",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-11-09-remarks-and-a-question-and-answer-session-with-reporters-on-the-relaxation-of-east-german-bo",
@@ -2870,12 +2825,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-with-reporters-the-relaxation-east-german-border",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-11-09-statement-by-press-secretary-fitzwater-on-united-states-assistance-for-east-german-emigrants",
@@ -2899,12 +2855,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-united-states-assistance-for-east-german-emigrants",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-11-10-statement-by-press-secretary-fitzwater-on-the-president-s-telephone-conversation-with-west-g",
@@ -2929,12 +2886,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-presidents-telephone-conversation-with-west-german",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-11-16-nomination-of-edward-morgan-rowell-to-be-united-states-ambassador-to-luxembourg",
@@ -2961,12 +2919,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-edward-morgan-rowell-be-united-states-ambassador-luxembourg",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-11-16-nomination-of-everett-ellis-briggs-to-be-united-states-ambassador-to-portugal",
@@ -2988,12 +2947,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-everett-ellis-briggs-be-united-states-ambassador-portugal",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-11-21-remarks-following-a-meeting-with-west-german-foreign-minister-hans-dietrich-genscher",
@@ -3026,12 +2986,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-meeting-with-west-german-foreign-minister-hans-dietrich-genscher",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-11-24-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-british-prime-ministe",
@@ -3065,12 +3026,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-presidents-meeting-with-british-prime-minister",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-11-28-statement-on-signing-the-support-for-east-european-democracy-seed-act-of-1989",
@@ -3079,7 +3041,6 @@ window.PUBLIC_STATEMENTS = [
     "type": "Statement",
     "title": "Statement on Signing the Support for East European Democracy (SEED) Act of 1989",
     "countries": [
-      "United Kingdom",
       "France"
     ],
     "leaders": [],
@@ -3087,11 +3048,9 @@ window.PUBLIC_STATEMENTS = [
       "Public Papers",
       "Europe",
       "Trade",
-      "United Kingdom",
       "France"
     ],
     "matchTerms": [
-      "United Kingdom",
       "France",
       "Europe",
       "Trade"
@@ -3099,12 +3058,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-signing-the-support-for-east-european-democracy-seed-act-1989",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-12-01-statement-by-press-secretary-fitzwater-on-the-1990-houston-economic-summit",
@@ -3139,12 +3099,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-1990-houston-economic-summit",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-12-03-remarks-at-the-welcoming-ceremony-in-brussels",
@@ -3175,12 +3136,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-brussels",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-12-03-statement-by-press-secretary-fitzwater-on-the-president-s-meetings-with-foreign-leaders-in-b",
@@ -3216,12 +3178,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-presidents-meetings-with-foreign-leaders-brussels",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-12-04-outline-of-remarks-at-the-north-atlantic-treaty-organization-headquarters-in-brussels",
@@ -3231,7 +3194,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Outline of Remarks at the North Atlantic Treaty Organization Headquarters in Brussels",
     "countries": [
       "Belgium",
-      "United Kingdom",
       "France",
       "Italy",
       "Germany",
@@ -3252,7 +3214,6 @@ window.PUBLIC_STATEMENTS = [
       "G-7",
       "German unification",
       "Belgium",
-      "United Kingdom",
       "France",
       "Italy",
       "Germany",
@@ -3260,7 +3221,6 @@ window.PUBLIC_STATEMENTS = [
     ],
     "matchTerms": [
       "Belgium",
-      "United Kingdom",
       "France",
       "Italy",
       "Germany",
@@ -3279,12 +3239,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/outline-remarks-the-north-atlantic-treaty-organization-headquarters-brussels",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-12-04-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-jacques-de",
@@ -3317,12 +3278,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-president-bushs-meeting-with-president-jacques-0",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-12-04-the-president-s-news-conference-in-brussels",
@@ -3377,12 +3339,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-brussels",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1989-12-16-joint-news-conference-following-discussions-with-french-president-mitterrand-in-st-martin-fr",
@@ -3405,7 +3368,6 @@ window.PUBLIC_STATEMENTS = [
       "Public Papers",
       "Europe",
       "NATO",
-      "European Community",
       "CSCE",
       "Berlin",
       "Trade",
@@ -3425,7 +3387,6 @@ window.PUBLIC_STATEMENTS = [
       "Francois Mitterrand",
       "Europe",
       "NATO",
-      "European Community",
       "CSCE",
       "Berlin",
       "Trade"
@@ -3433,12 +3394,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1989-book2",
     "sourcePackageLabel": "1989, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/joint-news-conference-following-discussions-with-french-president-mitterrand-st-martin",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1989, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-01-11-remarks-following-discussions-with-prime-minister-anibal-cavaco-silva-of-portugal",
@@ -3471,12 +3433,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-discussions-with-prime-minister-anibal-cavaco-silva-portugal",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-01-16-statement-by-press-secretary-fitzwater-on-the-vienna-meeting-of-the-conference-on-security-a",
@@ -3505,12 +3468,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-vienna-meeting-the-conference-security-and",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-01-18-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-turgut-oza",
@@ -3542,12 +3506,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-president-bushs-meeting-with-president-turgut-ozal",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-01-31-white-house-fact-sheet-on-the-president-s-conventional-armed-forces-in-europe-initiative",
@@ -3569,12 +3534,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/white-house-fact-sheet-the-presidents-conventional-armed-forces-europe-initiative",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-02-05-message-to-the-senate-transmitting-the-federal-republic-of-germany-united-states-convention-",
@@ -3596,12 +3562,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-senate-transmitting-the-federal-republic-germany-united-states-convention",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-02-05-message-to-the-senate-transmitting-the-finland-united-states-convention-on-taxation-and-fisc",
@@ -3623,12 +3590,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-senate-transmitting-the-finland-united-states-convention-taxation-and-fiscal",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-02-25-joint-news-conference-following-discussions-with-chancellor-helmut-kohl-of-the-federal-repub",
@@ -3691,12 +3659,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/joint-news-conference-following-discussions-with-chancellor-helmut-kohl-the-federal",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-02-27-joint-statement-by-president-bush-and-president-charles-haughey-of-the-european-council",
@@ -3731,12 +3700,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/joint-statement-president-bush-and-president-charles-haughey-the-european-council",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-02-27-remarks-following-discussions-with-charles-haughey-prime-minister-of-ireland-and-president-o",
@@ -3769,12 +3739,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-discussions-with-charles-haughey-prime-minister-ireland-and-president",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-03-06-exchange-with-reporters-prior-to-a-meeting-with-prime-minister-giulio-andreotti-of-italy",
@@ -3808,12 +3779,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/exchange-with-reporters-prior-meeting-with-prime-minister-giulio-andreotti-italy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-03-06-remarks-at-the-welcoming-ceremony-for-prime-minister-giulio-andreotti-of-italy",
@@ -3854,12 +3826,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-for-prime-minister-giulio-andreotti-italy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-03-06-toasts-at-the-state-dinner-for-prime-minister-giulio-andreotti-of-italy",
@@ -3900,12 +3873,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/toasts-the-state-dinner-for-prime-minister-giulio-andreotti-italy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-03-09-letter-to-congressional-leaders-transmitting-a-report-on-telecommunications-trade-negotiatio",
@@ -3929,12 +3903,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/letter-congressional-leaders-transmitting-report-telecommunications-trade-negotiations",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-03-16-remarks-at-a-st-patrick-s-day-ceremony-with-deputy-prime-minister-brian-lenihan-of-ireland",
@@ -3956,12 +3931,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-st-patricks-day-ceremony-with-deputy-prime-minister-brian-lenihan-ireland",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-03-20-proclamation-6109-greek-independence-day-a-national-day-of-celebration-of-greek-and-american",
@@ -3985,12 +3961,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6109-greek-independence-day-national-day-celebration-greek-and-american",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-03-20-remarks-on-signing-the-greek-independence-day-proclamation",
@@ -4012,12 +3989,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-signing-the-greek-independence-day-proclamation-1",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-03-26-accordance-of-the-personal-rank-of-ambassador-to-frederic-v-malek-while-serving-as-director-",
@@ -4037,42 +4015,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/accordance-the-personal-rank-ambassador-frederic-v-malek-while-serving-director-the-1990",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
-  },
-  {
-    "id": "ppp-1990-04-04-appointment-of-wilfredo-j-gonzalez-as-staff-director-of-the-commission-on-civil-rights",
-    "date": "1990-04-04",
-    "sortDate": "1990-04-04",
-    "type": "Public Statement",
-    "title": "Appointment of Wilfredo J. Gonzalez as Staff Director of the Commission on Civil Rights",
-    "countries": [
-      "Spain"
-    ],
-    "leaders": [
-      "Felipe Gonzalez"
-    ],
-    "topics": [
-      "Public Papers",
-      "Spain"
-    ],
-    "matchTerms": [
-      "Spain",
-      "Felipe Gonzalez"
-    ],
-    "sourcePackage": "PPP-1990-book1",
-    "sourcePackageLabel": "1990, Book I",
-    "sourceKind": "GovInfo volume reference",
-    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
-    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
-    "appUrl": "https://www.presidency.ucsb.edu/documents/appointment-wilfredo-j-gonzalez-staff-director-the-commission-civil-rights",
-    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
-    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-04-13-joint-news-conference-of-the-president-and-prime-minister-margaret-thatcher-of-the-united-ki",
@@ -4121,12 +4070,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/joint-news-conference-the-president-and-prime-minister-margaret-thatcher-the-united",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-04-13-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-in-bermuda-with-prime-mini",
@@ -4158,12 +4108,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-presidents-meeting-bermuda-with-prime-minister",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-04-18-message-to-the-senate-transmitting-the-spain-united-states-convention-on-taxation-and-fiscal",
@@ -4185,12 +4136,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-senate-transmitting-the-spain-united-states-convention-taxation-and-fiscal",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-04-19-joint-news-conference-of-president-bush-and-president-francois-mitterrand-of-france-in-key-l",
@@ -4200,7 +4152,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Joint News Conference of President Bush and President Francois Mitterrand of France in Key Largo, Florida",
     "countries": [
       "France",
-      "United Kingdom",
       "Germany"
     ],
     "leaders": [
@@ -4218,12 +4169,10 @@ window.PUBLIC_STATEMENTS = [
       "Berlin",
       "Trade",
       "France",
-      "United Kingdom",
       "Germany"
     ],
     "matchTerms": [
       "France",
-      "United Kingdom",
       "Germany",
       "Helmut Kohl",
       "Francois Mitterrand",
@@ -4239,12 +4188,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/joint-news-conference-president-bush-and-president-francois-mitterrand-france-key-largo",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-04-24-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-jacques-de",
@@ -4278,12 +4228,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-president-bushs-meeting-with-president-jacques-1",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-05-17-remarks-following-discussions-with-chancellor-helmut-kohl-of-the-federal-republic-of-germany",
@@ -4331,12 +4282,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-discussions-with-chancellor-helmut-kohl-the-federal-republic-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-05-19-remarks-at-the-houston-economic-summit-headquarters-and-an-exchange-with-reporters",
@@ -4366,12 +4318,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-houston-economic-summit-headquarters-and-exchange-with-reporters",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-05-24-interview-with-christian-malar-of-channel-5-french-television",
@@ -4405,12 +4358,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/interview-with-christian-malar-channel-5-french-television",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-05-24-interview-with-gerd-helbig-of-zdf-german-television",
@@ -4447,12 +4401,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/interview-with-gerd-helbig-zdf-german-television",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-05-24-interview-with-martyn-lewis-of-bbc-1-british-television",
@@ -4486,12 +4441,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/interview-with-martyn-lewis-bbc-1-british-television",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-06-01-soviet-united-states-joint-statement-on-conventional-armed-forces-in-europe",
@@ -4517,12 +4473,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/soviet-united-states-joint-statement-conventional-armed-forces-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-06-06-nomination-of-roy-m-huffington-to-be-united-states-ambassador-to-austria",
@@ -4544,12 +4501,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-roy-m-huffington-be-united-states-ambassador-austria",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-06-08-remarks-and-an-exchange-with-reporters-following-discussions-with-chancellor-helmut-kohl-of-",
@@ -4595,12 +4553,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-and-exchange-with-reporters-following-discussions-with-chancellor-helmut-kohl-the",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-06-11-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-prime-minister-lothar",
@@ -4636,12 +4595,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-presidents-meeting-with-prime-minister-lothar-de",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-06-15-remarks-at-a-white-house-ceremony-marking-the-entry-of-the-peace-corps-into-central-europe",
@@ -4665,12 +4625,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-white-house-ceremony-marking-the-entry-the-peace-corps-into-central-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-06-25-statement-by-press-secretary-fitzwater-on-the-acquisition-of-norton-company-by-btr-of-the-un",
@@ -4694,12 +4655,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-acquisition-norton-company-btr-the-united-kingdom",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-06-29-statement-on-the-copenhagen-declaration-of-the-conference-on-security-and-cooperation-in-eur",
@@ -4709,7 +4671,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Statement on the Copenhagen Declaration of the Conference on Security and Cooperation in Europe",
     "countries": [
       "Denmark",
-      "United Kingdom",
       "Finland"
     ],
     "leaders": [],
@@ -4719,12 +4680,10 @@ window.PUBLIC_STATEMENTS = [
       "NATO",
       "CSCE",
       "Denmark",
-      "United Kingdom",
       "Finland"
     ],
     "matchTerms": [
       "Denmark",
-      "United Kingdom",
       "Finland",
       "Europe",
       "NATO",
@@ -4733,12 +4692,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book1",
     "sourcePackageLabel": "1990, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-the-copenhagen-declaration-the-conference-security-and-cooperation-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-06-london-declaration-on-a-transformed-north-atlantic-alliance",
@@ -4791,12 +4751,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/london-declaration-transformed-north-atlantic-alliance",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-06-the-president-s-news-conference-following-the-north-atlantic-treaty-organization-summit-in-l",
@@ -4836,12 +4797,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-following-the-north-atlantic-treaty-organization-summit",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-09-remarks-at-the-welcoming-ceremony-for-the-houston-economic-summit",
@@ -4861,12 +4823,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-for-the-houston-economic-summit",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-09-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-francois-m",
@@ -4897,12 +4860,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-president-bushs-meeting-with-president-francois",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-09-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-chancellor-helmut-koh",
@@ -4933,12 +4897,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-presidents-meeting-with-chancellor-helmut-kohl-the",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-10-houston-economic-summit-political-declaration-securing-democracy",
@@ -4973,12 +4938,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/houston-economic-summit-political-declaration-securing-democracy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-10-houston-economic-summit-statement-on-transnational-issues",
@@ -4997,7 +4963,6 @@ window.PUBLIC_STATEMENTS = [
       "Public Papers",
       "Europe",
       "NATO",
-      "European Community",
       "G-7",
       "United Kingdom",
       "France",
@@ -5011,18 +4976,18 @@ window.PUBLIC_STATEMENTS = [
       "Ireland",
       "Europe",
       "NATO",
-      "European Community",
       "G-7"
     ],
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/houston-economic-summit-statement-transnational-issues",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-11-houston-economic-summit-economic-declaration",
@@ -5069,12 +5034,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/houston-economic-summit-economic-declaration",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-11-remarks-on-presenting-the-final-communique-of-the-houston-economic-summit",
@@ -5114,12 +5080,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-presenting-the-final-communique-the-houston-economic-summit",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-11-the-president-s-news-conference-following-the-houston-economic-summit",
@@ -5141,7 +5108,6 @@ window.PUBLIC_STATEMENTS = [
       "Public Papers",
       "Europe",
       "NATO",
-      "European Community",
       "G-7",
       "German unification",
       "Trade",
@@ -5159,7 +5125,6 @@ window.PUBLIC_STATEMENTS = [
       "Margaret Thatcher",
       "Europe",
       "NATO",
-      "European Community",
       "G-7",
       "German unification",
       "Trade"
@@ -5167,12 +5132,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-following-the-houston-economic-summit",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-12-remarks-following-a-meeting-with-greek-patriarch-dimitrios-i",
@@ -5196,12 +5162,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-meeting-with-greek-patriarch-dimitrios-i",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-12-remarks-to-the-30th-biennial-greek-orthodox-church-clergy-laity-congress",
@@ -5225,12 +5192,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-30th-biennial-greek-orthodox-church-clergy-laity-congress",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-16-statement-on-german-membership-in-the-north-atlantic-treaty-organization",
@@ -5267,12 +5235,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-german-membership-the-north-atlantic-treaty-organization",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-17-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-british-labour-party-",
@@ -5301,12 +5270,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-presidents-meeting-with-british-labour-party",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-18-proclamation-6159-rose-fitzgerald-kennedy-family-appreciation-day-1990",
@@ -5330,12 +5300,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6159-rose-fitzgerald-kennedy-family-appreciation-day-1990",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-07-31-proclamation-6163-helsinki-human-rights-day-1990",
@@ -5368,12 +5339,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6163-helsinki-human-rights-day-1990",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-08-06-remarks-and-an-exchange-with-reporters-following-a-meeting-with-prime-minister-margaret-that",
@@ -5391,25 +5363,24 @@ window.PUBLIC_STATEMENTS = [
       "Public Papers",
       "Europe",
       "NATO",
-      "European Community",
       "United Kingdom"
     ],
     "matchTerms": [
       "United Kingdom",
       "Margaret Thatcher",
       "Europe",
-      "NATO",
-      "European Community"
+      "NATO"
     ],
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-and-exchange-with-reporters-following-meeting-with-prime-minister-margaret",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-08-15-executive-order-12726-waiver-under-the-trade-act-of-1974-with-respect-to-the-german-democrat",
@@ -5433,12 +5404,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/executive-order-12726-waiver-under-the-trade-act-1974-with-respect-the-german-democratic",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-08-15-letter-to-congressional-leaders-on-trade-with-the-german-democratic-republic",
@@ -5462,12 +5434,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/letter-congressional-leaders-trade-with-the-german-democratic-republic",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-08-15-presidential-determination-no-90-30-memorandum-on-trade-with-the-german-democratic-republic",
@@ -5491,12 +5464,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/presidential-determination-no-90-30-memorandum-trade-with-the-german-democratic-republic",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-08-17-presidential-determination-no-90-31-memorandum-on-export-import-bank-services-for-the-german",
@@ -5518,12 +5492,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/presidential-determination-no-90-31-memorandum-export-import-bank-services-for-the-german",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-08-20-statement-by-press-secretary-fitzwater-on-president-bush-s-conversations-with-president-fran",
@@ -5551,12 +5526,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-president-bushs-conversations-with-president-francois",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-09-08-remarks-at-the-arrival-ceremony-in-helsinki-finland",
@@ -5582,12 +5558,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-arrival-ceremony-helsinki-finland",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-09-08-remarks-to-members-of-the-american-embassy-community-in-helsinki-finland",
@@ -5596,28 +5573,26 @@ window.PUBLIC_STATEMENTS = [
     "type": "Remarks",
     "title": "Remarks to Members of the American Embassy Community in Helsinki, Finland",
     "countries": [
-      "Finland",
-      "United Kingdom"
+      "Finland"
     ],
     "leaders": [],
     "topics": [
       "Public Papers",
-      "Finland",
-      "United Kingdom"
+      "Finland"
     ],
     "matchTerms": [
-      "Finland",
-      "United Kingdom"
+      "Finland"
     ],
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-members-the-american-embassy-community-helsinki-finland",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-09-09-joint-news-conference-of-president-bush-and-soviet-president-mikhail-gorbachev-in-helsinki-f",
@@ -5627,7 +5602,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Joint News Conference of President Bush and Soviet President Mikhail Gorbachev in Helsinki, Finland",
     "countries": [
       "Finland",
-      "United Kingdom",
       "France",
       "Germany",
       "Turkey"
@@ -5639,14 +5613,12 @@ window.PUBLIC_STATEMENTS = [
       "German unification",
       "Trade",
       "Finland",
-      "United Kingdom",
       "France",
       "Germany",
       "Turkey"
     ],
     "matchTerms": [
       "Finland",
-      "United Kingdom",
       "France",
       "Germany",
       "Turkey",
@@ -5657,12 +5629,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/joint-news-conference-president-bush-and-soviet-president-mikhail-gorbachev-helsinki",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-09-12-statement-by-press-secretary-fitzwater-on-the-treaty-on-the-final-settlement-with-respect-to",
@@ -5696,12 +5669,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-treaty-the-final-settlement-with-respect-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-09-25-message-to-the-senate-transmitting-the-treaty-on-the-reunification-of-germany",
@@ -5747,12 +5721,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-senate-transmitting-the-treaty-the-reunification-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-09-25-remarks-following-discussions-with-president-turgut-ozal-of-turkey",
@@ -5785,12 +5760,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-discussions-with-president-turgut-ozal-turkey",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-09-25-remarks-on-signing-the-message-to-the-senate-transmitting-the-treaty-on-the-reunification-of",
@@ -5825,12 +5801,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-signing-the-message-the-senate-transmitting-the-treaty-the-reunification-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-10-01-remarks-at-the-ministerial-meeting-in-new-york-new-york-of-the-conference-on-security-and-co",
@@ -5870,12 +5847,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-ministerial-meeting-new-york-new-york-the-conference-security-and-cooperation",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-10-02-address-to-the-german-people-on-the-reunification-of-germany",
@@ -5904,12 +5882,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/address-the-german-people-the-reunification-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-10-03-proclamation-6194-german-american-day-1990",
@@ -5933,12 +5912,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6194-german-american-day-1990",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-10-03-remarks-on-signing-the-german-american-day-proclamation-at-a-white-house-ceremony-celebratin",
@@ -5969,12 +5949,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-signing-the-german-american-day-proclamation-white-house-ceremony-celebrating-the",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-10-04-remarks-on-the-conventional-armed-forces-in-europe-negotiations",
@@ -5983,7 +5964,6 @@ window.PUBLIC_STATEMENTS = [
     "type": "Remarks",
     "title": "Remarks on the Conventional Armed Forces in Europe Negotiations",
     "countries": [
-      "United Kingdom",
       "France",
       "Germany"
     ],
@@ -5993,12 +5973,10 @@ window.PUBLIC_STATEMENTS = [
       "Europe",
       "NATO",
       "CSCE",
-      "United Kingdom",
       "France",
       "Germany"
     ],
     "matchTerms": [
-      "United Kingdom",
       "France",
       "Germany",
       "Europe",
@@ -6008,12 +5986,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-conventional-armed-forces-europe-negotiations",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-10-19-remarks-to-the-national-italian-american-foundation",
@@ -6041,12 +6020,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-national-italian-american-foundation",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-10-26-proclamation-6218-italian-american-heritage-and-culture-month-1990",
@@ -6072,12 +6052,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6218-italian-american-heritage-and-culture-month-1990",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-13-remarks-following-discussions-with-giulio-andreotti-prime-minister-of-italy-and-president-of",
@@ -6116,12 +6097,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-discussions-with-giulio-andreotti-prime-minister-italy-and-president-the",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-13-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-giulio-andreotti-pri",
@@ -6154,12 +6136,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-president-bushs-meeting-with-giulio-andreotti-prime",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-18-remarks-and-a-question-and-answer-session-with-reporters-following-a-luncheon-with-chancello",
@@ -6186,12 +6169,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-with-reporters-following-luncheon-with-chancellor",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-18-remarks-to-the-residents-of-speyer-germany",
@@ -6222,12 +6206,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-residents-speyer-germany",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-19-exchange-with-reporters-prior-to-a-meeting-with-president-mikhail-gorbachev-of-the-soviet-un",
@@ -6251,12 +6236,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/exchange-with-reporters-prior-meeting-with-president-mikhail-gorbachev-the-soviet-union",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-19-remarks-and-an-exchange-with-reporters-following-discussions-with-prime-minister-margaret-th",
@@ -6300,12 +6286,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-and-exchange-with-reporters-following-discussions-with-prime-minister-margaret",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-19-remarks-to-the-conference-on-security-and-cooperation-in-europe-in-paris-france",
@@ -6342,12 +6329,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-conference-security-and-cooperation-europe-paris-france",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-19-treaty-on-conventional-armed-forces-in-europe",
@@ -6355,30 +6343,27 @@ window.PUBLIC_STATEMENTS = [
     "sortDate": "1990-11-19",
     "type": "Public Statement",
     "title": "Treaty on Conventional Armed Forces in Europe",
-    "countries": [
-      "United Kingdom"
-    ],
+    "countries": [],
     "leaders": [],
     "topics": [
       "Public Papers",
       "Europe",
-      "NATO",
-      "United Kingdom"
+      "NATO"
     ],
     "matchTerms": [
-      "United Kingdom",
       "Europe",
       "NATO"
     ],
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/treaty-conventional-armed-forces-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-20-statement-by-press-secretary-fitzwater-on-president-bush-s-meetings-with-president-turgut-oz",
@@ -6400,12 +6385,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-president-bushs-meetings-with-president-turgut-ozal",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-21-exchange-with-reporters-prior-to-a-meeting-with-prime-minister-constantine-mitsotakis-of-gre",
@@ -6435,12 +6421,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/exchange-with-reporters-prior-meeting-with-prime-minister-constantine-mitsotakis-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-21-remarks-and-a-question-and-answer-session-with-reporters-in-paris-france",
@@ -6475,12 +6462,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-with-reporters-paris-france",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-21-text-of-the-charter-of-paris-for-a-new-europe",
@@ -6490,7 +6478,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Text of the Charter of Paris for a New Europe",
     "countries": [
       "France",
-      "United Kingdom",
       "Italy",
       "Germany",
       "Denmark",
@@ -6509,7 +6496,6 @@ window.PUBLIC_STATEMENTS = [
       "Berlin",
       "Trade",
       "France",
-      "United Kingdom",
       "Italy",
       "Germany",
       "Denmark",
@@ -6521,7 +6507,6 @@ window.PUBLIC_STATEMENTS = [
     ],
     "matchTerms": [
       "France",
-      "United Kingdom",
       "Italy",
       "Germany",
       "Denmark",
@@ -6539,12 +6524,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/text-the-charter-paris-for-new-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-11-23-exchange-with-reporters-in-geneva-switzerland-prior-to-a-meeting-with-president-hafiz-al-ass",
@@ -6568,75 +6554,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/exchange-with-reporters-geneva-switzerland-prior-meeting-with-president-hafiz-al-assad",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
-  },
-  {
-    "id": "ppp-1990-11-28-remarks-on-signing-the-cranston-gonzalez-national-affordable-housing-act",
-    "date": "1990-11-28",
-    "sortDate": "1990-11-28",
-    "type": "Remarks",
-    "title": "Remarks on Signing the Cranston-Gonzalez National Affordable Housing Act",
-    "countries": [
-      "Spain",
-      "United Kingdom"
-    ],
-    "leaders": [
-      "Felipe Gonzalez"
-    ],
-    "topics": [
-      "Public Papers",
-      "Spain",
-      "United Kingdom"
-    ],
-    "matchTerms": [
-      "Spain",
-      "United Kingdom",
-      "Felipe Gonzalez"
-    ],
-    "sourcePackage": "PPP-1990-book2",
-    "sourcePackageLabel": "1990, Book II",
-    "sourceKind": "GovInfo volume reference",
-    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
-    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
-    "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-signing-the-cranston-gonzalez-national-affordable-housing-act",
-    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
-    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
-  },
-  {
-    "id": "ppp-1990-11-28-statement-on-signing-the-cranston-gonzalez-national-affordable-housing-act",
-    "date": "1990-11-28",
-    "sortDate": "1990-11-28",
-    "type": "Statement",
-    "title": "Statement on Signing the Cranston-Gonzalez National Affordable Housing Act",
-    "countries": [
-      "Spain"
-    ],
-    "leaders": [
-      "Felipe Gonzalez"
-    ],
-    "topics": [
-      "Public Papers",
-      "Spain"
-    ],
-    "matchTerms": [
-      "Spain",
-      "Felipe Gonzalez"
-    ],
-    "sourcePackage": "PPP-1990-book2",
-    "sourcePackageLabel": "1990, Book II",
-    "sourceKind": "GovInfo volume reference",
-    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
-    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
-    "appUrl": "https://www.presidency.ucsb.edu/documents/statement-signing-the-cranston-gonzalez-national-affordable-housing-act",
-    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
-    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1990-12-18-letter-to-congressional-leaders-on-norwegian-whaling-activities",
@@ -6658,12 +6582,45 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1990-book2",
     "sourcePackageLabel": "1990, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/letter-congressional-leaders-norwegian-whaling-activities",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1990, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
+  },
+  {
+    "id": "ppp-1991-01-01-points-of-light-recognition-program",
+    "date": "1991-01-01",
+    "sortDate": "1991-01-01",
+    "type": "Public Statement",
+    "title": "Points of Light Recognition Program",
+    "countries": [
+      "Holy See"
+    ],
+    "leaders": [
+      "Pope John Paul II"
+    ],
+    "topics": [
+      "Public Papers",
+      "Holy See"
+    ],
+    "matchTerms": [
+      "Holy See",
+      "Pope John Paul II"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo full-text search",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-app-pg797",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-app-pg797",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-app-pg797.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-app-pg797.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo full-text search result, Points of Light Recognition Program, 1991-01-01.",
+    "notes": "Selected by GovInfo full-text search query \"Pope John Paul\"; teaser and title matched Western Europe country, leader, or regional policy terms."
   },
   {
     "id": "ppp-1991-01-02-statement-by-press-secretary-fitzwater-on-the-deployment-of-north-atlantic-treaty-organizati",
@@ -6695,13 +6652,172 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg1-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg1-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg1-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg1-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Statement by Press Secretary Fitzwater on the Deployment of North Atlantic Treaty Organization Forces to Turkey, 1991-01-02.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-01-04-remarks-on-the-united-states-discussions-with-iraq-and-a-question-and-answer-session-with-re",
+    "date": "1991-01-04",
+    "sortDate": "1991-01-04",
+    "type": "Remarks",
+    "title": "Remarks on the United States Discussions With Iraq and a Question-and- Answer Session With Reporters",
+    "countries": [
+      "France",
+      "Italy",
+      "Luxembourg",
+      "Switzerland"
+    ],
+    "leaders": [
+      "Francois Mitterrand",
+      "Giulio Andreotti"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "France",
+      "Italy",
+      "Luxembourg",
+      "Switzerland"
+    ],
+    "matchTerms": [
+      "France",
+      "Italy",
+      "Luxembourg",
+      "Switzerland",
+      "Francois Mitterrand",
+      "Giulio Andreotti",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg6-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg6-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg6-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg6-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks on the United States Discussions With Iraq and a Question-and- Answer Session With Reporters, 1991-01-04.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-01-09-the-president-s-news-conference-on-the-persian-gulf-crisis",
+    "date": "1991-01-09",
+    "sortDate": "1991-01-09",
+    "type": "News Conference",
+    "title": "The President's News Conference on the Persian Gulf Crisis",
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "leaders": [
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "France",
+      "Switzerland"
+    ],
+    "matchTerms": [
+      "France",
+      "Switzerland",
+      "Francois Mitterrand",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg17",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg17",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg17.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg17.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference on the Persian Gulf Crisis, 1991-01-09.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-01-11-exchange-with-reporters-on-the-telephone-conversation-with-soviet-president-mikhail-gorbache",
+    "date": "1991-01-11",
+    "sortDate": "1991-01-11",
+    "type": "Q&A",
+    "title": "Exchange With Reporters on the Telephone Conversation with Soviet President Mikhail Gorbachev",
+    "countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "leaders": [
+      "John Major",
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "Trade",
+      "United Kingdom",
+      "France"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "John Major",
+      "Francois Mitterrand",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg28",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg28",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg28.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg28.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters on the Telephone Conversation with Soviet President Mikhail Gorbachev, 1991-01-11.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-01-12-the-president-s-news-conference",
+    "date": "1991-01-12",
+    "sortDate": "1991-01-12",
+    "type": "News Conference",
+    "title": "The President's News Conference",
+    "countries": [
+      "France"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "France"
+    ],
+    "matchTerms": [
+      "France",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg31-3",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg31-3",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg31-3.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg31-3.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference, 1991-01-12.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-01-18-statement-by-press-secretary-fitzwater-on-the-death-of-king-olav-v-of-norway",
@@ -6723,13 +6839,140 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg53-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg53-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg53-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg53-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Statement by Press Secretary Fitzwater on the Death of King Olav V of Norway, 1991-01-18.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-01-23-remarks-to-the-reserve-officers-association",
+    "date": "1991-01-23",
+    "sortDate": "1991-01-23",
+    "type": "Remarks",
+    "title": "Remarks to the Reserve Officers Association",
+    "countries": [
+      "United Kingdom",
+      "Italy"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "United Kingdom",
+      "Italy"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Italy",
+      "John Major",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg60",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg60",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg60.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg60.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks to the Reserve Officers Association, 1991-01-23.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-01-28-remarks-at-the-annual-convention-of-the-national-religious-broadcasters",
+    "date": "1991-01-28",
+    "sortDate": "1991-01-28",
+    "type": "Remarks",
+    "title": "Remarks at the Annual Convention of the National Religious Broadcasters",
+    "countries": [
+      "Greece"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Greece"
+    ],
+    "matchTerms": [
+      "Greece",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg70",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg70",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg70.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg70.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at the Annual Convention of the National Religious Broadcasters, 1991-01-28.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-01-29-address-before-a-joint-session-of-the-congress-on-the-state-of-the-union",
+    "date": "1991-01-29",
+    "sortDate": "1991-01-29",
+    "type": "Address",
+    "title": "Address Before a Joint Session of the Congress on the State of the Union",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Italy",
+      "Germany",
+      "Turkey"
+    ],
+    "leaders": [
+      "John Major",
+      "Francois Mitterrand",
+      "Giulio Andreotti"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade",
+      "United Kingdom",
+      "France",
+      "Italy",
+      "Germany",
+      "Turkey"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Italy",
+      "Germany",
+      "Turkey",
+      "John Major",
+      "Francois Mitterrand",
+      "Giulio Andreotti",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg74",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg74",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg74.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg74.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Address Before a Joint Session of the Congress on the State of the Union, 1991-01-29.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-01-29-remarks-and-an-exchange-with-reporters-prior-to-discussions-with-foreign-minister-hans-van-d",
@@ -6754,13 +6997,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg73-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg73-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg73-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg73-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks and an Exchange With Reporters Prior to Discussions With Foreign Minister Hans Van den Broek of The Netherlands, 1991-01-29.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-01-30-remarks-and-an-exchange-with-reporters-prior-to-discussions-with-foreign-minister-antonios-s",
@@ -6782,13 +7026,167 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg80",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg80",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg80.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg80.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks and an Exchange With Reporters Prior to Discussions With Foreign Minister Antonios Samaras of Greece, 1991-01-30.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-02-05-the-president-s-news-conference",
+    "date": "1991-02-05",
+    "sortDate": "1991-02-05",
+    "type": "News Conference",
+    "title": "The President's News Conference",
+    "countries": [
+      "United Kingdom",
+      "Germany",
+      "Turkey"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "German unification",
+      "Trade",
+      "United Kingdom",
+      "Germany",
+      "Turkey"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Germany",
+      "Turkey",
+      "John Major",
+      "Europe",
+      "German unification",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg103-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg103-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg103-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg103-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference, 1991-02-05.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-02-06-exchange-with-reporters-aboard-air-force-one-on-the-persian-gulf-conflict",
+    "date": "1991-02-06",
+    "sortDate": "1991-02-06",
+    "type": "Q&A",
+    "title": "Exchange With Reporters Aboard Air Force One on the Persian Gulf Conflict",
+    "countries": [
+      "France",
+      "Turkey"
+    ],
+    "leaders": [
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "France",
+      "Turkey"
+    ],
+    "matchTerms": [
+      "France",
+      "Turkey",
+      "Francois Mitterrand"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg116",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg116",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg116.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg116.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters Aboard Air Force One on the Persian Gulf Conflict, 1991-02-06.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-02-06-remarks-and-a-question-and-answer-session-at-a-meeting-of-the-economic-club-in-new-york-new-",
+    "date": "1991-02-06",
+    "sortDate": "1991-02-06",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session at a Meeting of the Economic Club in New York, New York",
+    "countries": [
+      "France",
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl"
+    ],
+    "topics": [
+      "Public Papers",
+      "Western Europe",
+      "Europe",
+      "German unification",
+      "Trade",
+      "France",
+      "Germany"
+    ],
+    "matchTerms": [
+      "France",
+      "Germany",
+      "Helmut Kohl",
+      "Western Europe",
+      "Europe",
+      "German unification",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg117",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg117",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg117.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg117.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks and a Question-and-Answer Session at a Meeting of the Economic Club in New York, New York, 1991-02-06.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-02-11-letter-to-congressional-leaders-reporting-on-the-national-emergency-with-respect-to-iraq",
+    "date": "1991-02-11",
+    "sortDate": "1991-02-11",
+    "type": "Letter",
+    "title": "Letter to Congressional Leaders Reporting on the National Emergency With Respect to Iraq",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg131",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg131",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg131.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg131.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Letter to Congressional Leaders Reporting on the National Emergency With Respect to Iraq, 1991-02-11.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-02-12-exchange-with-reporters-on-the-persian-gulf-conflict-prior-to-discussions-with-defense-minis",
@@ -6815,13 +7213,51 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg139-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg139-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg139-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg139-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters on the Persian Gulf Conflict Prior to Discussions With Defense Minister Thomas King of the United Kingdom, 1991-02-12.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-02-17-exchange-with-reporters-in-kennebunkport-maine",
+    "date": "1991-02-17",
+    "sortDate": "1991-02-17",
+    "type": "Q&A",
+    "title": "Exchange With Reporters in Kennebunkport, Maine",
+    "countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "leaders": [
+      "John Major",
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "United Kingdom",
+      "France"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "John Major",
+      "Francois Mitterrand"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg151-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg151-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg151-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg151-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters in Kennebunkport, Maine, 1991-02-17.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-02-20-remarks-at-the-welcoming-ceremony-for-queen-margrethe-ii-of-denmark",
@@ -6850,13 +7286,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg156",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg156",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg156.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg156.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at the Welcoming Ceremony for Queen Margrethe II of Denmark, 1991-02-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-02-20-toasts-at-the-state-dinner-for-queen-margrethe-ii-of-denmark",
@@ -6866,7 +7303,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Toasts at the State Dinner for Queen Margrethe II of Denmark",
     "countries": [
       "Denmark",
-      "United Kingdom",
       "France"
     ],
     "leaders": [],
@@ -6874,25 +7310,24 @@ window.PUBLIC_STATEMENTS = [
       "Public Papers",
       "Europe",
       "Denmark",
-      "United Kingdom",
       "France"
     ],
     "matchTerms": [
       "Denmark",
-      "United Kingdom",
       "France",
       "Europe"
     ],
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg162",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg162",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg162.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg162.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Toasts at the State Dinner for Queen Margrethe II of Denmark, 1991-02-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-02-21-proclamation-6252-commemoration-of-the-bicentennial-of-u-s-portugal-relations",
@@ -6901,8 +7336,7 @@ window.PUBLIC_STATEMENTS = [
     "type": "Proclamation",
     "title": "Proclamation 6252—Commemoration of the Bicentennial of U.S.-Portugal Relations",
     "countries": [
-      "Portugal",
-      "United Kingdom"
+      "Portugal"
     ],
     "leaders": [],
     "topics": [
@@ -6910,12 +7344,10 @@ window.PUBLIC_STATEMENTS = [
       "Europe",
       "NATO",
       "Trade",
-      "Portugal",
-      "United Kingdom"
+      "Portugal"
     ],
     "matchTerms": [
       "Portugal",
-      "United Kingdom",
       "Europe",
       "NATO",
       "Trade"
@@ -6923,44 +7355,53 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6252-commemoration-the-bicentennial-us-portugal-relations",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
-    "id": "ppp-1991-02-27-remarks-to-the-conference-on-marketing-economics-and-management-training-for-eastern-europe",
-    "date": "1991-02-27",
-    "sortDate": "1991-02-27",
-    "type": "Remarks",
-    "title": "Remarks to the Conference on Marketing Economics and Management Training for Eastern Europe",
+    "id": "ppp-1991-02-23-statement-by-press-secretary-fitzwater-on-the-persian-gulf-conflict",
+    "date": "1991-02-23",
+    "sortDate": "1991-02-23",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on the Persian Gulf Conflict",
     "countries": [
-      "United Kingdom"
+      "United Kingdom",
+      "France",
+      "Turkey"
     ],
-    "leaders": [],
+    "leaders": [
+      "John Major",
+      "Francois Mitterrand"
+    ],
     "topics": [
       "Public Papers",
-      "Europe",
-      "Trade",
-      "United Kingdom"
+      "United Kingdom",
+      "France",
+      "Turkey"
     ],
     "matchTerms": [
       "United Kingdom",
-      "Europe",
-      "Trade"
+      "France",
+      "Turkey",
+      "John Major",
+      "Francois Mitterrand"
     ],
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
-    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg182",
-    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg182",
-    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg182.htm",
-    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg182.pdf",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg170",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg170",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg170.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg170.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
-    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks to the Conference on Marketing Economics and Management Training for Eastern Europe, 1991-02-27.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Statement by Press Secretary Fitzwater on the Persian Gulf Conflict, 1991-02-23.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-02-28-remarks-prior-to-discussions-with-foreign-minister-roland-dumas-of-france",
@@ -6985,13 +7426,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg188",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg188",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg188.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg188.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks Prior to Discussions With Foreign Minister Roland Dumas of France, 1991-02-28.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-01-remarks-prior-to-discussions-with-foreign-minister-hans-dietrich-genscher-of-germany",
@@ -7018,13 +7460,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg195",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg195",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg195.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg195.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks Prior to Discussions With Foreign Minister Hans-Dietrich Genscher of Germany, 1991-03-01.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-05-remarks-prior-to-discussions-with-foreign-minister-francisco-fernandez-ordonez-of-spain",
@@ -7049,13 +7492,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg214",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg214",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg214.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg214.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks Prior to Discussions With Foreign Minister Francisco Fernandez- Ordonez of Spain, 1991-03-05.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-07-message-to-the-congress-transmitting-the-austria-united-states-social-security-agreement",
@@ -7110,13 +7554,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg223-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg223-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg223-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg223-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Message to the Congress Transmitting the Austria-United States Social Security Agreement, 1991-03-07.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-07-remarks-upon-presenting-the-presidential-medal-of-freedom-to-margaret-thatcher",
@@ -7147,13 +7592,43 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg225",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg225",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg225.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg225.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks Upon Presenting the Presidential Medal of Freedom to Margaret Thatcher, 1991-03-07.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-03-08-letter-to-congressional-leaders-on-nuclear-cooperation-with-euratom",
+    "date": "1991-03-08",
+    "sortDate": "1991-03-08",
+    "type": "Letter",
+    "title": "Letter to Congressional Leaders on Nuclear Cooperation with EURATOM",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg230",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg230",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg230.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg230.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Letter to Congressional Leaders on Nuclear Cooperation with EURATOM, 1991-03-08.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-03-08-letter-to-congressional-leaders-on-telecommunications-trade-talks-with-the-european-communit",
@@ -7177,13 +7652,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg229-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg229-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg229-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg229-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Letter to Congressional Leaders on Telecommunications Trade Talks With the European Community and Korea, 1991-03-08.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-11-exchange-with-reporters-prior-to-discussions-with-prime-minister-michel-rocard-of-france",
@@ -7208,13 +7684,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg243",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg243",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg243.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg243.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters Prior to Discussions With Prime Minister Michel Rocard of France, 1991-03-11.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-12-proclamation-6259-irish-american-heritage-month-1991",
@@ -7236,12 +7713,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6259-irish-american-heritage-month-1991",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-03-13-nomination-of-bruce-s-gelb-to-be-united-states-ambassador-to-belgium",
@@ -7263,13 +7741,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg252-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg252-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg252-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg252-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Nomination of Bruce S. Gelb To Be United States Ambassador to Belgium, 1991-03-13.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-13-nomination-of-raymond-g-h-seitz-to-be-united-states-ambassador-to-the-united-kingdom",
@@ -7296,13 +7775,80 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg253-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg253-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg253-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg253-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Nomination of Raymond G.H. Seitz To Be United States Ambassador to the United Kingdom, 1991-03-13.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-03-13-remarks-by-the-president-and-prime-minister-brian-mulroney-of-canada-at-the-air-quality-agre",
+    "date": "1991-03-13",
+    "sortDate": "1991-03-13",
+    "type": "Remarks",
+    "title": "Remarks by the President and Prime Minister Brian Mulroney of Canada at the Air Quality Agreement Signing Ceremony in Ottawa",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "G-7"
+    ],
+    "matchTerms": [
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg254-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg254-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg254-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg254-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks by the President and Prime Minister Brian Mulroney of Canada at the Air Quality Agreement Signing Ceremony in Ottawa, 1991-03-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-03-13-the-president-s-news-conference-with-prime-minister-brian-mulroney-of-canada-in-ottawa",
+    "date": "1991-03-13",
+    "sortDate": "1991-03-13",
+    "type": "News Conference",
+    "title": "The President's News Conference With Prime Minister Brian Mulroney of Canada in Ottawa",
+    "countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "leaders": [
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Trade",
+      "United Kingdom",
+      "France"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Francois Mitterrand",
+      "Europe",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg257",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg257",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg257.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg257.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference With Prime Minister Brian Mulroney of Canada in Ottawa, 1991-03-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-03-14-the-president-s-news-conference-with-president-francois-mitterrand-of-france-in-martinique-f",
@@ -7329,13 +7875,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg265-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg265-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg265-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg265-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference With President Francois Mitterrand of France in Martinique, French West Indies, 1991-03-14.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-15-nomination-of-william-g-curran-jr-to-be-united-states-director-of-the-european-bank-for-reco",
@@ -7359,13 +7906,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg274",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg274",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg274.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg274.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Nomination of William G. Curran, Jr., To Be United States Director of the European Bank for Reconstruction and Development, 1991-03-15.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-16-the-president-s-news-conference-with-prime-minister-john-major-of-the-united-kingdom-in-hami",
@@ -7401,13 +7949,53 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg274-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg274-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg274-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg274-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference With Prime Minister John Major of the United Kingdom in Hamilton, Bermuda, 1991-03-16.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-03-20-remarks-at-the-welcoming-ceremony-for-president-lech-walesa-of-poland",
+    "date": "1991-03-20",
+    "sortDate": "1991-03-20",
+    "type": "Remarks",
+    "title": "Remarks at the Welcoming Ceremony for President Lech Walesa of Poland",
+    "countries": [
+      "France",
+      "Holy See"
+    ],
+    "leaders": [
+      "Pope John Paul II"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Trade",
+      "France",
+      "Holy See"
+    ],
+    "matchTerms": [
+      "France",
+      "Holy See",
+      "Pope John Paul II",
+      "Europe",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg291",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg291",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg291.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg291.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at the Welcoming Ceremony for President Lech Walesa of Poland, 1991-03-20.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-03-23-the-president-s-news-conference-with-president-turgut-ozal-of-turkey",
@@ -7434,13 +8022,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg303-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg303-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg303-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg303-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference With President Turgut Ozal of Turkey, 1991-03-23.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-25-proclamation-6264-greek-independence-day-a-national-day-of-celebration-of-greek-and-american",
@@ -7466,12 +8055,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6264-greek-independence-day-national-day-celebration-greek-and-american",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-03-25-remarks-on-signing-the-greek-independence-day-proclamation",
@@ -7496,13 +8086,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg308",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg308",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg308.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg308.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks on Signing the Greek Independence Day Proclamation, 1991-03-25.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-26-remarks-and-an-exchange-with-reporters-prior-to-a-meeting-with-finance-minister-theo-waigel-",
@@ -7527,13 +8118,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg310",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg310",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg310.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg310.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks and an Exchange With Reporters Prior to a Meeting With Finance Minister Theo Waigel of Germany, 1991-03-26.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-03-26-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-finance-minister-theo",
@@ -7559,13 +8151,43 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg310-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg310-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg310-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg310-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Statement by Press Secretary Fitzwater on the President's Meeting With Finance Minister Theo Waigel of Germany, 1991-03-26.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-03-27-remarks-to-state-department-employees",
+    "date": "1991-03-27",
+    "sortDate": "1991-03-27",
+    "type": "Remarks",
+    "title": "Remarks to State Department Employees",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg313-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg313-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg313-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg313-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks to State Department Employees, 1991-03-27.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-03-29-statement-by-deputy-press-secretary-popadiuk-on-the-resignation-of-richard-r-burt-as-head-of",
@@ -7592,13 +8214,92 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg319-3",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg319-3",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg319-3.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg319-3.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Statement by Deputy Press Secretary Popadiuk on the Resignation of Richard R. Burt as Head of Delegation to the Nuclear and Space Talks in Geneva and Chief START Negotiator, 1991-03-29.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-04-06-the-president-s-news-conference-with-secretary-of-state-james-a-baker-iii-in-houston-texas",
+    "date": "1991-04-06",
+    "sortDate": "1991-04-06",
+    "type": "News Conference",
+    "title": "The President's News Conference With Secretary of State James A. Baker III in Houston, Texas",
+    "countries": [
+      "France",
+      "Switzerland",
+      "Turkey"
+    ],
+    "leaders": [
+      "Francois Mitterrand",
+      "Jacques Delors"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "France",
+      "Switzerland",
+      "Turkey"
+    ],
+    "matchTerms": [
+      "France",
+      "Switzerland",
+      "Turkey",
+      "Francois Mitterrand",
+      "Jacques Delors",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg334-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg334-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg334-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg334-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference With Secretary of State James A. Baker III in Houston, Texas, 1991-04-06.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-04-11-exchange-with-reporters-on-aid-to-iraqi-refugees",
+    "date": "1991-04-11",
+    "sortDate": "1991-04-11",
+    "type": "Q&A",
+    "title": "Exchange With Reporters on Aid to Iraqi Refugees",
+    "countries": [
+      "United Kingdom"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "United Kingdom"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "John Major",
+      "Europe"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg360",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg360",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg360.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg360.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters on Aid to Iraqi Refugees, 1991-04-11.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-04-11-remarks-and-an-exchange-with-reporters-prior-to-discussions-with-president-jacques-delors-of",
@@ -7632,13 +8333,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg358-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg358-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg358-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg358-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks and an Exchange With Reporters Prior to Discussions With President Jacques Delors of the European Community Commission and President Jacques Santer of the European Council of Ministers, 1991-04-11.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-04-11-remarks-following-discussions-with-president-jacques-delors-of-the-european-economic-communi",
@@ -7676,13 +8378,164 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg359",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg359",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg359.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg359.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks Following Discussions With President Jacques Delors of the European Economic Community and President Jacques Santer of the European Council of Ministers, 1991-04-11.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-04-13-remarks-at-maxwell-air-force-base-war-college-in-montgomery-alabama",
+    "date": "1991-04-13",
+    "sortDate": "1991-04-13",
+    "type": "Remarks",
+    "title": "Remarks at Maxwell Air Force Base War College in Montgomery, Alabama",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "European Community",
+      "CSCE",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "NATO",
+      "European Community",
+      "CSCE",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg364-3",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg364-3",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg364-3.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg364-3.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at Maxwell Air Force Base War College in Montgomery, Alabama, 1991-04-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-04-16-remarks-on-assistance-for-iraqi-refugees-and-a-news-conference",
+    "date": "1991-04-16",
+    "sortDate": "1991-04-16",
+    "type": "News Conference",
+    "title": "Remarks on Assistance for Iraqi Refugees and a News Conference",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Turkey"
+    ],
+    "leaders": [
+      "Helmut Kohl",
+      "John Major",
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Turkey"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Turkey",
+      "Helmut Kohl",
+      "John Major",
+      "Francois Mitterrand",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg378-3",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg378-3",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg378-3.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg378-3.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks on Assistance for Iraqi Refugees and a News Conference, 1991-04-16.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-04-29-remarks-and-a-question-and-answer-session-with-the-national-association-of-farm-broadcasters",
+    "date": "1991-04-29",
+    "sortDate": "1991-04-29",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session With the National Association of Farm Broadcasters",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo full-text search",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg438",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg438",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg438.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg438.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo full-text search result, Remarks and a Question-and-Answer Session With the National Association of Farm Broadcasters, 1991-04-29.",
+    "notes": "Selected by GovInfo full-text search query \"European Community\"; teaser and title matched Western Europe country, leader, or regional policy terms."
+  },
+  {
+    "id": "ppp-1991-05-04-remarks-at-the-university-of-michigan-commencement-ceremony-in-ann-arbor",
+    "date": "1991-05-04",
+    "sortDate": "1991-05-04",
+    "type": "Remarks",
+    "title": "Remarks at the University of Michigan Commencement Ceremony in Ann Arbor",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg469",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg469",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg469.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg469.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at the University of Michigan Commencement Ceremony in Ann Arbor, 1991-05-04.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-05-06-message-to-the-congress-transmitting-an-extension-of-the-iceland-united-states-fishing-agree",
@@ -7704,13 +8557,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg478",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg478",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg478.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg478.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Message to the Congress Transmitting an Extension of the Iceland-United States Fishing Agreement, 1991-05-06.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-05-07-remarks-and-an-exchange-with-reporters-following-discussions-with-president-mauno-koivisto-o",
@@ -7719,8 +8573,7 @@ window.PUBLIC_STATEMENTS = [
     "type": "Q&A",
     "title": "Remarks and an Exchange With Reporters Following Discussions With President Mauno Koivisto of Finland",
     "countries": [
-      "Finland",
-      "United Kingdom"
+      "Finland"
     ],
     "leaders": [],
     "topics": [
@@ -7729,12 +8582,10 @@ window.PUBLIC_STATEMENTS = [
       "NATO",
       "CSCE",
       "Trade",
-      "Finland",
-      "United Kingdom"
+      "Finland"
     ],
     "matchTerms": [
       "Finland",
-      "United Kingdom",
       "Europe",
       "NATO",
       "CSCE",
@@ -7743,13 +8594,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg481-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg481-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg481-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg481-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks and an Exchange With Reporters Following Discussions With President Mauno Koivisto of Finland, 1991-05-07.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-05-07-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-francesco-",
@@ -7776,13 +8628,49 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg483",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg483",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg483.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg483.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Statement by Press Secretary Fitzwater on President Bush's Meeting With President Francesco Cossiga and Prime Minister Giulio Andreotti of Italy, 1991-05-07.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-05-12-remarks-at-the-hampton-university-commencement-ceremony-in-hampton-virginia",
+    "date": "1991-05-12",
+    "sortDate": "1991-05-12",
+    "type": "Remarks",
+    "title": "Remarks at the Hampton University Commencement Ceremony in Hampton, Virginia",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg500",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg500",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg500.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg500.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at the Hampton University Commencement Ceremony in Hampton, Virginia, 1991-05-12.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-05-14-remarks-at-the-welcoming-ceremony-for-queen-elizabeth-ii-of-the-united-kingdom",
@@ -7804,13 +8692,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg506",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg506",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg506.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg506.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at the Welcoming Ceremony for Queen Elizabeth II of the United Kingdom, 1991-05-14.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-05-14-remarks-upon-receiving-the-winston-churchill-award-from-queen-elizabeth-ii-of-the-united-kin",
@@ -7835,13 +8724,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg508",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg508",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg508.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg508.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks Upon Receiving the Winston Churchill Award From Queen Elizabeth II of the United Kingdom, 1991-05-14.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-05-14-toasts-at-the-state-dinner-for-queen-elizabeth-ii-of-the-united-kingdom",
@@ -7873,13 +8763,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg510-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg510-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg510-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg510-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Toasts at the State Dinner for Queen Elizabeth II of the United Kingdom, 1991-05-14.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-05-20-the-president-s-news-conference-with-chancellor-helmut-kohl-of-germany",
@@ -7921,13 +8812,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg526",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg526",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg526.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg526.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference With Chancellor Helmut Kohl of Germany, 1991-05-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-05-20-white-house-fact-sheet-on-the-united-states-german-nuclear-energy-safety-initiative",
@@ -7957,13 +8849,275 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg525-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg525-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg525-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg525-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, White House Fact Sheet on the United States-German Nuclear Energy Safety Initiative, 1991-05-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-05-22-exchange-with-reporters-on-soviet-united-states-relations",
+    "date": "1991-05-22",
+    "sortDate": "1991-05-22",
+    "type": "Q&A",
+    "title": "Exchange With Reporters on Soviet-United States Relations",
+    "countries": [
+      "United Kingdom"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "United Kingdom"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg533-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg533-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg533-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg533-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters on Soviet-United States Relations, 1991-05-22.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-05-23-remarks-announcing-the-reappointment-of-general-colin-l-powell-as-chairman-of-the-joint-chie",
+    "date": "1991-05-23",
+    "sortDate": "1991-05-23",
+    "type": "News Conference",
+    "title": "Remarks Announcing the Reappointment of General Colin L. Powell as Chairman of the Joint Chiefs of Staff and a News Conference",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl",
+      "John Major",
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "Trade",
+      "United Kingdom",
+      "France",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Helmut Kohl",
+      "John Major",
+      "Francois Mitterrand",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg544",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg544",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg544.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg544.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks Announcing the Reappointment of General Colin L. Powell as Chairman of the Joint Chiefs of Staff and a News Conference, 1991-05-23.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-05-23-remarks-on-fast-track-legislation-and-a-question-and-answer-session-with-reporters",
+    "date": "1991-05-23",
+    "sortDate": "1991-05-23",
+    "type": "Q&A",
+    "title": "Remarks on Fast Track Legislation and a Question-and-Answer Session With Reporters",
+    "countries": [
+      "United Kingdom"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "G-7",
+      "Trade",
+      "United Kingdom"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "John Major",
+      "Europe",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg552",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg552",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg552.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg552.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks on Fast Track Legislation and a Question-and-Answer Session With Reporters, 1991-05-23.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-05-24-remarks-at-the-exports-generating-jobs-for-americans-luncheon-in-boston-massachusetts",
+    "date": "1991-05-24",
+    "sortDate": "1991-05-24",
+    "type": "Remarks",
+    "title": "Remarks at the Exports-Generating Jobs for Americans Luncheon in Boston, Massachusetts",
+    "countries": [
+      "United Kingdom"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Western Europe",
+      "Europe",
+      "Trade",
+      "United Kingdom"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Western Europe",
+      "Europe",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg559",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg559",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg559.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg559.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at the Exports-Generating Jobs for Americans Luncheon in Boston, Massachusetts, 1991-05-24.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-05-24-statement-by-press-secretary-fitzwater-on-multilateral-export-controls",
+    "date": "1991-05-24",
+    "sortDate": "1991-05-24",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on Multilateral Export Controls",
+    "countries": [
+      "France",
+      "Iceland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "NATO",
+      "Trade",
+      "France",
+      "Iceland"
+    ],
+    "matchTerms": [
+      "France",
+      "Iceland",
+      "NATO",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg558",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg558",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg558.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg558.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Statement by Press Secretary Fitzwater on Multilateral Export Controls, 1991-05-24.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-05-27-remarks-at-the-yale-university-commencement-ceremony-in-new-haven-connecticut",
+    "date": "1991-05-27",
+    "sortDate": "1991-05-27",
+    "type": "Remarks",
+    "title": "Remarks at the Yale University Commencement Ceremony in New Haven, Connecticut",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg565",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg565",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg565.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg565.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at the Yale University Commencement Ceremony in New Haven, Connecticut, 1991-05-27.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-05-28-the-president-s-news-conference-in-kennebunkport-maine",
+    "date": "1991-05-28",
+    "sortDate": "1991-05-28",
+    "type": "News Conference",
+    "title": "The President's News Conference in Kennebunkport, Maine",
+    "countries": [
+      "United Kingdom"
+    ],
+    "leaders": [
+      "Margaret Thatcher",
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "G-7",
+      "Trade",
+      "United Kingdom"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Margaret Thatcher",
+      "John Major",
+      "Europe",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg568",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg568",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg568.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg568.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, The President's News Conference in Kennebunkport, Maine, 1991-05-28.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-05-29-nomination-of-lynn-m-hansen-for-the-rank-of-ambassador-while-serving-as-united-states-repres",
@@ -7983,13 +9137,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg578",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg578",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg578.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg578.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Nomination of Lynn M. Hansen for the Rank of Ambassador While Serving as United States Representative to the Conventional Armed Forces in Europe Joint Consultative Group, 1991-05-29.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-05-29-presidential-determination-no-91-37-memorandum-on-end-strength-level-of-united-states-armed-",
@@ -8011,13 +9166,260 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg579",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg579",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg579.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg579.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Presidential Determination No. 91-37--Memorandum on End Strength Level of United States Armed Forces in Europe, 1991-05-29.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-05-29-remarks-at-the-united-states-air-force-academy-commencement-ceremony-in-colorado-springs-col",
+    "date": "1991-05-29",
+    "sortDate": "1991-05-29",
+    "type": "Remarks",
+    "title": "Remarks at the United States Air Force Academy Commencement Ceremony in Colorado Springs, Colorado",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "German unification",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "German unification"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg575",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg575",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg575.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg575.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks at the United States Air Force Academy Commencement Ceremony in Colorado Springs, Colorado, 1991-05-29.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-05-29-white-house-fact-sheet-on-the-middle-east-arms-control-initiative",
+    "date": "1991-05-29",
+    "sortDate": "1991-05-29",
+    "type": "Public Statement",
+    "title": "White House Fact Sheet on the Middle East Arms Control Initiative",
+    "countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "United Kingdom",
+      "France"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "John Major",
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg579-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg579-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg579-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg579-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, White House Fact Sheet on the Middle East Arms Control Initiative, 1991-05-29.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-05-31-exchange-with-reporters-on-soviet-united-states-relations",
+    "date": "1991-05-31",
+    "sortDate": "1991-05-31",
+    "type": "Q&A",
+    "title": "Exchange With Reporters on Soviet-United States Relations",
+    "countries": [
+      "United Kingdom",
+      "Portugal"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "United Kingdom",
+      "Portugal"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Portugal",
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg587",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg587",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg587.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg587.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters on Soviet-United States Relations, 1991-05-31.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-06-01-exchange-with-reporters-on-soviet-united-states-relations",
+    "date": "1991-06-01",
+    "sortDate": "1991-06-01",
+    "type": "Q&A",
+    "title": "Exchange With Reporters on Soviet-United States Relations",
+    "countries": [
+      "United Kingdom",
+      "Portugal"
+    ],
+    "leaders": [
+      "Anibal Cavaco Silva"
+    ],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "United Kingdom",
+      "Portugal"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Portugal",
+      "Anibal Cavaco Silva",
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg592",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg592",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg592.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg592.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters on Soviet-United States Relations, 1991-06-01.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-06-07-statement-by-press-secretary-fitzwater-on-supercomputer-export-controls",
+    "date": "1991-06-07",
+    "sortDate": "1991-06-07",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on Supercomputer Export Controls",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Western Europe",
+      "Europe"
+    ],
+    "matchTerms": [
+      "Western Europe",
+      "Europe"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg625-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg625-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg625-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg625-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Statement by Press Secretary Fitzwater on Supercomputer Export Controls, 1991-06-07.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-06-14-exchange-with-reporters-aboard-air-force-one",
+    "date": "1991-06-14",
+    "sortDate": "1991-06-14",
+    "type": "Q&A",
+    "title": "Exchange With Reporters Aboard Air Force One",
+    "countries": [
+      "France",
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl",
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "France",
+      "Germany"
+    ],
+    "matchTerms": [
+      "France",
+      "Germany",
+      "Helmut Kohl",
+      "Francois Mitterrand",
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg657",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg657",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg657.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg657.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters Aboard Air Force One, 1991-06-14.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-06-17-exchange-with-reporters-aboard-air-force-one",
+    "date": "1991-06-17",
+    "sortDate": "1991-06-17",
+    "type": "Q&A",
+    "title": "Exchange With Reporters Aboard Air Force One",
+    "countries": [
+      "United Kingdom",
+      "Germany",
+      "Portugal"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "United Kingdom",
+      "Germany",
+      "Portugal"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Germany",
+      "Portugal",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg680",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg680",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg680.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg680.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Exchange With Reporters Aboard Air Force One, 1991-06-17.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-06-18-executive-order-12766-european-bank-for-reconstruction-and-development-and-european-space-ag",
@@ -8029,22 +9431,21 @@ window.PUBLIC_STATEMENTS = [
     "leaders": [],
     "topics": [
       "Public Papers",
-      "Europe",
-      "European Community"
+      "Europe"
     ],
     "matchTerms": [
-      "Europe",
-      "European Community"
+      "Europe"
     ],
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/executive-order-12766-european-bank-for-reconstruction-and-development-and-european-space",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-06-20-remarks-following-discussions-with-former-prime-minister-margaret-thatcher-of-the-united-kin",
@@ -8069,13 +9470,111 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg700-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg700-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg700-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg700-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Remarks Following Discussions With Former Prime Minister Margaret Thatcher of the United Kingdom, 1991-06-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1991-06-21-letter-to-congressional-leaders-transmitting-the-annual-report-on-international-activities-i",
+    "date": "1991-06-21",
+    "sortDate": "1991-06-21",
+    "type": "Letter",
+    "title": "Letter to Congressional Leaders Transmitting the Annual Report on International Activities in Science and Technology",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "NATO",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg708",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg708",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg708.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg708.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Letter to Congressional Leaders Transmitting the Annual Report on International Activities in Science and Technology, 1991-06-21.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-06-21-message-to-the-congress-reporting-on-the-national-emergency-with-respect-to-chemical-and-bio",
+    "date": "1991-06-21",
+    "sortDate": "1991-06-21",
+    "type": "Message",
+    "title": "Message to the Congress Reporting on the National Emergency With Respect to Chemical and Biological Weapons Proliferation",
+    "countries": [
+      "Switzerland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "NATO",
+      "Switzerland"
+    ],
+    "matchTerms": [
+      "Switzerland",
+      "NATO"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg706",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg706",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg706.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg706.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Message to the Congress Reporting on the National Emergency With Respect to Chemical and Biological Weapons Proliferation, 1991-06-21.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1991-06-25-message-to-the-congress-transmitting-the-report-on-restoration-of-the-baltic-states-independ",
+    "date": "1991-06-25",
+    "sortDate": "1991-06-25",
+    "type": "Message",
+    "title": "Message to the Congress Transmitting the Report on Restoration of the Baltic States Independence",
+    "countries": [
+      "France"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "CSCE",
+      "France"
+    ],
+    "matchTerms": [
+      "France",
+      "Europe",
+      "NATO",
+      "CSCE"
+    ],
+    "sourcePackage": "PPP-1991-book1",
+    "sourcePackageLabel": "1991, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg723-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg723-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg723-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg723-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Message to the Congress Transmitting the Report on Restoration of the Baltic States Independence, 1991-06-25.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1991-06-25-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-secretary-general-man",
@@ -8104,13 +9603,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg722",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg722",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg722.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg722.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Statement by Press Secretary Fitzwater on the President's Meeting With Secretary General Manfred Woerner of the North Atlantic Treaty Organization, 1991-06-25.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-06-28-nomination-of-robert-michael-kimmitt-to-be-united-states-ambassador-to-germany",
@@ -8132,13 +9632,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book1",
     "sourcePackageLabel": "1991, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg734",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/PPP-1991-book1-doc-pg734",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/html/PPP-1991-book1-doc-pg734.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1-doc-pg734.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book I), GovInfo, Nomination of Robert Michael Kimmitt To Be United States Ambassador to Germany, 1991-06-28.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1991-07-08-remarks-on-the-london-economic-summit-and-an-exchange-with-foreign-journalists",
@@ -8199,12 +9700,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-london-economic-summit-and-exchange-with-foreign-journalists",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-09-message-to-the-senate-transmitting-the-treaty-on-conventional-armed-forces-in-europe",
@@ -8213,7 +9715,6 @@ window.PUBLIC_STATEMENTS = [
     "type": "Message",
     "title": "Message to the Senate Transmitting the Treaty on Conventional Armed Forces in Europe",
     "countries": [
-      "United Kingdom",
       "France",
       "Germany"
     ],
@@ -8221,12 +9722,10 @@ window.PUBLIC_STATEMENTS = [
     "topics": [
       "Public Papers",
       "Europe",
-      "United Kingdom",
       "France",
       "Germany"
     ],
     "matchTerms": [
-      "United Kingdom",
       "France",
       "Germany",
       "Europe"
@@ -8234,12 +9733,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-senate-transmitting-the-treaty-conventional-armed-forces-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-12-white-house-statement-on-the-trade-enhancement-initiative-for-central-and-eastern-europe",
@@ -8272,12 +9772,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/white-house-statement-the-trade-enhancement-initiative-for-central-and-eastern-europe",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-14-the-president-s-news-conference-with-french-president-francois-mitterrand-in-rambouillet-fra",
@@ -8309,12 +9810,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-french-president-francois-mitterrand-rambouillet",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-15-exchange-with-reporters-in-london-united-kingdom",
@@ -8349,12 +9851,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/exchange-with-reporters-london-united-kingdom",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-16-london-economic-summit-declaration-on-conventional-arms-transfers-and-nuclear-biological-and",
@@ -8385,12 +9888,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/london-economic-summit-declaration-conventional-arms-transfers-and-nuclear-biological-and",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-16-london-economic-summit-political-declaration-strengthening-the-international-order",
@@ -8428,12 +9932,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/london-economic-summit-political-declaration-strengthening-the-international-order",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-17-london-economic-summit-economic-declaration-building-world-partnership",
@@ -8466,12 +9971,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/london-economic-summit-economic-declaration-building-world-partnership",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-17-the-president-s-news-conference-in-london-united-kingdom",
@@ -8513,12 +10019,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-london-united-kingdom",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-17-the-president-s-news-conference-with-soviet-president-mikhail-gorbachev-in-london-united-kin",
@@ -8546,12 +10053,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-soviet-president-mikhail-gorbachev-london-united",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-18-remarks-at-the-arrival-ceremony-in-athens-greece",
@@ -8576,12 +10084,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-arrival-ceremony-athens-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-18-remarks-to-the-greek-parliament-in-athens-greece",
@@ -8614,12 +10123,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-greek-parliament-athens-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-18-the-president-s-news-conference-with-greek-prime-minister-constantinos-mitsotakis-in-athens-",
@@ -8656,12 +10166,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-greek-prime-minister-constantinos-mitsotakis-athens",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-18-toast-at-a-state-dinner-in-athens-greece",
@@ -8687,12 +10198,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/toast-state-dinner-athens-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-19-exchange-with-reporters-in-athens-greece",
@@ -8717,12 +10229,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/exchange-with-reporters-athens-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-19-nomination-of-james-f-dobbins-to-be-united-states-representative-to-the-european-community-w",
@@ -8748,12 +10261,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-james-f-dobbins-be-united-states-representative-the-european-community-with-the",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-19-remarks-at-the-greek-american-chamber-of-commerce-breakfast-in-athens-greece",
@@ -8792,12 +10306,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-greek-american-chamber-commerce-breakfast-athens-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-19-remarks-to-united-states-and-greek-armed-forces-in-souda-bay-crete",
@@ -8824,12 +10339,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-united-states-and-greek-armed-forces-souda-bay-crete",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-20-remarks-at-the-arrival-ceremony-in-ankara-turkey",
@@ -8858,12 +10374,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-arrival-ceremony-ankara-turkey",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-20-the-president-s-news-conference-with-turkish-president-turgut-ozal-in-ankara-turkey",
@@ -8873,7 +10390,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "The President's News Conference With Turkish President Turgut Ozal in Ankara, Turkey",
     "countries": [
       "Turkey",
-      "United Kingdom",
       "Greece"
     ],
     "leaders": [
@@ -8885,12 +10401,10 @@ window.PUBLIC_STATEMENTS = [
       "NATO",
       "Trade",
       "Turkey",
-      "United Kingdom",
       "Greece"
     ],
     "matchTerms": [
       "Turkey",
-      "United Kingdom",
       "Greece",
       "Constantine Mitsotakis",
       "Europe",
@@ -8900,12 +10414,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-turkish-president-turgut-ozal-ankara-turkey",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-20-toast-at-a-state-dinner-in-ankara-turkey",
@@ -8932,12 +10447,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/toast-state-dinner-ankara-turkey",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-21-remarks-at-a-dinner-hosted-by-president-turgut-ozal-in-istanbul-turkey",
@@ -8980,12 +10496,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-dinner-hosted-president-turgut-ozal-istanbul-turkey",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-25-statement-of-administration-policy-h-r-2901-transfer-of-four-naval-vessels-to-greece",
@@ -9007,12 +10524,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-administration-policy-hr-2901-transfer-four-naval-vessels-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-26-message-to-the-congress-transmitting-the-european-economic-community-united-states-fishery-a",
@@ -9036,12 +10554,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/message-the-congress-transmitting-the-european-economic-community-united-states-fishery",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-07-31-proclamation-6319-helsinki-human-rights-day-1991",
@@ -9051,7 +10570,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "Proclamation 6319—Helsinki Human Rights Day, 1991",
     "countries": [
       "Finland",
-      "United Kingdom",
       "France",
       "Germany",
       "Austria"
@@ -9063,14 +10581,12 @@ window.PUBLIC_STATEMENTS = [
       "CSCE",
       "Berlin",
       "Finland",
-      "United Kingdom",
       "France",
       "Germany",
       "Austria"
     ],
     "matchTerms": [
       "Finland",
-      "United Kingdom",
       "France",
       "Germany",
       "Austria",
@@ -9081,12 +10597,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6319-helsinki-human-rights-day-1991",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-08-08-statement-by-press-secretary-fitzwater-on-the-release-of-british-hostage-john-mccarthy",
@@ -9111,12 +10628,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-release-british-hostage-john-mccarthy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-08-29-the-president-s-news-conference-with-prime-minister-major-of-the-united-kingdom-in-kennebunk",
@@ -9145,12 +10663,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-prime-minister-major-the-united-kingdom-kennebunkport",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-09-04-appointment-of-j-french-hill-as-special-assistant-to-the-president-and-executive-secretary-t",
@@ -9172,12 +10691,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/appointment-j-french-hill-special-assistant-the-president-and-executive-secretary-the",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-09-16-the-president-s-news-conference-with-chancellor-helmut-kohl-of-germany",
@@ -9211,12 +10731,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-chancellor-helmut-kohl-germany-0",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-10-03-proclamation-6346-german-american-day-1991-and-1992",
@@ -9246,12 +10767,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6346-german-american-day-1991-and-1992",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-10-03-remarks-at-the-proclamation-signing-ceremony-for-german-american-day",
@@ -9282,12 +10804,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-proclamation-signing-ceremony-for-german-american-day",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-10-05-remarks-at-the-national-italian-american-foundation-fundraising-dinner",
@@ -9311,12 +10834,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-national-italian-american-foundation-fundraising-dinner",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-10-09-remarks-welcoming-president-vigdis-finnbogadottir-of-iceland-and-queen-sonja-of-norway",
@@ -9345,42 +10869,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-welcoming-president-vigdis-finnbogadottir-iceland-and-queen-sonja-norway",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
-  },
-  {
-    "id": "ppp-1991-10-21-statement-of-administration-policy-h-r-3576-cranston-gonzalez-national-affordable-housing-ac",
-    "date": "1991-10-21",
-    "sortDate": "1991-10-21",
-    "type": "Statement",
-    "title": "Statement of Administration Policy: H.R. 3576 - Cranston-Gonzalez National Affordable Housing Act Amendments",
-    "countries": [
-      "Spain"
-    ],
-    "leaders": [
-      "Felipe Gonzalez"
-    ],
-    "topics": [
-      "Public Papers",
-      "Spain"
-    ],
-    "matchTerms": [
-      "Spain",
-      "Felipe Gonzalez"
-    ],
-    "sourcePackage": "PPP-1991-book2",
-    "sourcePackageLabel": "1991, Book II",
-    "sourceKind": "GovInfo volume reference",
-    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
-    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
-    "appUrl": "https://www.presidency.ucsb.edu/documents/statement-administration-policy-hr-3576-cranston-gonzalez-national-affordable-housing-act",
-    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
-    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-10-29-the-president-s-news-conference-with-president-gorbachev-of-the-soviet-union-in-madrid-spain",
@@ -9408,12 +10903,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-president-gorbachev-the-soviet-union-madrid-spain",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-10-29-the-president-s-news-conference-with-prime-minister-felipe-gonzalez-of-spain-in-madrid",
@@ -9451,12 +10947,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-prime-minister-felipe-gonzalez-spain-madrid",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-10-30-remarks-at-the-opening-session-of-the-middle-east-peace-conference-in-madrid-spain",
@@ -9469,9 +10966,7 @@ window.PUBLIC_STATEMENTS = [
       "France",
       "Germany"
     ],
-    "leaders": [
-      "Felipe Gonzalez"
-    ],
+    "leaders": [],
     "topics": [
       "Public Papers",
       "Europe",
@@ -9485,7 +10980,6 @@ window.PUBLIC_STATEMENTS = [
       "Spain",
       "France",
       "Germany",
-      "Felipe Gonzalez",
       "Europe",
       "Berlin",
       "Trade"
@@ -9493,12 +10987,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-opening-session-the-middle-east-peace-conference-madrid-spain",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-07-exchange-with-reporters-following-a-meeting-with-prime-minister-major-of-the-united-kingdom-",
@@ -9530,12 +11025,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/exchange-with-reporters-following-meeting-with-prime-minister-major-the-united-kingdom",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-08-remarks-at-the-american-seminary-in-vatican-city",
@@ -9544,28 +11040,26 @@ window.PUBLIC_STATEMENTS = [
     "type": "Remarks",
     "title": "Remarks at the American Seminary in Vatican City",
     "countries": [
-      "Holy See",
-      "United Kingdom"
+      "Holy See"
     ],
     "leaders": [],
     "topics": [
       "Public Papers",
-      "Holy See",
-      "United Kingdom"
+      "Holy See"
     ],
     "matchTerms": [
-      "Holy See",
-      "United Kingdom"
+      "Holy See"
     ],
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-the-american-seminary-vatican-city",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-08-the-president-s-news-conference-in-rome-italy",
@@ -9607,12 +11101,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-rome-italy",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-09-greetings-to-the-american-community-in-the-hague",
@@ -9629,24 +11124,23 @@ window.PUBLIC_STATEMENTS = [
     "topics": [
       "Public Papers",
       "Europe",
-      "European Community",
       "Netherlands"
     ],
     "matchTerms": [
       "Netherlands",
       "Ruud Lubbers",
-      "Europe",
-      "European Community"
+      "Europe"
     ],
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/greetings-the-american-community-the-hague",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-09-nomination-of-richard-b-stone-to-be-united-states-ambassador-to-denmark",
@@ -9668,12 +11162,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-richard-b-stone-be-united-states-ambassador-denmark",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-09-remarks-at-a-luncheon-hosted-by-prime-minister-ruud-lubbers-in-the-hague",
@@ -9720,12 +11215,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-luncheon-hosted-prime-minister-ruud-lubbers-the-hague",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-09-the-president-s-news-conference-with-prime-minister-ruud-lubbers-of-the-netherlands-and-pres",
@@ -9735,7 +11231,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "The President's News Conference With Prime Minister Ruud Lubbers of The Netherlands and President Jacques Delors of the Commission of the European Community in The Hague",
     "countries": [
       "Netherlands",
-      "United Kingdom",
       "Italy",
       "Switzerland"
     ],
@@ -9750,13 +11245,11 @@ window.PUBLIC_STATEMENTS = [
       "European Community",
       "Trade",
       "Netherlands",
-      "United Kingdom",
       "Italy",
       "Switzerland"
     ],
     "matchTerms": [
       "Netherlands",
-      "United Kingdom",
       "Italy",
       "Switzerland",
       "John Major",
@@ -9769,12 +11262,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-prime-minister-ruud-lubbers-the-netherlands-and",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-14-proclamation-6375-dutch-american-heritage-day-1991",
@@ -9806,12 +11300,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6375-dutch-american-heritage-day-1991",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-18-nomination-of-john-hubert-kelly-to-be-united-states-ambassador-to-the-republic-of-finland",
@@ -9835,12 +11330,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/nomination-john-hubert-kelly-be-united-states-ambassador-the-republic-finland",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-11-18-statement-by-press-secretary-fitzwater-on-the-release-of-american-hostage-thomas-sutherland-",
@@ -9862,12 +11358,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-release-american-hostage-thomas-sutherland-and",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-12-11-statement-on-the-european-community-summit",
@@ -9876,7 +11373,6 @@ window.PUBLIC_STATEMENTS = [
     "type": "Statement",
     "title": "Statement on the European Community Summit",
     "countries": [
-      "United Kingdom",
       "Italy",
       "Netherlands"
     ],
@@ -9889,12 +11385,10 @@ window.PUBLIC_STATEMENTS = [
       "European Community",
       "European Union",
       "Trade",
-      "United Kingdom",
       "Italy",
       "Netherlands"
     ],
     "matchTerms": [
-      "United Kingdom",
       "Italy",
       "Netherlands",
       "Western Europe",
@@ -9907,12 +11401,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-the-european-community-summit",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-12-12-exchange-with-reporters-prior-to-a-meeting-with-prime-minister-constantinos-mitsotakis-of-gr",
@@ -9928,23 +11423,22 @@ window.PUBLIC_STATEMENTS = [
     ],
     "topics": [
       "Public Papers",
-      "European Community",
       "Greece"
     ],
     "matchTerms": [
       "Greece",
-      "Constantine Mitsotakis",
-      "European Community"
+      "Constantine Mitsotakis"
     ],
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/exchange-with-reporters-prior-meeting-with-prime-minister-constantinos-mitsotakis-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-12-12-remarks-following-discussions-with-prime-minister-constantinos-mitsotakis-of-greece",
@@ -9975,12 +11469,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/remarks-following-discussions-with-prime-minister-constantinos-mitsotakis-greece",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1991-12-12-statement-on-signing-the-conventional-forces-in-europe-treaty-implementation-act-of-1991",
@@ -10002,12 +11497,252 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1991-book2",
     "sourcePackageLabel": "1991, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-signing-the-conventional-forces-europe-treaty-implementation-act-1991",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1991, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
+  },
+  {
+    "id": "ppp-1992-01-02-remarks-to-the-australian-parliament-in-canberra",
+    "date": "1992-01-02",
+    "sortDate": "1992-01-02",
+    "type": "Remarks",
+    "title": "Remarks to the Australian Parliament in Canberra",
+    "countries": [
+      "United Kingdom",
+      "Italy",
+      "Ireland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade",
+      "United Kingdom",
+      "Italy",
+      "Ireland"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Italy",
+      "Ireland",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg4",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg4",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg4.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg4.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the Australian Parliament in Canberra, 1992-01-02.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-01-03-remarks-to-business-and-community-leaders-in-melbourne",
+    "date": "1992-01-03",
+    "sortDate": "1992-01-03",
+    "type": "Remarks",
+    "title": "Remarks to Business and Community Leaders in Melbourne",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg17",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg17",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg17.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg17.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to Business and Community Leaders in Melbourne, 1992-01-03.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-01-04-remarks-and-a-question-and-answer-session-with-the-singapore-lecture-group",
+    "date": "1992-01-04",
+    "sortDate": "1992-01-04",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session With the Singapore Lecture Group",
+    "countries": [
+      "France",
+      "Italy",
+      "Netherlands",
+      "Spain"
+    ],
+    "leaders": [
+      "Ruud Lubbers"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Trade",
+      "France",
+      "Italy",
+      "Netherlands",
+      "Spain"
+    ],
+    "matchTerms": [
+      "France",
+      "Italy",
+      "Netherlands",
+      "Spain",
+      "Ruud Lubbers",
+      "Europe",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg25",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg25",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg25.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg25.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks and a Question-and-Answer Session With the Singapore Lecture Group, 1992-01-04.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-01-06-remarks-to-the-korean-national-assembly-in-seoul",
+    "date": "1992-01-06",
+    "sortDate": "1992-01-06",
+    "type": "Remarks",
+    "title": "Remarks to the Korean National Assembly in Seoul",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg40",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg40",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg40.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg40.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the Korean National Assembly in Seoul, 1992-01-06.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-01-07-remarks-at-the-opening-of-toys-r-us-in-kashihara-japan",
+    "date": "1992-01-07",
+    "sortDate": "1992-01-07",
+    "type": "Remarks",
+    "title": "Remarks at the Opening of Toys-R-Us in Kashihara, Japan",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "Trade"
+    ],
+    "matchTerms": [
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg47",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg47",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg47.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg47.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Opening of Toys-R-Us in Kashihara, Japan, 1992-01-07.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-01-08-joint-statement-by-the-president-and-prime-minister-kiichi-miyazawa-of-japan-a-strategy-for-",
+    "date": "1992-01-08",
+    "sortDate": "1992-01-08",
+    "type": "Statement",
+    "title": "Joint Statement by the President and Prime Minister Kiichi Miyazawa of Japan: A Strategy for World Growth",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "Trade"
+    ],
+    "matchTerms": [
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg51",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg51",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg51.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg51.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Joint Statement by the President and Prime Minister Kiichi Miyazawa of Japan: A Strategy for World Growth, 1992-01-08.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-01-13-remarks-to-the-american-farm-bureau-federation-in-kansas-city-missouri",
+    "date": "1992-01-13",
+    "sortDate": "1992-01-13",
+    "type": "Remarks",
+    "title": "Remarks to the American Farm Bureau Federation in Kansas City, Missouri",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg75",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg75",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg75.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg75.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the American Farm Bureau Federation in Kansas City, Missouri, 1992-01-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-01-13-white-house-statement-on-the-president-s-meeting-with-president-mario-soares-of-portugal",
@@ -10023,26 +11758,60 @@ window.PUBLIC_STATEMENTS = [
     ],
     "topics": [
       "Public Papers",
-      "European Community",
       "Trade",
       "Portugal"
     ],
     "matchTerms": [
       "Portugal",
       "Mario Soares",
-      "European Community",
       "Trade"
     ],
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg79-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg79-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg79-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg79-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, White House Statement on the President's Meeting With President Mario Soares of Portugal, 1992-01-13.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-01-15-remarks-and-a-question-and-answer-session-at-a-rotary-club-dinner-in-portsmouth-new-hampshir",
+    "date": "1992-01-15",
+    "sortDate": "1992-01-15",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session at a Rotary Club Dinner in Portsmouth, New Hampshire",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg109",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg109",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg109.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg109.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks and a Question-and-Answer Session at a Rotary Club Dinner in Portsmouth, New Hampshire, 1992-01-15.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-01-22-message-to-the-senate-transmitting-the-spain-united-states-legal-assistance-treaty",
@@ -10064,13 +11833,128 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg133",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg133",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg133.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg133.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Message to the Senate Transmitting the Spain-United States Legal Assistance Treaty, 1992-01-22.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-01-22-remarks-at-the-international-conference-on-humanitarian-assistance-to-the-former-u-s-s-r",
+    "date": "1992-01-22",
+    "sortDate": "1992-01-22",
+    "type": "Remarks",
+    "title": "Remarks at the International Conference on Humanitarian Assistance to the Former U.S.S.R.",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "European Community",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "NATO",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg127",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg127",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg127.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg127.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the International Conference on Humanitarian Assistance to the Former U.S.S.R., 1992-01-22.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-01-31-remarks-to-the-united-nations-security-council-in-new-york-city",
+    "date": "1992-01-31",
+    "sortDate": "1992-01-31",
+    "type": "Remarks",
+    "title": "Remarks to the United Nations Security Council in New York City",
+    "countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "leaders": [
+      "John Major",
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "United Kingdom",
+      "France"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "John Major",
+      "Francois Mitterrand",
+      "Europe"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg175",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg175",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg175.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg175.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the United Nations Security Council in New York City, 1992-01-31.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-02-03-remarks-and-a-question-and-answer-session-with-the-national-governors-association",
+    "date": "1992-02-03",
+    "sortDate": "1992-02-03",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session With the National Governors' Association",
+    "countries": [
+      "France"
+    ],
+    "leaders": [
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade",
+      "France"
+    ],
+    "matchTerms": [
+      "France",
+      "Francois Mitterrand",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg182",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg182",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg182.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg182.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks and a Question-and-Answer Session With the National Governors' Association, 1992-02-03.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-02-10-memorandum-on-delegation-of-authority-regarding-the-report-to-the-commission-on-security-and",
@@ -10094,12 +11978,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/memorandum-delegation-authority-regarding-the-report-the-commission-security-and",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1992-02-11-exchange-with-reporters-prior-to-discussions-with-prime-minister-suleyman-demirel-of-turkey",
@@ -10127,13 +12012,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg223",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg223",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg223.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg223.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Exchange With Reporters Prior to Discussions With Prime Minister Suleyman Demirel of Turkey, 1992-02-11.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-02-11-remarks-at-the-departure-ceremony-for-prime-minister-suleyman-demirel-of-turkey",
@@ -10166,13 +12052,45 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg225",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg225",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg225.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg225.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Departure Ceremony for Prime Minister Suleyman Demirel of Turkey, 1992-02-11.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-02-12-remarks-announcing-the-bush-quayle-candidacies-for-reelection",
+    "date": "1992-02-12",
+    "sortDate": "1992-02-12",
+    "type": "Remarks",
+    "title": "Remarks Announcing the Bush-Quayle Candidacies for Reelection",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg233",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg233",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg233.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg233.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks Announcing the Bush-Quayle Candidacies for Reelection, 1992-02-12.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-02-13-memorandum-on-the-conventional-forces-in-europe-treaty-implementation-act",
@@ -10192,13 +12110,80 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg243",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg243",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg243.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg243.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Memorandum on the Conventional Forces in Europe Treaty Implementation Act, 1992-02-13.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-02-15-remarks-at-the-bush-quayle-campaign-welcome-in-derry-new-hampshire",
+    "date": "1992-02-15",
+    "sortDate": "1992-02-15",
+    "type": "Remarks",
+    "title": "Remarks at the Bush-Quayle Campaign Welcome in Derry, New Hampshire",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg258",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg258",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg258.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg258.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Bush-Quayle Campaign Welcome in Derry, New Hampshire, 1992-02-15.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-02-16-remarks-and-a-question-and-answer-session-in-hollis-new-hampshire",
+    "date": "1992-02-16",
+    "sortDate": "1992-02-16",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session in Hollis, New Hampshire",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "NATO",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg262",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg262",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg262.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg262.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks and a Question-and-Answer Session in Hollis, New Hampshire, 1992-02-16.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-02-20-exchange-with-reporters-prior-to-discussions-with-prime-minister-carl-bildt-of-sweden",
@@ -10225,13 +12210,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg284-3",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg284-3",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg284-3.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg284-3.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Exchange With Reporters Prior to Discussions With Prime Minister Carl Bildt of Sweden, 1992-02-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-02-20-remarks-at-the-departure-ceremony-for-prime-minister-carl-bildt-of-sweden",
@@ -10258,13 +12244,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg285",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg285",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg285.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg285.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Departure Ceremony for Prime Minister Carl Bildt of Sweden, 1992-02-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-02-21-nomination-of-sigmund-a-rogich-to-be-united-states-ambassador-to-iceland",
@@ -10286,41 +12273,182 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg291",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg291",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg291.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg291.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Nomination of Sigmund A. Rogich To Be United States Ambassador to Iceland, 1992-02-21.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
-    "id": "ppp-1992-02-28-presidential-determination-no-92-18-memorandum-on-certification-for-major-narcotics-producin",
-    "date": "1992-02-28",
-    "sortDate": "1992-02-28",
-    "type": "Public Statement",
-    "title": "Presidential Determination No. 92-18--Memorandum on Certification for Major Narcotics Producing and Transit Countries",
+    "id": "ppp-1992-02-24-remarks-at-the-bush-quayle-campaign-kickoff-in-bethesda-maryland",
+    "date": "1992-02-24",
+    "sortDate": "1992-02-24",
+    "type": "Remarks",
+    "title": "Remarks at the Bush-Quayle Campaign Kickoff in Bethesda, Maryland",
     "countries": [
-      "United Kingdom"
+      "Germany"
     ],
     "leaders": [],
     "topics": [
       "Public Papers",
-      "United Kingdom"
+      "Berlin",
+      "Germany"
     ],
     "matchTerms": [
-      "United Kingdom"
+      "Germany",
+      "Berlin"
     ],
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
-    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg351",
-    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg351",
-    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg351.htm",
-    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg351.pdf",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg303-3",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg303-3",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg303-3.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg303-3.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
-    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Presidential Determination No. 92-18--Memorandum on Certification for Major Narcotics Producing and Transit Countries, 1992-02-28.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Bush-Quayle Campaign Kickoff in Bethesda, Maryland, 1992-02-24.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-02-25-exchange-with-reporters-aboard-air-force-one",
+    "date": "1992-02-25",
+    "sortDate": "1992-02-25",
+    "type": "Q&A",
+    "title": "Exchange With Reporters Aboard Air Force One",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg306",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg306",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg306.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg306.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Exchange With Reporters Aboard Air Force One, 1992-02-25.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-02-25-letter-to-congressional-leaders-reporting-on-the-cyprus-conflict",
+    "date": "1992-02-25",
+    "sortDate": "1992-02-25",
+    "type": "Letter",
+    "title": "Letter to Congressional Leaders Reporting on the Cyprus Conflict",
+    "countries": [
+      "Belgium",
+      "Greece",
+      "Turkey"
+    ],
+    "leaders": [
+      "Constantine Mitsotakis"
+    ],
+    "topics": [
+      "Public Papers",
+      "Belgium",
+      "Greece",
+      "Turkey"
+    ],
+    "matchTerms": [
+      "Belgium",
+      "Greece",
+      "Turkey",
+      "Constantine Mitsotakis"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg312-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg312-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg312-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg312-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Letter to Congressional Leaders Reporting on the Cyprus Conflict, 1992-02-25.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-02-27-declaration-of-san-antonio",
+    "date": "1992-02-27",
+    "sortDate": "1992-02-27",
+    "type": "Public Statement",
+    "title": "Declaration of San Antonio",
+    "countries": [
+      "Spain"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "G-7",
+      "Trade",
+      "Spain"
+    ],
+    "matchTerms": [
+      "Spain",
+      "Europe",
+      "European Community",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg334",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg334",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg334.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg334.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Declaration of San Antonio, 1992-02-27.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-02-28-remarks-at-the-houston-livestock-show-and-rodeo-dinner-in-houston-texas",
+    "date": "1992-02-28",
+    "sortDate": "1992-02-28",
+    "type": "Remarks",
+    "title": "Remarks at the Houston Livestock Show and Rodeo Dinner in Houston, Texas",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg347-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg347-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg347-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg347-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Houston Livestock Show and Rodeo Dinner in Houston, Texas, 1992-02-28.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-03-02-message-to-the-congress-transmitting-the-finland-united-states-social-security-agreement",
@@ -10378,13 +12506,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg362",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg362",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg362.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg362.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Message to the Congress Transmitting the Finland-United States Social Security Agreement, 1992-03-02.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-03-03-message-to-the-senate-transmitting-the-spain-united-states-second-supplementary-treaty-on-ex",
@@ -10406,13 +12535,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg369-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg369-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg369-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg369-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Message to the Senate Transmitting the Spain-United States Second Supplementary Treaty on Extradition, 1992-03-03.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-03-04-proclamation-6408-irish-american-heritage-month-1992",
@@ -10436,12 +12566,120 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6408-irish-american-heritage-month-1992",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
+  },
+  {
+    "id": "ppp-1992-03-09-letter-to-congressional-leaders-on-nuclear-cooperation-with-euratom",
+    "date": "1992-03-09",
+    "sortDate": "1992-03-09",
+    "type": "Letter",
+    "title": "Letter to Congressional Leaders on Nuclear Cooperation With EURATOM",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg410",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg410",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg410.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg410.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Letter to Congressional Leaders on Nuclear Cooperation With EURATOM, 1992-03-09.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-03-11-remarks-at-the-richard-nixon-library-dinner",
+    "date": "1992-03-11",
+    "sortDate": "1992-03-11",
+    "type": "Remarks",
+    "title": "Remarks at the Richard Nixon Library Dinner",
+    "countries": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "Trade",
+      "United Kingdom",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Germany",
+      "Europe",
+      "NATO",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg428",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg428",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg428.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg428.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Richard Nixon Library Dinner, 1992-03-11.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-03-11-the-president-s-news-conference",
+    "date": "1992-03-11",
+    "sortDate": "1992-03-11",
+    "type": "News Conference",
+    "title": "The President's News Conference",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Germany"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Trade",
+      "United Kingdom",
+      "France",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "John Major",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg416",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg416",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg416.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg416.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference, 1992-03-11.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-03-12-statement-by-press-secretary-fitzwater-on-the-president-s-telephone-conversation-with-prime-",
@@ -10465,13 +12703,82 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg438-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg438-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg438-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg438-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the President's Telephone Conversation With Prime Minister Suleyman Demirel of Turkey, 1992-03-12.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-03-13-remarks-to-the-economic-club-of-detroit-in-detroit-michigan",
+    "date": "1992-03-13",
+    "sortDate": "1992-03-13",
+    "type": "Remarks",
+    "title": "Remarks to the Economic Club of Detroit in Detroit, Michigan",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl"
+    ],
+    "topics": [
+      "Public Papers",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Helmut Kohl",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg442",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg442",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg442.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg442.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the Economic Club of Detroit in Detroit, Michigan, 1992-03-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-03-16-remarks-to-the-polish-national-alliance-in-chicago-illinois",
+    "date": "1992-03-16",
+    "sortDate": "1992-03-16",
+    "type": "Remarks",
+    "title": "Remarks to the Polish National Alliance in Chicago, Illinois",
+    "countries": [
+      "Holy See"
+    ],
+    "leaders": [
+      "Pope John Paul II"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Holy See"
+    ],
+    "matchTerms": [
+      "Holy See",
+      "Pope John Paul II",
+      "Europe"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg456",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg456",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg456.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg456.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the Polish National Alliance in Chicago, Illinois, 1992-03-16.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-03-22-the-president-s-news-conference-with-chancellor-helmut-kohl-of-germany",
@@ -10481,7 +12788,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "The President's News Conference With Chancellor Helmut Kohl of Germany",
     "countries": [
       "Germany",
-      "United Kingdom",
       "Portugal"
     ],
     "leaders": [
@@ -10492,23 +12798,19 @@ window.PUBLIC_STATEMENTS = [
       "Public Papers",
       "Europe",
       "NATO",
-      "European Community",
       "G-7",
       "German unification",
       "Trade",
       "Germany",
-      "United Kingdom",
       "Portugal"
     ],
     "matchTerms": [
       "Germany",
-      "United Kingdom",
       "Portugal",
       "Helmut Kohl",
       "Jacques Delors",
       "Europe",
       "NATO",
-      "European Community",
       "G-7",
       "German unification",
       "Trade"
@@ -10516,13 +12818,124 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg483-3",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg483-3",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg483-3.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg483-3.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference With Chancellor Helmut Kohl of Germany, 1992-03-22.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-03-23-statement-by-press-secretary-fitzwater-on-the-president-s-telephone-conversation-with-presid",
+    "date": "1992-03-23",
+    "sortDate": "1992-03-23",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on the President's Telephone Conversation With President Boris Yeltsin of Russia",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl"
+    ],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Helmut Kohl",
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg494",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg494",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg494.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg494.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the President's Telephone Conversation With President Boris Yeltsin of Russia, 1992-03-23.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-03-24-remarks-to-the-national-american-wholesale-grocers-association",
+    "date": "1992-03-24",
+    "sortDate": "1992-03-24",
+    "type": "Remarks",
+    "title": "Remarks to the National American Wholesale Grocers Association",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Helmut Kohl",
+      "Europe",
+      "European Community",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg494-3",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg494-3",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg494-3.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg494-3.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the National American Wholesale Grocers Association, 1992-03-24.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-03-24-statement-by-press-secretary-fitzwater-on-the-open-skies-treaty",
+    "date": "1992-03-24",
+    "sortDate": "1992-03-24",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on the Open Skies Treaty",
+    "countries": [
+      "Finland",
+      "Austria"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "Finland",
+      "Austria"
+    ],
+    "matchTerms": [
+      "Finland",
+      "Austria",
+      "Europe",
+      "NATO"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg502",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg502",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg502.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg502.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the Open Skies Treaty, 1992-03-24.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-03-25-proclamation-6417-greek-independence-day-a-national-day-of-celebration-of-greek-and-american",
@@ -10544,12 +12957,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6417-greek-independence-day-national-day-celebration-greek-and-american",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1992-03-25-remarks-on-signing-the-greek-independence-day-proclamation",
@@ -10576,13 +12990,65 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg504",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg504",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg504.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg504.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks on Signing the Greek Independence Day Proclamation, 1992-03-25.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-04-01-the-president-s-news-conference-on-aid-to-the-states-of-the-former-soviet-union",
+    "date": "1992-04-01",
+    "sortDate": "1992-04-01",
+    "type": "News Conference",
+    "title": "The President's News Conference on Aid to the States of the Former Soviet Union",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Italy",
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl",
+      "John Major",
+      "Francois Mitterrand"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "G-7",
+      "Trade",
+      "United Kingdom",
+      "France",
+      "Italy",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Italy",
+      "Germany",
+      "Helmut Kohl",
+      "John Major",
+      "Francois Mitterrand",
+      "Europe",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg522",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg522",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg522.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg522.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference on Aid to the States of the Former Soviet Union, 1992-04-01.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-04-02-remarks-at-the-departure-ceremony-for-prime-minister-felipe-gonzalez-of-spain",
@@ -10609,13 +13075,43 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg528-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg528-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg528-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg528-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Departure Ceremony for Prime Minister Felipe Gonzalez of Spain, 1992-04-02.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-04-03-message-to-the-congress-transmitting-the-freedom-support-act-proposed-legislation",
+    "date": "1992-04-03",
+    "sortDate": "1992-04-03",
+    "type": "Message",
+    "title": "Message to the Congress Transmitting the FREEDOM Support Act Proposed Legislation",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Western Europe",
+      "Europe"
+    ],
+    "matchTerms": [
+      "Western Europe",
+      "Europe"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo full-text search",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg537",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg537",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg537.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg537.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo full-text search result, Message to the Congress Transmitting the FREEDOM Support Act Proposed Legislation, 1992-04-03.",
+    "notes": "Selected by GovInfo full-text search query \"Western Europe\"; teaser and title matched Western Europe country, leader, or regional policy terms."
   },
   {
     "id": "ppp-1992-04-07-statement-by-deputy-press-secretary-smith-on-the-president-s-meeting-with-president-francesc",
@@ -10639,13 +13135,218 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg554",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg554",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg554.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg554.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Deputy Press Secretary Smith on the President's Meeting With President Francesco Cossiga of Italy, 1992-04-07.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-04-07-statement-on-united-states-recognition-of-the-former-yugoslav-republics",
+    "date": "1992-04-07",
+    "sortDate": "1992-04-07",
+    "type": "Statement",
+    "title": "Statement on United States Recognition of the Former Yugoslav Republics",
+    "countries": [
+      "Greece"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Greece"
+    ],
+    "matchTerms": [
+      "Greece",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg553",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg553",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg553.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg553.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement on United States Recognition of the Former Yugoslav Republics, 1992-04-07.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-04-09-exchange-with-reporters-prior-to-discussions-with-president-violeta-chamorro-of-nicaragua",
+    "date": "1992-04-09",
+    "sortDate": "1992-04-09",
+    "type": "Q&A",
+    "title": "Exchange With Reporters Prior to Discussions With President Violeta Chamorro of Nicaragua",
+    "countries": [
+      "United Kingdom",
+      "Spain"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "United Kingdom",
+      "Spain"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Spain",
+      "John Major"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg573",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg573",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg573.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg573.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Exchange With Reporters Prior to Discussions With President Violeta Chamorro of Nicaragua, 1992-04-09.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-04-09-remarks-to-the-american-society-of-newspaper-editors",
+    "date": "1992-04-09",
+    "sortDate": "1992-04-09",
+    "type": "Remarks",
+    "title": "Remarks to the American Society of Newspaper Editors",
+    "countries": [
+      "France",
+      "Italy",
+      "Germany",
+      "Portugal"
+    ],
+    "leaders": [
+      "Anibal Cavaco Silva"
+    ],
+    "topics": [
+      "Public Papers",
+      "Western Europe",
+      "Europe",
+      "NATO",
+      "European Community",
+      "G-7",
+      "German unification",
+      "Berlin",
+      "Trade",
+      "France",
+      "Italy",
+      "Germany",
+      "Portugal"
+    ],
+    "matchTerms": [
+      "France",
+      "Italy",
+      "Germany",
+      "Portugal",
+      "Anibal Cavaco Silva",
+      "Western Europe",
+      "Europe",
+      "NATO",
+      "European Community",
+      "G-7",
+      "German unification",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg564-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg564-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg564-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg564-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the American Society of Newspaper Editors, 1992-04-09.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-04-10-the-president-s-news-conference",
+    "date": "1992-04-10",
+    "sortDate": "1992-04-10",
+    "type": "News Conference",
+    "title": "The President's News Conference",
+    "countries": [
+      "United Kingdom"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "G-7",
+      "Trade",
+      "United Kingdom"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "John Major",
+      "Europe",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg579",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg579",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg579.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg579.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference, 1992-04-10.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-04-21-remarks-to-the-young-presidents-organization",
+    "date": "1992-04-21",
+    "sortDate": "1992-04-21",
+    "type": "Remarks",
+    "title": "Remarks to the Young Presidents' Organization",
+    "countries": [
+      "Germany",
+      "Portugal"
+    ],
+    "leaders": [
+      "Anibal Cavaco Silva",
+      "Jacques Delors"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Trade",
+      "Germany",
+      "Portugal"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Portugal",
+      "Anibal Cavaco Silva",
+      "Jacques Delors",
+      "Europe",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg619",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg619",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg619.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg619.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the Young Presidents' Organization, 1992-04-21.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-04-22-remarks-at-the-departure-ceremony-for-european-community-leaders-anibal-cavaco-silva-and-jac",
@@ -10684,13 +13385,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg625",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg625",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg625.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg625.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Departure Ceremony for European Community Leaders Anibal Cavaco Silva and Jacques Delors, 1992-04-22.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-04-23-nomination-of-richard-goodwin-capen-jr-to-be-united-states-ambassador-to-spain",
@@ -10712,13 +13414,49 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg637",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg637",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg637.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg637.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Nomination of Richard Goodwin Capen, Jr., To Be United States Ambassador to Spain, 1992-04-23.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-04-23-remarks-to-the-forum-of-the-americas",
+    "date": "1992-04-23",
+    "sortDate": "1992-04-23",
+    "type": "Remarks",
+    "title": "Remarks to the Forum of the Americas",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg632",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg632",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg632.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg632.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the Forum of the Americas, 1992-04-23.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-04-27-memorandum-on-determination-and-certification-to-permit-u-s-contributions-to-the-internation",
@@ -10749,12 +13487,45 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/memorandum-determination-and-certification-permit-us-contributions-the-international-fund",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
+  },
+  {
+    "id": "ppp-1992-04-27-remarks-on-legislative-goals-and-an-exchange-with-reporters",
+    "date": "1992-04-27",
+    "sortDate": "1992-04-27",
+    "type": "Q&A",
+    "title": "Remarks on Legislative Goals and an Exchange With Reporters",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl"
+    ],
+    "topics": [
+      "Public Papers",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Helmut Kohl"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg643",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg643",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg643.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg643.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks on Legislative Goals and an Exchange With Reporters, 1992-04-27.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-04-28-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-president-turgut-ozal",
@@ -10776,13 +13547,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg660",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg660",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg660.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg660.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the President's Meeting With President Turgut Ozal of Turkey, 1992-04-28.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-04-29-remarks-at-the-arrival-ceremony-for-president-richard-von-weizsacker-of-germany",
@@ -10813,13 +13585,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg661",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg661",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg661.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg661.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Arrival Ceremony for President Richard von Weizsacker of Germany, 1992-04-29.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-04-29-remarks-at-the-state-dinner-for-president-richard-von-weizsacker-of-germany",
@@ -10850,13 +13623,58 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg667-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg667-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg667-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg667-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the State Dinner for President Richard von Weizsacker of Germany, 1992-04-29.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-04-30-remarks-at-a-bush-quayle-fundraising-dinner-in-columbus",
+    "date": "1992-04-30",
+    "sortDate": "1992-04-30",
+    "type": "Remarks",
+    "title": "Remarks at a Bush-Quayle Fundraising Dinner in Columbus",
+    "countries": [
+      "United Kingdom",
+      "Germany",
+      "Portugal"
+    ],
+    "leaders": [
+      "Margaret Thatcher",
+      "Anibal Cavaco Silva"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Trade",
+      "United Kingdom",
+      "Germany",
+      "Portugal"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Germany",
+      "Portugal",
+      "Margaret Thatcher",
+      "Anibal Cavaco Silva",
+      "Europe",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg675",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg675",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg675.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg675.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at a Bush-Quayle Fundraising Dinner in Columbus, 1992-04-30.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-04-30-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-president-richard-von",
@@ -10886,13 +13704,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg670",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg670",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg670.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg670.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the President's Meeting With President Richard von Weizsacker of Germany, 1992-04-30.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-05-05-nomination-of-reginald-bartholomew-to-be-united-states-permanent-representative-on-the-counc",
@@ -10919,13 +13738,88 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg693",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg693",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg693.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg693.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Nomination of Reginald Bartholomew To Be United States Permanent Representative on the Council of the North Atlantic Treaty Organization, 1992-05-05.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-05-05-remarks-at-a-cinco-de-mayo-celebration",
+    "date": "1992-05-05",
+    "sortDate": "1992-05-05",
+    "type": "Remarks",
+    "title": "Remarks at a Cinco de Mayo Celebration",
+    "countries": [
+      "Germany",
+      "Spain"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Trade",
+      "Germany",
+      "Spain"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Spain",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg690-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg690-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg690-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg690-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at a Cinco de Mayo Celebration, 1992-05-05.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-05-06-letter-to-congressional-leaders-reporting-on-the-cyprus-conflict",
+    "date": "1992-05-06",
+    "sortDate": "1992-05-06",
+    "type": "Letter",
+    "title": "Letter to Congressional Leaders Reporting on the Cyprus Conflict",
+    "countries": [
+      "Belgium",
+      "Greece",
+      "Turkey"
+    ],
+    "leaders": [
+      "Constantine Mitsotakis"
+    ],
+    "topics": [
+      "Public Papers",
+      "Belgium",
+      "Greece",
+      "Turkey"
+    ],
+    "matchTerms": [
+      "Belgium",
+      "Greece",
+      "Turkey",
+      "Constantine Mitsotakis"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg710",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg710",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg710.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg710.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Letter to Congressional Leaders Reporting on the Cyprus Conflict, 1992-05-06.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-05-07-nomination-of-william-henry-gerald-fitzgerald-to-be-united-states-ambassador-to-ireland",
@@ -10947,13 +13841,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg726-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg726-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg726-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg726-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Nomination of William Henry Gerald FitzGerald To Be United States Ambassador to Ireland, 1992-05-07.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-05-11-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-foreign-minister-rola",
@@ -10981,13 +13876,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg740",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg740",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg740.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg740.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the President's Meeting With Foreign Minister Roland Dumas of France, 1992-05-11.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-05-14-nomination-of-donald-herman-alexander-to-be-united-states-ambassador-to-the-netherlands",
@@ -11009,13 +13905,266 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg772",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg772",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg772.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg772.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Nomination of Donald Herman Alexander To Be United States Ambassador to The Netherlands, 1992-05-14.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-05-17-remarks-at-the-university-of-notre-dame-commencement-ceremony-in-south-bend-indiana",
+    "date": "1992-05-17",
+    "sortDate": "1992-05-17",
+    "type": "Remarks",
+    "title": "Remarks at the University of Notre Dame Commencement Ceremony in South Bend, Indiana",
+    "countries": [
+      "Holy See"
+    ],
+    "leaders": [
+      "Pope John Paul II"
+    ],
+    "topics": [
+      "Public Papers",
+      "Holy See"
+    ],
+    "matchTerms": [
+      "Holy See",
+      "Pope John Paul II"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg785",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg785",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg785.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg785.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the University of Notre Dame Commencement Ceremony in South Bend, Indiana, 1992-05-17.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-05-19-joint-declaration-with-president-nursultan-nazarbayev-of-kazakhstan",
+    "date": "1992-05-19",
+    "sortDate": "1992-05-19",
+    "type": "Public Statement",
+    "title": "Joint Declaration With President Nursultan Nazarbayev of Kazakhstan",
+    "countries": [
+      "France",
+      "Finland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "CSCE",
+      "Trade",
+      "France",
+      "Finland"
+    ],
+    "matchTerms": [
+      "France",
+      "Finland",
+      "Europe",
+      "CSCE",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg793",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg793",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg793.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg793.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Joint Declaration With President Nursultan Nazarbayev of Kazakhstan, 1992-05-19.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-05-20-the-president-s-news-conference-with-prime-minister-brian-mulroney-of-canada",
+    "date": "1992-05-20",
+    "sortDate": "1992-05-20",
+    "type": "News Conference",
+    "title": "The President's News Conference With Prime Minister Brian Mulroney of Canada",
+    "countries": [
+      "France"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "G-7",
+      "Trade",
+      "France"
+    ],
+    "matchTerms": [
+      "France",
+      "Europe",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg799",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg799",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg799.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg799.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference With Prime Minister Brian Mulroney of Canada, 1992-05-20.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-05-21-remarks-at-the-ohio-freedom-day-celebration-in-parma-ohio",
+    "date": "1992-05-21",
+    "sortDate": "1992-05-21",
+    "type": "Remarks",
+    "title": "Remarks at the Ohio Freedom Day Celebration in Parma, Ohio",
+    "countries": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl",
+      "Margaret Thatcher"
+    ],
+    "topics": [
+      "Public Papers",
+      "Western Europe",
+      "Europe",
+      "NATO",
+      "Berlin",
+      "Trade",
+      "United Kingdom",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Germany",
+      "Helmut Kohl",
+      "Margaret Thatcher",
+      "Western Europe",
+      "Europe",
+      "NATO",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg812",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg812",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg812.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg812.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at the Ohio Freedom Day Celebration in Parma, Ohio, 1992-05-21.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-05-30-remarks-and-a-question-and-answer-session-with-the-agricultural-community-in-fresno-californ",
+    "date": "1992-05-30",
+    "sortDate": "1992-05-30",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session With the Agricultural Community in Fresno, California",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo full-text search",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg860",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg860",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg860.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg860.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo full-text search result, Remarks and a Question-and-Answer Session With the Agricultural Community in Fresno, California, 1992-05-30.",
+    "notes": "Selected by GovInfo full-text search query \"European Community\"; teaser and title matched Western Europe country, leader, or regional policy terms."
+  },
+  {
+    "id": "ppp-1992-06-01-remarks-to-goddard-space-flight-center-employees-in-greenbelt-maryland",
+    "date": "1992-06-01",
+    "sortDate": "1992-06-01",
+    "type": "Remarks",
+    "title": "Remarks to Goddard Space Flight Center Employees in Greenbelt, Maryland",
+    "countries": [
+      "Netherlands",
+      "Sweden"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "G-7",
+      "Trade",
+      "Netherlands",
+      "Sweden"
+    ],
+    "matchTerms": [
+      "Netherlands",
+      "Sweden",
+      "Europe",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg873",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg873",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg873.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg873.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to Goddard Space Flight Center Employees in Greenbelt, Maryland, 1992-06-01.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-06-04-the-president-s-news-conference",
+    "date": "1992-06-04",
+    "sortDate": "1992-06-04",
+    "type": "News Conference",
+    "title": "The President's News Conference",
+    "countries": [
+      "France"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "France"
+    ],
+    "matchTerms": [
+      "France",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg889-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg889-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg889-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg889-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference, 1992-06-04.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-06-05-exchange-with-reporters-prior-to-discussions-with-prime-minister-gro-harlem-brundtland-of-no",
@@ -11040,13 +14189,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg899",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg899",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg899.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg899.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Exchange With Reporters Prior to Discussions With Prime Minister Gro Harlem Brundtland of Norway, 1992-06-05.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-06-05-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-prime-minister-gro-ha",
@@ -11073,13 +14223,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg900",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg900",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg900.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg900.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the President's Meeting With Prime Minister Gro Harlem Brundtland of Norway, 1992-06-05.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-06-06-remarks-on-the-arrival-of-prime-minister-john-major-of-the-united-kingdom-at-camp-david-mary",
@@ -11106,13 +14257,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg904",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg904",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg904.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg904.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks on the Arrival of Prime Minister John Major of the United Kingdom at Camp David, Maryland, 1992-06-06.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-06-07-the-president-s-news-conference-with-prime-minister-john-major-of-the-united-kingdom-at-camp",
@@ -11153,13 +14305,90 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg905",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg905",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg905.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg905.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference With Prime Minister John Major of the United Kingdom at Camp David, 1992-06-07.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-06-09-remarks-at-a-fundraising-dinner-for-senator-arlen-specter-in-bowmansdale-pennsylvania",
+    "date": "1992-06-09",
+    "sortDate": "1992-06-09",
+    "type": "Remarks",
+    "title": "Remarks at a Fundraising Dinner for Senator Arlen Specter in Bowmansdale, Pennsylvania",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "German unification",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "German unification",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg914",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg914",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg914.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg914.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at a Fundraising Dinner for Senator Arlen Specter in Bowmansdale, Pennsylvania, 1992-06-09.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-06-13-the-president-s-news-conference-in-rio-de-janeiro",
+    "date": "1992-06-13",
+    "sortDate": "1992-06-13",
+    "type": "News Conference",
+    "title": "The President's News Conference in Rio de Janeiro",
+    "countries": [
+      "France",
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl",
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "Trade",
+      "France",
+      "Germany"
+    ],
+    "matchTerms": [
+      "France",
+      "Germany",
+      "Helmut Kohl",
+      "John Major",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg927-3",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg927-3",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg927-3.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg927-3.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference in Rio de Janeiro, 1992-06-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-06-16-nomination-of-nicolas-miklos-salgo-to-be-united-states-ambassador-to-sweden",
@@ -11181,13 +14410,85 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg949-3",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg949-3",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg949-3.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg949-3.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Nomination of Nicolas Miklos Salgo To Be United States Ambassador to Sweden, 1992-06-16.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-06-17-the-president-s-news-conference-with-president-boris-yeltsin-of-russia",
+    "date": "1992-06-17",
+    "sortDate": "1992-06-17",
+    "type": "News Conference",
+    "title": "The President's News Conference With President Boris Yeltsin of Russia",
+    "countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "G-7",
+      "Trade",
+      "United Kingdom",
+      "France"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg953",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg953",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg953.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg953.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference With President Boris Yeltsin of Russia, 1992-06-17.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-06-19-remarks-and-a-question-and-answer-session-with-the-industrial-league-of-orange-county-in-irv",
+    "date": "1992-06-19",
+    "sortDate": "1992-06-19",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session With the Industrial League of Orange County in Irvine, California",
+    "countries": [
+      "France"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "G-7",
+      "Trade",
+      "France"
+    ],
+    "matchTerms": [
+      "France",
+      "Europe",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg978-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg978-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg978-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg978-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks and a Question-and-Answer Session With the Industrial League of Orange County in Irvine, California, 1992-06-19.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-06-19-statement-of-administration-policy-h-r-5412-transfer-of-naval-vessels-to-greece-and-taiwan",
@@ -11209,12 +14510,74 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-administration-policy-hr-5412-transfer-naval-vessels-greece-and-taiwan",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
+  },
+  {
+    "id": "ppp-1992-06-26-remarks-at-a-ceremony-marking-the-return-of-the-remains-of-ignacy-paderewski-to-poland",
+    "date": "1992-06-26",
+    "sortDate": "1992-06-26",
+    "type": "Remarks",
+    "title": "Remarks at a Ceremony Marking the Return of the Remains of Ignacy Paderewski to Poland",
+    "countries": [
+      "Holy See"
+    ],
+    "leaders": [
+      "Pope John Paul II"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Holy See"
+    ],
+    "matchTerms": [
+      "Holy See",
+      "Pope John Paul II",
+      "Europe"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1021-3",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1021-3",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1021-3.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1021-3.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at a Ceremony Marking the Return of the Remains of Ignacy Paderewski to Poland, 1992-06-26.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-06-26-statement-by-press-secretary-fitzwater-announcing-the-visit-of-prime-minister-kiichi-miyazaw",
+    "date": "1992-06-26",
+    "sortDate": "1992-06-26",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater Announcing the Visit of Prime Minister Kiichi Miyazawa of Japan",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "G-7"
+    ],
+    "matchTerms": [
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1025",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1025",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1025.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1025.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater Announcing the Visit of Prime Minister Kiichi Miyazawa of Japan, 1992-06-26.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-06-30-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-foreign-minister-klau",
@@ -11242,13 +14605,163 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1053-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1053-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1053-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1053-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the President's Meeting With Foreign Minister Klaus Kinkel of Germany, 1992-06-30.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-07-02-the-president-s-news-conference-with-foreign-journalists",
+    "date": "1992-07-02",
+    "sortDate": "1992-07-02",
+    "type": "News Conference",
+    "title": "The President's News Conference With Foreign Journalists",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Finland"
+    ],
+    "leaders": [
+      "Helmut Kohl"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "European Community",
+      "CSCE",
+      "G-7",
+      "Trade",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Finland"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Finland",
+      "Helmut Kohl",
+      "Europe",
+      "NATO",
+      "European Community",
+      "CSCE",
+      "G-7",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1063",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1063",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1063.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1063.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference With Foreign Journalists, 1992-07-02.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-07-03-statement-by-press-secretary-fitzwater-on-the-macedonia-recognition-dispute",
+    "date": "1992-07-03",
+    "sortDate": "1992-07-03",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on the Macedonia Recognition Dispute",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1079",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1079",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1079.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1079.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the Macedonia Recognition Dispute, 1992-07-03.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-07-05-remarks-following-discussions-with-president-lech-walesa-of-poland-in-warsaw",
+    "date": "1992-07-05",
+    "sortDate": "1992-07-05",
+    "type": "Remarks",
+    "title": "Remarks Following Discussions With President Lech Walesa of Poland in Warsaw",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "Trade"
+    ],
+    "matchTerms": [
+      "Europe",
+      "NATO",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1082",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1082",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1082.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1082.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks Following Discussions With President Lech Walesa of Poland in Warsaw, 1992-07-05.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-07-05-remarks-to-polish-citizens-in-warsaw",
+    "date": "1992-07-05",
+    "sortDate": "1992-07-05",
+    "type": "Remarks",
+    "title": "Remarks to Polish Citizens in Warsaw",
+    "countries": [
+      "Holy See"
+    ],
+    "leaders": [
+      "Pope John Paul II"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "G-7",
+      "Holy See"
+    ],
+    "matchTerms": [
+      "Holy See",
+      "Pope John Paul II",
+      "Europe",
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1083",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1083",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1083.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1083.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to Polish Citizens in Warsaw, 1992-07-05.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-07-07-munich-economic-summit-declaration",
@@ -11281,13 +14794,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1088",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1088",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1088.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1088.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Munich Economic Summit Declaration, 1992-07-07.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-07-07-munich-economic-summit-political-declaration-shaping-the-new-partnership",
@@ -11327,13 +14841,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1086",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1086",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1086.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1086.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Munich Economic Summit Political Declaration: Shaping the New Partnership, 1992-07-07.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-07-08-the-president-s-news-conference-in-munich-germany",
@@ -11343,7 +14858,6 @@ window.PUBLIC_STATEMENTS = [
     "title": "The President's News Conference in Munich, Germany",
     "countries": [
       "Germany",
-      "United Kingdom",
       "France",
       "Italy",
       "Netherlands",
@@ -11361,7 +14875,6 @@ window.PUBLIC_STATEMENTS = [
       "G-7",
       "Trade",
       "Germany",
-      "United Kingdom",
       "France",
       "Italy",
       "Netherlands",
@@ -11369,7 +14882,6 @@ window.PUBLIC_STATEMENTS = [
     ],
     "matchTerms": [
       "Germany",
-      "United Kingdom",
       "France",
       "Italy",
       "Netherlands",
@@ -11385,13 +14897,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1096-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1096-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1096-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1096-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, The President's News Conference in Munich, Germany, 1992-07-08.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-07-09-remarks-to-the-conference-on-security-and-cooperation-in-europe-in-helsinki-finland",
@@ -11425,13 +14938,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1104",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1104",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1104.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1104.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the Conference on Security and Cooperation in Europe in Helsinki, Finland, 1992-07-09.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-07-10-exchange-with-reporters-prior-to-discussions-with-prime-minister-jozsef-antall-of-hungary-in",
@@ -11457,13 +14971,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1106",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1106",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1106.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1106.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Exchange With Reporters Prior to Discussions With Prime Minister Jozsef Antall of Hungary in Helsinki, Finland, 1992-07-10.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-07-10-remarks-prior-to-discussions-with-president-vaclav-havel-of-czechoslovakia-in-helsinki",
@@ -11485,13 +15000,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1107",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1107",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1107.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1107.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks Prior to Discussions With President Vaclav Havel of Czechoslovakia in Helsinki, 1992-07-10.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-07-10-statement-by-press-secretary-fitzwater-on-the-treaty-on-conventional-armed-forces-in-europe",
@@ -11515,13 +15031,86 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1108",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1108",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1108.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1108.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Statement by Press Secretary Fitzwater on the Treaty on Conventional Armed Forces in Europe, 1992-07-10.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-07-17-remarks-to-the-community-in-jackson-hole-wyoming",
+    "date": "1992-07-17",
+    "sortDate": "1992-07-17",
+    "type": "Remarks",
+    "title": "Remarks to the Community in Jackson Hole, Wyoming",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1126",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1126",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1126.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1126.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to the Community in Jackson Hole, Wyoming, 1992-07-17.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-07-18-remarks-at-brigham-young-university-in-provo-utah",
+    "date": "1992-07-18",
+    "sortDate": "1992-07-18",
+    "type": "Remarks",
+    "title": "Remarks at Brigham Young University in Provo, Utah",
+    "countries": [
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "matchTerms": [
+      "France",
+      "Germany",
+      "Spain",
+      "Europe",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1135",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1135",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1135.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1135.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at Brigham Young University in Provo, Utah, 1992-07-18.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-07-21-message-to-the-congress-transmitting-the-luxembourg-united-states-social-security-agreement",
@@ -11579,13 +15168,81 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1153-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1153-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1153-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1153-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Message to the Congress Transmitting the Luxembourg-United States Social Security Agreement, 1992-07-21.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-07-21-remarks-to-religious-and-ethnic-groups-in-garfield-new-jersey",
+    "date": "1992-07-21",
+    "sortDate": "1992-07-21",
+    "type": "Remarks",
+    "title": "Remarks to Religious and Ethnic Groups in Garfield, New Jersey",
+    "countries": [
+      "Germany",
+      "Ireland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Germany",
+      "Ireland"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Ireland",
+      "Europe",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1150",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1150",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1150.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1150.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks to Religious and Ethnic Groups in Garfield, New Jersey, 1992-07-21.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-07-24-remarks-at-a-community-picnic-in-brookville-ohio",
+    "date": "1992-07-24",
+    "sortDate": "1992-07-24",
+    "type": "Remarks",
+    "title": "Remarks at a Community Picnic in Brookville, Ohio",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1172",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1172",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1172.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1172.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at a Community Picnic in Brookville, Ohio, 1992-07-24.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-07-28-proclamation-6462-helsinki-human-rights-day-1992",
@@ -11627,12 +15284,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "appUrl": "https://www.presidency.ucsb.edu/documents/proclamation-6462-helsinki-human-rights-day-1992",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1992-07-30-message-to-the-senate-transmitting-the-protocol-to-the-finland-united-states-friendship-comm",
@@ -11654,13 +15312,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1206-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1206-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1206-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1206-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Message to the Senate Transmitting the Protocol to the Finland-United States Friendship, Commerce, and Consular Rights Treaty, 1992-07-30.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-07-30-message-to-the-senate-transmitting-the-protocol-to-the-ireland-united-states-friendship-comm",
@@ -11682,13 +15341,817 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book1",
     "sourcePackageLabel": "1992, Book I",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1206",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1206",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1206.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1206.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Message to the Senate Transmitting the Protocol to the Ireland-United States Friendship, Commerce, and Navigation Treaty, 1992-07-30.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-07-31-remarks-at-a-breakfast-with-community-service-clubs-in-riverside-california",
+    "date": "1992-07-31",
+    "sortDate": "1992-07-31",
+    "type": "Remarks",
+    "title": "Remarks at a Breakfast With Community Service Clubs in Riverside, California",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book1",
+    "sourcePackageLabel": "1992, Book I",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1209",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/PPP-1992-book1-doc-pg1209",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/html/PPP-1992-book1-doc-pg1209.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1-doc-pg1209.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992, Book I), GovInfo, Remarks at a Breakfast With Community Service Clubs in Riverside, California, 1992-07-31.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-03-remarks-to-shaw-industries-employees-in-dalton",
+    "date": "1992-08-03",
+    "sortDate": "1992-08-03",
+    "type": "Remarks",
+    "title": "Remarks to Shaw Industries Employees in Dalton",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl"
+    ],
+    "topics": [
+      "Public Papers",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Helmut Kohl",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1294",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1294",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1294.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1294.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to Shaw Industries Employees in Dalton, 1992-08-03.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-05-remarks-to-the-disabled-american-veterans-national-convention-in-reno-nevada",
+    "date": "1992-08-05",
+    "sortDate": "1992-08-05",
+    "type": "Remarks",
+    "title": "Remarks to the Disabled American Veterans National Convention in Reno, Nevada",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1307",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1307",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1307.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1307.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Disabled American Veterans National Convention in Reno, Nevada, 1992-08-05.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-05-remarks-to-the-knights-of-columbus-supreme-council-convention-in-new-york-city",
+    "date": "1992-08-05",
+    "sortDate": "1992-08-05",
+    "type": "Remarks",
+    "title": "Remarks to the Knights of Columbus Supreme Council Convention in New York City",
+    "countries": [
+      "Holy See"
+    ],
+    "leaders": [
+      "Pope John Paul II"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Holy See"
+    ],
+    "matchTerms": [
+      "Holy See",
+      "Pope John Paul II",
+      "Europe"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1304",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1304",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1304.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1304.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Knights of Columbus Supreme Council Convention in New York City, 1992-08-05.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-06-remarks-on-the-situation-in-bosnia-and-an-exchange-with-reporters-in-colorado-springs",
+    "date": "1992-08-06",
+    "sortDate": "1992-08-06",
+    "type": "Q&A",
+    "title": "Remarks on the Situation in Bosnia and an Exchange With Reporters in Colorado Springs",
+    "countries": [
+      "Greece"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "CSCE",
+      "Greece"
+    ],
+    "matchTerms": [
+      "Greece",
+      "Europe",
+      "NATO",
+      "CSCE"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1315",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1315",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1315.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1315.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks on the Situation in Bosnia and an Exchange With Reporters in Colorado Springs, 1992-08-06.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-07-the-president-s-news-conference",
+    "date": "1992-08-07",
+    "sortDate": "1992-08-07",
+    "type": "News Conference",
+    "title": "The President's News Conference",
+    "countries": [
+      "United Kingdom"
+    ],
+    "leaders": [
+      "Margaret Thatcher"
+    ],
+    "topics": [
+      "Public Papers",
+      "NATO",
+      "United Kingdom"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Margaret Thatcher",
+      "NATO"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1319-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1319-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1319-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1319-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, The President's News Conference, 1992-08-07.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-08-the-president-s-news-conference-in-kennebunkport-maine",
+    "date": "1992-08-08",
+    "sortDate": "1992-08-08",
+    "type": "News Conference",
+    "title": "The President's News Conference in Kennebunkport, Maine",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Germany"
+    ],
+    "leaders": [
+      "Helmut Kohl",
+      "Margaret Thatcher",
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "European Union",
+      "G-7",
+      "United Kingdom",
+      "France",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Helmut Kohl",
+      "Margaret Thatcher",
+      "John Major",
+      "Europe",
+      "NATO",
+      "European Union",
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1326",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1326",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1326.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1326.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, The President's News Conference in Kennebunkport, Maine, 1992-08-08.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-11-remarks-congratulating-the-united-states-olympic-team",
+    "date": "1992-08-11",
+    "sortDate": "1992-08-11",
+    "type": "Remarks",
+    "title": "Remarks Congratulating the United States Olympic Team",
+    "countries": [
+      "Germany",
+      "Spain"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany",
+      "Spain"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Spain",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1338",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1338",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1338.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1338.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks Congratulating the United States Olympic Team, 1992-08-11.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-12-message-to-the-senate-transmitting-the-treaty-on-open-skies",
+    "date": "1992-08-12",
+    "sortDate": "1992-08-12",
+    "type": "Message",
+    "title": "Message to the Senate Transmitting the Treaty on Open Skies",
+    "countries": [
+      "Finland",
+      "Austria"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "Finland",
+      "Austria"
+    ],
+    "matchTerms": [
+      "Finland",
+      "Austria",
+      "Europe",
+      "NATO"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1345",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1345",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1345.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1345.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Message to the Senate Transmitting the Treaty on Open Skies, 1992-08-12.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-13-letter-accepting-the-resignation-of-james-a-baker-iii-as-secretary-of-state",
+    "date": "1992-08-13",
+    "sortDate": "1992-08-13",
+    "type": "Letter",
+    "title": "Letter Accepting the Resignation of James A. Baker III as Secretary of State",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "NATO",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1350",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1350",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1350.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1350.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Letter Accepting the Resignation of James A. Baker III as Secretary of State, 1992-08-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-13-remarks-on-the-resignation-of-james-a-baker-iii-as-secretary-of-state",
+    "date": "1992-08-13",
+    "sortDate": "1992-08-13",
+    "type": "Remarks",
+    "title": "Remarks on the Resignation of James A. Baker III as Secretary of State",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "German unification",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "German unification"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1348-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1348-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1348-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1348-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks on the Resignation of James A. Baker III as Secretary of State, 1992-08-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-14-white-house-statement-on-the-forests-for-the-future-initiative",
+    "date": "1992-08-14",
+    "sortDate": "1992-08-14",
+    "type": "Statement",
+    "title": "White House Statement on the Forests for the Future Initiative",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "G-7"
+    ],
+    "matchTerms": [
+      "G-7"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1359",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1359",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1359.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1359.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, White House Statement on the Forests for the Future Initiative, 1992-08-14.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-17-remarks-to-the-veterans-of-foreign-wars-national-convention-in-indianapolis-indiana",
+    "date": "1992-08-17",
+    "sortDate": "1992-08-17",
+    "type": "Remarks",
+    "title": "Remarks to the Veterans of Foreign Wars National Convention in Indianapolis, Indiana",
+    "countries": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "NATO",
+      "United Kingdom",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Germany",
+      "NATO"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1366",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1366",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1366.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1366.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Veterans of Foreign Wars National Convention in Indianapolis, Indiana, 1992-08-17.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-20-remarks-at-a-prayer-breakfast-in-houston",
+    "date": "1992-08-20",
+    "sortDate": "1992-08-20",
+    "type": "Remarks",
+    "title": "Remarks at a Prayer Breakfast in Houston",
+    "countries": [
+      "Germany",
+      "Spain"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Germany",
+      "Spain"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Spain",
+      "Europe",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1377-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1377-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1377-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1377-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks at a Prayer Breakfast in Houston, 1992-08-20.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-22-remarks-at-the-pride-in-alabama-rally-in-hoover-alabama",
+    "date": "1992-08-22",
+    "sortDate": "1992-08-22",
+    "type": "Remarks",
+    "title": "Remarks at the Pride in Alabama Rally in Hoover, Alabama",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1397",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1397",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1397.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1397.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks at the Pride in Alabama Rally in Hoover, Alabama, 1992-08-22.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-22-remarks-to-the-community-in-woodstock-georgia",
+    "date": "1992-08-22",
+    "sortDate": "1992-08-22",
+    "type": "Remarks",
+    "title": "Remarks to the Community in Woodstock, Georgia",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1394",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1394",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1394.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1394.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Community in Woodstock, Georgia, 1992-08-22.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-25-remarks-to-the-american-legion-national-convention-in-chicago-illinois",
+    "date": "1992-08-25",
+    "sortDate": "1992-08-25",
+    "type": "Remarks",
+    "title": "Remarks to the American Legion National Convention in Chicago, Illinois",
+    "countries": [
+      "Germany",
+      "Switzerland",
+      "Holy See"
+    ],
+    "leaders": [
+      "Pope John Paul II"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Trade",
+      "Germany",
+      "Switzerland",
+      "Holy See"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Switzerland",
+      "Holy See",
+      "Pope John Paul II",
+      "Europe",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1419",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1419",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1419.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1419.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the American Legion National Convention in Chicago, Illinois, 1992-08-25.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-08-28-the-president-s-news-conference-on-the-aftermath-of-hurricane-andrew",
+    "date": "1992-08-28",
+    "sortDate": "1992-08-28",
+    "type": "News Conference",
+    "title": "The President's News Conference on the Aftermath of Hurricane Andrew",
+    "countries": [
+      "United Kingdom",
+      "Switzerland"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "United Kingdom",
+      "Switzerland"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Switzerland",
+      "John Major",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1446",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1446",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1446.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1446.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, The President's News Conference on the Aftermath of Hurricane Andrew, 1992-08-28.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-02-remarks-to-shallowater-co-op-gin-company-employees-in-shallowater-texas",
+    "date": "1992-09-02",
+    "sortDate": "1992-09-02",
+    "type": "Remarks",
+    "title": "Remarks to Shallowater Co-op Gin Company Employees in Shallowater, Texas",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo full-text search",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1466",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1466",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1466.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1466.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo full-text search result, Remarks to Shallowater Co-op Gin Company Employees in Shallowater, Texas, 1992-09-02.",
+    "notes": "Selected by GovInfo full-text search query \"European Community\"; teaser and title matched Western Europe country, leader, or regional policy terms."
+  },
+  {
+    "id": "ppp-1992-09-02-remarks-to-the-community-in-humboldt-south-dakota",
+    "date": "1992-09-02",
+    "sortDate": "1992-09-02",
+    "type": "Remarks",
+    "title": "Remarks to the Community in Humboldt, South Dakota",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo full-text search",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1462",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1462",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1462.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1462.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo full-text search result, Remarks to the Community in Humboldt, South Dakota, 1992-09-02.",
+    "notes": "Selected by GovInfo full-text search query \"European Community\"; teaser and title matched Western Europe country, leader, or regional policy terms."
+  },
+  {
+    "id": "ppp-1992-09-05-remarks-at-octoberfest-in-painesville-ohio",
+    "date": "1992-09-05",
+    "sortDate": "1992-09-05",
+    "type": "Remarks",
+    "title": "Remarks at Octoberfest in Painesville, Ohio",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "German unification",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "German unification",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1479-3",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1479-3",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1479-3.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1479-3.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks at Octoberfest in Painesville, Ohio, 1992-09-05.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-07-remarks-at-the-republican-party-labor-day-picnic-in-waukesha-wisconsin",
+    "date": "1992-09-07",
+    "sortDate": "1992-09-07",
+    "type": "Remarks",
+    "title": "Remarks at the Republican Party Labor Day Picnic in Waukesha, Wisconsin",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1492-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1492-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1492-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1492-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks at the Republican Party Labor Day Picnic in Waukesha, Wisconsin, 1992-09-07.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-08-remarks-and-a-question-and-answer-session-at-the-b-nai-b-rith-international-convention",
+    "date": "1992-09-08",
+    "sortDate": "1992-09-08",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session at the B'nai B'rith International Convention",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Trade",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Spain",
+      "Europe",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1501",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1501",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1501.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1501.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks and a Question-and-Answer Session at the B'nai B'rith International Convention, 1992-09-08.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-09-09-message-to-the-congress-transmitting-the-ireland-united-states-social-security-agreement",
@@ -11746,13 +16209,156 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book2",
     "sourcePackageLabel": "1992-93, Book II",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1523-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1523-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1523-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1523-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Message to the Congress Transmitting the Ireland-United States Social Security Agreement, 1992-09-09.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-09-10-remarks-and-a-question-and-answer-session-with-the-economic-club-of-detroit-in-michigan",
+    "date": "1992-09-10",
+    "sortDate": "1992-09-10",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session With the Economic Club of Detroit in Michigan",
+    "countries": [
+      "France",
+      "Germany",
+      "Switzerland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Western Europe",
+      "Europe",
+      "European Union",
+      "Trade",
+      "France",
+      "Germany",
+      "Switzerland"
+    ],
+    "matchTerms": [
+      "France",
+      "Germany",
+      "Switzerland",
+      "Western Europe",
+      "Europe",
+      "European Union",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1525-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1525-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1525-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1525-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks and a Question-and-Answer Session With the Economic Club of Detroit in Michigan, 1992-09-10.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-11-remarks-to-the-christian-coalition-road-to-victory-conference-in-virginia-beach-virginia",
+    "date": "1992-09-11",
+    "sortDate": "1992-09-11",
+    "type": "Remarks",
+    "title": "Remarks to the Christian Coalition Road to Victory Conference in Virginia Beach, Virginia",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "German unification",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "German unification",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1542",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1542",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1542.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1542.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Christian Coalition Road to Victory Conference in Virginia Beach, Virginia, 1992-09-11.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-13-remarks-at-a-welcome-rally-in-anaheim-california",
+    "date": "1992-09-13",
+    "sortDate": "1992-09-13",
+    "type": "Remarks",
+    "title": "Remarks at a Welcome Rally in Anaheim, California",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1548-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1548-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1548-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1548-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks at a Welcome Rally in Anaheim, California, 1992-09-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-15-remarks-to-the-national-guard-association-in-salt-lake-city-utah",
+    "date": "1992-09-15",
+    "sortDate": "1992-09-15",
+    "type": "Remarks",
+    "title": "Remarks to the National Guard Association in Salt Lake City, Utah",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1561",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1561",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1561.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1561.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the National Guard Association in Salt Lake City, Utah, 1992-09-15.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-09-20-remarks-to-the-g-7-finance-ministers-and-bank-governors",
@@ -11787,13 +16393,260 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book2",
     "sourcePackageLabel": "1992-93, Book II",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1596-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1596-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1596-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1596-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the G-7 Finance Ministers and Bank Governors, 1992-09-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-09-21-address-to-the-united-nations-general-assembly-in-new-york-city",
+    "date": "1992-09-21",
+    "sortDate": "1992-09-21",
+    "type": "Address",
+    "title": "Address to the United Nations General Assembly in New York City",
+    "countries": [
+      "Germany",
+      "Norway",
+      "Finland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "CSCE",
+      "G-7",
+      "Berlin",
+      "Trade",
+      "Germany",
+      "Norway",
+      "Finland"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Norway",
+      "Finland",
+      "Europe",
+      "NATO",
+      "CSCE",
+      "G-7",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1598",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1598",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1598.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1598.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Address to the United Nations General Assembly in New York City, 1992-09-21.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-23-remarks-to-the-triad-business-community-in-greensboro-north-carolina",
+    "date": "1992-09-23",
+    "sortDate": "1992-09-23",
+    "type": "Remarks",
+    "title": "Remarks to the Triad Business Community in Greensboro, North Carolina",
+    "countries": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Trade",
+      "United Kingdom",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Germany",
+      "John Major",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1627",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1627",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1627.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1627.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Triad Business Community in Greensboro, North Carolina, 1992-09-23.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-25-remarks-at-the-national-technology-initiative-conference-in-chicago-illinois",
+    "date": "1992-09-25",
+    "sortDate": "1992-09-25",
+    "type": "Remarks",
+    "title": "Remarks at the National Technology Initiative Conference in Chicago, Illinois",
+    "countries": [
+      "France",
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "European Union",
+      "Trade",
+      "France",
+      "Germany"
+    ],
+    "matchTerms": [
+      "France",
+      "Germany",
+      "European Union",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1641",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1641",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1641.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1641.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks at the National Technology Initiative Conference in Chicago, Illinois, 1992-09-25.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-26-remarks-to-the-community-in-bowling-green-ohio",
+    "date": "1992-09-26",
+    "sortDate": "1992-09-26",
+    "type": "Remarks",
+    "title": "Remarks to the Community in Bowling Green, Ohio",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [
+      "John Major"
+    ],
+    "topics": [
+      "Public Papers",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "John Major"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1665",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1665",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1665.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1665.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Community in Bowling Green, Ohio, 1992-09-26.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-28-remarks-at-the-east-dallas-renaissance-neighborhood-project-in-dallas-texas",
+    "date": "1992-09-28",
+    "sortDate": "1992-09-28",
+    "type": "Remarks",
+    "title": "Remarks at the East Dallas Renaissance Neighborhood Project in Dallas, Texas",
+    "countries": [
+      "Germany",
+      "Switzerland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany",
+      "Switzerland"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Switzerland",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1685",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1685",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1685.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1685.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks at the East Dallas Renaissance Neighborhood Project in Dallas, Texas, 1992-09-28.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-09-28-remarks-to-the-community-in-st-louis-missouri",
+    "date": "1992-09-28",
+    "sortDate": "1992-09-28",
+    "type": "Remarks",
+    "title": "Remarks to the Community in St. Louis, Missouri",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1682",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1682",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1682.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1682.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Community in St. Louis, Missouri, 1992-09-28.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-01-statement-by-press-secretary-fitzwater-on-assistance-to-refugees-of-nagorno-karabakh",
+    "date": "1992-10-01",
+    "sortDate": "1992-10-01",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on Assistance to Refugees of Nagorno-Karabakh",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "CSCE"
+    ],
+    "matchTerms": [
+      "CSCE"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1735",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1735",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1735.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1735.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Statement by Press Secretary Fitzwater on Assistance to Refugees of Nagorno-Karabakh, 1992-10-01.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-10-02-statement-by-press-secretary-fitzwater-on-the-president-s-telephone-conversation-with-turkis",
@@ -11817,13 +16670,478 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book2",
     "sourcePackageLabel": "1992-93, Book II",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1741-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1741-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1741-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1741-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Statement by Press Secretary Fitzwater on the President's Telephone Conversation With Turkish Leaders on the Missile Accident, 1992-10-02.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-10-02-statement-on-humanitarian-assistance-to-bosnia",
+    "date": "1992-10-02",
+    "sortDate": "1992-10-02",
+    "type": "Statement",
+    "title": "Statement on Humanitarian Assistance to Bosnia",
+    "countries": [
+      "United Kingdom"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade",
+      "United Kingdom"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1738",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1738",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1738.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1738.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Statement on Humanitarian Assistance to Bosnia, 1992-10-02.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-09-statement-by-press-secretary-fitzwater-on-the-death-of-willy-brandt",
+    "date": "1992-10-09",
+    "sortDate": "1992-10-09",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on the Death of Willy Brandt",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1785-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1785-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1785-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1785-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Statement by Press Secretary Fitzwater on the Death of Willy Brandt, 1992-10-09.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-11-presidential-debate-in-st-louis",
+    "date": "1992-10-11",
+    "sortDate": "1992-10-11",
+    "type": "Public Statement",
+    "title": "Presidential Debate in St. Louis",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "European Community",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "NATO",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1786-3",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1786-3",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1786-3.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1786-3.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Presidential Debate in St. Louis, 1992-10-11.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-13-statement-on-signing-the-instrument-of-ratification-for-the-united-nations-framework-convent",
+    "date": "1992-10-13",
+    "sortDate": "1992-10-13",
+    "type": "Statement",
+    "title": "Statement on Signing the Instrument of Ratification for the United Nations Framework Convention on Climate Change",
+    "countries": [
+      "Switzerland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Switzerland"
+    ],
+    "matchTerms": [
+      "Switzerland",
+      "Europe",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1818",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1818",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1818.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1818.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Statement on Signing the Instrument of Ratification for the United Nations Framework Convention on Climate Change, 1992-10-13.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-15-presidential-debate-in-richmond-virginia",
+    "date": "1992-10-15",
+    "sortDate": "1992-10-15",
+    "type": "Public Statement",
+    "title": "Presidential Debate in Richmond, Virginia",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "NATO",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1821",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1821",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1821.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1821.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Presidential Debate in Richmond, Virginia, 1992-10-15.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-23-statement-on-signing-the-wild-bird-conservation-act-of-1992",
+    "date": "1992-10-23",
+    "sortDate": "1992-10-23",
+    "type": "Statement",
+    "title": "Statement on Signing the Wild Bird Conservation Act of 1992",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "matchTerms": [
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1938",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1938",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1938.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1938.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Statement on Signing the Wild Bird Conservation Act of 1992, 1992-10-23.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-25-remarks-and-a-question-and-answer-session-in-billings-montana",
+    "date": "1992-10-25",
+    "sortDate": "1992-10-25",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session in Billings, Montana",
+    "countries": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade",
+      "United Kingdom",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Germany",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1983",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1983",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1983.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1983.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks and a Question-and-Answer Session in Billings, Montana, 1992-10-25.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-25-remarks-to-the-community-in-sioux-falls-south-dakota",
+    "date": "1992-10-25",
+    "sortDate": "1992-10-25",
+    "type": "Remarks",
+    "title": "Remarks to the Community in Sioux Falls, South Dakota",
+    "countries": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "leaders": [
+      "Jacques Delors"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "Trade",
+      "United Kingdom",
+      "Germany"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "Germany",
+      "Jacques Delors",
+      "Europe",
+      "European Community",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1979",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1979",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1979.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1979.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Community in Sioux Falls, South Dakota, 1992-10-25.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-25-remarks-to-the-international-association-of-chiefs-of-police-in-detroit-michigan",
+    "date": "1992-10-25",
+    "sortDate": "1992-10-25",
+    "type": "Remarks",
+    "title": "Remarks to the International Association of Chiefs of Police in Detroit, Michigan",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Berlin",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Berlin"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1974",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg1974",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg1974.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg1974.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the International Association of Chiefs of Police in Detroit, Michigan, 1992-10-25.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-27-remarks-and-a-question-and-answer-session-in-des-moines-iowa",
+    "date": "1992-10-27",
+    "sortDate": "1992-10-27",
+    "type": "Q&A",
+    "title": "Remarks and a Question-and-Answer Session in Des Moines, Iowa",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Switzerland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "European Community",
+      "European Union",
+      "Trade",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Switzerland"
+    ],
+    "matchTerms": [
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Switzerland",
+      "Europe",
+      "European Community",
+      "European Union",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2005",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2005",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2005.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2005.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks and a Question-and-Answer Session in Des Moines, Iowa, 1992-10-27.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-28-remarks-to-the-community-in-strongsville-ohio",
+    "date": "1992-10-28",
+    "sortDate": "1992-10-28",
+    "type": "Remarks",
+    "title": "Remarks to the Community in Strongsville, Ohio",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Western Europe",
+      "Europe",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Western Europe",
+      "Europe",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2037",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2037",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2037.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2037.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the Community in Strongsville, Ohio, 1992-10-28.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-10-29-remarks-to-the-south-wayne-county-chamber-of-commerce-in-southgate-michigan",
+    "date": "1992-10-29",
+    "sortDate": "1992-10-29",
+    "type": "Remarks",
+    "title": "Remarks to the South Wayne County Chamber of Commerce in Southgate, Michigan",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Western Europe",
+      "Europe",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Western Europe",
+      "Europe",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2064",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2064",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2064.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2064.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks to the South Wayne County Chamber of Commerce in Southgate, Michigan, 1992-10-29.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-11-16-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-president-chaim-herzo",
+    "date": "1992-11-16",
+    "sortDate": "1992-11-16",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With President Chaim Herzog of Israel",
+    "countries": [
+      "Greece"
+    ],
+    "leaders": [
+      "Constantine Mitsotakis"
+    ],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Greece"
+    ],
+    "matchTerms": [
+      "Greece",
+      "Constantine Mitsotakis",
+      "Europe"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2166",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2166",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2166.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2166.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Statement by Press Secretary Fitzwater on the President's Meeting With President Chaim Herzog of Israel, 1992-11-16.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-11-17-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-prime-minister-consta",
@@ -11850,12 +17168,13 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book2",
     "sourcePackageLabel": "1992-93, Book II",
     "sourceKind": "GovInfo volume reference",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "appUrl": "https://www.presidency.ucsb.edu/documents/statement-press-secretary-fitzwater-the-presidents-meeting-with-prime-minister-constantine",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo volume package. Individual title/date identified from the American Presidency Project public-text mirror pending GovInfo item-level granule availability for this volume.",
-    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view."
+    "notes": "Volume-level GovInfo reference used because this GovInfo package does not expose item-level text granules in the document-in-context view. Selected from APP mirror title/text pending GovInfo item-level availability."
   },
   {
     "id": "ppp-1992-11-20-remarks-announcing-the-agreement-on-agricultural-trade-with-the-european-community",
@@ -11864,7 +17183,6 @@ window.PUBLIC_STATEMENTS = [
     "type": "Remarks",
     "title": "Remarks Announcing the Agreement on Agricultural Trade With the European Community",
     "countries": [
-      "United Kingdom",
       "Switzerland"
     ],
     "leaders": [
@@ -11876,11 +17194,9 @@ window.PUBLIC_STATEMENTS = [
       "European Community",
       "G-7",
       "Trade",
-      "United Kingdom",
       "Switzerland"
     ],
     "matchTerms": [
-      "United Kingdom",
       "Switzerland",
       "John Major",
       "Europe",
@@ -11891,13 +17207,91 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book2",
     "sourcePackageLabel": "1992-93, Book II",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2168-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2168-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2168-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2168-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks Announcing the Agreement on Agricultural Trade With the European Community, 1992-11-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1992-12-15-remarks-at-texas-a-m-university-in-college-station-texas",
+    "date": "1992-12-15",
+    "sortDate": "1992-12-15",
+    "type": "Remarks",
+    "title": "Remarks at Texas A&M University in College Station, Texas",
+    "countries": [
+      "Germany"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "European Community",
+      "Berlin",
+      "Trade",
+      "Germany"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Europe",
+      "NATO",
+      "European Community",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2189",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2189",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2189.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2189.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks at Texas A&M University in College Station, Texas, 1992-12-15.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1992-12-17-remarks-on-signing-the-north-american-free-trade-agreement",
+    "date": "1992-12-17",
+    "sortDate": "1992-12-17",
+    "type": "Remarks",
+    "title": "Remarks on Signing the North American Free Trade Agreement",
+    "countries": [
+      "Germany",
+      "Portugal"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "Berlin",
+      "Trade",
+      "Germany",
+      "Portugal"
+    ],
+    "matchTerms": [
+      "Germany",
+      "Portugal",
+      "Europe",
+      "Berlin",
+      "Trade"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2200",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2200",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2200.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2200.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks on Signing the North American Free Trade Agreement, 1992-12-17.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   },
   {
     "id": "ppp-1992-12-18-remarks-following-discussions-with-european-community-leaders",
@@ -11933,13 +17327,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book2",
     "sourcePackageLabel": "1992-93, Book II",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2203",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2203",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2203.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2203.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks Following Discussions With European Community Leaders, 1992-12-18.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-12-20-joint-statement-with-prime-minister-john-major-of-the-united-kingdom-on-the-former-yugoslavi",
@@ -11964,13 +17359,14 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book2",
     "sourcePackageLabel": "1992-93, Book II",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2207",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2207",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2207.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2207.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Joint Statement With Prime Minister John Major of the United Kingdom on the Former Yugoslavia, 1992-12-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-12-20-remarks-with-prime-minister-john-major-of-the-united-kingdom-and-an-exchange-with-reporters",
@@ -11987,25 +17383,24 @@ window.PUBLIC_STATEMENTS = [
     "topics": [
       "Public Papers",
       "Europe",
-      "European Community",
       "United Kingdom"
     ],
     "matchTerms": [
       "United Kingdom",
       "John Major",
-      "Europe",
-      "European Community"
+      "Europe"
     ],
     "sourcePackage": "PPP-1992-book2",
     "sourcePackageLabel": "1992-93, Book II",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2205",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2205",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2205.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2205.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Remarks With Prime Minister John Major of the United Kingdom and an Exchange With Reporters, 1992-12-20.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
   },
   {
     "id": "ppp-1992-12-23-letter-to-congressional-leaders-reporting-on-whaling-activities-of-norway",
@@ -12027,13 +17422,116 @@ window.PUBLIC_STATEMENTS = [
     "sourcePackage": "PPP-1992-book2",
     "sourcePackageLabel": "1992-93, Book II",
     "sourceKind": "GovInfo granule",
+    "selectionBasis": "title",
     "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2213-2",
     "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2213-2",
     "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2213-2.htm",
     "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2213-2.pdf",
     "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
     "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Letter to Congressional Leaders Reporting on Whaling Activities of Norway, 1992-12-23.",
-    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers granule text."
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers title/text."
+  },
+  {
+    "id": "ppp-1993-01-01-statement-by-press-secretary-fitzwater-on-recognition-of-the-czech-and-slovak-republics",
+    "date": "1993-01-01",
+    "sortDate": "1993-01-01",
+    "type": "Statement",
+    "title": "Statement by Press Secretary Fitzwater on Recognition of the Czech and Slovak Republics",
+    "countries": [
+      "France",
+      "Finland"
+    ],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "CSCE",
+      "France",
+      "Finland"
+    ],
+    "matchTerms": [
+      "France",
+      "Finland",
+      "Europe",
+      "CSCE"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2221-2",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2221-2",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2221-2.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2221-2.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Statement by Press Secretary Fitzwater on Recognition of the Czech and Slovak Republics, 1993-01-01.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1993-01-05-letter-to-congressional-leaders-reporting-on-the-cyprus-conflict",
+    "date": "1993-01-05",
+    "sortDate": "1993-01-05",
+    "type": "Letter",
+    "title": "Letter to Congressional Leaders Reporting on the Cyprus Conflict",
+    "countries": [
+      "Greece",
+      "Turkey"
+    ],
+    "leaders": [
+      "Constantine Mitsotakis"
+    ],
+    "topics": [
+      "Public Papers",
+      "Greece",
+      "Turkey"
+    ],
+    "matchTerms": [
+      "Greece",
+      "Turkey",
+      "Constantine Mitsotakis"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2233",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2233",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2233.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2233.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Letter to Congressional Leaders Reporting on the Cyprus Conflict, 1993-01-05.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
+  },
+  {
+    "id": "ppp-1993-01-19-letter-to-congressional-leaders-transmitting-the-report-on-science-technology-and-american-d",
+    "date": "1993-01-19",
+    "sortDate": "1993-01-19",
+    "type": "Letter",
+    "title": "Letter to Congressional Leaders Transmitting the Report on Science, Technology, and American Diplomacy",
+    "countries": [],
+    "leaders": [],
+    "topics": [
+      "Public Papers",
+      "Europe",
+      "NATO",
+      "European Community"
+    ],
+    "matchTerms": [
+      "Europe",
+      "NATO",
+      "European Community"
+    ],
+    "sourcePackage": "PPP-1992-book2",
+    "sourcePackageLabel": "1992-93, Book II",
+    "sourceKind": "GovInfo granule",
+    "selectionBasis": "full text",
+    "detailsUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2266",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/PPP-1992-book2-doc-pg2266",
+    "textUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/html/PPP-1992-book2-doc-pg2266.htm",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2-doc-pg2266.pdf",
+    "packageUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "sourceNote": "Source: Public Papers of the Presidents of the United States: George H. W. Bush (1992-93, Book II), GovInfo, Letter to Congressional Leaders Transmitting the Report on Science, Technology, and American Diplomacy, 1993-01-19.",
+    "notes": "Selected by Western Europe country, leader, and regional keyword matching against GovInfo Public Papers full text."
   }
 ]
 ;

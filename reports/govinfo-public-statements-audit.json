@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T11:31:55.003Z",
+  "generatedAt": "2026-05-23T14:02:46.008Z",
   "sourceCollection": "https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W.",
   "packageSummaries": [
     {
@@ -35,35 +35,167 @@
       "granules": 555
     }
   ],
-  "govInfoGranuleMatches": 90,
-  "appTitleCandidates": 340,
-  "appVolumeReferenceMatches": 247,
-  "totalRecords": 337,
+  "govInfoGranuleMatches": 237,
+  "govInfoFullTextMatches": 6,
+  "govInfoFullTextQueries": [
+    {
+      "query": "NATO",
+      "total": 51
+    },
+    {
+      "query": "\"Western Europe\"",
+      "total": 15
+    },
+    {
+      "query": "\"European Community\"",
+      "total": 64
+    },
+    {
+      "query": "\"European Union\"",
+      "total": 5
+    },
+    {
+      "query": "CSCE",
+      "total": 24
+    },
+    {
+      "query": "\"German unification\"",
+      "total": 8
+    },
+    {
+      "query": "\"Group of Seven\"",
+      "total": 3
+    },
+    {
+      "query": "\"G-7\"",
+      "total": 35
+    },
+    {
+      "query": "\"United Kingdom\"",
+      "total": 55
+    },
+    {
+      "query": "\"Great Britain\"",
+      "total": 15
+    },
+    {
+      "query": "Thatcher",
+      "total": 16
+    },
+    {
+      "query": "\"John Major\"",
+      "total": 36
+    },
+    {
+      "query": "Kohl",
+      "total": 26
+    },
+    {
+      "query": "Genscher",
+      "total": 10
+    },
+    {
+      "query": "\"de Maiziere\"",
+      "total": 2
+    },
+    {
+      "query": "Mitterrand",
+      "total": 28
+    },
+    {
+      "query": "Andreotti",
+      "total": 9
+    },
+    {
+      "query": "\"Giulio Andreotti\"",
+      "total": 8
+    },
+    {
+      "query": "\"Felipe Gonzalez\"",
+      "total": 8
+    },
+    {
+      "query": "\"Jacques Delors\"",
+      "total": 15
+    },
+    {
+      "query": "\"Manfred Worner\"",
+      "total": 1
+    },
+    {
+      "query": "\"Ruud Lubbers\"",
+      "total": 6
+    },
+    {
+      "query": "\"Wilfried Martens\"",
+      "total": 3
+    },
+    {
+      "query": "\"Poul Schluter\"",
+      "total": 3
+    },
+    {
+      "query": "\"Gro Harlem Brundtland\"",
+      "total": 4
+    },
+    {
+      "query": "\"Carl Bildt\"",
+      "total": 3
+    },
+    {
+      "query": "\"Franz Vranitzky\"",
+      "total": 4
+    },
+    {
+      "query": "\"Mario Soares\"",
+      "total": 2
+    },
+    {
+      "query": "\"Pope John Paul\"",
+      "total": 12
+    },
+    {
+      "query": "Maastricht",
+      "total": 7
+    },
+    {
+      "query": "\"Uruguay Round\"",
+      "total": 86
+    }
+  ],
+  "appTitleCandidates": 332,
+  "appVolumeReferenceMatches": 240,
+  "totalRecords": 483,
   "sourceMix": {
-    "GovInfo volume reference": 247,
-    "GovInfo granule": 90
+    "GovInfo volume reference": 240,
+    "GovInfo full-text search": 6,
+    "GovInfo granule": 237
+  },
+  "selectionBasis": {
+    "title": 328,
+    "full text": 155
   },
   "countryCounts": {
-    "Germany": 109,
-    "United Kingdom": 122,
-    "Switzerland": 21,
-    "France": 94,
-    "Italy": 45,
-    "Belgium": 33,
-    "Norway": 14,
-    "Sweden": 11,
-    "Spain": 27,
-    "Austria": 29,
-    "Luxembourg": 6,
-    "Finland": 42,
-    "Ireland": 20,
-    "Greece": 37,
+    "Germany": 186,
+    "Switzerland": 31,
+    "United Kingdom": 125,
+    "France": 132,
+    "Italy": 52,
+    "Belgium": 35,
+    "Norway": 15,
+    "Sweden": 12,
+    "Spain": 30,
+    "Austria": 30,
+    "Luxembourg": 7,
+    "Finland": 48,
+    "Ireland": 22,
+    "Greece": 44,
     "Denmark": 12,
-    "Iceland": 6,
-    "Holy See": 5,
-    "Netherlands": 22,
-    "Portugal": 12,
-    "Turkey": 18
+    "Iceland": 7,
+    "Holy See": 13,
+    "Netherlands": 24,
+    "Portugal": 19,
+    "Turkey": 27
   },
   "note": "GovInfo item-level granules were harvested where exposed in document-in-context pages. For GovInfo packages that expose only volume-level PDFs, APP public-text pages were used to identify title/date while the source anchor remains the corresponding GovInfo Public Papers volume package."
 }

@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-18T09:18:41.761Z",
+  "generatedAt": "2026-05-23T14:31:07.857Z",
   "styleModel": "Foreign Relations of the United States, 1989-1992, Volume XXXI, START I, 1989-1991, Document 38",
   "styleModelUrl": "https://history.state.gov/historicaldocuments/frus1989-92v31/d38",
   "changes": [
     "Recast Source lines to follow the FRUS archival-chain pattern used in the published volume.",
-    "For Brent Scowcroft source-folder PDFs, used the provenance sheet hierarchy: George H.W. Bush Presidential Records; Scowcroft, Brent, Collection; Presidential Correspondence Files; Presidential Telcon or Memcons Files; OA/ID folder number; folder title.",
-    "Retained NAID and catalog links as finding aids for non-Scowcroft NARA catalog records."
+    "For Brent Scowcroft source-folder PDFs, used the provenance sheet hierarchy: Bush Presidential Records; Brent Scowcroft Collection; Presidential Correspondence Files; Presidential Telcon or Memcons Files; OA/ID folder number; folder title.",
+    "Marked catalog-only and project-only records with provenanceStatus so the compiler desk does not treat unresolved citation sheets as complete."
   ],
   "counts": {
-    "scowcroftRecords": 106,
-    "foiaCatalogRecords": 90,
-    "localProjectRecords": 33,
-    "totalRecords": 229
+    "scowcroftCitationSheetRecords": 159,
+    "catalogRecordSourceNotes": 119,
+    "projectOnlyRecords": 35,
+    "totalRecords": 313
   }
 }
