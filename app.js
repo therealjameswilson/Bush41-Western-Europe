@@ -26,6 +26,7 @@ const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
 let allRecords = [];
 let allPublicStatements = [];
 let allCompilerGaps = [];
+let allDailyDiaryReferences = { dates: {} };
 
 const COMPILER_QUEUE_OPTIONS = [
   ["", "All compiler queues"],
@@ -526,8 +527,67 @@ function createSourceNote(record) {
   note.className = "record-provenance-text";
   note.textContent = record.provenanceNote || record.sourceNote || "Source: Provenance pending.";
 
-  sourceNote.append(summary, frusNote, provenanceLabel, note);
+  const dailyDiaryReference = createDailyDiaryReference(record);
+  sourceNote.append(summary, frusNote);
+  if (dailyDiaryReference) sourceNote.append(dailyDiaryReference);
+  sourceNote.append(provenanceLabel, note);
   return sourceNote;
+}
+
+function createDailyDiaryReference(record) {
+  const exactReferences = record.dailyDiaryReferences || [];
+  if (exactReferences.length) return createExactDailyDiaryReference(exactReferences);
+
+  const reference = allDailyDiaryReferences?.dates?.[record.date];
+  if (!reference) return null;
+
+  const wrapper = document.createElement("div");
+  const label = document.createElement("p");
+  label.className = "record-provenance-label";
+  label.textContent = "Presidential Daily Diary cross-reference";
+
+  const text = document.createElement("p");
+  text.className = "record-provenance-text";
+  text.append("Same-day scheduling reference: ");
+
+  const items = [reference.diary, reference.backup].filter(Boolean);
+  items.forEach((item, index) => {
+    if (index) text.append("; ");
+    const link = document.createElement("a");
+    link.href = item.catalogUrl;
+    link.rel = "noreferrer";
+    link.textContent = `${item.label} ${item.localId}${item.status ? ` (${item.status})` : ""}`;
+    text.append(link);
+  });
+
+  text.append(". Use for chronology, time, location, attendees, and call status; not for substantive summaries.");
+  wrapper.append(label, text);
+  return wrapper;
+}
+
+function createExactDailyDiaryReference(references) {
+  const wrapper = document.createElement("div");
+  const label = document.createElement("p");
+  label.className = "record-provenance-label";
+  label.textContent = "Presidential Daily Diary cross-reference";
+
+  const text = document.createElement("p");
+  text.className = "record-provenance-text";
+  text.append("Matched scheduling reference: ");
+
+  references.forEach((item, index) => {
+    if (index) text.append("; ");
+    const link = document.createElement("a");
+    link.href = item.pdfUrl || item.catalogUrl;
+    link.rel = "noreferrer";
+    link.textContent = `${item.sourceType || "Daily Diary"} ${item.localIdentifier || item.naid}`;
+    text.append(link);
+    if (item.matchedTerms?.length) text.append(` (matches ${item.matchedTerms.slice(0, 6).join(", ")})`);
+  });
+
+  text.append(". Use for chronology, time, location, attendees, and call status; not for substantive summaries.");
+  wrapper.append(label, text);
+  return wrapper;
 }
 
 function createSubject(record) {
@@ -1140,6 +1200,7 @@ async function init() {
     allRecords = assignCompilerNumbers(window.MEMCONS || window.MEMCON_RECORDS || (await loadRecords()));
     allPublicStatements = assignPublicStatementNumbers(window.PUBLIC_STATEMENTS || (await loadPublicStatements()));
     allCompilerGaps = window.COMPILER_GAPS || (await loadCompilerGaps());
+    allDailyDiaryReferences = window.DAILY_DIARY_REFERENCES || (await loadDailyDiaryReferences());
     setChapterCounts(allRecords);
     populateFilters(allRecords);
     populatePublicStatementFilters(allPublicStatements);
@@ -1173,6 +1234,12 @@ async function loadPublicStatements() {
 async function loadCompilerGaps() {
   const response = await fetch("data/compiler-gaps.json");
   if (!response.ok) return [];
+  return response.json();
+}
+
+async function loadDailyDiaryReferences() {
+  const response = await fetch("data/daily-diary-references.json");
+  if (!response.ok) return { dates: {} };
   return response.json();
 }
 
