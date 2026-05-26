@@ -556,6 +556,7 @@ function createDailyDiaryReference(record) {
     const link = document.createElement("a");
     link.href = item.catalogUrl;
     link.rel = "noreferrer";
+    link.target = "_blank";
     link.textContent = `${item.label} ${item.localId}${item.status ? ` (${item.status})` : ""}`;
     text.append(link);
   });
@@ -580,6 +581,7 @@ function createExactDailyDiaryReference(references) {
     const link = document.createElement("a");
     link.href = item.pdfUrl || item.catalogUrl;
     link.rel = "noreferrer";
+    link.target = "_blank";
     link.textContent = `${item.sourceType || "Daily Diary"} ${item.localIdentifier || item.naid}`;
     text.append(link);
     if (item.matchedTerms?.length) text.append(` (matches ${item.matchedTerms.slice(0, 6).join(", ")})`);
@@ -698,6 +700,14 @@ function getSearchText(record) {
     generateFrusSourceNote(record),
     record.source?.series,
     record.source?.name,
+    ...(record.dailyDiaryReferences || []).flatMap((reference) => [
+      reference.title,
+      reference.sourceType,
+      reference.naid,
+      reference.localIdentifier,
+      reference.note,
+      ...(reference.matchedTerms || [])
+    ]),
     ...(record.compilerRisks || []),
     ...(record.participants || []),
     ...(record.countries || []),
