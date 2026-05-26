@@ -75,6 +75,18 @@ function byChapterThenDate(a, b) {
   );
 }
 
+function byDateThenChapter(a, b) {
+  return (
+    a.sortDate.localeCompare(b.sortDate) ||
+    a.chapter.number - b.chapter.number ||
+    a.title.localeCompare(b.title)
+  );
+}
+
+function isReleasedDocument(record) {
+  return /^(Declassified|Full|Partial|Unrestricted)$/i.test(record.releaseStatus || "");
+}
+
 function uniqueSorted(values) {
   return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b));
 }
@@ -917,9 +929,10 @@ function renderCompilerGaps(gaps) {
 }
 
 function renderRecords(records) {
-  const sorted = [...records].sort(byChapterThenDate);
+  const sorted = [...records].sort(byDateThenChapter);
   const selectedChapter = chapterFilter?.value || "";
-  const chaptersToRender = selectedChapter ? [selectedChapter] : CHAPTER_ORDER;
+  const releasedRecords = sorted.filter(isReleasedDocument);
+  const reviewRecords = sorted.filter((record) => !isReleasedDocument(record));
   recordsRoot.replaceChildren();
 
   if (!sorted.length) {
@@ -930,41 +943,71 @@ function renderRecords(records) {
     return;
   }
 
-  for (const chapterName of chaptersToRender) {
-    const chapterRecords = sorted.filter((record) => record.chapter.name === chapterName);
-    if (!chapterRecords.length && !selectedChapter) continue;
+  const groups = [
+    {
+      id: selectedChapter ? chapterId(selectedChapter) : "declassified-chronology",
+      heading: selectedChapter
+        ? `${chapterHeading(selectedChapter)}: Declassified and Released Chronology`
+        : "Declassified and Released Chronology",
+      records: releasedRecords
+    },
+    {
+      id: selectedChapter ? `${chapterId(selectedChapter)}-review` : "restricted-review-chronology",
+      heading: selectedChapter
+        ? `${chapterHeading(selectedChapter)}: Restricted and Pending Review`
+        : "Restricted and Pending Review",
+      records: reviewRecords
+    }
+  ];
 
+  for (const group of groups) {
+    if (!group.records.length) continue;
     const section = document.createElement("section");
-    section.className = "record-chapter";
-    section.id = chapterId(chapterName);
+    section.className = "record-chapter record-chronology";
+    section.id = group.id;
 
     const header = document.createElement("div");
     header.className = "record-chapter-header";
 
     const heading = document.createElement("h3");
-    heading.textContent = chapterHeading(chapterName);
+    heading.textContent = group.heading;
 
     const count = document.createElement("p");
     count.className = "record-count";
-    const pageTotal = chapterRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0);
-    count.textContent = `${chapterRecords.length} records / ${pageTotal} pages`;
+    const pageTotal = group.records.reduce((sum, record) => sum + (record.pageCount || 0), 0);
+    const dateSpan = `${formatDate(group.records[0].date)} to ${formatDate(group.records[group.records.length - 1].date)}`;
+    count.textContent = `${group.records.length} records / ${pageTotal} pages / ${dateSpan}`;
     header.append(heading, count);
 
     const list = document.createElement("div");
     list.className = "record-list";
-    if (chapterRecords.length) {
-      for (const record of chapterRecords) {
-        list.append(createRecordRow(record));
-      }
-    } else {
-      const empty = document.createElement("p");
-      empty.className = "empty-chapter";
-      empty.textContent = "No records match the current search or filters in this chapter.";
-      list.append(empty);
+    for (const record of group.records) {
+      list.append(createRecordRow(record));
     }
 
     section.append(header, list);
     recordsRoot.append(section);
+  }
+}
+
+function prioritizeChronologySection() {
+  const hero = document.querySelector(".hero");
+  const recordsSection = document.querySelector("#records");
+  if (hero && recordsSection) hero.after(recordsSection);
+
+  const title = document.querySelector("#records-title");
+  if (title) title.textContent = "Declassified Document Chronology";
+
+  const intro = document.querySelector("#records .records-intro");
+  if (intro) {
+    intro.textContent =
+      "The working chronology now leads the page: released and declassified documents appear first in date order across chapters, followed by withheld or unknown-release records.";
+  }
+
+  const primary = document.querySelector(".hero-actions .primary");
+  if (primary) {
+    primary.href = "#records";
+    primary.textContent = "Open Chronology";
   }
 }
 
@@ -1211,6 +1254,7 @@ async function init() {
     allPublicStatements = assignPublicStatementNumbers(window.PUBLIC_STATEMENTS || (await loadPublicStatements()));
     allCompilerGaps = window.COMPILER_GAPS || (await loadCompilerGaps());
     allDailyDiaryReferences = window.DAILY_DIARY_REFERENCES || (await loadDailyDiaryReferences());
+    prioritizeChronologySection();
     setChapterCounts(allRecords);
     populateFilters(allRecords);
     populatePublicStatementFilters(allPublicStatements);
