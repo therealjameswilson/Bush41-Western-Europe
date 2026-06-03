@@ -61,6 +61,7 @@ function isGermanRecord(record) {
   ]
     .filter(Boolean)
     .join(" ");
+  if (/President's Lunch for Allied Representatives/i.test(haystack)) return false;
   return /\b(Germany|German|Kohl|Genscher|Maiziere|Maizière)\b/i.test(haystack);
 }
 

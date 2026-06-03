@@ -8024,6 +8024,87 @@
     "compilerRisks": []
   },
   {
+    "id": "1989-09-25-428080191",
+    "date": "1989-09-25",
+    "sortDate": "1989-09-25",
+    "type": "Memcon",
+    "title": "President's Lunch for Allied Representatives, September 25, 1989",
+    "sourceTitle": "President's Lunch for Allied Representatives, September 25, 1989",
+    "participants": [
+      "George H. W. Bush",
+      "James A. Baker III",
+      "John H. Sununu",
+      "Thomas Pickering",
+      "Brent Scowcroft",
+      "Marlin Fitzwater",
+      "Raymond Seitz",
+      "Robert Blackwill",
+      "Manfred Woerner",
+      "Peter Wilenski",
+      "Mark Eyskens",
+      "Joseph Clark",
+      "Uffe Ellemann-Jensen",
+      "Roland Dumas",
+      "Hans-Dietrich Genscher",
+      "George Papoulias",
+      "Gianni De Michelis",
+      "Taro Nakayama",
+      "Jacques Poos",
+      "Hans van den Broek",
+      "Thorvald Stoltenberg",
+      "Joao de Deus Pinheiro",
+      "Francisco Fernandez-Ordonez",
+      "Mesut Yilmaz",
+      "John Major",
+      "Choi Ho Joong"
+    ],
+    "countries": [
+      "United States",
+      "North Atlantic Treaty Organization"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Regional"
+    },
+    "releaseStatus": "Full",
+    "naid": "428080191",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Allied-Representatives.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080191",
+    "source": {
+      "name": "FOIA 2000-0429-F finding aid",
+      "url": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991",
+      "foiaNumber": "2000-0429-F"
+    },
+    "frusVolume": {
+      "id": "frus1989-92v08",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v08",
+      "status": "Being Researched"
+    },
+    "frusTopics": [
+      "Western Europe",
+      "NATO",
+      "Woerner coverage check"
+    ],
+    "topics": [
+      "Western Europe",
+      "NATO"
+    ],
+    "pageCount": 4,
+    "documentTitle": "Memorandum of Conversation",
+    "subjectLine": "President's Lunch for Allied Representatives",
+    "dateLine": "Conrad Room, Waldorf Astoria, New York City, September 25, 1989, 1:30 - 2:30 pm",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Lunch for Allied Representatives, September 25, 1989. Full release.",
+    "provenanceStatus": "catalog-record",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, President's Lunch for Allied Representatives, September 25, 1989. NAID 428080191. Full release. FOIA 2000-0429-F. Catalog: https://catalog.archives.gov/id/428080191. Included in the Woerner coverage audit because the memorandum participant list identifies Manfred Woerner, Secretary General, NATO.",
+    "provenanceLinks": [
+      "https://catalog.archives.gov/id/428080191",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Allied-Representatives.pdf",
+      "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991"
+    ],
+    "compilerRisks": []
+  },
+  {
     "id": "1989-10-11-428080257",
     "date": "1989-10-11",
     "sortDate": "1989-10-11",
@@ -11266,7 +11347,18 @@
       "url": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
       "series": "Presidential Correspondence",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
-      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf"
+      "objectFilename": "41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "duplicateSources": [
+        {
+          "name": "FOIA 2000-0429-F finding aid",
+          "title": "Telcon with Secretary General of NATO, Manfred Woerner, September 27, 1991",
+          "naid": "428081957",
+          "catalogUrl": "https://catalog.archives.gov/id/428081957",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-27--Woerner.pdf",
+          "sourceFileUnit": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: September 1991",
+          "note": "Same September 27, 1991 Woerner telcon is represented in WER by the Scowcroft Collection copy; retain the Bush Library telcon-file NAID here for full provenance."
+        }
+      ]
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe",
     "frusTopics": [
@@ -11287,12 +11379,14 @@
     "dateLine": "Washington, September 27, 1991, 11:25-11:37 am EDT",
     "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified.",
     "provenanceStatus": "citation-sheet",
-    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 16-17. Catalog: https://catalog.archives.gov/id/366551702.",
+    "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. The project PDF includes the provenance sheet and source pages 16-17. Catalog: https://catalog.archives.gov/id/366551702. Duplicate Bush Library telcon-file provenance: Telcon with Secretary General of NATO, Manfred Woerner, September 27, 1991, NAID 428081957, PDF https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-27--Woerner.pdf.",
     "provenanceLinks": [
       "https://catalog.archives.gov/id/366551702",
       "documents/regional/1991-09-27-bush-manfred-woerner-telcon-scowcroft.pdf",
       "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
-      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers"
+      "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "https://catalog.archives.gov/id/428081957",
+      "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-27--Woerner.pdf"
     ],
     "compilerRisks": []
   },

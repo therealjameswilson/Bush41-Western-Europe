@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-23T15:54:31.333Z",
+  "generatedAt": "2026-06-03T09:20:28.313Z",
   "status": "passed",
   "totals": {
-    "memconRecords": 313,
-    "memconPages": 1278,
+    "memconRecords": 314,
+    "memconPages": 1282,
     "publicStatements": 483
   },
   "byChapter": {
@@ -20,8 +20,8 @@
       "pages": 95
     },
     "Regional": {
-      "records": 112,
-      "pages": 454
+      "records": 113,
+      "pages": 458
     },
     "Germany Reference": {
       "records": 84,
@@ -30,7 +30,7 @@
   },
   "byProvenanceStatus": {
     "citation-sheet": 159,
-    "catalog-record": 119,
+    "catalog-record": 120,
     "project-only": 35
   },
   "errors": [],
