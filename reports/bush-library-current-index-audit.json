@@ -1,0 +1,2380 @@
+{
+  "generatedAt": "2026-07-14T00:26:13.621Z",
+  "sources": {
+    "bushLibraryIndex": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
+    "naraApi": "https://catalog.archives.gov/proxy/records/search"
+  },
+  "totals": {
+    "indexRows": 1365,
+    "westernEuropeScopeRows": 413,
+    "substantiveRows": 384,
+    "validSubstantiveRows": 383,
+    "negativeMarkers": 29,
+    "promotedNegativeMarkers": 5,
+    "malformedRows": 1,
+    "matchedExisting": 383,
+    "recordsAdded": 0,
+    "recordsAfterMerge": 397,
+    "unresolvedProjectOnly": 0
+  },
+  "byChapter": {
+    "United Kingdom": {
+      "records": 49,
+      "pages": 197
+    },
+    "France": {
+      "records": 64,
+      "pages": 239
+    },
+    "Italy": {
+      "records": 30,
+      "pages": 132
+    },
+    "Regional": {
+      "records": 154,
+      "pages": 710
+    },
+    "Germany Reference": {
+      "records": 100,
+      "pages": 397
+    }
+  },
+  "referenceSections": {
+    "Germany Reference": {
+      "records": 112,
+      "pages": 504,
+      "crossReferences": 12
+    }
+  },
+  "added": [],
+  "reconciled": [
+    {
+      "id": "1989-01-23-366551686-18",
+      "officialNaid": "428079789",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-04-22-366551686-88",
+      "officialNaid": "428079981",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-06-01-428080027",
+      "officialNaid": "428080027",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-06-01-428080029",
+      "officialNaid": "428080029",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-06-05-366551687-46",
+      "officialNaid": "428080051",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-06-11-366551687-59",
+      "officialNaid": "428080063",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-07-14-428080097",
+      "officialNaid": "428080097",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-07-27-428080147",
+      "officialNaid": "428080147",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-08-02-366551688-15",
+      "officialNaid": "428080161",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-09-05-366551688-61",
+      "officialNaid": "428080219",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-09-11-428080179",
+      "officialNaid": "428080179",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-17-366551689-37",
+      "officialNaid": "428080345",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-24-428080329",
+      "officialNaid": "428080329",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-01-27-366551690-30",
+      "officialNaid": "428080505",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-01-29-428080479",
+      "officialNaid": "428080479",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-02-24-366551690-57",
+      "officialNaid": "428080563",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-04-13-428080633",
+      "officialNaid": "428080633",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-06-03-366551691-83",
+      "officialNaid": "428080761",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-08-03-366551693-17",
+      "officialNaid": "428080883",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-08-09-366551693-64",
+      "officialNaid": "428080921",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-08-20-366551693-102",
+      "officialNaid": "428080961",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-08-31-428081005",
+      "officialNaid": "428081005",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-09-07-366551694-79",
+      "officialNaid": "428081023",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-09-14-366551694-100",
+      "officialNaid": "428081067",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-10-12-366551695-10",
+      "officialNaid": "428081149",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-11-19-428081193",
+      "officialNaid": "428081193",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-11-30-366551695-76",
+      "officialNaid": "428081257",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-12-21-428081243",
+      "officialNaid": "428081243",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-12-21-428081247",
+      "officialNaid": "428081247",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-12-24-366551695-93",
+      "officialNaid": "428081285",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-01-03-366551696-11",
+      "officialNaid": "428081299",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-01-27-428081395",
+      "officialNaid": "428081395",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-02-12-428081431",
+      "officialNaid": "428081431",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-03-16-428081535",
+      "officialNaid": "428081535",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-04-10-428081597",
+      "officialNaid": "428081597",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-04-16-366551699-48",
+      "officialNaid": "428081607",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-08-19-366551701-9",
+      "officialNaid": "428081833",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-08-19-366551701-20",
+      "officialNaid": "428081831",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-09-25-428081947",
+      "officialNaid": "428081947",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-09-27-366551702-10",
+      "officialNaid": "428081953",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-03-06-366551703-25",
+      "officialNaid": "428082161",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-03-29-366551703-48",
+      "officialNaid": "428082163",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-06-27-366551704-73",
+      "officialNaid": "428082255",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-08-07-366551705-25",
+      "officialNaid": "428082339",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1992-10-02-john-major-telcon",
+      "officialNaid": "428082349",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-10-14-366551705-59",
+      "officialNaid": "428082351",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-11-01-366551705-74",
+      "officialNaid": "428082353",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-11-20-428082365",
+      "officialNaid": "428082365",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-12-03-428082397",
+      "officialNaid": "428082397",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-01-24-366551686-21",
+      "officialNaid": "428079797",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-02-23-428079895",
+      "officialNaid": "428079895",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-04-11-428079947",
+      "officialNaid": "428079947",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-04-17-366551686-78",
+      "officialNaid": "428079965",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-05-20-428082463",
+      "officialNaid": "428082463",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-20-428082465",
+      "officialNaid": "428082465",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-07-13-428080095",
+      "officialNaid": "428080095",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1989-08-26-francois-mitterrand-telcon",
+      "officialNaid": "428080213",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-09-16-428080223",
+      "officialNaid": "428080223",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-10-23-366551688-95",
+      "officialNaid": "428080309",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-17-366551689-28",
+      "officialNaid": "428080339",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-30-366551689-87",
+      "officialNaid": "428080415",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-12-16-428080395",
+      "officialNaid": "428080395",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-12-20-366551689-114",
+      "officialNaid": "428080457",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-01-27-366551690-27",
+      "officialNaid": "428080507",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-02-16-428080523",
+      "officialNaid": "428080523",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-02-26-366551690-70",
+      "officialNaid": "428080567",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-04-19-428080645",
+      "officialNaid": "428080645",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-04-19-428080647",
+      "officialNaid": "428080647",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-06-05-428080765",
+      "officialNaid": "428080765",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-09-428080827",
+      "officialNaid": "428080827",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-08-03-366551693-19",
+      "officialNaid": "428080873",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1990-08-20-francois-mitterrand-telcon",
+      "officialNaid": "428080957",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1990-08-31-francois-mitterrand-telcon",
+      "officialNaid": "428081007",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1990-09-06-francois-mitterrand-telcon",
+      "officialNaid": "428081019",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-09-10-428081051",
+      "officialNaid": "428081051",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1990-09-11-francois-mitterrand-telcon",
+      "officialNaid": "428081061",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1990-09-14-francois-mitterrand-telcon",
+      "officialNaid": "428081065",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1990-09-16-francois-mitterrand-telcon",
+      "officialNaid": "428081069",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-10-11-428081145",
+      "officialNaid": "428081145",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1990-10-11-francois-mitterrand-telcon",
+      "officialNaid": "428081143",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-11-18-428081191",
+      "officialNaid": "428081191",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1990-12-24-francois-mitterrand-telcon",
+      "officialNaid": "428081271",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-12-24-366551695-97",
+      "officialNaid": "428081283",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-01-03-366551696-9",
+      "officialNaid": "428081301",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-01-09-428081309",
+      "officialNaid": "428081309",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-01-09-366551696-18",
+      "officialNaid": "428081307",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-01-20-366551696-77",
+      "officialNaid": "428081365",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1991-02-05-francois-mitterrand-telcon",
+      "officialNaid": "428081415",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-02-12-428081429",
+      "officialNaid": "428081429",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-02-16-366551697-94",
+      "officialNaid": "428081461",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1991-02-19-francois-mitterrand-telcon",
+      "officialNaid": "428081465",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1991-02-27-francois-mitterrand-telcon",
+      "officialNaid": "428081507",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-02-28-428081475",
+      "officialNaid": "428081475",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-03-11-428081529",
+      "officialNaid": "428081529",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-03-14-428081533",
+      "officialNaid": "428081533",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-04-11-366551699-26",
+      "officialNaid": "428081599",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-04-16-428081613",
+      "officialNaid": "428081613",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-04-16-428081611",
+      "officialNaid": "428081611",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1991-04-16-francois-mitterrand-telcon",
+      "officialNaid": "428081609",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1991-07-11-francois-mitterrand-telcon",
+      "officialNaid": "428081765",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1991-08-19-francois-mitterrand-telcon",
+      "officialNaid": "428081835",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1991-09-24-francois-mitterrand-telcon",
+      "officialNaid": "428081917",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-09-27-366551702-8",
+      "officialNaid": "428081955",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-11-22-428082029",
+      "officialNaid": "428082029",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-12-15-366551702-126",
+      "officialNaid": "428082101",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1992-01-31-francois-mitterrand-memcon",
+      "officialNaid": "428082129",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-05-11-366551683-35",
+      "officialNaid": "428082191",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1992-06-30-francois-mitterrand-telcon",
+      "officialNaid": "428082269",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1992-07-05-francois-mitterrand-memcon",
+      "officialNaid": "428082231",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1992-12-03-francois-mitterrand-telcon",
+      "officialNaid": "428082399",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-01-23-428079779",
+      "officialNaid": "428079779",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-02-24-428079861",
+      "officialNaid": "428079861",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-27-428082477",
+      "officialNaid": "428082477",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-27-428082479",
+      "officialNaid": "428082479",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-27-428082481",
+      "officialNaid": "428082481",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-27-428082475",
+      "officialNaid": "428082475",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-10-11-428080255",
+      "officialNaid": "428080255",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-10-11-428080253",
+      "officialNaid": "428080253",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-18-428080347",
+      "officialNaid": "428080347",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-30-366551689-84",
+      "officialNaid": "428080413",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-12-06-428080393",
+      "officialNaid": "428080393",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-01-26-366551690-24",
+      "officialNaid": "428080501",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-03-06-428080575",
+      "officialNaid": "428080575",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-03-06-428080577",
+      "officialNaid": "428080577",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-08-06-366551693-48",
+      "officialNaid": "428080901",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-10-01-428081093",
+      "officialNaid": "428081093",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-10-26-366551695-34",
+      "officialNaid": "428081161",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-11-13-428081133",
+      "officialNaid": "428081133",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-11-13-428081135",
+      "officialNaid": "428081135",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-01-21-366551696-86",
+      "officialNaid": "428081367",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-03-24-428081541",
+      "officialNaid": "428081541",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-05-07-428081633",
+      "officialNaid": "428081633",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-06-03-428081711",
+      "officialNaid": "428081711",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-15-428081739",
+      "officialNaid": "428081739",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-08-19-428081817",
+      "officialNaid": "428081817",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-04-07-366551682-66",
+      "officialNaid": "428082153",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-06-28-366551704-80",
+      "officialNaid": "428082259",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-07-06-366551684-25",
+      "officialNaid": "428082233",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-07-06-428082271",
+      "officialNaid": "428082271",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-12-03-428082391",
+      "officialNaid": "428082391",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-01-23-428079785",
+      "officialNaid": "428079785",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-01-24-366551686-23",
+      "officialNaid": "428079795",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-01-24-366551686-27",
+      "officialNaid": "428079801",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-01-26-366551686-42",
+      "officialNaid": "428079813",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-02-23-428079891",
+      "officialNaid": "428079891",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-02-23-428079851",
+      "officialNaid": "428079851",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-02-24-428079899",
+      "officialNaid": "428079899",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-03-14-428079925",
+      "officialNaid": "428079925",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-03-15-428079927",
+      "officialNaid": "428079927",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-04-12-428079959",
+      "officialNaid": "428079959",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-03-428079985",
+      "officialNaid": "428079985",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-05-428079991",
+      "officialNaid": "428079991",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-08-366551686-101",
+      "officialNaid": "428079993",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-05-08-428079995",
+      "officialNaid": "428079995",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-09-428079997",
+      "officialNaid": "428079997",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-10-366551686-105",
+      "officialNaid": "428080001",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-05-11-366551687-12",
+      "officialNaid": "428080007",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-05-23-428082467",
+      "officialNaid": "428082467",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-23-366551687-44",
+      "officialNaid": "428082469",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-05-28-428082485",
+      "officialNaid": "428082485",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-29-428082489",
+      "officialNaid": "428082489",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-30-428082497",
+      "officialNaid": "428082497",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-30-428082493",
+      "officialNaid": "428082493",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-30-428082491",
+      "officialNaid": "428082491",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-06-14-428080043",
+      "officialNaid": "428080043",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-06-26-428080075",
+      "officialNaid": "428080075",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-07-15-428080101",
+      "officialNaid": "428080101",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-07-17-428080107",
+      "officialNaid": "428080107",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-07-17-428080103",
+      "officialNaid": "428080103",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-07-17-428080105",
+      "officialNaid": "428080105",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-08-01-428080151",
+      "officialNaid": "428080151",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-08-24-428080197",
+      "officialNaid": "428080197",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-09-09-366551688-65",
+      "officialNaid": "428080221",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-09-16-428080183",
+      "officialNaid": "428080183",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-09-25-428080191",
+      "officialNaid": "428080191",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-10-11-428080257",
+      "officialNaid": "428080257",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-10-19-428080277",
+      "officialNaid": "428080277",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-10-24-428080281",
+      "officialNaid": "428080281",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1989-10-24-pope-john-paul-ii-telcon",
+      "officialNaid": "428080311",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-25-366551689-48",
+      "officialNaid": "428080349",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-25-366551689-46",
+      "officialNaid": "428080351",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-25-366551689-45",
+      "officialNaid": "428080353",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1989-11-26-poul-schlueter-telcon",
+      "officialNaid": "428080355",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-27-428080359",
+      "officialNaid": "428080359",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-27-428080369",
+      "officialNaid": "428080369",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-27-428080371",
+      "officialNaid": "428080371",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-27-366551689-60",
+      "officialNaid": "428080367",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-27-366551689-67",
+      "officialNaid": "428080365",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-27-366551689-65",
+      "officialNaid": "428080361",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-28-428080405",
+      "officialNaid": "428080405",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-12-01-428080377",
+      "officialNaid": "428080377",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-12-04-428080391",
+      "officialNaid": "428080391",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-12-15-428080419",
+      "officialNaid": "428080419",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1989-12-23-felipe-gonzalez-telcon",
+      "officialNaid": "428080465",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1990-01-04-felipe-gonzalez-telcon",
+      "officialNaid": "428080469",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-01-04-366551690-9",
+      "officialNaid": "428080471",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-01-11-428080429",
+      "officialNaid": "428080429",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-01-11-428080427",
+      "officialNaid": "428080427",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-01-12-428080431",
+      "officialNaid": "428080431",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-02-20-428080533",
+      "officialNaid": "428080533",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-02-23-428080539",
+      "officialNaid": "428080539",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-02-24-428080543",
+      "officialNaid": "428080543",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-04-17-428080643",
+      "officialNaid": "428080643",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-04-24-428080649",
+      "officialNaid": "428080649",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-05-07-428080683",
+      "officialNaid": "428080683",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-06-06-428080735",
+      "officialNaid": "428080735",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-03-366551692-26",
+      "officialNaid": "428080823",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1990-07-03-ruud-lubbers-telcon",
+      "officialNaid": "428080819",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-03-366551692-24",
+      "officialNaid": "428080821",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-07-05-428080785",
+      "officialNaid": "428080785",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-08-428080789",
+      "officialNaid": "428080789",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-09-428080829",
+      "officialNaid": "428080829",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-10-428080831",
+      "officialNaid": "428080831",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-10-428080833",
+      "officialNaid": "428080833",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-11-428080835",
+      "officialNaid": "428080835",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-26-428080843",
+      "officialNaid": "428080843",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-08-22-366551694-10",
+      "officialNaid": "428080965",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-08-23-428080927",
+      "officialNaid": "428080927",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-09-08-428080979",
+      "officialNaid": "428080979",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-09-25-428081037",
+      "officialNaid": "428081037",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-09-30-428081085",
+      "officialNaid": "428081085",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-09-30-428081087",
+      "officialNaid": "428081087",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-10-26-366551695-31",
+      "officialNaid": "428081165",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-10-31-428081131",
+      "officialNaid": "428081131",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-11-21-428081201",
+      "officialNaid": "428081201",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1991-01-11-felipe-gonzalez-telcon",
+      "officialNaid": "428081319",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-01-14-366551696-47",
+      "officialNaid": "428081343",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1991-01-21-felipe-gonzalez-telcon",
+      "officialNaid": "428081369",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-02-09-428081445",
+      "officialNaid": "428081445",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-02-09-366551697-66",
+      "officialNaid": "428081449",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-02-28-428081515",
+      "officialNaid": "428081515",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-03-05-428081525",
+      "officialNaid": "428081525",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-03-06-428081563",
+      "officialNaid": "428081563",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-04-11-428081579",
+      "officialNaid": "428081579",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-04-20-366551699-65",
+      "officialNaid": "428081621",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-06-25-428081731",
+      "officialNaid": "428081731",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-15-428081747",
+      "officialNaid": "428081747",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-15-428081743",
+      "officialNaid": "428081743",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-15-428081745",
+      "officialNaid": "428081745",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-16-428081749",
+      "officialNaid": "428081749",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-16-428081771",
+      "officialNaid": "428081771",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-17-428081773",
+      "officialNaid": "428081773",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-17-428081775",
+      "officialNaid": "428081775",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-18-428081777",
+      "officialNaid": "428081777",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-08-19-366551701-22",
+      "officialNaid": "428081821",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-08-19-366551701-25",
+      "officialNaid": "428081829",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-09-24-428081895",
+      "officialNaid": "428081895",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-09-24-428081901",
+      "officialNaid": "428081901",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-09-27-428081927",
+      "officialNaid": "428081927",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-09-27-366551702-16",
+      "officialNaid": "428081957",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-10-10-428081973",
+      "officialNaid": "428081973",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-10-11-366551702-46",
+      "officialNaid": "428082009",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-10-11-428082011",
+      "officialNaid": "428082011",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-10-16-428081979",
+      "officialNaid": "428081979",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-11-05-428082019",
+      "officialNaid": "428082019",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-11-07-428082005",
+      "officialNaid": "428082005",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-11-09-428082021",
+      "officialNaid": "428082021",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-11-26-366551702-76",
+      "officialNaid": "428082057",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-12-12-428082071",
+      "officialNaid": "428082071",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-12-12-428082073",
+      "officialNaid": "428082073",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-12-12-428082075",
+      "officialNaid": "428082075",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-12-13-366551702-112",
+      "officialNaid": "428082095",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-12-16-366551702-133",
+      "officialNaid": "428082105",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-01-13-366551680-25",
+      "officialNaid": "428082087",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-01-31-366551680-57",
+      "officialNaid": "428082133",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-01-31-366551680-61",
+      "officialNaid": "428082127",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-04-02-366551682-57",
+      "officialNaid": "428082151",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-05-01-366551704-15",
+      "officialNaid": "428082205",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-05-01-366551704-18",
+      "officialNaid": "428082207",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-05-13-428082197",
+      "officialNaid": "428082197",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-05-28-366551683-66",
+      "officialNaid": "428082235",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-06-07-366551683-75",
+      "officialNaid": "428082223",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-06-10-366551704-39",
+      "officialNaid": "428082239",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-06-28-366551704-86",
+      "officialNaid": "428082267",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-06-28-366551704-77",
+      "officialNaid": "428082263",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-07-07-428082279",
+      "officialNaid": "428082279",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-07-07-428082275",
+      "officialNaid": "428082275",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-07-07-366551684-45",
+      "officialNaid": "428082273",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-07-07-428082277",
+      "officialNaid": "428082277",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-07-08-428082281",
+      "officialNaid": "428082281",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-07-08-428082283",
+      "officialNaid": "428082283",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-07-09-366551684-85",
+      "officialNaid": "428082297",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-07-09-428082501",
+      "officialNaid": "428082501",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-07-09-366551684-76",
+      "officialNaid": "428082291",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-11-05-428082355",
+      "officialNaid": "428082355",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-11-17-366551685-58",
+      "officialNaid": "428082333",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1992-12-03-jean-luc-dehaene-telcon",
+      "officialNaid": "428082393",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-12-18-428082427",
+      "officialNaid": "428082427",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-12-21-366551706-94",
+      "officialNaid": "428082435",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-01-23-366551686-7",
+      "officialNaid": "428079783",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-02-08-428079833",
+      "officialNaid": "428079833",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-02-09-428079835",
+      "officialNaid": "428079835",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-02-24-428079867",
+      "officialNaid": "428079867",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-04-12-366551686-69",
+      "officialNaid": "428079955",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-04-19-428079969",
+      "officialNaid": "428079969",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-04-21-366551686-81",
+      "officialNaid": "428079975",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-05-05-366551686-97",
+      "officialNaid": "428079989",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-05-16-428082457",
+      "officialNaid": "428082457",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-30-428082495",
+      "officialNaid": "428082495",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-05-31-428080025",
+      "officialNaid": "428080025",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-06-06-428080033",
+      "officialNaid": "428080033",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-06-07-366551687-49",
+      "officialNaid": "428080055",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-06-15-366551687-67",
+      "officialNaid": "428080069",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-06-21-428080047",
+      "officialNaid": "428080047",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-06-23-428080071",
+      "officialNaid": "428080071",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-08-03-366551688-29",
+      "officialNaid": "428080163",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-09-05-366551688-59",
+      "officialNaid": "428080217",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-09-26-428080235",
+      "officialNaid": "428080235",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1989-10-23-helmut-kohl-telcon",
+      "officialNaid": "428080307",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-10-366551689-17",
+      "officialNaid": "428080321",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-17-366551689-24",
+      "officialNaid": "428080337",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-11-21-428080327",
+      "officialNaid": "428080327",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-11-29-366551689-77",
+      "officialNaid": "428080409",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1989-12-03-428080385",
+      "officialNaid": "428080385",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1989-12-20-366551689-120",
+      "officialNaid": "428080453",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-01-26-366551690-19",
+      "officialNaid": "428080503",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-02-13-366551690-45",
+      "officialNaid": "428080519",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-02-13-366551690-47",
+      "officialNaid": "428080521",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-02-24-428080541",
+      "officialNaid": "428080541",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-02-25-428080545",
+      "officialNaid": "428080545",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-02-27-428080547",
+      "officialNaid": "428080547",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-03-15-366551690-102",
+      "officialNaid": "428080609",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-03-20-366551691-13",
+      "officialNaid": "428080613",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-03-23-366551691-21",
+      "officialNaid": "428080619",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-04-04-428080625",
+      "officialNaid": "428080625",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-04-18-428080667",
+      "officialNaid": "428080667",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-05-17-428080695",
+      "officialNaid": "428080695",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-05-17-428080699",
+      "officialNaid": "428080699",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-05-17-428080697",
+      "officialNaid": "428080697",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-05-24-428080703",
+      "officialNaid": "428080703",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-05-30-366551691-71",
+      "officialNaid": "428080721",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-06-01-366551691-77",
+      "officialNaid": "428080757",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-06-03-366551691-81",
+      "officialNaid": "428080759",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-06-08-428080743",
+      "officialNaid": "428080743",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-06-11-428080747",
+      "officialNaid": "428080747",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-06-11-428080745",
+      "officialNaid": "428080745",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-09-428080825",
+      "officialNaid": "428080825",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-07-17-366551692-30",
+      "officialNaid": "428080859",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1990-08-22-helmut-kohl-telcon",
+      "officialNaid": "428080963",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-08-23-428080967",
+      "officialNaid": "428080967",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1990-08-30-helmut-kohl-telcon",
+      "officialNaid": "428080995",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-09-06-428081017",
+      "officialNaid": "428081017",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-09-07-428080977",
+      "officialNaid": "428080977",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-09-11-366551694-95",
+      "officialNaid": "428081059",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-10-17-366551695-15",
+      "officialNaid": "428081151",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-10-26-366551695-28",
+      "officialNaid": "428081163",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1990-11-08-428081171",
+      "officialNaid": "428081171",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1990-12-02-366551695-85",
+      "officialNaid": "428081265",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "local-1990-12-17-helmut-kohl-telcon",
+      "officialNaid": "428081267",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-01-16-366551696-52",
+      "officialNaid": "428081347",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-01-22-428081389",
+      "officialNaid": "428081389",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-01-24-366551696-99",
+      "officialNaid": "428081393",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-01-28-428081399",
+      "officialNaid": "428081399",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-01-28-366551696-106",
+      "officialNaid": "428081397",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-02-18-366551697-97",
+      "officialNaid": "428081463",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-02-23-366551698-24",
+      "officialNaid": "428081493",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-03-01-428081523",
+      "officialNaid": "428081523",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-03-07-366551699-4",
+      "officialNaid": "428081567",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-03-19-428081537",
+      "officialNaid": "428081537",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1991-03-21-helmut-kohl-memcon",
+      "officialNaid": "428081569",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-04-12-428081581",
+      "officialNaid": "428081581",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1991-04-16-helmut-kohl-telcon",
+      "officialNaid": "428081605",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-04-25-366551699-70",
+      "officialNaid": "428081655",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-05-20-428081647",
+      "officialNaid": "428081647",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-05-21-428081673",
+      "officialNaid": "428081673",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-06-24-366551700-80",
+      "officialNaid": "428081753",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-06-28-428081733",
+      "officialNaid": "428081733",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-07-08-366551700-84",
+      "officialNaid": "428081755",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-07-15-428081741",
+      "officialNaid": "428081741",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-08-19-366551701-11",
+      "officialNaid": "428081827",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-08-26-366551701-63",
+      "officialNaid": "428081857",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-08-27-366551701-74",
+      "officialNaid": "428081865",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-09-16-428081883",
+      "officialNaid": "428081883",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-09-16-428081881",
+      "officialNaid": "428081881",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-09-27-366551702-20",
+      "officialNaid": "428081951",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1991-10-03-428081933",
+      "officialNaid": "428081933",
+      "mode": "reconciled"
+    },
+    {
+      "id": "local-1991-11-26-helmut-kohl-telcon",
+      "officialNaid": "428082055",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1991-12-14-366551702-122",
+      "officialNaid": "428082099",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-03-21-366551682-33",
+      "officialNaid": "428082147",
+      "mode": "duplicate-provenance"
+    },
+    {
+      "id": "1992-04-29-428082175",
+      "officialNaid": "428082175",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-04-29-428082177",
+      "officialNaid": "428082177",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-05-06-428082211",
+      "officialNaid": "428082211",
+      "mode": "reconciled"
+    },
+    {
+      "id": "1992-06-28-366551704-83",
+      "officialNaid": "428082261",
+      "mode": "duplicate-provenance"
+    }
+  ],
+  "promotedNegativeMarkers": [
+    {
+      "dateLabel": "2/23/1989",
+      "type": "Memcon",
+      "participantsLabel": "Carlos I, King Juan",
+      "countryLabel": "Spain",
+      "status": "Full",
+      "naid": "428079891",
+      "date": "1989-02-23",
+      "indexCorrection": "Index negative marker reconciled to surviving memcon record."
+    },
+    {
+      "dateLabel": "2/23/1989",
+      "type": "Memcon",
+      "participantsLabel": "Mitterrand, Francois",
+      "countryLabel": "France",
+      "status": "Full",
+      "naid": "428079895",
+      "date": "1989-02-23",
+      "indexCorrection": "Index negative marker reconciled to surviving memcon record."
+    },
+    {
+      "dateLabel": "2/24/1989",
+      "type": "Memcon",
+      "participantsLabel": "Baudouin I, King of the Kingdom of Belgium",
+      "countryLabel": "Belgium",
+      "status": "Full",
+      "naid": "428079899",
+      "date": "1989-02-24",
+      "indexCorrection": "Index negative marker reconciled to surviving memcon record."
+    },
+    {
+      "dateLabel": "7/17/1989",
+      "type": "Memcon",
+      "participantsLabel": "Beatrix, Queen of the Kingdom of the Netherlands",
+      "countryLabel": "The Netherlands",
+      "status": "Full",
+      "naid": "428080107",
+      "date": "1989-07-17",
+      "indexCorrection": "Index negative marker reconciled to surviving memcon record."
+    },
+    {
+      "dateLabel": "8/24/1989",
+      "type": "Memcon",
+      "participantsLabel": "Schluter, Poul",
+      "countryLabel": "Denmark",
+      "status": "Full",
+      "naid": "428080197",
+      "date": "1989-08-24",
+      "indexCorrection": "Index negative marker reconciled to surviving memcon record."
+    }
+  ],
+  "classificationOverrides": [
+    {
+      "id": "1989-11-17-366551689-37",
+      "classification": "Secret; Sensitive"
+    },
+    {
+      "id": "1990-08-09-366551693-64",
+      "classification": "Secret"
+    },
+    {
+      "id": "1989-11-17-366551689-28",
+      "classification": "Secret"
+    },
+    {
+      "id": "1992-05-11-366551683-35",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1989-11-30-366551689-84",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1989-11-25-366551689-46",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1989-11-25-366551689-45",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1989-11-27-366551689-60",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1991-04-20-366551699-65",
+      "classification": "Secret"
+    },
+    {
+      "id": "1991-12-13-366551702-112",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1991-12-16-366551702-133",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1992-04-02-366551682-57",
+      "classification": "Secret"
+    },
+    {
+      "id": "1992-05-28-366551683-66",
+      "classification": "Secret"
+    },
+    {
+      "id": "1992-06-07-366551683-75",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1992-06-28-366551704-77",
+      "classification": "Secret"
+    },
+    {
+      "id": "1992-07-09-366551684-85",
+      "classification": "Secret"
+    },
+    {
+      "id": "1991-08-19-366551701-11",
+      "classification": "Secret"
+    },
+    {
+      "id": "1991-08-26-366551701-63",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1991-08-27-366551701-74",
+      "classification": "Confidential"
+    },
+    {
+      "id": "1992-03-21-366551682-33",
+      "classification": "Secret"
+    },
+    {
+      "id": "1992-06-28-366551704-83",
+      "classification": "Secret"
+    }
+  ],
+  "negativeMarkers": [
+    {
+      "dateLabel": "1/24/1989",
+      "type": "No Telcon",
+      "participantsLabel": "Martens, Wilfried",
+      "countryLabel": "Belgium",
+      "status": "",
+      "naid": "428079885",
+      "date": "1989-01-24"
+    },
+    {
+      "dateLabel": "3/17/1989",
+      "type": "No Memcon",
+      "participantsLabel": "Haughey, Charles",
+      "countryLabel": "Ireland",
+      "status": "",
+      "naid": "428079931",
+      "date": "1989-03-17"
+    },
+    {
+      "dateLabel": "5/27/1989",
+      "type": "No Memcon",
+      "participantsLabel": "John Paul II, Pope",
+      "countryLabel": "Vatican",
+      "status": "",
+      "naid": "428082483",
+      "date": "1989-05-27"
+    },
+    {
+      "dateLabel": "12/5/1989",
+      "type": "No Telcon",
+      "participantsLabel": "Thatcher, Margaret",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428080397",
+      "date": "1989-12-05"
+    },
+    {
+      "dateLabel": "12/20/1989",
+      "type": "No Telcon",
+      "participantsLabel": "Thatcher, Margaret",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428080443",
+      "date": "1989-12-20"
+    },
+    {
+      "dateLabel": "1/1/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Mitterrand, Francois",
+      "countryLabel": "France",
+      "status": "",
+      "naid": "428080445",
+      "date": "1990-01-01"
+    },
+    {
+      "dateLabel": "2/26/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Thatcher, Margaret",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428080555",
+      "date": "1990-02-26"
+    },
+    {
+      "dateLabel": "2/27/1990",
+      "type": "No Memcon",
+      "participantsLabel": "Haughey, Charles",
+      "countryLabel": "Ireland",
+      "status": "",
+      "naid": "428080549",
+      "date": "1990-02-27"
+    },
+    {
+      "dateLabel": "3/28/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Thatcher, Margaret",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428080599",
+      "date": "1990-03-28"
+    },
+    {
+      "dateLabel": "8/3/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Kohl, Helmut",
+      "countryLabel": "Germany",
+      "status": "",
+      "naid": "428080855",
+      "date": "1990-08-03"
+    },
+    {
+      "dateLabel": "8/7/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Mitterrand, Francois",
+      "countryLabel": "France",
+      "status": "",
+      "naid": "428080875",
+      "date": "1990-08-07"
+    },
+    {
+      "dateLabel": "8/26/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Thatcher, Margaret",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428080937",
+      "date": "1990-08-26"
+    },
+    {
+      "dateLabel": "9/1/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Koivisto, Mauno",
+      "countryLabel": "Finland",
+      "status": "",
+      "naid": "428080981",
+      "date": "1990-09-01"
+    },
+    {
+      "dateLabel": "9/10/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Mitterrand, Francois",
+      "countryLabel": "France",
+      "status": "",
+      "naid": "428081045",
+      "date": "1990-09-10"
+    },
+    {
+      "dateLabel": "10/18/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Thatcher, Margaret",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428081137",
+      "date": "1990-10-18"
+    },
+    {
+      "dateLabel": "11/4/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Thatcher, Margaret",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428081139",
+      "date": "1990-11-04"
+    },
+    {
+      "dateLabel": "11/8/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Kohl, Helmut",
+      "countryLabel": "Germany",
+      "status": "",
+      "naid": "428081141",
+      "date": "1990-11-08"
+    },
+    {
+      "dateLabel": "11/22/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Thatcher, Margaret",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428081209",
+      "date": "1990-11-22"
+    },
+    {
+      "dateLabel": "11/24/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Thatcher, Margaret",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428081211",
+      "date": "1990-11-24"
+    },
+    {
+      "dateLabel": "11/27/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Major, John",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428081213",
+      "date": "1990-11-27"
+    },
+    {
+      "dateLabel": "12/1/1990",
+      "type": "No Telcon",
+      "participantsLabel": "Mitterrand, Francois",
+      "countryLabel": "France",
+      "status": "",
+      "naid": "428081249",
+      "date": "1990-12-01"
+    },
+    {
+      "dateLabel": "1/9/1991",
+      "type": "No Telcon",
+      "participantsLabel": "Kohl, Helmut",
+      "countryLabel": "Germany",
+      "status": "",
+      "naid": "428081277",
+      "date": "1991-01-09"
+    },
+    {
+      "dateLabel": "1/9/1991",
+      "type": "No Telcon",
+      "participantsLabel": "Mitterrand, Francois",
+      "countryLabel": "France",
+      "status": "Full",
+      "naid": "428081279",
+      "date": "1991-01-09"
+    },
+    {
+      "dateLabel": "1/10/1991",
+      "type": "No Telcon",
+      "participantsLabel": "Major, John",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428081281",
+      "date": "1991-01-10"
+    },
+    {
+      "dateLabel": "1/15/1991",
+      "type": "No Telcon",
+      "participantsLabel": "Major, John",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428081327",
+      "date": "1991-01-15"
+    },
+    {
+      "dateLabel": "2/3/1991",
+      "type": "No Telcon",
+      "participantsLabel": "Major, John",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428081385",
+      "date": "1991-02-03"
+    },
+    {
+      "dateLabel": "2/21/1991",
+      "type": "No Telcon",
+      "participantsLabel": "Mitterrand, Francois",
+      "countryLabel": "France",
+      "status": "",
+      "naid": "428081435",
+      "date": "1991-02-21"
+    },
+    {
+      "dateLabel": "2/22/1991",
+      "type": "No Telcon",
+      "participantsLabel": "Mitterrand, Francois",
+      "countryLabel": "France",
+      "status": "",
+      "naid": "428081479",
+      "date": "1991-02-22"
+    },
+    {
+      "dateLabel": "3/2/1991",
+      "type": "No Telcon",
+      "participantsLabel": "Major, John",
+      "countryLabel": "United Kingdom",
+      "status": "",
+      "naid": "428081549",
+      "date": "1991-03-02"
+    }
+  ],
+  "malformed": [
+    {
+      "dateLabel": "7/15/1991",
+      "type": "Memcon",
+      "participantsLabel": "Opening Session: Mitterrand, Francois, Kohl, Helmut, Mulroney, Brian, Andreotti, Guilio, Kaifu, Toshiki, Delors, Jacques, Major, John, Lubbers, Ruud",
+      "countryLabel": "France, Germany, Canada, Italy, Japan, EC, United Kingdom, the Netherlands",
+      "status": "Full",
+      "naid": "0",
+      "date": "1991-07-15"
+    }
+  ],
+  "unresolvedProjectOnly": []
+}

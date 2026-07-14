@@ -22,17 +22,25 @@ const publicStatementBasisFilter = document.querySelector("#public-statement-bas
 const publicStatementClear = document.querySelector("#public-statement-clear");
 const publicStatementSummary = document.querySelector("#public-statement-summary");
 const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
+const csceRoot = document.querySelector("#csce-root");
+const csceMetrics = document.querySelector("#csce-metrics");
+const csceSearch = document.querySelector("#csce-search");
+const csceSummary = document.querySelector("#csce-summary");
+const csceCandidateCount = document.querySelector("#csce-candidate-count");
 
 let allRecords = [];
 let allPublicStatements = [];
 let allCompilerGaps = [];
 let allDailyDiaryReferences = { dates: {} };
+let csceChapter = null;
+let csceView = "documents";
+let csceLeadLimit = 80;
 
 const COMPILER_QUEUE_OPTIONS = [
   ["", "All compiler queues"],
   ["declassification", "Declassification ledger"],
   ["presidential", "Presidential conversations"],
-  ["citation-sheet", "Citation sheet gaps"],
+  ["citation-sheet", "Source note gaps"],
   ["unpaged", "Page count gaps"],
   ["no-pdf", "PDF gaps"],
   ["local", "Project-only records"]
@@ -87,6 +95,10 @@ function isReleasedDocument(record) {
   return /^(Declassified|Full|Partial|Unrestricted)$/i.test(record.releaseStatus || "");
 }
 
+function recordInChapter(record, chapterName) {
+  return record.chapter?.name === chapterName || (record.referenceSections || []).includes(chapterName);
+}
+
 function uniqueSorted(values) {
   return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b));
 }
@@ -102,7 +114,7 @@ function uniqueInOrder(values) {
 
 function setChapterCounts(records) {
   const mainVolumeRecords = records.filter((record) => MAIN_VOLUME_CHAPTERS.includes(record.chapter.name));
-  const germanyReferenceRecords = records.filter((record) => record.chapter.name === "Germany Reference");
+  const germanyReferenceRecords = records.filter((record) => recordInChapter(record, "Germany Reference"));
   const germanyRecords = document.querySelector("#germany-records");
   const germanyPages = document.querySelector("#germany-pages");
 
@@ -116,7 +128,7 @@ function setChapterCounts(records) {
   }
 
   for (const chapterName of CHAPTER_ORDER) {
-    const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
+    const chapterRecords = records.filter((record) => recordInChapter(record, chapterName));
     const countNode = document.querySelector(`[data-chapter-count="${chapterName}"]`);
     const pagesNode = document.querySelector(`[data-chapter-pages="${chapterName}"]`);
     const pageTotal = chapterRecords.reduce((sum, record) => sum + (record.pageCount || 0), 0);
@@ -234,7 +246,7 @@ function compilerFlags(record) {
   return [
     isDeclassificationQueue(record) ? "Declassification review" : "",
     record.provenanceStatus === "catalog-record" ? "Catalog-only source" : "",
-    !hasCitationSheetSourceNote(record) ? "Citation sheet needed" : "",
+    !hasCitationSheetSourceNote(record) ? "Source note needed" : "",
     needsPageCount(record) ? "Page count gap" : "",
     needsPdf(record) ? "PDF gap" : "",
     isProjectOnly(record) ? "Project-only provenance" : ""
@@ -444,9 +456,7 @@ function generateFrusSourceNote(record) {
   }
 
   if (hasCitationSheetSourceNote(record)) {
-    return [frusStyleSourcePathFromNote(record.sourceNote), ...supplementalSourceNoteSentences(record)]
-      .filter(Boolean)
-      .join(" ");
+    return record.sourceNote.replace(/\s+/g, " ").trim();
   }
 
   if (record.sourceNote && /Local Bush memcons extractor output|official catalog metadata requires manual reconciliation|citation sheet extraction pending/i.test(record.sourceNote)) {
@@ -525,11 +535,22 @@ function createSourceNote(record) {
   sourceNote.className = "record-source-note";
 
   const summary = document.createElement("summary");
-  summary.textContent = "Source note";
+  summary.textContent = "Source Note";
 
   const frusNote = document.createElement("p");
   frusNote.className = "record-frus-source-note";
-  frusNote.textContent = generateFrusSourceNote(record);
+  const sourceNoteText = generateFrusSourceNote(record);
+  frusNote.textContent = sourceNoteText;
+
+  const actions = document.createElement("div");
+  actions.className = "record-copy-actions";
+  actions.append(
+    createCopyButton("Copy source note", sourceNoteText),
+    createCopyButton(
+      "Copy entry",
+      `${record.documentTitle || record.title}\n\n${record.dateLine || formatDate(record.date)}\n\n1 ${sourceNoteText}`
+    )
+  );
 
   const provenanceLabel = document.createElement("p");
   provenanceLabel.className = "record-provenance-label";
@@ -539,11 +560,39 @@ function createSourceNote(record) {
   note.className = "record-provenance-text";
   note.textContent = record.provenanceNote || record.sourceNote || "Source: Provenance pending.";
 
-  const dailyDiaryReference = createDailyDiaryReference(record);
-  sourceNote.append(summary, frusNote);
+  const dailyDiaryReference = record.suppressDailyDiary ? null : createDailyDiaryReference(record);
+  sourceNote.append(summary, actions, frusNote);
   if (dailyDiaryReference) sourceNote.append(dailyDiaryReference);
   sourceNote.append(provenanceLabel, note);
   return sourceNote;
+}
+
+function createCopyButton(label, value) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "record-copy-button";
+  button.textContent = label;
+  button.addEventListener("click", async () => {
+    try {
+      await navigator.clipboard.writeText(value);
+    } catch {
+      const area = document.createElement("textarea");
+      area.value = value;
+      area.setAttribute("readonly", "");
+      area.style.position = "fixed";
+      area.style.left = "-9999px";
+      document.body.append(area);
+      area.select();
+      document.execCommand("copy");
+      area.remove();
+    }
+    const original = button.textContent;
+    button.textContent = "Copied";
+    window.setTimeout(() => {
+      button.textContent = original;
+    }, 1400);
+  });
+  return button;
 }
 
 function createDailyDiaryReference(record) {
@@ -739,7 +788,7 @@ function filterRecords(records) {
   const compilerQueue = compilerFilter?.value || "";
 
   return records.filter((record) => {
-    if (chapter && record.chapter.name !== chapter) return false;
+    if (chapter && !recordInChapter(record, chapter)) return false;
     if (type && record.type !== type) return false;
     if (release && record.releaseStatus !== release) return false;
     if (!matchesCompilerQueue(record, compilerQueue)) return false;
@@ -809,7 +858,7 @@ function renderCompilerDesk(records) {
   if (!compilerRoot) return;
   const pages = records.reduce((sum, record) => sum + (record.pageCount || 0), 0);
   const sourceReady = records.filter(hasSourceNote).length;
-  const citationSheetReady = records.filter(hasCitationSheetSourceNote).length;
+  const sheetDerived = records.filter((record) => /^(?:citation-sheet|withdrawal-sheet)$/i.test(record.provenanceStatus || "")).length;
   const declassification = records.filter(isDeclassificationQueue);
   const presidential = records.filter(isPresidentialConversation);
   const citationSheetGaps = records.filter((record) => !hasCitationSheetSourceNote(record));
@@ -826,8 +875,8 @@ function renderCompilerDesk(records) {
   metrics.append(
     createMetric("Candidate documents", records.length.toString(), "Numbered for compiler citation by chapter sequence."),
     createMetric("Document pages", pages.toString(), "Measured or estimated pages visible in the working set."),
-    createMetric("Source notes", `${sourceReady}/${records.length}`, "Records with source provenance ready for review."),
-    createMetric("Citation sheets", `${citationSheetReady}/${records.length}`, "Records grounded in a PDF provenance sheet with OA/ID."),
+    createMetric("FRUS-style Source Notes", `${sourceReady}/${records.length}`, "Repository, record group, series, OA/ID, folder, and classification are exposed for review."),
+    createMetric("Sheet-derived provenance", `${sheetDerived}/${records.length}`, "Records checked directly against a citation or withdrawal sheet."),
     createMetric("Date span", dateSpan, "Chronological control uses meeting or document date.")
   );
 
@@ -840,7 +889,7 @@ function renderCompilerDesk(records) {
   queueList.append(
     queueButton("declassification", "Declassification ledger", declassification.length),
     queueButton("presidential", "Presidential conversations", presidential.length),
-    queueButton("citation-sheet", "Citation sheet gaps", citationSheetGaps.length),
+    queueButton("citation-sheet", "Source note gaps", citationSheetGaps.length),
     queueButton("unpaged", "Page count gaps", pageGaps.length),
     queueButton("no-pdf", "PDF gaps", pdfGaps.length),
     queueButton("local", "Project-only records", projectOnly.length)
@@ -1009,6 +1058,254 @@ function prioritizeChronologySection() {
     primary.href = "#records";
     primary.textContent = "Open Chronology";
   }
+}
+
+function csceDocumentRecord(record, index) {
+  return {
+    ...record,
+    sortDate: record.date,
+    compilerNumber: `C.${String(index + 1).padStart(3, "0")}`,
+    chapter: { number: 6, name: "CSCE" },
+    countries: ["CSCE"],
+    frusTopics: ["CSCE", "European security"],
+    topics: [record.evidenceLevel, record.packetLocalIdentifier].filter(Boolean),
+    naid: record.packetNaid,
+    provenanceStatus: record.evidenceLevel === "citation-sheet document" ? "citation-sheet" : "nara-hierarchy",
+    source: {
+      name: "George H.W. Bush Library",
+      series: record.evidenceLevel === "citation-sheet document" ? "Citation-sheet document" : "Reviewed digital packet"
+    },
+    compilerRisks: /Partial|Denied/i.test(record.releaseStatus || "") ? ["declassification-review"] : [],
+    suppressDailyDiary: true
+  };
+}
+
+function csceSearchText(record) {
+  return JSON.stringify(record).toLowerCase();
+}
+
+function csceLink(label, href) {
+  if (!href) return null;
+  const link = document.createElement("a");
+  link.href = href;
+  link.rel = "noreferrer";
+  link.target = "_blank";
+  link.textContent = label;
+  return link;
+}
+
+function createCscePolicyRow(lead) {
+  const row = document.createElement("article");
+  row.className = "record-row csce-policy-row";
+
+  const dateStack = document.createElement("div");
+  dateStack.className = "record-date-stack";
+  const family = document.createElement("span");
+  family.className = "record-doc-number";
+  family.textContent = lead.family;
+  const date = document.createElement("time");
+  date.className = "record-date";
+  date.dateTime = lead.date;
+  date.textContent = shortDate(lead.date);
+  dateStack.append(family, date);
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = lead.catalogUrl;
+  title.rel = "noreferrer";
+  title.target = "_blank";
+  title.textContent = lead.title;
+
+  const kind = document.createElement("p");
+  kind.className = "record-source-line";
+  kind.textContent = lead.documentKind;
+
+  const relevance = document.createElement("p");
+  relevance.className = "record-subject";
+  relevance.textContent = lead.relevance;
+
+  const meta = document.createElement("div");
+  meta.className = "record-meta";
+  for (const value of [
+    lead.availability,
+    lead.localIdentifier ? `OA/ID ${lead.localIdentifier.replace(/\s*-\s*/g, "-")}` : "",
+    lead.itemExtent ? `${lead.itemExtent} ${lead.itemExtent === 1 ? "page" : "pages"} listed` : "Approx. 5-20 pages",
+    lead.classification
+  ]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+
+  const details = document.createElement("details");
+  details.className = "record-source-note";
+  const summary = document.createElement("summary");
+  summary.textContent = lead.sourceNote ? "Item Source Note and review status" : "Archival locator and review status";
+  details.append(summary);
+  if (lead.sourceNote) {
+    const source = document.createElement("p");
+    source.className = "record-frus-source-note";
+    source.textContent = lead.sourceNote;
+    details.append(createCopyButton("Copy source note", lead.sourceNote), source);
+  }
+  const locator = document.createElement("p");
+  locator.className = "record-provenance-text";
+  locator.textContent = lead.archivalLocator;
+  const review = document.createElement("p");
+  review.className = "record-provenance-text";
+  review.textContent = `${lead.extentLabel}. ${lead.reviewNote}`;
+  details.append(locator, review);
+  body.append(title, kind, relevance, meta, details);
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  for (const link of [csceLink("Catalog", lead.catalogUrl), csceLink("File packet", lead.pdfUrl)]) {
+    if (link) links.append(link);
+  }
+  row.append(dateStack, body, links);
+  return row;
+}
+
+function createCsceLeadRow(lead) {
+  const row = document.createElement("article");
+  row.className = "record-row csce-lead-row";
+
+  const dateStack = document.createElement("div");
+  dateStack.className = "record-date-stack";
+  const leadLabel = document.createElement("span");
+  leadLabel.className = "record-doc-number";
+  leadLabel.textContent = "Lead";
+  const status = document.createElement("span");
+  status.className = "record-date lead-status";
+  status.textContent = lead.availability || "On site";
+  dateStack.append(leadLabel, status);
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = lead.catalogUrl || lead.findingAids?.[0]?.url || "#sources";
+  title.rel = "noreferrer";
+  title.target = "_blank";
+  title.textContent = lead.title;
+  const sourceLine = document.createElement("p");
+  sourceLine.className = "record-source-line";
+  sourceLine.textContent = [lead.collection, lead.series].filter(Boolean).join(" / ");
+  const meta = document.createElement("div");
+  meta.className = "record-meta";
+  for (const value of [lead.localIdentifier ? `OA/ID ${lead.localIdentifier}` : "", lead.naid ? `NAID ${lead.naid}` : ""]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+  const note = document.createElement("p");
+  note.className = "record-provenance-text csce-lead-note";
+  note.textContent = "Folder-level locator. Inspect the file and its citation or withdrawal sheet before drafting a Source Note.";
+  body.append(title, sourceLine, meta, note);
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  for (const link of [
+    csceLink("Catalog", lead.catalogUrl),
+    csceLink("PDF", lead.pdfUrl),
+    csceLink("Finding aid", lead.findingAids?.[0]?.url)
+  ]) {
+    if (link) links.append(link);
+  }
+  row.append(dateStack, body, links);
+  return row;
+}
+
+function renderCsceMetrics() {
+  if (!csceChapter || !csceMetrics) return;
+  const exactExtents = csceChapter.policyMeetingLeads.filter((lead) => lead.itemExtent).length;
+  csceMetrics.replaceChildren(
+    createMetric("Candidate documents", csceChapter.documents.length.toString(), "Released texts and item-level withdrawal-sheet entries."),
+    createMetric("Policy files", csceChapter.policyMeetingLeads.length.toString(), "NSC, Deputies Committee, follow-up, NSR, and NSD records."),
+    createMetric("Exact item extents", exactExtents.toString(), "Page counts transcribed from withdrawal sheets."),
+    createMetric("Archival locators", csceChapter.archivalLeads.length.toString(), "Deduplicated rows from two Bush Library CSCE finding aids."),
+    createMetric("Public statements", csceChapter.publicStatementIds.length.toString(), "Matching presidential statements in the Public Papers register.")
+  );
+  if (csceCandidateCount) csceCandidateCount.textContent = csceChapter.documents.length.toString();
+}
+
+function updateCsceView() {
+  if (!csceChapter || !csceRoot) return;
+  const query = csceSearch?.value.trim().toLowerCase() || "";
+  csceRoot.replaceChildren();
+
+  if (csceView === "documents") {
+    const records = csceChapter.documents
+      .map(csceDocumentRecord)
+      .filter((record) => !query || csceSearchText(record).includes(query));
+    csceSummary.textContent = `Showing ${records.length} of ${csceChapter.documents.length} proposed documents in chronological order`;
+    for (const record of records) csceRoot.append(createRecordRow(record));
+    if (!records.length) csceRoot.append(emptyCsceResult());
+    return;
+  }
+
+  if (csceView === "meetings") {
+    const records = csceChapter.policyMeetingLeads.filter((record) => !query || csceSearchText(record).includes(query));
+    const exact = records.filter((record) => record.itemExtent).length;
+    csceSummary.textContent = `Showing ${records.length} of ${csceChapter.policyMeetingLeads.length} policy files / ${exact} with item-level extents`;
+    for (const record of records) csceRoot.append(createCscePolicyRow(record));
+    if (!records.length) csceRoot.append(emptyCsceResult());
+    return;
+  }
+
+  if (csceView === "leads") {
+    const matches = csceChapter.archivalLeads.filter((record) => !query || csceSearchText(record).includes(query));
+    const visible = matches.slice(0, csceLeadLimit);
+    csceSummary.textContent = `Showing ${visible.length} of ${matches.length} matching archival locators (${csceChapter.archivalLeads.length} total)`;
+    for (const record of visible) csceRoot.append(createCsceLeadRow(record));
+    if (visible.length < matches.length) {
+      const more = document.createElement("button");
+      more.type = "button";
+      more.className = "csce-load-more";
+      more.textContent = `Show ${Math.min(80, matches.length - visible.length)} more`;
+      more.addEventListener("click", () => {
+        csceLeadLimit += 80;
+        updateCsceView();
+      });
+      csceRoot.append(more);
+    }
+    if (!visible.length) csceRoot.append(emptyCsceResult());
+    return;
+  }
+
+  const idSet = new Set(csceChapter.publicStatementIds);
+  const statements = allPublicStatements
+    .filter((statement) => idSet.has(statement.id))
+    .filter((statement) => !query || publicStatementSearchText(statement).includes(query));
+  csceSummary.textContent = `Showing ${statements.length} of ${csceChapter.publicStatementIds.length} CSCE-related Public Papers references`;
+  for (const statement of statements) csceRoot.append(createPublicStatementRow(statement));
+  if (!statements.length) csceRoot.append(emptyCsceResult());
+}
+
+function emptyCsceResult() {
+  const empty = document.createElement("p");
+  empty.className = "empty-chapter";
+  empty.textContent = "No records match this chapter search.";
+  return empty;
+}
+
+function enableCsceControls() {
+  for (const button of document.querySelectorAll("[data-csce-view]")) {
+    button.addEventListener("click", () => {
+      csceView = button.dataset.csceView;
+      csceLeadLimit = 80;
+      for (const tab of document.querySelectorAll("[data-csce-view]")) {
+        tab.setAttribute("aria-selected", String(tab === button));
+      }
+      updateCsceView();
+    });
+  }
+  csceSearch?.addEventListener("input", () => {
+    csceLeadLimit = 80;
+    updateCsceView();
+  });
 }
 
 function publicStatementSearchText(statement) {
@@ -1254,6 +1551,7 @@ async function init() {
     allPublicStatements = assignPublicStatementNumbers(window.PUBLIC_STATEMENTS || (await loadPublicStatements()));
     allCompilerGaps = window.COMPILER_GAPS || (await loadCompilerGaps());
     allDailyDiaryReferences = window.DAILY_DIARY_REFERENCES || (await loadDailyDiaryReferences());
+    csceChapter = window.CSCE_CHAPTER || (await loadCsceChapter());
     prioritizeChronologySection();
     setChapterCounts(allRecords);
     populateFilters(allRecords);
@@ -1261,9 +1559,12 @@ async function init() {
     enableFilters();
     enablePublicStatementFilters();
     enableChapterCards();
+    enableCsceControls();
     updateRecordsView();
     updatePublicStatementsView();
     renderCompilerGaps(allCompilerGaps);
+    renderCsceMetrics();
+    updateCsceView();
     if (window.location.hash) {
       document.querySelector(window.location.hash)?.scrollIntoView();
     }
@@ -1294,6 +1595,12 @@ async function loadCompilerGaps() {
 async function loadDailyDiaryReferences() {
   const response = await fetch("data/daily-diary-references.json");
   if (!response.ok) return { dates: {} };
+  return response.json();
+}
+
+async function loadCsceChapter() {
+  const response = await fetch("data/csce-chapter.json");
+  if (!response.ok) return null;
   return response.json();
 }
 

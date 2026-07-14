@@ -1,37 +1,40 @@
 {
-  "generatedAt": "2026-06-03T09:20:28.313Z",
+  "generatedAt": "2026-07-14T00:46:35.393Z",
   "status": "passed",
   "totals": {
-    "memconRecords": 314,
-    "memconPages": 1282,
-    "publicStatements": 483
+    "memconRecords": 397,
+    "memconPages": 1675,
+    "publicStatements": 483,
+    "csceCandidateDocuments": 14,
+    "cscePolicyLeads": 38,
+    "csceArchivalLeads": 365
   },
   "byChapter": {
     "United Kingdom": {
-      "records": 43,
-      "pages": 184
+      "records": 49,
+      "pages": 197
     },
     "France": {
-      "records": 54,
-      "pages": 205
+      "records": 64,
+      "pages": 239
     },
     "Italy": {
-      "records": 20,
-      "pages": 95
+      "records": 30,
+      "pages": 132
     },
     "Regional": {
-      "records": 113,
-      "pages": 458
+      "records": 154,
+      "pages": 710
     },
     "Germany Reference": {
-      "records": 84,
-      "pages": 340
+      "records": 100,
+      "pages": 397
     }
   },
   "byProvenanceStatus": {
-    "citation-sheet": 159,
-    "catalog-record": 120,
-    "project-only": 35
+    "citation-sheet": 162,
+    "withdrawal-sheet": 40,
+    "nara-hierarchy": 195
   },
   "errors": [],
   "warnings": []

@@ -8,7 +8,8 @@
       name="description"
       content="A public research archive for declassified memoranda and telephone conversations relevant to Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe."
     />
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="assets/western-europe-archive-map.svg" />
+    <link rel="stylesheet" href="styles.css?v=20260713" />
     <style id="compiler-network-style">
       .compiler-network {
         border-bottom: 1px solid rgba(31, 41, 51, 0.14);
@@ -113,8 +114,10 @@
         <span>FRUS Volume VIII Files</span>
       </a>
       <nav aria-label="Primary navigation">
+        <a href="#records">Chronology</a>
         <a href="#chapters">Chapters</a>
         <a href="#chapter-germany-reference">Germany</a>
+        <a href="#csce">CSCE</a>
         <a href="#collection">Collection</a>
         <a href="#browse">Browse</a>
         <a href="#compiler">Compiler</a>
@@ -136,13 +139,14 @@
             Volume VIII, Western Europe</em>, arranged in four chapters: United Kingdom,
             France, Italy, and Regional, with a separate Germany reference section
             for Kohl, East German, and related German-leader conversations, plus a
-            Public Papers reference section for President Bush's Western Europe statements.
-            Records inside each section are ordered chronologically.
+            tentative United States and CSCE chapter and a Public Papers reference section.
+            Records inside each section are ordered chronologically and linked back to the scan.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
             <a class="button primary" href="#records">Browse the Records</a>
-            <a class="button secondary" href="#public-statements">Public Statements</a>
+            <a class="button secondary" href="#csce">Review CSCE Chapter</a>
           </div>
+          <p class="trust-note">Start with the scan, not the summary. Every candidate exposes its archival path, release status, and catalog record.</p>
         </div>
         <aside class="brief visual-brief" aria-label="Archive scope">
           <img
@@ -183,7 +187,7 @@
         </div>
         <div>
           <span id="germany-records">84</span>
-          <p>Germany reference files</p>
+          <p>Germany reference entries</p>
         </div>
         <div>
           <span id="germany-pages">340</span>
@@ -193,12 +197,16 @@
           <span id="public-statements-count">483</span>
           <p>Public Papers references</p>
         </div>
+        <div>
+          <span id="csce-candidate-count">0</span>
+          <p>CSCE candidate documents</p>
+        </div>
       </section>
 
       <section class="section" id="chapters" aria-labelledby="chapters-title">
         <div class="section-heading">
           <p class="kicker">Chapter Plan</p>
-          <h2 id="chapters-title">Volume Arrangement and Germany Reference</h2>
+          <h2 id="chapters-title">Upgraded Chapter Registers</h2>
         </div>
         <div class="chapter-grid">
           <a class="chapter-card" href="#chapter-united-kingdom" aria-label="View United Kingdom records">
@@ -209,8 +217,8 @@
               <span data-chapter-pages="United Kingdom">184</span> pages
             </p>
             <p>
-              Memcons and related leader conversations centered on British policy,
-              U.S.-U.K. bilateral diplomacy, NATO, Europe, and crisis coordination.
+              Bush conversations with Thatcher, Major, Hurd, and other British officials,
+              reconciled across the presidential index, Scowcroft files, and NARA scans.
             </p>
             <span class="chapter-action">View chronological files</span>
           </a>
@@ -222,8 +230,8 @@
               <span data-chapter-pages="France">205</span> pages
             </p>
             <p>
-              Meetings with French leaders, including conversations on European security,
-              German unification, alliance politics, and European integration.
+              Mitterrand and French-leader conversations on European security, German
+              unification, alliance politics, and the Gulf, including Haass working-file copies.
             </p>
             <span class="chapter-action">View chronological files</span>
           </a>
@@ -235,8 +243,8 @@
               <span data-chapter-pages="Italy">95</span> pages
             </p>
             <p>
-              Italian bilateral meetings and Western European diplomacy involving Rome,
-              NATO, the European Community, and Mediterranean-facing issues.
+              Andreotti, Cossiga, De Michelis, and other Italian conversations involving
+              NATO, the European Community, summits, and Mediterranean-facing issues.
             </p>
             <span class="chapter-action">View chronological files</span>
           </a>
@@ -248,8 +256,8 @@
               <span data-chapter-pages="Regional">454</span> pages
             </p>
             <p>
-              All other Western Europe countries and region-wide records, arranged by
-              date to preserve the diplomatic sequence across the chapter.
+              Other Western European leaders, NATO officials, EC institutions, and
+              region-wide diplomacy, with Woerner and multilateral coverage retained.
             </p>
             <span class="chapter-action">View chronological files</span>
           </a>
@@ -268,17 +276,51 @@
             <p>
               Restored reference set for Germany: identified Bush memcons and
               telcons with Helmut Kohl, East German leader Lothar de Maiziere,
-              withheld Kohl telcons, and related German officials from the same source base.
+              withheld Kohl telcons, related German officials, and cross-referenced
+              multilateral sessions in which Kohl participated.
             </p>
             <span class="chapter-action">View Germany reference</span>
           </a>
         </div>
       </section>
 
+      <section class="section csce-section" id="csce" aria-labelledby="csce-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Tentative Chapter</p>
+            <h2 id="csce-title">The United States and the CSCE, 1989-1992</h2>
+          </div>
+          <span class="status-stamp">Compiler working set</span>
+        </div>
+        <p class="records-intro">
+          A provisional source register for U.S. policy toward the Conference on Security
+          and Cooperation in Europe. Proposed documents, NSC and Deputies Committee files,
+          folder-level leads, and public statements remain separate evidence lanes. A folder
+          locator is never presented as though it were a reviewed document.
+        </p>
+        <div id="csce-metrics" class="compiler-metrics csce-metrics" aria-label="CSCE source summary"></div>
+        <div class="csce-toolbar">
+          <div class="csce-tabs" role="tablist" aria-label="CSCE evidence lanes">
+            <button type="button" role="tab" aria-selected="true" data-csce-view="documents">Candidate chronology</button>
+            <button type="button" role="tab" aria-selected="false" data-csce-view="meetings">NSC and policy files</button>
+            <button type="button" role="tab" aria-selected="false" data-csce-view="leads">Archival register</button>
+            <button type="button" role="tab" aria-selected="false" data-csce-view="statements">Public statements</button>
+          </div>
+          <label class="csce-search">
+            <span>Search this chapter</span>
+            <input id="csce-search" type="search" placeholder="Search dates, titles, OA/IDs, series, or topics" />
+          </label>
+          <p id="csce-summary" class="records-summary">Loading tentative chapter...</p>
+        </div>
+        <div id="csce-root" class="records-root csce-root" aria-live="polite">
+          <p class="loading">Loading CSCE source register...</p>
+        </div>
+      </section>
+
       <section class="section" id="collection" aria-labelledby="collection-title">
         <div class="section-heading">
           <p class="kicker">Collection Design</p>
-          <h2 id="collection-title">What This Site Will House</h2>
+          <h2 id="collection-title">What This Site Houses</h2>
         </div>
         <div class="feature-grid">
           <article>
@@ -513,6 +555,15 @@
           >
             GovInfo Public Papers: George H. W. Bush
           </a>
+          <a
+            href="https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-conference-security-and-cooperation-europe-csce"
+            rel="noreferrer"
+          >
+            Bush Library CSCE finding aid, 2003-0373-F
+          </a>
+          <a href="https://catalog.archives.gov/id/312294079" rel="noreferrer">
+            NARA NSC and Deputies Committee meetings
+          </a>
         </div>
       </section>
 
@@ -565,7 +616,8 @@
     <script src="data/memcons.js"></script>
     <script src="data/public-statements.js"></script>
     <script src="data/compiler-gaps.js"></script>
-    <script src="app.js?v=dba291b"></script>
+    <script src="data/csce-chapter.js"></script>
+    <script src="app.js?v=20260713"></script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");

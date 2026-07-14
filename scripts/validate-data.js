@@ -7,6 +7,8 @@ const root = path.resolve(__dirname, "..");
 const memconsPath = path.join(root, "data", "memcons.json");
 const memconsJsPath = path.join(root, "data", "memcons.js");
 const statementsPath = path.join(root, "data", "public-statements.json");
+const cscePath = path.join(root, "data", "csce-chapter.json");
+const csceJsPath = path.join(root, "data", "csce-chapter.js");
 const reportPath = path.join(root, "reports", "data-quality-audit.json");
 
 const CHAPTER_ORDER = ["United Kingdom", "France", "Italy", "Regional", "Germany Reference"];
@@ -23,6 +25,21 @@ function loadMemconsMirror() {
   const sandbox = { window: {} };
   vm.runInNewContext(fs.readFileSync(memconsJsPath, "utf8"), sandbox, { filename: memconsJsPath });
   return sandbox.window.MEMCONS;
+}
+
+function loadCsceMirror() {
+  const sandbox = { window: {} };
+  vm.runInNewContext(fs.readFileSync(csceJsPath, "utf8"), sandbox, { filename: csceJsPath });
+  return sandbox.window.CSCE_CHAPTER;
+}
+
+function isFrusStyleSourceNote(note = "") {
+  return (
+    /^Source:\s+George H\.W\. Bush Library, Bush Presidential Records,/i.test(note) &&
+    /OA\/ID\s+[A-Z0-9]+(?:-[A-Z0-9]+)*/i.test(note) &&
+    /(?:Top Secret|Secret|Confidential|Sensitive|Limited Official Use|No classification marking)(?:;\s*(?:Top Secret|Secret|Confidential|Sensitive|Limited Official Use))*\./i.test(note) &&
+    !/https?:\/\/|\bNARA Catalog ID\b|\bDigital object\b|\bProject working copy\b/i.test(note)
+  );
 }
 
 function isRemote(url = "") {
@@ -49,20 +66,12 @@ function byChapterThenDate(a, b) {
 }
 
 function isGermanRecord(record) {
-  const haystack = [
-    record.title,
-    record.subjectLine,
-    record.dateLine,
-    record.notes,
-    ...(record.participants || []),
-    ...(record.countries || []),
-    ...(record.topics || []),
-    ...(record.frusTopics || [])
-  ]
+  const leaderText = [record.title, record.subjectLine, ...(record.participants || [])]
     .filter(Boolean)
     .join(" ");
-  if (/President's Lunch for Allied Representatives/i.test(haystack)) return false;
-  return /\b(Germany|German|Kohl|Genscher|Maiziere|Maizière)\b/i.test(haystack);
+  const directGermanLeader = /\b(?:Kohl|Genscher|Maiziere|Maizière|Modrow|Honecker|Krenz)\b/i.test(leaderText);
+  const countries = (record.countries || []).filter((country) => country !== "United States");
+  return directGermanLeader || (countries.length === 1 && /Germany|FRG|GDR/i.test(countries[0]));
 }
 
 function addCount(map, key, amount = 1) {
@@ -72,11 +81,16 @@ function addCount(map, key, amount = 1) {
 const records = readJson(memconsPath);
 const mirror = loadMemconsMirror();
 const statements = readJson(statementsPath);
+const csce = readJson(cscePath);
+const csceMirror = loadCsceMirror();
 const errors = [];
 const warnings = [];
 
 if (JSON.stringify(records) !== JSON.stringify(mirror)) {
   errors.push("data/memcons.js does not exactly mirror data/memcons.json.");
+}
+if (JSON.stringify(csce) !== JSON.stringify(csceMirror)) {
+  errors.push("data/csce-chapter.js does not exactly mirror data/csce-chapter.json.");
 }
 
 const ids = new Set();
@@ -96,20 +110,24 @@ for (const record of records) {
     errors.push(`${record.id}: documentTitle must be "${VALID_DOCUMENT_TITLES[record.type]}".`);
   }
   if (!CHAPTER_ORDER.includes(record.chapter?.name)) errors.push(`${record.id}: invalid chapter.`);
-  if (!record.sourceNote || !/^Source:/i.test(record.sourceNote)) warnings.push(`${record.id}: missing Source line.`);
+  if (!record.sourceNote || !/^Source:/i.test(record.sourceNote)) errors.push(`${record.id}: missing Source line.`);
   if (/https?:\/\//i.test(record.sourceNote || "")) {
     errors.push(`${record.id}: Source line contains a URL; URLs belong in provenanceNote/provenanceLinks.`);
+  }
+  if (!isFrusStyleSourceNote(record.sourceNote || "")) {
+    errors.push(`${record.id}: Source line does not meet the project FRUS provenance pattern.`);
+  }
+  if (/(?:Declassified|Full release|Partial release|Release status not determined)\.\s*$/i.test(record.sourceNote || "")) {
+    errors.push(`${record.id}: Source line ends in project release language instead of a classification/access sentence.`);
   }
   if (record.source?.name === "Brent Scowcroft Papers" && !/OA\/ID\s+\d{5}-\d{3}/.test(record.sourceNote || "")) {
     errors.push(`${record.id}: Scowcroft Source line missing OA/ID folder number.`);
   }
   if (
-    /European and Eurasian Directorate/i.test(record.sourceNote || "") &&
-    !/OA\/ID\s+\d{5}.*Folder ID\s+\d{5}-\d{3}/i.test(record.sourceNote || "")
+    record.chapter?.name === "Regional" &&
+    isGermanRecord(record) &&
+    !(record.referenceSections || []).includes("Germany Reference")
   ) {
-    errors.push(`${record.id}: European/Eurasian Source line missing OA/ID and Folder ID numbers.`);
-  }
-  if (record.chapter?.name === "Regional" && isGermanRecord(record)) {
     errors.push(`${record.id}: German record is still assigned to Regional.`);
   }
   if (record.chapter?.name === "Germany Reference" && record.pdfUrl?.startsWith("documents/regional/")) {
@@ -139,6 +157,39 @@ for (const record of records) {
     !/citation sheet (reconciliation|extraction) pending/i.test(record.sourceNote || "")
   ) {
     errors.push(`${record.id}: project-only record lacks citation-sheet reconciliation marker.`);
+  }
+}
+
+for (const document of csce.documents || []) {
+  if (!document.id || !document.date || !/^\d{4}-\d{2}-\d{2}$/.test(document.date)) {
+    errors.push(`${document.id || "CSCE document"}: invalid candidate document date.`);
+  }
+  if (!isFrusStyleSourceNote(document.sourceNote || "")) {
+    errors.push(`${document.id}: CSCE candidate Source line does not meet the project FRUS provenance pattern.`);
+  }
+  if (/https?:\/\//i.test(document.sourceNote || "")) {
+    errors.push(`${document.id}: CSCE Source line contains a URL.`);
+  }
+  if (
+    document.releaseStatus === "Denied" &&
+    !/Approximately \d+ pages? not declassified\.\s*$/.test(document.sourceNote || "")
+  ) {
+    errors.push(`${document.id}: withheld CSCE Source line lacks the FRUS-style estimated extent sentence.`);
+  }
+  if (!/^(?:citation-sheet document|reviewed packet document)$/.test(document.evidenceLevel || "")) {
+    errors.push(`${document.id}: CSCE candidate lacks a controlled evidence level.`);
+  }
+}
+
+for (const lead of csce.archivalLeads || []) {
+  if (lead.sourceNote) errors.push(`${lead.id}: folder-level CSCE lead is misrepresented with a Source Note.`);
+  if (!lead.findingAids?.length) errors.push(`${lead.id}: CSCE archival lead lacks finding-aid provenance.`);
+}
+
+for (const lead of csce.policyMeetingLeads || []) {
+  if (!lead.extentLabel) errors.push(`${lead.id}: CSCE policy lead lacks an exact extent or planning range.`);
+  if (lead.sourceNote && !isFrusStyleSourceNote(lead.sourceNote)) {
+    errors.push(`${lead.id}: CSCE policy-item Source line does not meet the project FRUS provenance pattern.`);
   }
 }
 
@@ -172,7 +223,10 @@ const report = {
   totals: {
     memconRecords: records.length,
     memconPages: records.reduce((sum, record) => sum + (record.pageCount || 0), 0),
-    publicStatements: statements.length
+    publicStatements: statements.length,
+    csceCandidateDocuments: csce.documents?.length || 0,
+    cscePolicyLeads: csce.policyMeetingLeads?.length || 0,
+    csceArchivalLeads: csce.archivalLeads?.length || 0
   },
   byChapter,
   byProvenanceStatus,

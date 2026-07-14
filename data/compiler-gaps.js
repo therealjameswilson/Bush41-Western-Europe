@@ -2,11 +2,11 @@ window.COMPILER_GAPS = [
   {
     "id": "gap-local-citation-sheets",
     "priority": "Critical",
-    "status": "Partly remediated",
+    "status": "Remediated",
     "title": "Reconcile project-only local extractor records against official citation sheets",
-    "evidence": "35 records remain marked citation-sheet extraction pending; clean Source Notes are separated from full provenance so they no longer masquerade as final FRUS citations.",
-    "nextAction": "Use the PDF citation sheets or official catalog items to replace project-only provenance before final document selection.",
-    "targetCount": 35
+    "evidence": "0 records remain project-only. All 397 memcons and telcons now carry an OA/ID-based Source Note and separate working provenance.",
+    "nextAction": "Keep project-only provenance at zero as newly discovered scans are ingested.",
+    "targetCount": 0
   },
   {
     "id": "gap-source-note-working-metadata",
@@ -38,19 +38,19 @@ window.COMPILER_GAPS = [
   {
     "id": "gap-release-status-unknown",
     "priority": "Medium",
-    "status": "Open",
+    "status": "Remediated",
     "title": "Resolve unknown release status records",
-    "evidence": "35 records still have unknown release status, mostly because official catalog/citation metadata has not been reconciled.",
-    "nextAction": "Resolve with Bush Library catalog records or citation sheets.",
-    "targetCount": 35
+    "evidence": "0 records retain an unknown release status: 322 are full, 47 partial, 17 denied, 10 declassified, and 1 is withheld under b(1).",
+    "nextAction": "Recheck status against later Bush Library openings before final selection.",
+    "targetCount": 0
   },
   {
     "id": "gap-broader-source-classes",
     "priority": "Medium",
-    "status": "Open",
-    "title": "Search non-memcon source classes before closing selection",
-    "evidence": "The current site is strongest for memcons, telcons, Scowcroft, and Public Papers. State Department central files, Baker files, embassy reporting, defense files, and intelligence/context files are not yet systematically represented.",
-    "nextAction": "Add source-family sweeps or explicit exclusion notes before treating the volume as source-complete.",
-    "targetCount": 0
+    "status": "Partly remediated",
+    "title": "Expand non-memcon source classes across every chapter",
+    "evidence": "The CSCE chapter now stages 38 NSC, NSC/DC, follow-up, NSR, and NSD policy files. State central files, Baker files, embassy reporting, defense files, and intelligence/context files still need chapter-wide sweeps.",
+    "nextAction": "Extend the source-family sweep beyond CSCE before treating any chapter as selection-complete.",
+    "targetCount": 38
   }
 ];

@@ -1,121 +1,193 @@
 {
-  "generatedAt": "2026-06-03T09:19:37.694Z",
+  "generatedAt": "2026-07-14T00:18:16.555Z",
   "status": "passed",
-  "summary": {
-    "woernerRowsInWer": 12,
-    "woernerMemconsInWer": 10,
-    "woernerTelconsInWer": 2,
-    "additionsThisPass": [
-      "1989-09-25-428080191"
-    ],
-    "provenanceMergedThisPass": [
-      "1991-09-27-366551702-16 includes duplicate Bush Library telcon NAID 428081957"
-    ]
+  "sources": {
+    "bushLibraryIndex": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
+    "projectRegister": "data/memcons.json"
   },
-  "basis": [
-    "Bush Library FOIA 2000-0429-F finding aid title hits for Manfred Woerner.",
-    "PDF text inspection of President's Lunch for Allied Representatives, September 25, 1989, confirming Manfred Woerner in the participant list.",
-    "Existing Scowcroft Collection coverage audit for September 27, 1991, October 11, 1991, and July 9, 1992 Woerner items."
-  ],
-  "expectedCoverage": [
+  "summary": {
+    "bushIndexRows": 13,
+    "woernerRecordsInWer": 14,
+    "woernerMemconsInWer": 11,
+    "woernerTelconsInWer": 3,
+    "missingBushIndexRows": 0
+  },
+  "officialIndexRows": [
     {
-      "date": "1989-04-12",
+      "dateLabel": "4/12/1989",
       "type": "Memcon",
-      "title": "Meeting with Manfred Woerner of NATO, April 12, 1989",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Full",
       "naid": "428079959",
-      "status": "present"
+      "date": "1989-04-12",
+      "representedBy": [
+        "1989-04-12-428079959"
+      ]
     },
     {
-      "date": "1989-09-25",
+      "dateLabel": "5/29/1989",
       "type": "Memcon",
-      "title": "President's Lunch for Allied Representatives, September 25, 1989",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Full",
+      "naid": "428082489",
+      "date": "1989-05-29",
+      "representedBy": [
+        "1989-05-29-428082489"
+      ]
+    },
+    {
+      "dateLabel": "9/25/1989",
+      "type": "Memcon",
+      "participantsLabel": "Allied Representatives: Woerner, Manfred; Wilenski, Peter; Eyskens, Mark; Clark, Joseph; Ellemann-Jensen, Uffe; Dumas, Roland; Genscher, Han-Dietrich; Papoulias, George; de Michelis, Gianni; Nakayama, Taro; Poos, Jacques; van den Broek, Hans; Stoltenberg, Thorvald, de Deus Pinheiro, Joao; Fernandez-Ordonez, Francisco; Yilmez, Mesut; Major, John; Ho Joong, Choi",
+      "countryLabel": "NATO, Australia, Belgium, Canada, Denmark, France, Germany, Greece, Italy, Japan, Luxembourg, the Netherlands, Norway, Portugal, Spain, Turkey, United Kingdom, South Korea",
+      "status": "Full",
       "naid": "428080191",
-      "status": "added-present",
-      "note": "Title lacks Woerner, but PDF participant list includes Manfred Woerner."
+      "date": "1989-09-25",
+      "representedBy": [
+        "1989-09-25-428080191"
+      ]
     },
     {
-      "date": "1989-10-11",
+      "dateLabel": "10/11/1989",
       "type": "Memcon",
-      "title": "Meeting with Manfred Woerner, NATO Secretary General",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Full",
       "naid": "428080257",
-      "status": "present"
+      "date": "1989-10-11",
+      "representedBy": [
+        "1989-10-11-428080257"
+      ]
     },
     {
-      "date": "1989-12-04",
+      "dateLabel": "12/4/1989",
       "type": "Memcon",
-      "title": "Meeting between President Bush and Secretary General of NATO, December 4, 1989",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Denied",
       "naid": "428080391",
-      "status": "present"
+      "date": "1989-12-04",
+      "representedBy": [
+        "1989-12-04-428080391"
+      ]
     },
     {
-      "date": "1990-02-24",
+      "dateLabel": "2/24/1990",
       "type": "Memcon",
-      "title": "Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Full",
       "naid": "428080543",
-      "status": "present"
+      "date": "1990-02-24",
+      "representedBy": [
+        "1990-02-24-428080543"
+      ]
     },
     {
-      "date": "1990-05-07",
+      "dateLabel": "5/7/1990",
       "type": "Memcon",
-      "title": "Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Full",
       "naid": "428080683",
-      "status": "present"
+      "date": "1990-05-07",
+      "representedBy": [
+        "1990-05-07-428080683"
+      ]
     },
     {
-      "date": "1990-07-05",
+      "dateLabel": "7/5/1990",
       "type": "Memcon",
-      "title": "Meeting with Secretary General Manfred Woerner of the North Atlantic Treaty Organization, July 5, 1990",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Full",
       "naid": "428080785",
-      "status": "present"
+      "date": "1990-07-05",
+      "representedBy": [
+        "1990-07-05-428080785"
+      ]
     },
     {
-      "date": "1991-06-25",
+      "dateLabel": "6/25/1991",
       "type": "Memcon",
-      "title": "Meeting with Manfred Woerner, Secretary General of NATO, June 25, 1991",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Full",
       "naid": "428081731",
-      "status": "present"
+      "date": "1991-06-25",
+      "representedBy": [
+        "1991-06-25-428081731"
+      ]
     },
     {
-      "date": "1991-09-27",
+      "dateLabel": "9/27/1991",
       "type": "Telcon",
-      "title": "Telcon with Secretary General of NATO, Manfred Woerner, September 27, 1991",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Full",
       "naid": "428081957",
-      "status": "deduped-present",
-      "representedBy": "1991-09-27-366551702-16"
+      "date": "1991-09-27",
+      "representedBy": [
+        "1991-09-27-366551702-16"
+      ]
     },
     {
-      "date": "1991-10-11",
+      "dateLabel": "10/11/1991",
       "type": "Telcon",
-      "title": "Telephone conversation: President Bush and Manfred Woerner",
-      "naid": "366551702",
-      "status": "present-scowcroft"
-    },
-    {
-      "date": "1991-10-11",
-      "type": "Memcon",
-      "title": "The President's Meeting with Secretary General of NATO Manfred Woerner, October 11, 1991",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Full",
       "naid": "428082011",
-      "status": "present"
+      "date": "1991-10-11",
+      "representedBy": [
+        "1991-10-11-428082011"
+      ]
     },
     {
-      "date": "1992-07-09",
+      "dateLabel": "7/9/1992",
       "type": "Memcon",
-      "title": "Meeting with Manfred Woerner NATO Secretary General",
-      "naid": "366551684",
-      "status": "present-scowcroft"
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Partial",
+      "naid": "428082297",
+      "date": "1992-07-09",
+      "representedBy": [
+        "1992-07-09-366551684-85"
+      ]
+    },
+    {
+      "dateLabel": "7/9/1992",
+      "type": "Memcon",
+      "participantsLabel": "Woerner, Manfred",
+      "countryLabel": "NATO",
+      "status": "Partial",
+      "naid": "428082501",
+      "date": "1992-07-09",
+      "representedBy": [
+        "1992-07-09-428082501"
+      ]
     }
   ],
-  "rows": [
+  "records": [
     {
       "id": "1989-04-12-428079959",
       "date": "1989-04-12",
       "type": "Memcon",
       "title": "Meeting with Manfred Woerner of NATO, April 12, 1989",
       "naid": "428079959",
-      "chapter": "Regional",
-      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-12--Woerner.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/428079959",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, OA/ID CF01729-004, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989. Secret."
+    },
+    {
+      "id": "1989-05-29-428082489",
+      "date": "1989-05-29",
+      "type": "Memcon",
+      "title": "Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization, May 19, 1989",
+      "naid": "428082489",
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, OA/ID CF01731-005, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989. Secret."
     },
     {
       "id": "1989-09-25-428080191",
@@ -123,10 +195,8 @@
       "type": "Memcon",
       "title": "President's Lunch for Allied Representatives, September 25, 1989",
       "naid": "428080191",
-      "chapter": "Regional",
-      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Allied-Representatives.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/428080191",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, OA/ID CF01729-009, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989. Confidential."
     },
     {
       "id": "1989-10-11-428080257",
@@ -134,10 +204,8 @@
       "type": "Memcon",
       "title": "Meeting with Manfred Woerner, NATO Secretary General",
       "naid": "428080257",
-      "chapter": "Regional",
-      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-11--Woerner.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/428080257",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, OA/ID CF01729-010, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989. Secret."
     },
     {
       "id": "1989-12-04-428080391",
@@ -145,10 +213,8 @@
       "type": "Memcon",
       "title": "Meeting between President Bush and Secretary General of NATO, December 4, 1989",
       "naid": "428080391",
-      "chapter": "Regional",
-      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-04--Woerner.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/428080391",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, OA/ID CF01729-012, December 1989. Secret. Not declassified. Approximate extent: 2 pages."
     },
     {
       "id": "1990-02-24-428080543",
@@ -156,10 +222,8 @@
       "type": "Memcon",
       "title": "Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization",
       "naid": "428080543",
-      "chapter": "Regional",
-      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-24--Woerner.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/428080543",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, OA/ID CF01729-014, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990. Secret."
     },
     {
       "id": "1990-05-07-428080683",
@@ -167,10 +231,8 @@
       "type": "Memcon",
       "title": "Meeting with Manfred Woerner, Secretary General of the North Atlantic Treaty Organization",
       "naid": "428080683",
-      "chapter": "Regional",
-      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-07--Woerner.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/428080683",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, OA/ID CF01729-017, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990. Confidential."
     },
     {
       "id": "1990-07-05-428080785",
@@ -178,10 +240,8 @@
       "type": "Memcon",
       "title": "Meeting with Secretary General Manfred Woerner of the North Atlantic Treaty Organization, July 5, 1990",
       "naid": "428080785",
-      "chapter": "Regional",
-      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-05--Woerner.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/428080785",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, OA/ID CF01728-001, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990. Confidential."
     },
     {
       "id": "1991-06-25-428081731",
@@ -189,10 +249,8 @@
       "type": "Memcon",
       "title": "Meeting with Manfred Woerner, Secretary General of NATO, June 25, 1991",
       "naid": "428081731",
-      "chapter": "Regional",
-      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-25--Woerner.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/428081731",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, OA/ID CF01728-012, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991. Secret."
     },
     {
       "id": "1991-09-27-366551702-16",
@@ -200,20 +258,10 @@
       "type": "Telcon",
       "title": "Telephone conversation: President Bush and Manfred Woerner",
       "naid": "366551702",
-      "chapter": "Regional",
-      "pdfUrl": "documents/regional/1991-09-27-bush-manfred-woerner-telcon-scowcroft.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/366551702",
-      "duplicateSources": [
-        {
-          "name": "FOIA 2000-0429-F finding aid",
-          "title": "Telcon with Secretary General of NATO, Manfred Woerner, September 27, 1991",
-          "naid": "428081957",
-          "catalogUrl": "https://catalog.archives.gov/id/428081957",
-          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-27--Woerner.pdf",
-          "sourceFileUnit": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: September 1991",
-          "note": "Same September 27, 1991 Woerner telcon is represented in WER by the Scowcroft Collection copy; retain the Bush Library telcon-file NAID here for full provenance."
-        }
-      ]
+      "relatedNaids": [
+        "428081957"
+      ],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. Secret."
     },
     {
       "id": "1991-10-11-366551702-39",
@@ -221,21 +269,17 @@
       "type": "Telcon",
       "title": "Telephone conversation: President Bush and Manfred Woerner",
       "naid": "366551702",
-      "chapter": "Regional",
-      "pdfUrl": "documents/regional/1991-10-11-bush-manfred-woerner-telcon-scowcroft.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/366551702",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91-12/25/91. No classification marking."
     },
     {
       "id": "1991-10-11-428082011",
       "date": "1991-10-11",
-      "type": "Memcon",
+      "type": "Telcon",
       "title": "The President's Meeting with Secretary General of NATO Manfred Woerner, October 11, 1991",
       "naid": "428082011",
-      "chapter": "Regional",
-      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-11--Woerner.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/428082011",
-      "duplicateSources": []
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, OA/ID CF01728-016, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991. Secret."
     },
     {
       "id": "1992-07-09-366551684-85",
@@ -243,10 +287,20 @@
       "type": "Memcon",
       "title": "Meeting with Manfred Woerner NATO Secretary General",
       "naid": "366551684",
-      "chapter": "Regional",
-      "pdfUrl": "documents/regional/1992-07-09-bush-manfred-woerner-memcon-scowcroft.pdf",
-      "catalogUrl": "https://catalog.archives.gov/id/366551684",
-      "duplicateSources": []
+      "relatedNaids": [
+        "428082297"
+      ],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92-7/9/92. Secret. Portions remain classified."
+    },
+    {
+      "id": "1992-07-09-428082501",
+      "date": "1992-07-09",
+      "type": "Memcon",
+      "title": "Meeting With Manfred Woerner, NATO Secretary General, July 9, 1992 (2 of 2)",
+      "naid": "428082501",
+      "relatedNaids": [],
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence, Presidential Memcons, OA/ID 91110-001, Presidential Meetings - Memorandum of Conversations 7/1/92 - 7/9/92. Secret. Portions remain classified."
     }
-  ]
+  ],
+  "missing": []
 }
