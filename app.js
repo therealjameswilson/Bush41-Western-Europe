@@ -503,7 +503,7 @@ function createMeta(record) {
   for (const value of [
     record.type,
     record.countries?.filter((country) => country !== "United States").join(", "),
-    record.pageCount ? `${record.pageCount} pages` : "Pages pending",
+    record.pageCount ? `${record.pageCount} ${record.pageCount === 1 ? "page" : "pages"}` : "Pages pending",
     record.localIdentifier,
     record.naid?.startsWith("local-") ? "Local PDF" : `NAID ${record.naid}`,
     record.releaseStatus
@@ -843,7 +843,7 @@ function createLedgerList(records) {
   list.className = "compiler-ledger-list";
   for (const record of records.slice(0, 8)) {
     const item = document.createElement("li");
-    item.textContent = `Doc ${record.compilerNumber}: ${record.dateLine || formatDate(record.date)} - ${record.documentTitle || record.title} (${record.releaseStatus}; ${record.pageCount || "?"} pages)`;
+    item.textContent = `Doc ${record.compilerNumber}: ${record.dateLine || formatDate(record.date)} - ${record.documentTitle || record.title} (${record.releaseStatus}; ${record.pageCount || "?"} ${record.pageCount === 1 ? "page" : "pages"})`;
     list.append(item);
   }
   if (!records.length) {
@@ -1065,7 +1065,10 @@ function csceDocumentRecord(record, index) {
     ...record,
     sortDate: record.date,
     compilerNumber: `C.${String(index + 1).padStart(3, "0")}`,
-    chapter: { number: 6, name: "CSCE" },
+    chapter: {
+      number: csceChapter?.chapter?.number || 5,
+      name: csceChapter?.chapter?.shortName || "CSCE"
+    },
     countries: ["CSCE"],
     frusTopics: ["CSCE", "European security"],
     topics: [record.evidenceLevel, record.packetLocalIdentifier].filter(Boolean),
@@ -1221,14 +1224,25 @@ function createCsceLeadRow(lead) {
 function renderCsceMetrics() {
   if (!csceChapter || !csceMetrics) return;
   const exactExtents = csceChapter.policyMeetingLeads.filter((lead) => lead.itemExtent).length;
+  const chapterPages = csceChapter.documents.reduce((sum, document) => sum + (document.pageCount || 0), 0);
+  const releasedDocuments = csceChapter.documents.filter((document) => isReleasedDocument(document)).length;
+  const withheldDocuments = csceChapter.documents.filter((document) => document.releaseStatus === "Denied").length;
   csceMetrics.replaceChildren(
-    createMetric("Candidate documents", csceChapter.documents.length.toString(), "Released texts and item-level withdrawal-sheet entries."),
+    createMetric(
+      "Chapter documents",
+      csceChapter.documents.length.toString(),
+      `${releasedDocuments} released or partial texts and ${withheldDocuments} item-level withheld entries.`
+    ),
     createMetric("Policy files", csceChapter.policyMeetingLeads.length.toString(), "NSC, Deputies Committee, follow-up, NSR, and NSD records."),
     createMetric("Exact item extents", exactExtents.toString(), "Page counts transcribed from withdrawal sheets."),
     createMetric("Archival locators", csceChapter.archivalLeads.length.toString(), "Deduplicated rows from two Bush Library CSCE finding aids."),
     createMetric("Public statements", csceChapter.publicStatementIds.length.toString(), "Matching presidential statements in the Public Papers register.")
   );
   if (csceCandidateCount) csceCandidateCount.textContent = csceChapter.documents.length.toString();
+  const chapterCount = document.querySelector("[data-csce-chapter-count]");
+  const chapterPageCount = document.querySelector("[data-csce-chapter-pages]");
+  if (chapterCount) chapterCount.textContent = csceChapter.documents.length.toString();
+  if (chapterPageCount) chapterPageCount.textContent = chapterPages.toString();
 }
 
 function updateCsceView() {
@@ -1240,7 +1254,7 @@ function updateCsceView() {
     const records = csceChapter.documents
       .map(csceDocumentRecord)
       .filter((record) => !query || csceSearchText(record).includes(query));
-    csceSummary.textContent = `Showing ${records.length} of ${csceChapter.documents.length} proposed documents in chronological order`;
+    csceSummary.textContent = `Showing ${records.length} of ${csceChapter.documents.length} chapter documents in chronological order`;
     for (const record of records) csceRoot.append(createRecordRow(record));
     if (!records.length) csceRoot.append(emptyCsceResult());
     return;
@@ -1534,12 +1548,13 @@ function enableChapterCards() {
       const targetId = card.getAttribute("href");
       if (!targetId?.startsWith("#")) return;
 
-      if (chapterFilter) {
+      const isStandaloneChapter = card.dataset.standaloneChapter === "true";
+      if (chapterFilter && !isStandaloneChapter) {
         chapterFilter.value = card.dataset.chapterName || card.querySelector("h3")?.textContent || "";
       }
       event.preventDefault();
       history.pushState(null, "", targetId);
-      updateRecordsView();
+      if (!isStandaloneChapter) updateRecordsView();
       document.querySelector(targetId)?.scrollIntoView({ block: "start" });
     });
   }

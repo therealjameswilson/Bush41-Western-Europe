@@ -92,6 +92,16 @@ if (JSON.stringify(records) !== JSON.stringify(mirror)) {
 if (JSON.stringify(csce) !== JSON.stringify(csceMirror)) {
   errors.push("data/csce-chapter.js does not exactly mirror data/csce-chapter.json.");
 }
+if (
+  csce.chapter?.number !== 5 ||
+  csce.chapter?.shortName !== "CSCE" ||
+  csce.title !== "The United States and the CSCE, 1989-1992"
+) {
+  errors.push("CSCE data is not configured as Chapter 5 of the volume.");
+}
+if (csce.status !== "Compiler chapter") {
+  errors.push("CSCE data still carries a tentative or unsupported chapter status.");
+}
 
 const ids = new Set();
 for (const record of records) {
@@ -179,6 +189,16 @@ for (const document of csce.documents || []) {
   if (!/^(?:citation-sheet document|reviewed packet document)$/.test(document.evidenceLevel || "")) {
     errors.push(`${document.id}: CSCE candidate lacks a controlled evidence level.`);
   }
+}
+
+const csceDocumentOrder = [...(csce.documents || [])].sort(
+  (a, b) => a.date.localeCompare(b.date) || a.title.localeCompare(b.title)
+);
+if (
+  JSON.stringify(csceDocumentOrder.map((document) => document.id)) !==
+  JSON.stringify((csce.documents || []).map((document) => document.id))
+) {
+  errors.push("CSCE chapter documents are not in chronological order.");
 }
 
 for (const lead of csce.archivalLeads || []) {

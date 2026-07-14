@@ -38,8 +38,9 @@ domestic place names and body-only administrative matches.
 2. France
 3. Italy
 4. Regional, for all other Western Europe countries
-5. Reference: Germany, kept separate from the chapter sequence
-6. Tentative chapter: The United States and the CSCE, 1989-1992
+5. The United States and the CSCE, 1989-1992
+
+Reference: Germany, kept separate from the chapter sequence.
 
 Records inside each chapter or reference section are arranged chronologically by
 `sortDate`. The Germany reference section restores the Germany-specific records
@@ -56,10 +57,11 @@ administrative markers are excluded from active counts.
 The data shape lives in `data/memcons.schema.json`, with a small reference subset
 in `data/memcons.sample.json`.
 
-## Tentative CSCE Chapter
+## CSCE Chapter
 
-`data/csce-chapter.json` and its JavaScript mirror keep four evidence lanes
-separate: 14 item-level candidate documents, 38 NSC/NSC-DC/follow-up/NSR/NSD
+Chapter 5 is backed by `data/csce-chapter.json` and its JavaScript mirror. The
+chapter keeps four evidence lanes
+separate: 14 item-level chapter documents, 38 NSC/NSC-DC/follow-up/NSR/NSD
 policy files, 365 deduplicated Bush Library finding-aid locators, and 49 matching
 Public Papers references. Sixteen policy files have exact item extents transcribed
 from withdrawal sheets; the remainder carry an explicit compiler planning range.

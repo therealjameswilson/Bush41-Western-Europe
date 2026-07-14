@@ -1,8 +1,14 @@
 window.CSCE_CHAPTER = {
-  "title": "Tentative Chapter: The United States and the CSCE, 1989-1992",
-  "status": "Tentative compiler chapter",
-  "scopeNote": "A source-first candidate chapter on U.S. policy toward the Conference on Security and Cooperation in Europe. Citation-sheet documents, released packet documents, policy-meeting leads, folder-level leads, and public statements remain separate evidence lanes.",
-  "generatedAt": "2026-07-14T00:46:03.211Z",
+  "title": "The United States and the CSCE, 1989-1992",
+  "status": "Compiler chapter",
+  "chapter": {
+    "number": 5,
+    "name": "The United States and the CSCE, 1989-1992",
+    "shortName": "CSCE",
+    "dateRange": "1989-1992"
+  },
+  "scopeNote": "A source-first chapter on U.S. policy toward the Conference on Security and Cooperation in Europe. Citation-sheet documents, released packet documents, policy-meeting leads, folder-level leads, and public statements remain separate evidence lanes.",
+  "generatedAt": "2026-07-14T02:03:32.050Z",
   "checkedAt": "2026-07-14",
   "findingAids": [
     {

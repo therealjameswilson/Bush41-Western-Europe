@@ -611,10 +611,16 @@ async function main() {
   const meetingLeads = (await policyLeads()).sort((a, b) => a.date.localeCompare(b.date) || a.title.localeCompare(b.title));
   const publicStatementIds = cscePublicStatements();
   const data = {
-    title: "Tentative Chapter: The United States and the CSCE, 1989-1992",
-    status: "Tentative compiler chapter",
+    title: "The United States and the CSCE, 1989-1992",
+    status: "Compiler chapter",
+    chapter: {
+      number: 5,
+      name: "The United States and the CSCE, 1989-1992",
+      shortName: "CSCE",
+      dateRange: "1989-1992"
+    },
     scopeNote:
-      "A source-first candidate chapter on U.S. policy toward the Conference on Security and Cooperation in Europe. Citation-sheet documents, released packet documents, policy-meeting leads, folder-level leads, and public statements remain separate evidence lanes.",
+      "A source-first chapter on U.S. policy toward the Conference on Security and Cooperation in Europe. Citation-sheet documents, released packet documents, policy-meeting leads, folder-level leads, and public statements remain separate evidence lanes.",
     generatedAt: new Date().toISOString(),
     checkedAt: CHECKED_AT,
     findingAids: FINDING_AIDS,

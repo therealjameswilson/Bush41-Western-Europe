@@ -307,7 +307,7 @@ h2 {
 }
 
 .chapter-grid {
-  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 article,
@@ -337,6 +337,10 @@ article,
 
 .reference-card {
   border-top: 5px solid var(--red);
+}
+
+.csce-card {
+  border-top: 5px solid var(--green);
 }
 
 .chapter-card:hover,

@@ -6,10 +6,10 @@
     <title>FRUS 1989-1992 Volume VIII Memcons and Telcons</title>
     <meta
       name="description"
-      content="A public research archive for declassified memoranda and telephone conversations relevant to Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe."
+      content="A public research archive for Foreign Relations of the United States, 1989-1992, Volume VIII, Western Europe, including a chapter on the United States and the CSCE."
     />
     <link rel="icon" href="assets/western-europe-archive-map.svg" />
-    <link rel="stylesheet" href="styles.css?v=20260713" />
+    <link rel="stylesheet" href="styles.css?v=20260714" />
     <style id="compiler-network-style">
       .compiler-network {
         border-bottom: 1px solid rgba(31, 41, 51, 0.14);
@@ -136,10 +136,10 @@
           <p class="lede">
             A companion archive for declassified memoranda and telephone conversations relevant to
             the forthcoming <em>Foreign Relations of the United States, 1989-1992,
-            Volume VIII, Western Europe</em>, arranged in four chapters: United Kingdom,
-            France, Italy, and Regional, with a separate Germany reference section
-            for Kohl, East German, and related German-leader conversations, plus a
-            tentative United States and CSCE chapter and a Public Papers reference section.
+            Volume VIII, Western Europe</em>, arranged in five chapters: United Kingdom,
+            France, Italy, Regional, and the United States and the CSCE, 1989-1992.
+            A separate Germany reference section gathers Kohl, East German, and related
+            German-leader conversations, alongside a Public Papers reference section.
             Records inside each section are ordered chronologically and linked back to the scan.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
@@ -179,11 +179,11 @@
       <section class="stats" aria-label="Archive summary">
         <div>
           <span id="total-records">229</span>
-          <p>Volume VIII chapter files</p>
+          <p>Memcon and telcon files</p>
         </div>
         <div>
           <span id="total-pages">938</span>
-          <p>Volume VIII chapter pages</p>
+          <p>Memcon and telcon pages</p>
         </div>
         <div>
           <span id="germany-records">84</span>
@@ -199,7 +199,7 @@
         </div>
         <div>
           <span id="csce-candidate-count">0</span>
-          <p>CSCE candidate documents</p>
+          <p>CSCE chapter documents</p>
         </div>
       </section>
 
@@ -262,6 +262,24 @@
             <span class="chapter-action">View chronological files</span>
           </a>
           <a
+            class="chapter-card csce-card"
+            href="#csce"
+            data-standalone-chapter="true"
+            aria-label="View the United States and CSCE chapter"
+          >
+            <p class="chapter-number">Chapter 5</p>
+            <h3>The United States and the CSCE</h3>
+            <p class="chapter-count">
+              <span data-csce-chapter-count>14</span> documents /
+              <span data-csce-chapter-pages>52</span> pages
+            </p>
+            <p>
+              U.S. policy from the Vienna follow-up through the Paris and Helsinki
+              summits, including human-dimension, CSBM, and institutional questions.
+            </p>
+            <span class="chapter-action">Open chapter chronology</span>
+          </a>
+          <a
             class="chapter-card reference-card"
             href="#chapter-germany-reference"
             data-chapter-name="Germany Reference"
@@ -287,21 +305,22 @@
       <section class="section csce-section" id="csce" aria-labelledby="csce-title">
         <div class="section-heading">
           <div>
-            <p class="kicker">Tentative Chapter</p>
+            <p class="kicker">Chapter 5</p>
             <h2 id="csce-title">The United States and the CSCE, 1989-1992</h2>
           </div>
-          <span class="status-stamp">Compiler working set</span>
+          <span class="status-stamp">Compiler source register</span>
         </div>
         <p class="records-intro">
-          A provisional source register for U.S. policy toward the Conference on Security
-          and Cooperation in Europe. Proposed documents, NSC and Deputies Committee files,
-          folder-level leads, and public statements remain separate evidence lanes. A folder
-          locator is never presented as though it were a reviewed document.
+          A chronological chapter on U.S. policy toward the Conference on Security and
+          Cooperation in Europe. Declassified texts and item-level withheld documents appear
+          in the document chronology; NSC and policy files, folder-level leads, and public
+          statements remain separate evidence lanes. A folder locator is never presented as
+          though it were a reviewed document.
         </p>
         <div id="csce-metrics" class="compiler-metrics csce-metrics" aria-label="CSCE source summary"></div>
         <div class="csce-toolbar">
           <div class="csce-tabs" role="tablist" aria-label="CSCE evidence lanes">
-            <button type="button" role="tab" aria-selected="true" data-csce-view="documents">Candidate chronology</button>
+            <button type="button" role="tab" aria-selected="true" data-csce-view="documents">Document chronology</button>
             <button type="button" role="tab" aria-selected="false" data-csce-view="meetings">NSC and policy files</button>
             <button type="button" role="tab" aria-selected="false" data-csce-view="leads">Archival register</button>
             <button type="button" role="tab" aria-selected="false" data-csce-view="statements">Public statements</button>
@@ -310,7 +329,7 @@
             <span>Search this chapter</span>
             <input id="csce-search" type="search" placeholder="Search dates, titles, OA/IDs, series, or topics" />
           </label>
-          <p id="csce-summary" class="records-summary">Loading tentative chapter...</p>
+          <p id="csce-summary" class="records-summary">Loading chapter...</p>
         </div>
         <div id="csce-root" class="records-root csce-root" aria-live="polite">
           <p class="loading">Loading CSCE source register...</p>
@@ -616,8 +635,8 @@
     <script src="data/memcons.js"></script>
     <script src="data/public-statements.js"></script>
     <script src="data/compiler-gaps.js"></script>
-    <script src="data/csce-chapter.js"></script>
-    <script src="app.js?v=20260713"></script>
+    <script src="data/csce-chapter.js?v=20260714"></script>
+    <script src="app.js?v=20260714"></script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");
